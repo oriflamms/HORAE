@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-02T17:22:32.158+02:00</Created>
+        <LastChange>2019-05-23T11:47:31.210+02:00</LastChange>
+        <TranskribusMetadata docId="157853" pageId="5825566" pageNr="75" tsid="10412616" status="DONE" userId="32146" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=LCHYOTXGYMOYPUVDUTQHBAWI&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=WIZTSWOXLFXUNDBKKVNGUENA" imageId="3468005"/>
+    </Metadata>
+    <Page imageFilename="France_Paris_Bibliothèque nationale de France_nouv. acq. lat. 3187_3021.jpg" imageWidth="2676" imageHeight="3977">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687089341" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1558604715385_3911"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558604677236_3907" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="89,111 2557,62 2579,3856 81,3869"/>
+        </UnknownRegion>
+        <TextRegion id="region_1558604715385_3911" custom="readingOrder {index:1;}">
+            <Coords points="366,2947 2510,2949 2511,3283 372,3280"/>
+            <TextLine id="line_1558604834711_3925" custom="readingOrder {index:0;}">
+                <Coords points="395,3016 2475,3022 2494,3210 414,3204"/>
+                <Baseline points="414,3199 2494,3205"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1558604728299_3914" custom="readingOrder {index:2;} structure {type:miniature;}">
+            <Coords points="381,389 2496,363 2516,2945 373,2940"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

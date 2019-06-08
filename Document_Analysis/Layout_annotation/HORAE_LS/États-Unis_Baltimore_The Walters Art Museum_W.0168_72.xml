@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-03T10:53:25.247+02:00</Created>
+        <LastChange>2019-05-18T21:35:35.366+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830938" pageNr="95" tsid="10261806" status="IN_PROGRESS" userId="35276" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=AJHQFQPSGBXSYQLKULKUHLAB&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=ANIDCWHIJHCRDWXANXHWPSZQ" imageId="3469630"/>
+    </Metadata>
+    <Page imageFilename="États-Unis_Baltimore_The Walters Art Museum_W.0168_72.jpg" imageWidth="1346" imageHeight="2068">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558208066274" caption="Regions reading order">
+                <RegionRefIndexed index="3"/>
+                <RegionRefIndexed index="4"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558207678377_1898" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="129,81 1314,81 1314,1969 129,1969"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1558207722474_1907" custom="readingOrder {index:1;} structure {type:miniature;}">
+            <Coords points="592,434 1228,434 1228,1353 592,1353"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207729831_1910" custom="readingOrder {index:2;} structure {type:marges_ornement;}">
+            <Coords points="1225,163 1329,163 1327,1676 1223,1676"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207763405_1914" custom="readingOrder {index:3;} structure {type:marges_miniature;}">
+            <Coords points="1218,1372 573,1372 571,1684 1216,1684"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207771454_1917" custom="readingOrder {index:4;} structure {type:marges_ornement;}">
+            <Coords points="573,1686 232,1684 232,1339 573,1341"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207811866_1926" custom="readingOrder {index:5;} structure {type:marges_ornement;}">
+            <Coords points="561,1051 233,1047 233,776 561,780"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207819236_1929" custom="readingOrder {index:6;} structure {type:marges_miniature;}">
+            <Coords points="568,1350 232,1350 232,964 568,964"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207823644_1932" custom="readingOrder {index:7;} structure {type:marges_miniature;}">
+            <Coords points="556,779 241,775 241,454 556,458"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207829634_1935" custom="readingOrder {index:8;} structure {type:marges_ornement;}">
+            <Coords points="244,175 570,174 570,447 244,448"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558207849467_1938" custom="readingOrder {index:9;} structure {type:marges_miniature;}">
+            <Coords points="569,136 1230,134 1230,419 569,421"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

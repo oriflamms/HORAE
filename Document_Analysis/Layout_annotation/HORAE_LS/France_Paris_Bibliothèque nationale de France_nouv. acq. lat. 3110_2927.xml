@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-02T17:22:30.239+02:00</Created>
+        <LastChange>2019-05-23T00:18:32.267+02:00</LastChange>
+        <TranskribusMetadata docId="157853" pageId="5825546" pageNr="70" tsid="10403213" status="DONE" userId="32146" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=HBJCAEBJHPLKIDIKXPMERAND&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=ANWKSPVQXQHNTJBGEZIEXAAY" imageId="3468000"/>
+    </Metadata>
+    <Page imageFilename="France_Paris_Bibliothèque nationale de France_nouv. acq. lat. 3110_2927.jpg" imageWidth="3557" imageHeight="4906">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687088938" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1558563333774_3394"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558563324886_3390" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="131,112 3435,112 3435,4805 131,4805"/>
+        </UnknownRegion>
+        <TextRegion orientation="0.0" id="region_1558563333774_3394" custom="readingOrder {index:1;}">
+            <Coords points="1334,2774 2524,2774 2524,3392 1334,3392"/>
+            <TextLine id="region_1558563333774_3394l1" custom="readingOrder {index:0;}">
+                <Coords points="1347,2921 1436,2924 1489,2924 1541,2924 1594,2924 1647,2924 1699,2923 1752,2923 1805,2923 1857,2923 1910,2923 1963,2922 2015,2922 2068,2922 2121,2922 2173,2922 2226,2922 2279,2922 2331,2922 2384,2922 2514,2926 2514,2815 2384,2811 2331,2811 2279,2811 2226,2811 2173,2811 2121,2811 2068,2811 2015,2811 1963,2811 1910,2812 1857,2812 1805,2812 1752,2812 1699,2812 1647,2813 1594,2813 1541,2813 1489,2813 1436,2813 1347,2810"/>
+                <Baseline points="1358,2886 1436,2887 1489,2887 1541,2887 1594,2887 1647,2887 1699,2886 1752,2886 1805,2886 1857,2886 1910,2886 1963,2885 2015,2885 2068,2885 2121,2885 2173,2885 2226,2885 2279,2885 2331,2885 2384,2885 2495,2887"/>
+            </TextLine>
+            <TextLine id="region_1558563333774_3394l2" custom="readingOrder {index:1;}">
+                <Coords points="1340,3074 1420,3075 1476,3074 1532,3074 1588,3074 1644,3074 1699,3075 1755,3076 1811,3076 1867,3077 1923,3078 1978,3079 2034,3080 2090,3080 2146,3081 2202,3081 2257,3081 2313,3081 2369,3080 2425,3079 2501,3078 2501,2966 2425,2967 2369,2968 2313,2969 2257,2969 2202,2969 2146,2969 2090,2968 2034,2968 1978,2967 1923,2966 1867,2965 1811,2964 1755,2964 1699,2963 1644,2962 1588,2962 1532,2962 1476,2962 1420,2963 1340,2962"/>
+                <Baseline points="1343,3038 1420,3038 1476,3037 1532,3037 1588,3037 1644,3037 1699,3038 1755,3039 1811,3039 1867,3040 1923,3041 1978,3042 2034,3043 2090,3043 2146,3044 2202,3044 2257,3044 2313,3044 2369,3043 2425,3042 2481,3041"/>
+            </TextLine>
+            <TextLine id="region_1558563333774_3394l3" custom="readingOrder {index:2;}">
+                <Coords points="1347,3226 1402,3225 1458,3225 1514,3225 1570,3225 1626,3225 1682,3226 1737,3226 1793,3226 1849,3226 1905,3226 1961,3226 2017,3226 2073,3226 2128,3226 2184,3226 2240,3226 2296,3226 2352,3225 2408,3225 2502,3221 2502,3107 2408,3111 2352,3111 2296,3112 2240,3112 2184,3112 2128,3112 2073,3112 2017,3112 1961,3112 1905,3112 1849,3112 1793,3112 1737,3112 1682,3112 1626,3111 1570,3111 1514,3111 1458,3111 1402,3111 1347,3112"/>
+                <Baseline points="1350,3196 1418,3196 1474,3196 1505,3194 1561,3194 1617,3194 1673,3195 1728,3195 1784,3195 1840,3195 1896,3195 1952,3195 2008,3195 2064,3195 2119,3195 2175,3195 2231,3195 2287,3195 2343,3194 2399,3194 2455,3193"/>
+            </TextLine>
+            <TextLine id="region_1558563333774_3394l4" custom="readingOrder {index:3;}">
+                <Coords points="1336,3380 1391,3379 1446,3378 1501,3378 1556,3378 1611,3377 1666,3377 1721,3378 1776,3378 1831,3378 1887,3378 1942,3379 1997,3379 2052,3379 2107,3379 2162,3379 2217,3380 2272,3379 2327,3379 2382,3379 2438,3379 2438,3265 2382,3265 2327,3265 2272,3265 2217,3266 2162,3265 2107,3265 2052,3265 1997,3265 1942,3265 1887,3264 1831,3264 1776,3264 1721,3264 1666,3263 1611,3263 1556,3264 1501,3264 1446,3264 1391,3265 1336,3266"/>
+                <Baseline points="1336,3352 1391,3351 1446,3350 1501,3350 1556,3350 1611,3349 1666,3349 1721,3350 1776,3350 1831,3350 1887,3350 1942,3351 1997,3351 2052,3351 2107,3351 2162,3351 2217,3352 2272,3351 2327,3351 2382,3351 2438,3351"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1558563345980_3397" custom="readingOrder {index:2;} structure {type:l_ornee;}">
+            <Coords points="715,2785 1322,2785 1322,3357 715,3357"/>
+        </SeparatorRegion>
+        <ImageRegion id="Image_1558563362507_3401" custom="readingOrder {index:3;} structure {type:miniature;}">
+            <Coords points="645,252 2536,252 2536,2774 645,2774"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558563373407_3405" custom="readingOrder {index:4;} structure {type:marges_ornement;}">
+            <Coords points="260,112 598,112 598,4280 260,4280"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558563377356_3408" custom="readingOrder {index:5;} structure {type:marges_ornement;}">
+            <Coords points="248,3439 3272,3439 3272,4268 248,4268"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558563381777_3411" custom="readingOrder {index:6;} structure {type:marges_ornement;}">
+            <Coords points="3272,4268 2594,4268 2594,170 3272,170"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

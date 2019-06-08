@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:39.156+02:00</Created>
+        <LastChange>2019-05-03T10:53:39.156+02:00</LastChange>
+        <TranskribusMetadata docId="158113" pageId="5830925" pageNr="84" tsid="9830828" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=OEYWMVZSDEEQLQXXTQCFXBPS&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=FZTDPYXALAVTLPCCEFQWIPZP" imageId="3469617"/>
+    </Metadata>
+    <Page imageFilename="France_Rouen_Musée des Beaux-Arts_AG.1975.4.5839_3415.jpg" imageWidth="6496" imageHeight="4872"/>
+</PcGts>

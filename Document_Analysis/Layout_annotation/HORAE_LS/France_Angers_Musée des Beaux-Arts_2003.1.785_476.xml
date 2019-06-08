@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+TRP</Creator>
+<Created>2019-03-27T09:45:05.876+01:00</Created>
+<LastChange>2019-04-04T17:03:33.248+02:00</LastChange>
+</Metadata>
+<Page imageFilename="iiif.irht.cnrs_iiif_Angers_M490075203_MS2003_1_785_default_1.jpg" imageHeight="5412" imageWidth="7216">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1554390213297">
+<RegionRefIndexed index="2" regionRef="region_1554390109080_723"/>
+</OrderedGroup>
+</ReadingOrder>
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554390073110_715">
+<Coords points="2517,1084 4859,1084 4859,4941 2517,4941"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:miniature;}" id="Image_1554390088087_719">
+<Coords points="2647,1270 4729,1270 4729,4541 2647,4541"/>
+</ImageRegion>
+<TextRegion custom="readingOrder {index:2;}" id="region_1554390109080_723">
+<Coords points="2723,4611 4786,4572 4778,4830 2723,4830"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1554390184162_731">
+<Coords points="2739,4642 4749,4609 4754,4779 2744,4812"/>
+<Baseline points="2760,4795 4754,4758"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

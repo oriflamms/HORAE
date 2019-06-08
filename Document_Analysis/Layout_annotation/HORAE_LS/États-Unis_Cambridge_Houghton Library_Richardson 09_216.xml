@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>TRP</Creator>
+<Created>2019-03-26T15:44:47.631+01:00</Created>
+<LastChange>2019-04-03T16:11:54.093+02:00</LastChange>
+</Metadata>
+<Page imageFilename="ids.lib.harvard_ids_iiif_1603_default_6.jpg" imageHeight="2400" imageWidth="2397">
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554300546924_12">
+<Coords points="811,119 2329,119 2329,2277 811,2277"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:marges_ornement;}" id="Image_1554300621654_16">
+<Coords points="1052,241 1322,241 1322,2038 1052,2038"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:2;} structure {type:marges_ornement;}" id="Image_1554300626755_19">
+<Coords points="1056,1689 2237,1689 2237,2044 1056,2044"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:3;} structure {type:marges_ornement;}" id="Image_1554300631398_22">
+<Coords points="2099,241 2228,241 2228,2041 2099,2041"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:4;} structure {type:miniature;}" id="Image_1554300652852_25">
+<Coords points="1328,275 2102,275 2102,1680 1328,1680"/>
+</ImageRegion>
+</Page>
+</PcGts>

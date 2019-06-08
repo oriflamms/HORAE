@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-03T10:53:20.407+02:00</Created>
+        <LastChange>2019-05-17T22:51:49.966+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830832" pageNr="74" tsid="10250530" status="IN_PROGRESS" userId="35276" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=OOJKUCQTFHUXAKIWAAOLXFPC&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=SZYYOIGPPBVIYDJAKENVBVTF" imageId="3469524"/>
+    </Metadata>
+    <Page imageFilename="France_Paris_Bibliothèque nationale de France_nouv. acq. lat. 3187_3037.jpg" imageWidth="2627" imageHeight="3985">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687021770" caption="Regions reading order">
+                <RegionRefIndexed index="4" regionRef="region_1558126042488_261"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558125939755_233" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="127,95 2549,95 2549,3880 127,3880"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1558125963258_236" custom="readingOrder {index:1;} structure {type:marges_ornement;}">
+            <Coords points="908,3176 527,3176 527,104 908,104"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558125972046_239" custom="readingOrder {index:2;} structure {type:marges_ornement;}">
+            <Coords points="2490,822 536,822 536,95 2490,95"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558125979461_242" custom="readingOrder {index:3;} structure {type:marges_ornement;}">
+            <Coords points="2244,95 2540,95 2540,3158 2244,3158"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" id="region_1558126042488_261" custom="readingOrder {index:4;}">
+            <Coords points="1113,1981 2240,1981 2240,2349 1113,2349"/>
+            <TextLine id="line_1558126259229_309" custom="readingOrder {index:0;}">
+                <Coords points="1131,2026 2241,2031 2244,2111 1134,2106"/>
+                <Baseline points="1134,2101 2244,2106"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1558126264885_314" custom="readingOrder {index:1;}">
+                <Coords points="1130,2157 2160,2166 2160,2235 1130,2226"/>
+                <Baseline points="1130,2221 2160,2230"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1558126269100_319" custom="readingOrder {index:2;}">
+                <Coords points="1118,2272 2185,2277 2186,2348 1119,2343"/>
+                <Baseline points="1119,2338 2186,2343"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1558125984731_245" custom="readingOrder {index:5;} structure {type:marges_ornement;}">
+            <Coords points="2540,3158 449,3158 449,2908 2540,2908"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558126014817_253" custom="readingOrder {index:6;} structure {type:miniature;}">
+            <Coords points="949,686 2231,686 2231,1953 949,1953"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558126025417_256" custom="readingOrder {index:7;} structure {type:miniature;}">
+            <Coords points="931,2358 2212,2358 2212,3067 931,3067"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

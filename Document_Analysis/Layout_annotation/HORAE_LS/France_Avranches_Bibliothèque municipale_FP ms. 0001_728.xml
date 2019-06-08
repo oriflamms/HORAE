@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:05.587+02:00</Created>
+        <LastChange>2019-05-03T10:53:05.587+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830729" pageNr="9" tsid="9830464" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=SWYLRHXWORZGHFNPFUBADREO&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=PARVXRDFQZCKKYBOHHEJGAQQ" imageId="3469421"/>
+    </Metadata>
+    <Page imageFilename="France_Avranches_Bibliothèque municipale_FP ms. 0001_728.jpg" imageWidth="7216" imageHeight="5412"/>
+</PcGts>

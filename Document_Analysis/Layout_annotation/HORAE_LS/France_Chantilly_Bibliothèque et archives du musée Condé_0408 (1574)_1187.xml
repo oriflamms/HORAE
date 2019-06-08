@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-02T17:22:09.687+02:00</Created>
+        <LastChange>2019-05-23T22:30:21.972+02:00</LastChange>
+        <TranskribusMetadata docId="157853" pageId="5824917" pageNr="22" tsid="10430793" status="DONE" userId="32146" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=JNPOJHYSDYGHNIQCEIBNNMQP&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=UPQNBCCIRXFVNAOAYJEURFCC" imageId="3467946"/>
+    </Metadata>
+    <Page imageFilename="France_Chantilly_Bibliothèque et archives du musée Condé_0408 (1574)_1187.jpg" imageWidth="5412" imageHeight="7216">
+        <UnknownRegion id="UnknownRegion_1557961829755_127" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="648,403 5300,403 5300,6956 648,6956"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1557961844267_131" custom="readingOrder {index:1;} structure {type:miniature;}">
+            <Coords points="979,1253 4551,1253 4551,5977 979,5977"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557961872999_135" custom="readingOrder {index:2;} structure {type:marges_ornement;}">
+            <Coords points="662,676 5055,676 5055,1181 662,1181"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557961880199_138" custom="readingOrder {index:3;} structure {type:marges_ornement;}">
+            <Coords points="4623,648 5012,648 5012,6654 4623,6654"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557961890525_141" custom="readingOrder {index:4;} structure {type:marges_ornement;}">
+            <Coords points="4997,6668 662,6668 662,5962 4997,5962"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557961898344_144" custom="readingOrder {index:5;} structure {type:marges_ornement;}">
+            <Coords points="662,6639 907,6639 907,676 662,676"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

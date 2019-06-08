@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-02T17:22:41.941+02:00</Created>
+        <LastChange>2019-05-23T22:23:29.550+02:00</LastChange>
+        <TranskribusMetadata docId="157853" pageId="5826046" pageNr="99" tsid="10430699" status="DONE" userId="32146" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=YLXNMLVCXVSWHTSPNNAMDNHR&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=BMSERZWFFMVHGQATUVIMHQAQ" imageId="3468032"/>
+    </Metadata>
+    <Page imageFilename="États-Unis_Cambridge_Houghton Library_Typ 0999_309.jpg" imageWidth="2400" imageHeight="2263">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687091216" caption="Regions reading order">
+                <RegionRefIndexed index="1" regionRef="region_1558642891663_1020"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558642850556_1015" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="83,90 1432,79 1458,2194 83,2186"/>
+        </UnknownRegion>
+        <TextRegion orientation="0.0" id="region_1558642891663_1020" custom="readingOrder {index:1;}">
+            <Coords points="191,365 990,365 990,625 191,625"/>
+            <TextLine id="region_1558642891663_1020l1" custom="readingOrder {index:0;}">
+                <Coords points="224,457 269,456 307,455 344,455 382,454 419,453 457,452 494,451 532,451 569,450 607,449 644,448 682,448 719,447 757,447 794,446 832,446 869,446 907,447 944,447 982,448 982,390 944,389 907,389 869,388 832,388 794,388 757,389 719,389 682,390 644,390 607,391 569,392 532,393 494,393 457,394 419,395 382,396 344,397 307,397 269,398 224,399"/>
+                <Baseline points="232,437 269,437 307,436 344,436 382,435 419,434 457,433 494,432 532,432 569,431 607,430 644,429 682,429 719,428 757,428 794,427 832,427 869,427 907,428 944,428 982,429"/>
+            </TextLine>
+            <TextLine id="region_1558642891663_1020l2" custom="readingOrder {index:1;}">
+                <Coords points="222,542 265,541 303,540 340,539 378,538 416,538 453,537 491,537 528,536 566,536 604,536 641,536 679,535 716,535 754,535 792,535 829,535 867,534 904,534 942,534 980,533 980,476 942,477 904,477 867,477 829,478 792,478 754,478 716,478 679,478 641,479 604,479 566,479 528,479 491,480 453,480 416,481 378,481 340,482 303,483 265,484 222,485"/>
+                <Baseline points="228,524 265,522 303,521 340,520 378,519 416,519 453,518 491,518 528,517 566,517 604,517 641,517 679,516 716,516 754,516 792,516 829,516 867,515 904,515 942,515 980,514"/>
+            </TextLine>
+            <TextLine id="region_1558642891663_1020l3" custom="readingOrder {index:2;}">
+                <Coords points="226,621 255,621 285,620 314,620 344,620 374,621 374,564 344,563 314,563 285,563 255,564 226,564"/>
+                <Baseline points="226,602 255,602 285,601 314,601 344,601 374,602"/>
+            </TextLine>
+        </TextRegion>
+        <ImageRegion id="Image_1558642905568_1023" custom="readingOrder {index:2;} structure {type:marges_ornement;}">
+            <Coords points="180,108 1327,108 1327,361 180,361"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558642913094_1026" custom="readingOrder {index:3;} structure {type:marges_ornement;}">
+            <Coords points="998,99 1337,99 1337,2150 998,2150"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558642918394_1029" custom="readingOrder {index:4;} structure {type:marges_ornement;}">
+            <Coords points="1341,2145 180,2145 180,1639 1341,1639"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

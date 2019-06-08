@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-03T10:53:25.147+02:00</Created>
+        <LastChange>2019-05-17T23:00:05.375+02:00</LastChange>
+        <TranskribusMetadata docId="158113" pageId="5830844" pageNr="53" tsid="10250615" status="IN_PROGRESS" userId="34910" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=SSYJINHLHCRTLNSNRJCNRQEL&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=RCRRGCWPGRDOBBWPXKMPBSIR" imageId="3469536"/>
+    </Metadata>
+    <Page imageFilename="France_Paris_Bibliothèque nationale de France_lat. 01202_2267.jpg" imageWidth="1921" imageHeight="2953">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687059256" caption="Regions reading order">
+                <RegionRefIndexed index="5" regionRef="region_1558126695050_2575"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558126621644_2556" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="31,26 1884,26 1884,2919 31,2919"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1558126638906_2559" custom="readingOrder {index:1;} structure {type:miniature;}">
+            <Coords points="775,1502 1682,1502 1682,180 775,180"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558126646846_2562" custom="readingOrder {index:2;} structure {type:marges_ornement;}">
+            <Coords points="286,164 759,164 759,2516 286,2516"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558126655052_2565" custom="readingOrder {index:3;} structure {type:marges_ornement;}">
+            <Coords points="276,2510 1842,2510 1842,1895 276,1895"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558126664829_2568" custom="readingOrder {index:4;} structure {type:marges_ornement;}">
+            <Coords points="1831,2489 1704,2489 1704,196 1831,196"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" id="region_1558126695050_2575" custom="readingOrder {index:5;}">
+            <Coords points="1704,1528 764,1528 764,1884 1704,1884"/>
+            <TextLine id="region_1558126695050_2575l1" custom="readingOrder {index:0;}">
+                <Coords points="1170,1600 1196,1601 1222,1601 1248,1601 1274,1601 1300,1601 1326,1601 1353,1601 1379,1601 1405,1600 1431,1600 1457,1600 1483,1600 1510,1600 1536,1600 1562,1600 1588,1600 1614,1600 1640,1601 1667,1601 1667,1535 1640,1535 1614,1534 1588,1534 1562,1534 1536,1534 1510,1534 1483,1534 1457,1534 1431,1534 1405,1534 1379,1535 1353,1535 1326,1535 1300,1535 1274,1535 1248,1535 1222,1535 1196,1535 1170,1534"/>
+                <Baseline points="1170,1578 1196,1579 1222,1579 1248,1579 1274,1579 1300,1579 1326,1579 1353,1579 1379,1579 1405,1578 1431,1578 1457,1578 1483,1578 1510,1578 1536,1578 1562,1578 1588,1578 1614,1578 1640,1579 1667,1579"/>
+            </TextLine>
+            <TextLine id="region_1558126695050_2575l2" custom="readingOrder {index:1;}">
+                <Coords points="1157,1687 1182,1688 1208,1688 1233,1689 1259,1689 1285,1690 1310,1690 1336,1690 1362,1690 1387,1690 1413,1689 1438,1689 1464,1689 1490,1689 1515,1689 1541,1689 1567,1689 1592,1689 1618,1689 1644,1690 1644,1626 1618,1625 1592,1625 1567,1625 1541,1625 1515,1625 1490,1625 1464,1625 1438,1625 1413,1625 1387,1626 1362,1626 1336,1626 1310,1626 1285,1626 1259,1625 1233,1625 1208,1624 1182,1624 1157,1623"/>
+                <Baseline points="1157,1666 1182,1667 1208,1667 1233,1668 1259,1668 1285,1669 1310,1669 1336,1669 1362,1669 1387,1669 1413,1668 1438,1668 1464,1668 1490,1668 1515,1668 1541,1668 1567,1668 1592,1668 1618,1668 1644,1669"/>
+            </TextLine>
+            <TextLine id="region_1558126695050_2575l3" custom="readingOrder {index:2;}">
+                <Coords points="1229,1784 1255,1782 1281,1780 1307,1779 1333,1778 1360,1777 1386,1777 1412,1777 1438,1777 1465,1777 1491,1777 1517,1777 1543,1777 1569,1777 1596,1777 1622,1777 1648,1777 1674,1777 1701,1776 1701,1712 1674,1713 1648,1713 1622,1713 1596,1713 1569,1713 1543,1713 1517,1713 1491,1713 1465,1713 1438,1713 1412,1713 1386,1713 1360,1713 1333,1714 1307,1715 1281,1716 1255,1718 1229,1720"/>
+                <Baseline points="1229,1763 1255,1761 1281,1759 1307,1758 1333,1757 1360,1756 1386,1756 1412,1756 1438,1756 1465,1756 1491,1756 1517,1756 1543,1756 1569,1756 1596,1756 1622,1756 1648,1756 1674,1756 1701,1755"/>
+            </TextLine>
+            <TextLine id="region_1558126695050_2575l4" custom="readingOrder {index:3;}">
+                <Coords points="899,1872 937,1873 976,1874 1014,1874 1053,1874 1092,1875 1130,1875 1169,1875 1208,1874 1246,1874 1285,1874 1324,1873 1362,1873 1401,1872 1440,1872 1478,1872 1517,1871 1556,1871 1594,1871 1633,1871 1672,1871 1672,1805 1633,1805 1594,1805 1556,1805 1517,1805 1478,1806 1440,1806 1401,1806 1362,1807 1324,1807 1285,1808 1246,1808 1208,1808 1169,1809 1130,1809 1092,1809 1053,1808 1014,1808 976,1808 937,1807 899,1806"/>
+                <Baseline points="899,1850 937,1851 976,1852 1014,1852 1053,1852 1092,1853 1130,1853 1169,1853 1208,1852 1246,1852 1285,1852 1324,1851 1362,1851 1401,1850 1440,1850 1478,1850 1517,1849 1556,1849 1594,1849 1633,1849 1672,1849"/>
+            </TextLine>
+        </TextRegion>
+        <SeparatorRegion id="Separator_1558126719963_2579" custom="readingOrder {index:6;} structure {type:l_ornee;}">
+            <Coords points="767,1509 1141,1509 1141,1772 767,1772"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="Separator_1558126723202_2582" custom="readingOrder {index:7;} structure {type:l_ornee;}">
+            <Coords points="1156,1680 1274,1680 1274,1777 1156,1777"/>
+        </SeparatorRegion>
+        <SeparatorRegion id="Separator_1558126726884_2585" custom="readingOrder {index:8;} structure {type:l_ornee;}">
+            <Coords points="769,1772 903,1772 903,1868 769,1868"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

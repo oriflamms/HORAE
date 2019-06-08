@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:08.896+02:00</Created>
+        <LastChange>2019-05-03T10:53:08.896+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830757" pageNr="23" tsid="9830564" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=KFQWMMDRNGCUQGNWZCIXPWGU&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=SPXTXIZFCTLQWDLGFKCVWDEU" imageId="3469449"/>
+    </Metadata>
+    <Page imageFilename="France_Douai_Bibliothèque municipale_0183_1286.jpg" imageWidth="5856" imageHeight="4096"/>
+</PcGts>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:25.472+02:00</Created>
+        <LastChange>2019-05-03T10:53:25.472+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830939" pageNr="96" tsid="9830865" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=RHUMYSNIGAWGVXYGJBTIPBDK&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=XHEZZXNCIBQGUYYYCJSBWFNA" imageId="3469631"/>
+    </Metadata>
+    <Page imageFilename="États-Unis_Cambridge_Houghton Library_Lat 250_167.jpg" imageWidth="2304" imageHeight="2400"/>
+</PcGts>

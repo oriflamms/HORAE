@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+TRP</Creator>
+<Created>2019-04-05T16:47:36.457+02:00</Created>
+<LastChange>2019-04-10T12:54:46.426+02:00</LastChange>
+</Metadata>
+<Page imageFilename="gallica.bnf_iiif_ark:_12148_btv1b105154676_default_5.jpg" imageHeight="3052" imageWidth="2049">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1554893686475">
+<RegionRefIndexed index="6" regionRef="region_1554893625588_4353"/>
+</OrderedGroup>
+</ReadingOrder>
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554893501711_4324">
+<Coords points="42,49 2011,49 2011,3023 42,3023"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:marges_ornement;}" id="Image_1554893534700_4328">
+<Coords points="35,56 2011,56 2011,857 35,857"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:2;} structure {type:marges_ornement;}" id="Image_1554893552148_4331">
+<Coords points="1585,35 2011,35 2011,3016 1585,3016"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:3;} structure {type:marges_ornement;}" id="Image_1554893558947_4334">
+<Coords points="35,49 421,49 421,3030 35,3030"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:4;} structure {type:marges_ornement;}" id="Image_1554893564768_4337">
+<Coords points="42,2594 2011,2594 2011,3023 42,3023"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:5;} structure {type:miniature;}" id="Image_1554893581132_4342">
+<Coords points="423,864 1597,859 1597,2589 423,2594"/>
+</ImageRegion>
+<TextRegion custom="readingOrder {index:6;}" id="region_1554893625588_4353">
+<Coords points="415,2642 1480,2642 1480,2762 415,2762"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1554893674126_4361">
+<Coords points="423,2685 1456,2698 1455,2748 422,2735"/>
+<Baseline points="422,2730 1455,2743"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

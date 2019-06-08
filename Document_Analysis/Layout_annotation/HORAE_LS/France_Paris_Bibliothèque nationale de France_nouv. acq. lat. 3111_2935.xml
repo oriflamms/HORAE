@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:19.320+02:00</Created>
+        <LastChange>2019-05-03T10:53:19.320+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830826" pageNr="69" tsid="9830691" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=KYHZKVBZVTSDWAVTUTYQUZIN&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=OTEQIXEVCLEWMGNKGIPPONRG" imageId="3469518"/>
+    </Metadata>
+    <Page imageFilename="France_Paris_Bibliothèque nationale de France_nouv. acq. lat. 3111_2935.jpg" imageWidth="4235" imageHeight="5835"/>
+</PcGts>
