@@ -4852,7 +4852,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/32632a9b-a54e-4831-aa7b-86645a4a23a3/transcriptions/"
+                            "@id": "https://raw.githubusercontent.com/oriflamms/HORAE/master/Document_Recognition/https___arkindex.dev.teklia.com_api_v1_manifest_32632a9b-a54e-4831-aa7b-86645a4a23a3_transcriptions.json"
                         }
                     ],
                     "width": 2161,
