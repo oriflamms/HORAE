@@ -1,0 +1,391 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/32632a9b-a54e-4831-aa7b-86645a4a23a3/transcriptions/?format=json",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/96edcde0-5d3a-41b9-af14-3721f75aae14/transcriptions/96edcde0-5d3a-41b9-af14-3721f75aae14/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=788,1649,972,74",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/96edcde0-5d3a-41b9-af14-3721f75aae14/transcriptions/96edcde0-5d3a-41b9-af14-3721f75aae14/",
+                "@type": "cnt:ContentAsText",
+                "chars": "usque ad futurum seculum",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/00895b4e-d5d0-43bf-9fbb-4bc00aebfe4b/transcriptions/00895b4e-d5d0-43bf-9fbb-4bc00aebfe4b/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=776,631,984,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/00895b4e-d5d0-43bf-9fbb-4bc00aebfe4b/transcriptions/00895b4e-d5d0-43bf-9fbb-4bc00aebfe4b/",
+                "@type": "cnt:ContentAsText",
+                "chars": "suum iacob iusticias et",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/336a0646-bdc8-413c-9bde-9f1cb0ec180a/transcriptions/336a0646-bdc8-413c-9bde-9f1cb0ec180a/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=776,724,1017,81",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/336a0646-bdc8-413c-9bde-9f1cb0ec180a/transcriptions/336a0646-bdc8-413c-9bde-9f1cb0ec180a/",
+                "@type": "cnt:ContentAsText",
+                "chars": "iudicia sua israel",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/484c6225-bbb5-48f4-8738-d32c3598940b/transcriptions/484c6225-bbb5-48f4-8738-d32c3598940b/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=782,1752,1029,76",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/484c6225-bbb5-48f4-8738-d32c3598940b/transcriptions/484c6225-bbb5-48f4-8738-d32c3598940b/",
+                "@type": "cnt:ContentAsText",
+                "chars": "non desinam et in habita",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/95ade84b-116e-44ae-a2e1-473292b54c5b/transcriptions/95ade84b-116e-44ae-a2e1-473292b54c5b/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=803,1858,972,81",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/95ade84b-116e-44ae-a2e1-473292b54c5b/transcriptions/95ade84b-116e-44ae-a2e1-473292b54c5b/",
+                "@type": "cnt:ContentAsText",
+                "chars": "cione sancta coram ipso",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/747f0aad-4195-440b-bb8e-f189af4f6182/transcriptions/747f0aad-4195-440b-bb8e-f189af4f6182/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=906,1144,908,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/747f0aad-4195-440b-bb8e-f189af4f6182/transcriptions/747f0aad-4195-440b-bb8e-f189af4f6182/",
+                "@type": "cnt:ContentAsText",
+                "chars": "lia pri ant  .  Apeciosa",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/be3cbdfb-f2b3-427e-af03-a23359ab088e/transcriptions/be3cbdfb-f2b3-427e-af03-a23359ab088e/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=807,517,987,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/be3cbdfb-f2b3-427e-af03-a23359ab088e/transcriptions/be3cbdfb-f2b3-427e-af03-a23359ab088e/",
+                "@type": "cnt:ContentAsText",
+                "chars": "Qui annunciate verbu",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ae57fe54-b999-43c6-a3a5-ad149c6deb97/transcriptions/ae57fe54-b999-43c6-a3a5-ad149c6deb97/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=777,1527,1011,101",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ae57fe54-b999-43c6-a3a5-ad149c6deb97/transcriptions/ae57fe54-b999-43c6-a3a5-ad149c6deb97/",
+                "@type": "cnt:ContentAsText",
+                "chars": "cula creata sum et",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/96a70f1e-76c6-4e88-9113-b042f8240d17/transcriptions/96a70f1e-76c6-4e88-9113-b042f8240d17/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=789,1968,1014,76",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/96a70f1e-76c6-4e88-9113-b042f8240d17/transcriptions/96a70f1e-76c6-4e88-9113-b042f8240d17/",
+                "@type": "cnt:ContentAsText",
+                "chars": "ministraui Teo gras ys",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f041c037-917e-477a-8b2b-b31bd6b60993/transcriptions/f041c037-917e-477a-8b2b-b31bd6b60993/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=797,1039,1012,78",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f041c037-917e-477a-8b2b-b31bd6b60993/transcriptions/f041c037-917e-477a-8b2b-b31bd6b60993/",
+                "@type": "cnt:ContentAsText",
+                "chars": "manitestauit eis",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eb884139-134a-4305-8ed3-0fe09e6b02d9/transcriptions/eb884139-134a-4305-8ed3-0fe09e6b02d9/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=791,1249,969,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eb884139-134a-4305-8ed3-0fe09e6b02d9/transcriptions/eb884139-134a-4305-8ed3-0fe09e6b02d9/",
+                "@type": "cnt:ContentAsText",
+                "chars": "facta est et suauis indeliciis",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3beb76cb-2cf0-4c03-b3c2-40f7f1139014/transcriptions/3beb76cb-2cf0-4c03-b3c2-40f7f1139014/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=782,1358,1036,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3beb76cb-2cf0-4c03-b3c2-40f7f1139014/transcriptions/3beb76cb-2cf0-4c03-b3c2-40f7f1139014/",
+                "@type": "cnt:ContentAsText",
+                "chars": "tuis sancta dei gentrix capem",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/677c9b0e-a253-44e8-96ae-662f04461c58/transcriptions/677c9b0e-a253-44e8-96ae-662f04461c58/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=792,944,1028,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/677c9b0e-a253-44e8-96ae-662f04461c58/transcriptions/677c9b0e-a253-44e8-96ae-662f04461c58/",
+                "@type": "cnt:ContentAsText",
+                "chars": "nacionis et iudicia sua no",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ffd74a3d-8a42-4e58-a133-79dcf28e790f/transcriptions/ffd74a3d-8a42-4e58-a133-79dcf28e790f/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=878,829,907,78",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ffd74a3d-8a42-4e58-a133-79dcf28e790f/transcriptions/ffd74a3d-8a42-4e58-a133-79dcf28e790f/",
+                "@type": "cnt:ContentAsText",
+                "chars": "Non fecit taliter omni",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f748e443-102e-4e23-8793-6434f82b0dbc/transcriptions/f748e443-102e-4e23-8793-6434f82b0dbc/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=878,1452,882,74",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f748e443-102e-4e23-8793-6434f82b0dbc/transcriptions/f748e443-102e-4e23-8793-6434f82b0dbc/",
+                "@type": "cnt:ContentAsText",
+                "chars": "ab inicio et ante se",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b1f1a521-1657-4592-a00c-643a89f0fc31/transcriptions/b1f1a521-1657-4592-a00c-643a89f0fc31/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=0,0,2161,3067",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b1f1a521-1657-4592-a00c-643a89f0fc31/transcriptions/b1f1a521-1657-4592-a00c-643a89f0fc31/",
+                "@type": "cnt:ContentAsText",
+                "chars": "Qui annunciate verbu\nsuum iacob iusticias et\niudicia sua israel\nNon fecit taliter omni\nnacionis et iudicia sua no\nmanitestauit eis\nlia pri ant  .  Apeciosa\nfacta est et suauis indeliciis\ntuis sancta dei gentrix capem\nab inicio et ante se\ncula creata sum et\nusque ad futurum seculum\nnon desinam et in habita\ncione sancta coram ipso\nministraui Teo gras ys",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/851c77e2-83d0-4023-a35e-2a777505b884/transcriptions/851c77e2-83d0-4023-a35e-2a777505b884/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=797,1039,1012,78",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/851c77e2-83d0-4023-a35e-2a777505b884/transcriptions/851c77e2-83d0-4023-a35e-2a777505b884/",
+                "@type": "cnt:ContentAsText",
+                "chars": "manitestauit eis",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5419c37b-8920-4df9-98ca-0dbbbaa5b8a0/transcriptions/5419c37b-8920-4df9-98ca-0dbbbaa5b8a0/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=791,1249,969,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5419c37b-8920-4df9-98ca-0dbbbaa5b8a0/transcriptions/5419c37b-8920-4df9-98ca-0dbbbaa5b8a0/",
+                "@type": "cnt:ContentAsText",
+                "chars": "facta est et suauis indeliciis",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fd5696d4-d738-4cfe-b853-c87772592991/transcriptions/fd5696d4-d738-4cfe-b853-c87772592991/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=782,1358,1036,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fd5696d4-d738-4cfe-b853-c87772592991/transcriptions/fd5696d4-d738-4cfe-b853-c87772592991/",
+                "@type": "cnt:ContentAsText",
+                "chars": "tuis sancta dei gentrix capem",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6fad3aaa-6638-4115-89f8-4acfe01aa911/transcriptions/6fad3aaa-6638-4115-89f8-4acfe01aa911/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=792,944,1028,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6fad3aaa-6638-4115-89f8-4acfe01aa911/transcriptions/6fad3aaa-6638-4115-89f8-4acfe01aa911/",
+                "@type": "cnt:ContentAsText",
+                "chars": "nacionis et iudicia sua no",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0c118f7e-576c-47cf-8d2c-0dbd435f759b/transcriptions/0c118f7e-576c-47cf-8d2c-0dbd435f759b/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=878,829,907,78",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0c118f7e-576c-47cf-8d2c-0dbd435f759b/transcriptions/0c118f7e-576c-47cf-8d2c-0dbd435f759b/",
+                "@type": "cnt:ContentAsText",
+                "chars": "Non fecit taliter omni",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9639c97c-321a-481c-91cb-45e2169ff6a6/transcriptions/9639c97c-321a-481c-91cb-45e2169ff6a6/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=776,631,984,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9639c97c-321a-481c-91cb-45e2169ff6a6/transcriptions/9639c97c-321a-481c-91cb-45e2169ff6a6/",
+                "@type": "cnt:ContentAsText",
+                "chars": "suum iacob iusticias et",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/068b481a-c1d5-4434-ba1e-4476c6b0ee75/transcriptions/068b481a-c1d5-4434-ba1e-4476c6b0ee75/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=878,1452,882,74",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/068b481a-c1d5-4434-ba1e-4476c6b0ee75/transcriptions/068b481a-c1d5-4434-ba1e-4476c6b0ee75/",
+                "@type": "cnt:ContentAsText",
+                "chars": "ab inicio et ante se",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b4a561fe-4b56-4d87-abe3-892bc788a3d5/transcriptions/b4a561fe-4b56-4d87-abe3-892bc788a3d5/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=777,1527,1011,101",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b4a561fe-4b56-4d87-abe3-892bc788a3d5/transcriptions/b4a561fe-4b56-4d87-abe3-892bc788a3d5/",
+                "@type": "cnt:ContentAsText",
+                "chars": "cula creata sum et",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2ceb20c7-74d0-40ea-acb8-0cab9bcb16d4/transcriptions/2ceb20c7-74d0-40ea-acb8-0cab9bcb16d4/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=788,1649,972,74",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2ceb20c7-74d0-40ea-acb8-0cab9bcb16d4/transcriptions/2ceb20c7-74d0-40ea-acb8-0cab9bcb16d4/",
+                "@type": "cnt:ContentAsText",
+                "chars": "usque ad futurum seculum",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e291bc8e-1f20-4b7f-a1b7-9db4b76c47a4/transcriptions/e291bc8e-1f20-4b7f-a1b7-9db4b76c47a4/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=906,1144,908,72",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e291bc8e-1f20-4b7f-a1b7-9db4b76c47a4/transcriptions/e291bc8e-1f20-4b7f-a1b7-9db4b76c47a4/",
+                "@type": "cnt:ContentAsText",
+                "chars": "lia pri ant  .  Apeciosa",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0ec12bd1-a97b-479c-84de-6a4af6059a50/transcriptions/0ec12bd1-a97b-479c-84de-6a4af6059a50/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=776,724,1017,81",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0ec12bd1-a97b-479c-84de-6a4af6059a50/transcriptions/0ec12bd1-a97b-479c-84de-6a4af6059a50/",
+                "@type": "cnt:ContentAsText",
+                "chars": "iudicia sua israel",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/274f696c-f3cd-40e6-b252-df0ad0249b70/transcriptions/274f696c-f3cd-40e6-b252-df0ad0249b70/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=782,1752,1029,76",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/274f696c-f3cd-40e6-b252-df0ad0249b70/transcriptions/274f696c-f3cd-40e6-b252-df0ad0249b70/",
+                "@type": "cnt:ContentAsText",
+                "chars": "non desinam et in habita",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0869230e-3c4e-47ff-8aaa-14cc7e03d36c/transcriptions/0869230e-3c4e-47ff-8aaa-14cc7e03d36c/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=803,1858,972,81",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0869230e-3c4e-47ff-8aaa-14cc7e03d36c/transcriptions/0869230e-3c4e-47ff-8aaa-14cc7e03d36c/",
+                "@type": "cnt:ContentAsText",
+                "chars": "cione sancta coram ipso",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/214b982f-f9d0-4c42-8039-35ddc53279f9/transcriptions/214b982f-f9d0-4c42-8039-35ddc53279f9/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=789,1968,1014,76",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/214b982f-f9d0-4c42-8039-35ddc53279f9/transcriptions/214b982f-f9d0-4c42-8039-35ddc53279f9/",
+                "@type": "cnt:ContentAsText",
+                "chars": "ministraui Teo gras ys",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6b0e35b5-043c-4eca-93cc-7a55625f0e69/transcriptions/6b0e35b5-043c-4eca-93cc-7a55625f0e69/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=807,517,987,75",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6b0e35b5-043c-4eca-93cc-7a55625f0e69/transcriptions/6b0e35b5-043c-4eca-93cc-7a55625f0e69/",
+                "@type": "cnt:ContentAsText",
+                "chars": "Qui annunciate verbu",
+                "format": "text/plain"
+            }
+        },
+        {
+            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/549c5066-2c15-4da7-a455-c37490e39a7a/transcriptions/549c5066-2c15-4da7-a455-c37490e39a7a/",
+            "@type": "oa:Annotation",
+            "motivation": "sc:painting",
+            "on": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f152/full/full/0/default.jpg#xywh=0,0,2161,3067",
+            "resource": {
+                "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/549c5066-2c15-4da7-a455-c37490e39a7a/transcriptions/549c5066-2c15-4da7-a455-c37490e39a7a/",
+                "@type": "cnt:ContentAsText",
+                "chars": "",
+                "format": "text/plain"
+            }
+        }
+    ]
+}
