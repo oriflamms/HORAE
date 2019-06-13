@@ -20,7 +20,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/da54fce0-70a9-446b-8ab4-ed93a1970405/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/da54fce0-70a9-446b-8ab4-ed93a1970405.json"
                         }
                     ],
                     "width": 2347,
@@ -52,7 +52,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3ff51d1a-9a39-4c1a-a9c2-fba3eb2c5fec/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3ff51d1a-9a39-4c1a-a9c2-fba3eb2c5fec.json"
                         }
                     ],
                     "width": 2226,
@@ -84,7 +84,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/303f69e8-b7ae-4cc1-ae70-527ec198c182/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/303f69e8-b7ae-4cc1-ae70-527ec198c182.json"
                         }
                     ],
                     "width": 2118,
@@ -116,7 +116,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1f9bb447-eba1-4846-bfb5-172bcafa857b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1f9bb447-eba1-4846-bfb5-172bcafa857b.json"
                         }
                     ],
                     "width": 2110,
@@ -148,7 +148,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/67179966-8d54-4971-bedc-119ed437fac4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/67179966-8d54-4971-bedc-119ed437fac4.json"
                         }
                     ],
                     "width": 2122,
@@ -180,7 +180,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/79dc2ac6-3d9a-48c7-9816-5b51fdf17706/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/79dc2ac6-3d9a-48c7-9816-5b51fdf17706.json"
                         }
                     ],
                     "width": 2149,
@@ -212,7 +212,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d5105d7e-fb1a-42c0-bff4-6650bcb5156a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d5105d7e-fb1a-42c0-bff4-6650bcb5156a.json"
                         }
                     ],
                     "width": 2110,
@@ -244,7 +244,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/37728691-685d-43e6-ab57-8f7ded64b4b8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/37728691-685d-43e6-ab57-8f7ded64b4b8.json"
                         }
                     ],
                     "width": 2137,
@@ -276,7 +276,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4bffa847-d3f5-4281-b01f-2ab028a2e197/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4bffa847-d3f5-4281-b01f-2ab028a2e197.json"
                         }
                     ],
                     "width": 2134,
@@ -308,7 +308,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8b37858b-ff46-4f7a-99e5-6cf168648408/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8b37858b-ff46-4f7a-99e5-6cf168648408.json"
                         }
                     ],
                     "width": 2148,
@@ -340,7 +340,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4bdbece0-e6ac-4d90-9ca3-5a4b3aa604d4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4bdbece0-e6ac-4d90-9ca3-5a4b3aa604d4.json"
                         }
                     ],
                     "width": 2109,
@@ -372,7 +372,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4a125863-9acb-4d8e-acd1-313cef154c04/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4a125863-9acb-4d8e-acd1-313cef154c04.json"
                         }
                     ],
                     "width": 2136,
@@ -404,7 +404,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b4f93cc6-d7ff-4116-a245-90c2f8801654/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b4f93cc6-d7ff-4116-a245-90c2f8801654.json"
                         }
                     ],
                     "width": 2087,
@@ -436,7 +436,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/03cfa4bc-d74a-46d8-826c-5c54a85800f4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/03cfa4bc-d74a-46d8-826c-5c54a85800f4.json"
                         }
                     ],
                     "width": 2139,
@@ -468,7 +468,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/348cfa51-a559-4997-aaae-5ebe5f6d846e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/348cfa51-a559-4997-aaae-5ebe5f6d846e.json"
                         }
                     ],
                     "width": 2097,
@@ -500,7 +500,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a2b00a61-afb7-4d9e-b279-d42187b665c5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a2b00a61-afb7-4d9e-b279-d42187b665c5.json"
                         }
                     ],
                     "width": 2133,
@@ -532,7 +532,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2c0f1726-3f2f-4d0b-9c02-359a648f75be/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2c0f1726-3f2f-4d0b-9c02-359a648f75be.json"
                         }
                     ],
                     "width": 2102,
@@ -564,7 +564,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/720a1fad-da86-49b5-a5cc-b951f3f7d00d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/720a1fad-da86-49b5-a5cc-b951f3f7d00d.json"
                         }
                     ],
                     "width": 2115,
@@ -596,7 +596,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/24616b7d-6774-4a7a-80a9-7a1ad7b653b6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/24616b7d-6774-4a7a-80a9-7a1ad7b653b6.json"
                         }
                     ],
                     "width": 2102,
@@ -628,7 +628,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1f6036d7-612c-4dca-be15-de7d6e20c1d5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1f6036d7-612c-4dca-be15-de7d6e20c1d5.json"
                         }
                     ],
                     "width": 2102,
@@ -660,7 +660,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3675e116-6eb4-4ba5-9b97-ab02d317b93e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3675e116-6eb4-4ba5-9b97-ab02d317b93e.json"
                         }
                     ],
                     "width": 2092,
@@ -692,7 +692,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9d5c41ed-fb9c-4663-b743-9e622d866776/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9d5c41ed-fb9c-4663-b743-9e622d866776.json"
                         }
                     ],
                     "width": 2124,
@@ -724,7 +724,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/dc8ce53c-9e04-44f5-b7db-8f12702788fe/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/dc8ce53c-9e04-44f5-b7db-8f12702788fe.json"
                         }
                     ],
                     "width": 2092,
@@ -756,7 +756,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5e614f6b-9697-43d3-8048-e8bf7fec0c1d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5e614f6b-9697-43d3-8048-e8bf7fec0c1d.json"
                         }
                     ],
                     "width": 2127,
@@ -788,7 +788,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/bda5b7a6-c05e-4c82-9cb8-041f4d6be59d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/bda5b7a6-c05e-4c82-9cb8-041f4d6be59d.json"
                         }
                     ],
                     "width": 2110,
@@ -820,7 +820,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0c6e23e6-5d56-47ba-9208-a1ceb796c2ac/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/0c6e23e6-5d56-47ba-9208-a1ceb796c2ac.json"
                         }
                     ],
                     "width": 2128,
@@ -852,7 +852,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fd710f3d-349d-4dca-92ca-d112a0122fd6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fd710f3d-349d-4dca-92ca-d112a0122fd6.json"
                         }
                     ],
                     "width": 2109,
@@ -884,7 +884,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/85a0691f-6fe1-48c0-bf75-6d61ee8442df/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/85a0691f-6fe1-48c0-bf75-6d61ee8442df.json"
                         }
                     ],
                     "width": 2128,
@@ -916,7 +916,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1fb773aa-319d-4940-8e2c-381e5efaf74a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1fb773aa-319d-4940-8e2c-381e5efaf74a.json"
                         }
                     ],
                     "width": 2129,
@@ -948,7 +948,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/bc1a7f84-fa75-474f-aadf-507f8081251c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/bc1a7f84-fa75-474f-aadf-507f8081251c.json"
                         }
                     ],
                     "width": 2143,
@@ -980,7 +980,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d9a153d4-7b54-4564-a974-2188aaef0a30/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d9a153d4-7b54-4564-a974-2188aaef0a30.json"
                         }
                     ],
                     "width": 2124,
@@ -1012,7 +1012,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e6c56adf-380a-47bc-84d2-f6f4f9abf962/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e6c56adf-380a-47bc-84d2-f6f4f9abf962.json"
                         }
                     ],
                     "width": 2141,
@@ -1044,7 +1044,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/458126bb-97d2-40aa-a0e1-0188824291fc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/458126bb-97d2-40aa-a0e1-0188824291fc.json"
                         }
                     ],
                     "width": 2131,
@@ -1076,7 +1076,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f455aa6b-e447-4f10-a92b-b0c1c22155b3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f455aa6b-e447-4f10-a92b-b0c1c22155b3.json"
                         }
                     ],
                     "width": 2145,
@@ -1108,7 +1108,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0ddd77cf-ac0b-48fb-89d0-6064832b3995/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/0ddd77cf-ac0b-48fb-89d0-6064832b3995.json"
                         }
                     ],
                     "width": 2114,
@@ -1140,7 +1140,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cda1d465-8376-4a12-a552-dd971375af75/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/cda1d465-8376-4a12-a552-dd971375af75.json"
                         }
                     ],
                     "width": 2144,
@@ -1172,7 +1172,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/325467d0-305e-45b3-8793-a53231f0f86a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/325467d0-305e-45b3-8793-a53231f0f86a.json"
                         }
                     ],
                     "width": 2122,
@@ -1204,7 +1204,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3342356d-ed4f-4525-8b14-1f624f5d1b7f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3342356d-ed4f-4525-8b14-1f624f5d1b7f.json"
                         }
                     ],
                     "width": 2137,
@@ -1236,7 +1236,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5e6177a5-e2a4-41ab-a146-68066616a2c7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5e6177a5-e2a4-41ab-a146-68066616a2c7.json"
                         }
                     ],
                     "width": 2123,
@@ -1268,7 +1268,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f65f8934-4584-4c8b-9142-9769784cfc0a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f65f8934-4584-4c8b-9142-9769784cfc0a.json"
                         }
                     ],
                     "width": 2122,
@@ -1300,7 +1300,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8e3cf0c2-ee15-4733-8880-3d0a351ec035/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8e3cf0c2-ee15-4733-8880-3d0a351ec035.json"
                         }
                     ],
                     "width": 2120,
@@ -1332,7 +1332,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/de46e2e8-df33-41ee-8200-a6403ab40ce8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/de46e2e8-df33-41ee-8200-a6403ab40ce8.json"
                         }
                     ],
                     "width": 2137,
@@ -1364,7 +1364,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e665c1e0-5a50-4509-ae9f-fba111779a4d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e665c1e0-5a50-4509-ae9f-fba111779a4d.json"
                         }
                     ],
                     "width": 2120,
@@ -1396,7 +1396,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e7c512af-71b2-4106-bd29-e3796ff92590/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e7c512af-71b2-4106-bd29-e3796ff92590.json"
                         }
                     ],
                     "width": 2143,
@@ -1428,7 +1428,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/083b1ba9-4018-4fa0-861b-b654f58a2a4f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/083b1ba9-4018-4fa0-861b-b654f58a2a4f.json"
                         }
                     ],
                     "width": 2125,
@@ -1460,7 +1460,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5527ea78-86aa-4ff2-9db9-8e8945c0c4b0/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5527ea78-86aa-4ff2-9db9-8e8945c0c4b0.json"
                         }
                     ],
                     "width": 2137,
@@ -1492,7 +1492,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5f6d6148-1bce-4c29-b370-c4b7fd404d8e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5f6d6148-1bce-4c29-b370-c4b7fd404d8e.json"
                         }
                     ],
                     "width": 2128,
@@ -1524,7 +1524,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/57ac7ef6-649b-4714-81a8-86711d86ceeb/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/57ac7ef6-649b-4714-81a8-86711d86ceeb.json"
                         }
                     ],
                     "width": 2143,
@@ -1556,7 +1556,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2d6edb19-e02f-49c9-908c-a904c0e95229/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2d6edb19-e02f-49c9-908c-a904c0e95229.json"
                         }
                     ],
                     "width": 2103,
@@ -1588,7 +1588,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1c173ab8-23a3-4211-925f-99f70fba9932/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1c173ab8-23a3-4211-925f-99f70fba9932.json"
                         }
                     ],
                     "width": 2141,
@@ -1620,7 +1620,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/438d2849-25d7-4e33-aef0-96f9f5ebe269/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/438d2849-25d7-4e33-aef0-96f9f5ebe269.json"
                         }
                     ],
                     "width": 2118,
@@ -1652,7 +1652,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8c1f733b-355a-4bf6-9a07-6a4078ebdfae/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8c1f733b-355a-4bf6-9a07-6a4078ebdfae.json"
                         }
                     ],
                     "width": 2155,
@@ -1684,7 +1684,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c4bfdc25-8e25-44ff-9c38-6bdb0ad35bdb/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c4bfdc25-8e25-44ff-9c38-6bdb0ad35bdb.json"
                         }
                     ],
                     "width": 2113,
@@ -1716,7 +1716,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/07a5c39a-9d5d-429b-9f2f-ab66a5ebbacf/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/07a5c39a-9d5d-429b-9f2f-ab66a5ebbacf.json"
                         }
                     ],
                     "width": 2136,
@@ -1748,7 +1748,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/877cfa99-3fb0-43e3-9cea-4ff5ca28e778/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/877cfa99-3fb0-43e3-9cea-4ff5ca28e778.json"
                         }
                     ],
                     "width": 2122,
@@ -1780,7 +1780,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c2f24a0e-661b-4f2f-86f2-e420bbba8060/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c2f24a0e-661b-4f2f-86f2-e420bbba8060.json"
                         }
                     ],
                     "width": 2134,
@@ -1812,7 +1812,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a0cb151e-4f67-4619-aaee-3e1f2aaf7521/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a0cb151e-4f67-4619-aaee-3e1f2aaf7521.json"
                         }
                     ],
                     "width": 2115,
@@ -1844,7 +1844,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c0a7ed49-f1e5-4720-a0bc-0a54049f2337/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c0a7ed49-f1e5-4720-a0bc-0a54049f2337.json"
                         }
                     ],
                     "width": 2128,
@@ -1876,7 +1876,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3094b78a-fa81-48fd-8ec5-33092e35365d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3094b78a-fa81-48fd-8ec5-33092e35365d.json"
                         }
                     ],
                     "width": 2112,
@@ -1908,7 +1908,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/364c52ba-14c9-47f2-bd9e-df69b04f3b0c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/364c52ba-14c9-47f2-bd9e-df69b04f3b0c.json"
                         }
                     ],
                     "width": 2131,
@@ -1940,7 +1940,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d27d81d4-472c-4c74-b9b9-a32b31541650/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d27d81d4-472c-4c74-b9b9-a32b31541650.json"
                         }
                     ],
                     "width": 2143,
@@ -1972,7 +1972,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/bb437599-bc00-4389-abe5-a6cd1c04a569/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/bb437599-bc00-4389-abe5-a6cd1c04a569.json"
                         }
                     ],
                     "width": 2143,
@@ -2004,7 +2004,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3c8b71ba-3af7-4aca-b4b7-3fd9f37e9a5b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3c8b71ba-3af7-4aca-b4b7-3fd9f37e9a5b.json"
                         }
                     ],
                     "width": 2124,
@@ -2036,7 +2036,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/94098ab6-e7ff-4801-ac7d-58be1a7f0ae2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/94098ab6-e7ff-4801-ac7d-58be1a7f0ae2.json"
                         }
                     ],
                     "width": 2151,
@@ -2068,7 +2068,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eff03e02-8fb2-49b1-9b1d-bd319a164b04/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eff03e02-8fb2-49b1-9b1d-bd319a164b04.json"
                         }
                     ],
                     "width": 2119,
@@ -2100,7 +2100,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5335ab17-1d9a-4b1e-b66c-d771af75a50a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5335ab17-1d9a-4b1e-b66c-d771af75a50a.json"
                         }
                     ],
                     "width": 2130,
@@ -2132,7 +2132,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/08caffc8-9c98-480d-b221-2ee417243cc1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/08caffc8-9c98-480d-b221-2ee417243cc1.json"
                         }
                     ],
                     "width": 2138,
@@ -2164,7 +2164,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/96b265bc-6bb2-467b-add2-98949d2cce37/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/96b265bc-6bb2-467b-add2-98949d2cce37.json"
                         }
                     ],
                     "width": 2141,
@@ -2196,7 +2196,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e73c72b4-ccd8-4071-9b69-d1ce254c5288/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e73c72b4-ccd8-4071-9b69-d1ce254c5288.json"
                         }
                     ],
                     "width": 2131,
@@ -2228,7 +2228,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6fdea40e-998d-41bf-bbc3-894ea57c329d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6fdea40e-998d-41bf-bbc3-894ea57c329d.json"
                         }
                     ],
                     "width": 2137,
@@ -2260,7 +2260,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d27150a3-d88d-4b8e-bc50-36f4611d3876/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d27150a3-d88d-4b8e-bc50-36f4611d3876.json"
                         }
                     ],
                     "width": 2131,
@@ -2292,7 +2292,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d84fa2b2-d8ad-4ffe-9b06-69412a9f809a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d84fa2b2-d8ad-4ffe-9b06-69412a9f809a.json"
                         }
                     ],
                     "width": 2135,
@@ -2324,7 +2324,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2474a210-7ef1-43e7-a0e3-f88e6b310386/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2474a210-7ef1-43e7-a0e3-f88e6b310386.json"
                         }
                     ],
                     "width": 2118,
@@ -2356,7 +2356,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d75a81ca-1ca5-49fd-a31e-b667363ae86b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d75a81ca-1ca5-49fd-a31e-b667363ae86b.json"
                         }
                     ],
                     "width": 2139,
@@ -2388,7 +2388,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ca456484-1b6c-4acf-8aba-cfaf8b316540/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ca456484-1b6c-4acf-8aba-cfaf8b316540.json"
                         }
                     ],
                     "width": 2127,
@@ -2420,7 +2420,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a0830534-371f-410a-a5fb-b3a3bf426ede/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a0830534-371f-410a-a5fb-b3a3bf426ede.json"
                         }
                     ],
                     "width": 2120,
@@ -2452,7 +2452,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/246c02e9-6075-4798-b88b-a1b25ff3a62f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/246c02e9-6075-4798-b88b-a1b25ff3a62f.json"
                         }
                     ],
                     "width": 2149,
@@ -2484,7 +2484,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/09f90feb-d3fe-4f1d-9568-18f240046248/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/09f90feb-d3fe-4f1d-9568-18f240046248.json"
                         }
                     ],
                     "width": 2139,
@@ -2516,7 +2516,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e72a2395-905c-470b-a98c-ee6e338633b4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e72a2395-905c-470b-a98c-ee6e338633b4.json"
                         }
                     ],
                     "width": 2123,
@@ -2548,7 +2548,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/45affddd-7957-4019-84c9-6f7248de9c3a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/45affddd-7957-4019-84c9-6f7248de9c3a.json"
                         }
                     ],
                     "width": 2131,
@@ -2580,7 +2580,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7a980088-0e89-4411-ad3f-d9e0258d18dd/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7a980088-0e89-4411-ad3f-d9e0258d18dd.json"
                         }
                     ],
                     "width": 2144,
@@ -2612,7 +2612,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/277ed357-255d-4f0a-a362-b60bfcba7776/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/277ed357-255d-4f0a-a362-b60bfcba7776.json"
                         }
                     ],
                     "width": 2143,
@@ -2644,7 +2644,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/28494989-75c9-4253-a53f-6786c1db8ada/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/28494989-75c9-4253-a53f-6786c1db8ada.json"
                         }
                     ],
                     "width": 2116,
@@ -2676,7 +2676,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/13ed8248-83a0-4da8-88af-5cbaa5ac3c1d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/13ed8248-83a0-4da8-88af-5cbaa5ac3c1d.json"
                         }
                     ],
                     "width": 2135,
@@ -2708,7 +2708,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/47cc85d8-4f50-49fb-8ff1-11d74998cf84/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/47cc85d8-4f50-49fb-8ff1-11d74998cf84.json"
                         }
                     ],
                     "width": 2114,
@@ -2740,7 +2740,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2893de5b-08b0-47ca-9bfa-02a452b7c214/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2893de5b-08b0-47ca-9bfa-02a452b7c214.json"
                         }
                     ],
                     "width": 2138,
@@ -2772,7 +2772,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/768af744-f69d-4168-a838-1587966b0a99/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/768af744-f69d-4168-a838-1587966b0a99.json"
                         }
                     ],
                     "width": 2129,
@@ -2804,7 +2804,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f4944310-c79e-42f1-83f7-ecf2b08bb71c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f4944310-c79e-42f1-83f7-ecf2b08bb71c.json"
                         }
                     ],
                     "width": 2141,
@@ -2836,7 +2836,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c2ca3c0d-9994-4bff-985e-077175fe37f6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c2ca3c0d-9994-4bff-985e-077175fe37f6.json"
                         }
                     ],
                     "width": 2135,
@@ -2868,7 +2868,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/78b4b30a-3f1c-4eab-aa3b-edbe13bbefdb/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/78b4b30a-3f1c-4eab-aa3b-edbe13bbefdb.json"
                         }
                     ],
                     "width": 2141,
@@ -2900,7 +2900,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5d52a279-fffc-465e-befb-06b2e75a3bb9/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5d52a279-fffc-465e-befb-06b2e75a3bb9.json"
                         }
                     ],
                     "width": 2132,
@@ -2932,7 +2932,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/840d2e4f-32a6-4d2a-940b-a4cffeccba5a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/840d2e4f-32a6-4d2a-940b-a4cffeccba5a.json"
                         }
                     ],
                     "width": 2141,
@@ -2964,7 +2964,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b2beca90-9706-427e-8865-4962e8849eea/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b2beca90-9706-427e-8865-4962e8849eea.json"
                         }
                     ],
                     "width": 2136,
@@ -2996,7 +2996,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/787232dc-a2f9-429e-931f-0952400ee0ad/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/787232dc-a2f9-429e-931f-0952400ee0ad.json"
                         }
                     ],
                     "width": 2144,
@@ -3028,7 +3028,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2aedb55a-ef01-44fa-84a6-c1488ca8f56d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2aedb55a-ef01-44fa-84a6-c1488ca8f56d.json"
                         }
                     ],
                     "width": 2134,
@@ -3060,7 +3060,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2175e1aa-5e50-4c6f-abcb-c0905a8c4bd1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2175e1aa-5e50-4c6f-abcb-c0905a8c4bd1.json"
                         }
                     ],
                     "width": 2152,
@@ -3092,7 +3092,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3bf6eb94-6fcb-46be-992c-e8f691cc0619/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3bf6eb94-6fcb-46be-992c-e8f691cc0619.json"
                         }
                     ],
                     "width": 2127,
@@ -3124,7 +3124,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c5f3693d-45af-445a-a11d-7c7a31943576/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c5f3693d-45af-445a-a11d-7c7a31943576.json"
                         }
                     ],
                     "width": 2142,
@@ -3156,7 +3156,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f633022f-2489-4f44-8f28-c918ca2426e2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f633022f-2489-4f44-8f28-c918ca2426e2.json"
                         }
                     ],
                     "width": 2149,
@@ -3188,7 +3188,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a99703c2-2452-434b-8eb8-8f5fddc32e3c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a99703c2-2452-434b-8eb8-8f5fddc32e3c.json"
                         }
                     ],
                     "width": 2155,
@@ -3220,7 +3220,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7f38954d-02d5-4aca-b3af-8397a47e099c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7f38954d-02d5-4aca-b3af-8397a47e099c.json"
                         }
                     ],
                     "width": 2144,
@@ -3252,7 +3252,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fdf1bc60-cbaa-4c55-89c5-2874e2528480/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fdf1bc60-cbaa-4c55-89c5-2874e2528480.json"
                         }
                     ],
                     "width": 2142,
@@ -3284,7 +3284,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eb8746b1-7e2e-4380-a119-b87775046fcd/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eb8746b1-7e2e-4380-a119-b87775046fcd.json"
                         }
                     ],
                     "width": 2132,
@@ -3316,7 +3316,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6faf0bc6-dd1e-483a-a76f-1067021ce462/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6faf0bc6-dd1e-483a-a76f-1067021ce462.json"
                         }
                     ],
                     "width": 2148,
@@ -3348,7 +3348,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/26c69def-aa6e-4ddd-8eae-dc1b4670eda3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/26c69def-aa6e-4ddd-8eae-dc1b4670eda3.json"
                         }
                     ],
                     "width": 2132,
@@ -3380,7 +3380,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7b5391f7-885d-4123-b181-d46ae27f7577/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7b5391f7-885d-4123-b181-d46ae27f7577.json"
                         }
                     ],
                     "width": 2157,
@@ -3412,7 +3412,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6368b027-2e1e-4b8d-b75c-47f08840efcc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6368b027-2e1e-4b8d-b75c-47f08840efcc.json"
                         }
                     ],
                     "width": 2131,
@@ -3444,7 +3444,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e81430b2-ae07-4ca5-a867-e0a9784a0705/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e81430b2-ae07-4ca5-a867-e0a9784a0705.json"
                         }
                     ],
                     "width": 2142,
@@ -3476,7 +3476,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/63a71844-bd49-4a14-ba03-e05f45662a00/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/63a71844-bd49-4a14-ba03-e05f45662a00.json"
                         }
                     ],
                     "width": 2135,
@@ -3508,7 +3508,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d6b256b2-f647-4233-944c-2e60506a3d22/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d6b256b2-f647-4233-944c-2e60506a3d22.json"
                         }
                     ],
                     "width": 2141,
@@ -3540,7 +3540,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/254c2b72-0986-459b-bf20-73af06741625/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/254c2b72-0986-459b-bf20-73af06741625.json"
                         }
                     ],
                     "width": 2130,
@@ -3572,7 +3572,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f32af700-b7d5-4876-bef7-89f50a9d776a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f32af700-b7d5-4876-bef7-89f50a9d776a.json"
                         }
                     ],
                     "width": 2141,
@@ -3604,7 +3604,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cebe53ee-28a6-4895-a323-83a84ac1bc9f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/cebe53ee-28a6-4895-a323-83a84ac1bc9f.json"
                         }
                     ],
                     "width": 2120,
@@ -3636,7 +3636,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4c8d9bcc-5bf1-4a02-a09c-9ba3d57fc1e8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4c8d9bcc-5bf1-4a02-a09c-9ba3d57fc1e8.json"
                         }
                     ],
                     "width": 2150,
@@ -3668,7 +3668,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/01a033c6-5772-4074-8906-60912f5e442e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/01a033c6-5772-4074-8906-60912f5e442e.json"
                         }
                     ],
                     "width": 2152,
@@ -3700,7 +3700,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b7a1ddb2-3c24-401f-a425-a196d71aefad/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b7a1ddb2-3c24-401f-a425-a196d71aefad.json"
                         }
                     ],
                     "width": 2143,
@@ -3732,7 +3732,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cd9b958e-e7c2-40fe-9efa-b51917219fbc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/cd9b958e-e7c2-40fe-9efa-b51917219fbc.json"
                         }
                     ],
                     "width": 2135,
@@ -3764,7 +3764,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8fa3e1f6-ef4b-4594-b572-fab5da30db11/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8fa3e1f6-ef4b-4594-b572-fab5da30db11.json"
                         }
                     ],
                     "width": 2159,
@@ -3796,7 +3796,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6a270316-0e46-4b7c-9a5d-17d94adcf004/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6a270316-0e46-4b7c-9a5d-17d94adcf004.json"
                         }
                     ],
                     "width": 2142,
@@ -3828,7 +3828,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a30b12d2-ef13-4b0b-a257-9b123ba3b891/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a30b12d2-ef13-4b0b-a257-9b123ba3b891.json"
                         }
                     ],
                     "width": 2142,
@@ -3860,7 +3860,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b804a67b-24ce-4a0a-a192-cdd5a3041825/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b804a67b-24ce-4a0a-a192-cdd5a3041825.json"
                         }
                     ],
                     "width": 2121,
@@ -3892,7 +3892,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9dc77238-455c-4621-bf86-69ebc5b87724/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9dc77238-455c-4621-bf86-69ebc5b87724.json"
                         }
                     ],
                     "width": 2158,
@@ -3924,7 +3924,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/31f34cc8-2ac7-44ad-830d-13e0b9d6ff12/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/31f34cc8-2ac7-44ad-830d-13e0b9d6ff12.json"
                         }
                     ],
                     "width": 2125,
@@ -3956,7 +3956,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/297bc8e2-2e22-4b9b-846c-6901af11b7f7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/297bc8e2-2e22-4b9b-846c-6901af11b7f7.json"
                         }
                     ],
                     "width": 2162,
@@ -3988,7 +3988,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/458ab365-3805-41fd-9439-a443d0ceb2a8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/458ab365-3805-41fd-9439-a443d0ceb2a8.json"
                         }
                     ],
                     "width": 2132,
@@ -4020,7 +4020,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/451be2ad-7b1a-4fd2-a68c-7f225ea527d4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/451be2ad-7b1a-4fd2-a68c-7f225ea527d4.json"
                         }
                     ],
                     "width": 2153,
@@ -4052,7 +4052,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/28ff1f29-eef5-4d37-a5a2-3d1be412dcb5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/28ff1f29-eef5-4d37-a5a2-3d1be412dcb5.json"
                         }
                     ],
                     "width": 2148,
@@ -4084,7 +4084,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/225e1ae8-6748-4173-a6d1-a5d320fb5b3b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/225e1ae8-6748-4173-a6d1-a5d320fb5b3b.json"
                         }
                     ],
                     "width": 2164,
@@ -4116,7 +4116,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/156f7687-e808-4a5f-9fd7-553245d2ec8d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/156f7687-e808-4a5f-9fd7-553245d2ec8d.json"
                         }
                     ],
                     "width": 2156,
@@ -4148,7 +4148,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/75fa5d05-da6d-49b6-b36c-3ac9e1147513/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/75fa5d05-da6d-49b6-b36c-3ac9e1147513.json"
                         }
                     ],
                     "width": 2156,
@@ -4180,7 +4180,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ca277140-b2db-4851-b6c4-d1bb5a3926d2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ca277140-b2db-4851-b6c4-d1bb5a3926d2.json"
                         }
                     ],
                     "width": 2161,
@@ -4212,7 +4212,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5a491e1b-62e1-4a08-8310-89085c74ca00/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5a491e1b-62e1-4a08-8310-89085c74ca00.json"
                         }
                     ],
                     "width": 2165,
@@ -4244,7 +4244,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c7687f67-dded-41ef-9c91-5e768ce29226/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c7687f67-dded-41ef-9c91-5e768ce29226.json"
                         }
                     ],
                     "width": 2138,
@@ -4276,7 +4276,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/073d6b17-5e81-44e2-8380-af5bf819380d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/073d6b17-5e81-44e2-8380-af5bf819380d.json"
                         }
                     ],
                     "width": 2173,
@@ -4308,7 +4308,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6b07cd1f-e12a-48b7-bcd7-60d1edad9db6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6b07cd1f-e12a-48b7-bcd7-60d1edad9db6.json"
                         }
                     ],
                     "width": 2137,
@@ -4340,7 +4340,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/98dd6aaa-ebf5-4f15-8e72-a9bf96a7a536/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/98dd6aaa-ebf5-4f15-8e72-a9bf96a7a536.json"
                         }
                     ],
                     "width": 2161,
@@ -4372,7 +4372,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0761c1d8-cb5b-4d96-8970-f76ff540bbd2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/0761c1d8-cb5b-4d96-8970-f76ff540bbd2.json"
                         }
                     ],
                     "width": 2139,
@@ -4404,7 +4404,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/680f7653-4326-428c-a4d7-0a0c04e37096/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/680f7653-4326-428c-a4d7-0a0c04e37096.json"
                         }
                     ],
                     "width": 2153,
@@ -4436,7 +4436,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/57563718-5fc2-41d6-b700-d3e60d4136dc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/57563718-5fc2-41d6-b700-d3e60d4136dc.json"
                         }
                     ],
                     "width": 2151,
@@ -4468,7 +4468,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1d1b4b9e-f0dc-4781-bff5-0fe71cf4b795/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1d1b4b9e-f0dc-4781-bff5-0fe71cf4b795.json"
                         }
                     ],
                     "width": 2152,
@@ -4500,7 +4500,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8ed195be-6499-434c-a62e-db4fe9f97f89/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8ed195be-6499-434c-a62e-db4fe9f97f89.json"
                         }
                     ],
                     "width": 2132,
@@ -4532,7 +4532,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/517558bb-6fff-48ed-902a-a0eef56522b6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/517558bb-6fff-48ed-902a-a0eef56522b6.json"
                         }
                     ],
                     "width": 2162,
@@ -4564,7 +4564,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d57f2a86-0845-452a-98eb-48416013e6e8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d57f2a86-0845-452a-98eb-48416013e6e8.json"
                         }
                     ],
                     "width": 2149,
@@ -4596,7 +4596,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a43ddc7e-e07a-490c-a7de-ccb65aa4cc71/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a43ddc7e-e07a-490c-a7de-ccb65aa4cc71.json"
                         }
                     ],
                     "width": 2168,
@@ -4628,7 +4628,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ec901603-bd90-4bf9-b1df-2f934cf4a733/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ec901603-bd90-4bf9-b1df-2f934cf4a733.json"
                         }
                     ],
                     "width": 2156,
@@ -4660,7 +4660,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/39317995-894a-46e1-8c5b-9044b30d74c4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/39317995-894a-46e1-8c5b-9044b30d74c4.json"
                         }
                     ],
                     "width": 2182,
@@ -4692,7 +4692,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cd7e48c3-6d56-4389-821f-fe0ac19cf3ee/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/cd7e48c3-6d56-4389-821f-fe0ac19cf3ee.json"
                         }
                     ],
                     "width": 2161,
@@ -4724,7 +4724,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/bcbaef64-b07b-4c0d-8d0a-8cda3b3e1dd1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/bcbaef64-b07b-4c0d-8d0a-8cda3b3e1dd1.json"
                         }
                     ],
                     "width": 2168,
@@ -4756,7 +4756,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e90598f6-6c9e-4341-9000-c684e947009b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e90598f6-6c9e-4341-9000-c684e947009b.json"
                         }
                     ],
                     "width": 2139,
@@ -4788,7 +4788,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1d5167f6-bc91-4b2c-8a4d-1c10520523ce/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1d5167f6-bc91-4b2c-8a4d-1c10520523ce.json"
                         }
                     ],
                     "width": 2188,
@@ -4820,7 +4820,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6ea80437-6327-48ae-b325-44ed1bec1411/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6ea80437-6327-48ae-b325-44ed1bec1411.json"
                         }
                     ],
                     "width": 2141,
@@ -4884,7 +4884,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/dc22673c-8854-4ff6-ac86-c1855f3f5de2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/dc22673c-8854-4ff6-ac86-c1855f3f5de2.json"
                         }
                     ],
                     "width": 2137,
@@ -4916,7 +4916,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6baf3d9d-a043-4060-b5ed-b28aa8cd9467/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6baf3d9d-a043-4060-b5ed-b28aa8cd9467.json"
                         }
                     ],
                     "width": 2153,
@@ -4948,7 +4948,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/192dcaa7-cf15-400f-b043-d4112327b906/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/192dcaa7-cf15-400f-b043-d4112327b906.json"
                         }
                     ],
                     "width": 2137,
@@ -4980,7 +4980,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/21ead7f8-33ff-410a-97d6-48ff31fb9406/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/21ead7f8-33ff-410a-97d6-48ff31fb9406.json"
                         }
                     ],
                     "width": 2164,
@@ -5012,7 +5012,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6da0f049-0f8d-444b-a5bd-dc9ceff1d3f6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6da0f049-0f8d-444b-a5bd-dc9ceff1d3f6.json"
                         }
                     ],
                     "width": 2144,
@@ -5044,7 +5044,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7afd86ea-e5fa-4c79-96e7-e50497016c3d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7afd86ea-e5fa-4c79-96e7-e50497016c3d.json"
                         }
                     ],
                     "width": 2183,
@@ -5076,7 +5076,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1ffe3468-c968-4d09-a5a4-4cba73d68c35/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1ffe3468-c968-4d09-a5a4-4cba73d68c35.json"
                         }
                     ],
                     "width": 2144,
@@ -5108,7 +5108,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/81e46e55-68a2-4a56-a9cf-e2ce4d7fa7e0/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/81e46e55-68a2-4a56-a9cf-e2ce4d7fa7e0.json"
                         }
                     ],
                     "width": 2171,
@@ -5140,7 +5140,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/79a3a515-126f-4478-aaa6-b2173af34314/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/79a3a515-126f-4478-aaa6-b2173af34314.json"
                         }
                     ],
                     "width": 2152,
@@ -5172,7 +5172,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/33a8e81f-526a-4a39-a495-989e4be1fa9d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/33a8e81f-526a-4a39-a495-989e4be1fa9d.json"
                         }
                     ],
                     "width": 2165,
@@ -5204,7 +5204,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d47ebf76-c97e-4c29-8295-e4574ec97423/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d47ebf76-c97e-4c29-8295-e4574ec97423.json"
                         }
                     ],
                     "width": 2157,
@@ -5236,7 +5236,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/18b5df8e-ba6d-41c5-9af1-ccf40a22a649/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/18b5df8e-ba6d-41c5-9af1-ccf40a22a649.json"
                         }
                     ],
                     "width": 2173,
@@ -5268,7 +5268,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b670287a-5127-475e-b771-d9744a144af6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b670287a-5127-475e-b771-d9744a144af6.json"
                         }
                     ],
                     "width": 2158,
@@ -5300,7 +5300,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/82e5b0c7-eac8-42f7-ae79-67e9cf70b63f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/82e5b0c7-eac8-42f7-ae79-67e9cf70b63f.json"
                         }
                     ],
                     "width": 2169,
@@ -5332,7 +5332,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3e7b6638-6a73-46b3-9f68-0271ecf398d7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3e7b6638-6a73-46b3-9f68-0271ecf398d7.json"
                         }
                     ],
                     "width": 2144,
@@ -5364,7 +5364,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/529f1322-2aa6-490a-98ae-23bf44a208c0/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/529f1322-2aa6-490a-98ae-23bf44a208c0.json"
                         }
                     ],
                     "width": 2168,
@@ -5396,7 +5396,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6285ff89-187a-4805-8511-e512615a65fe/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6285ff89-187a-4805-8511-e512615a65fe.json"
                         }
                     ],
                     "width": 2148,
@@ -5428,7 +5428,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a5d778be-d40c-4074-9b36-e8b6dd7b5922/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a5d778be-d40c-4074-9b36-e8b6dd7b5922.json"
                         }
                     ],
                     "width": 2177,
@@ -5460,7 +5460,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/174580ee-8216-49a7-84e0-891596706d63/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/174580ee-8216-49a7-84e0-891596706d63.json"
                         }
                     ],
                     "width": 2173,
@@ -5492,7 +5492,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5032b024-36a0-4073-9806-5f2b6cf34200/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5032b024-36a0-4073-9806-5f2b6cf34200.json"
                         }
                     ],
                     "width": 2175,
@@ -5524,7 +5524,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/de4591ea-aca5-4e19-8415-d3c53d373e91/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/de4591ea-aca5-4e19-8415-d3c53d373e91.json"
                         }
                     ],
                     "width": 2181,
@@ -5556,7 +5556,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6dc42c98-6256-496a-adf0-827b231f5814/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6dc42c98-6256-496a-adf0-827b231f5814.json"
                         }
                     ],
                     "width": 2192,
@@ -5588,7 +5588,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/642247ba-3dca-451b-af41-7e70623d7f9e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/642247ba-3dca-451b-af41-7e70623d7f9e.json"
                         }
                     ],
                     "width": 2182,
@@ -5620,7 +5620,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a6c9f040-d6ce-48c9-9f1a-ea8eee3bae95/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a6c9f040-d6ce-48c9-9f1a-ea8eee3bae95.json"
                         }
                     ],
                     "width": 2168,
@@ -5652,7 +5652,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/160997a8-0a97-42f2-84fc-2680c32d6147/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/160997a8-0a97-42f2-84fc-2680c32d6147.json"
                         }
                     ],
                     "width": 2176,
@@ -5684,7 +5684,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d59e40a0-27b4-4748-8a8d-1491ba8381a4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d59e40a0-27b4-4748-8a8d-1491ba8381a4.json"
                         }
                     ],
                     "width": 2174,
@@ -5716,7 +5716,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/32047d2d-3e83-47d7-8c0f-3577838c7677/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/32047d2d-3e83-47d7-8c0f-3577838c7677.json"
                         }
                     ],
                     "width": 2159,
@@ -5748,7 +5748,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/791cc067-78c7-4d41-adf6-d211512eb806/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/791cc067-78c7-4d41-adf6-d211512eb806.json"
                         }
                     ],
                     "width": 2169,
@@ -5780,7 +5780,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/12b7420b-635c-40ce-a123-fcfaf5b772de/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/12b7420b-635c-40ce-a123-fcfaf5b772de.json"
                         }
                     ],
                     "width": 2167,
@@ -5812,7 +5812,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8b759c4c-11c6-48b6-9b46-d41a7bbb1d53/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8b759c4c-11c6-48b6-9b46-d41a7bbb1d53.json"
                         }
                     ],
                     "width": 2174,
@@ -5844,7 +5844,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/518c5015-2da6-4302-83fc-194117543fb3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/518c5015-2da6-4302-83fc-194117543fb3.json"
                         }
                     ],
                     "width": 2159,
@@ -5876,7 +5876,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8811f6d7-4d3c-4c80-9d09-1bfa2a253607/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8811f6d7-4d3c-4c80-9d09-1bfa2a253607.json"
                         }
                     ],
                     "width": 2178,
@@ -5908,7 +5908,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a87c9556-4f09-43a6-924b-a68f89f777dd/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a87c9556-4f09-43a6-924b-a68f89f777dd.json"
                         }
                     ],
                     "width": 2173,
@@ -5940,7 +5940,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d6b3a84b-eab8-4071-b0ba-bc1656bcdb64/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d6b3a84b-eab8-4071-b0ba-bc1656bcdb64.json"
                         }
                     ],
                     "width": 2184,
@@ -5972,7 +5972,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/25c5b4e7-0641-493d-aa97-096b8972dd0f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/25c5b4e7-0641-493d-aa97-096b8972dd0f.json"
                         }
                     ],
                     "width": 2186,
@@ -6004,7 +6004,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ae90acb4-ef0c-47c5-91f0-c7e2aee04829/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ae90acb4-ef0c-47c5-91f0-c7e2aee04829.json"
                         }
                     ],
                     "width": 2190,
@@ -6036,7 +6036,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f08b108f-b484-4ac0-8c33-94284fcd150e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f08b108f-b484-4ac0-8c33-94284fcd150e.json"
                         }
                     ],
                     "width": 2189,
@@ -6068,7 +6068,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5511c0a7-e89b-4109-b9a9-7a3629322e5c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5511c0a7-e89b-4109-b9a9-7a3629322e5c.json"
                         }
                     ],
                     "width": 2181,
@@ -6100,7 +6100,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/28e528bf-c707-40fb-a620-ebb12c9b62d4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/28e528bf-c707-40fb-a620-ebb12c9b62d4.json"
                         }
                     ],
                     "width": 2182,
@@ -6132,7 +6132,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/771a843d-859c-407f-9c95-0847128b31b6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/771a843d-859c-407f-9c95-0847128b31b6.json"
                         }
                     ],
                     "width": 2172,
@@ -6164,7 +6164,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/57283010-6c04-4069-8c4e-a0238db50b99/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/57283010-6c04-4069-8c4e-a0238db50b99.json"
                         }
                     ],
                     "width": 2166,
@@ -6196,7 +6196,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1af35819-decf-440d-8c7c-74c3055c05d7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1af35819-decf-440d-8c7c-74c3055c05d7.json"
                         }
                     ],
                     "width": 2170,
@@ -6228,7 +6228,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5afb59bf-5fdf-46e2-961a-81153e55839a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5afb59bf-5fdf-46e2-961a-81153e55839a.json"
                         }
                     ],
                     "width": 2168,
@@ -6260,7 +6260,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eeff9f7f-493b-493c-9e58-1f635c104e64/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eeff9f7f-493b-493c-9e58-1f635c104e64.json"
                         }
                     ],
                     "width": 2176,
@@ -6292,7 +6292,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/948a9ba3-5e6c-4b76-96d1-f5a54bf8ec0b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/948a9ba3-5e6c-4b76-96d1-f5a54bf8ec0b.json"
                         }
                     ],
                     "width": 2170,
@@ -6324,7 +6324,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ef16a45d-9640-4e2d-9a1c-bdce73616a7f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ef16a45d-9640-4e2d-9a1c-bdce73616a7f.json"
                         }
                     ],
                     "width": 2176,
@@ -6356,7 +6356,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c4c9a813-02ea-4e58-9f1c-c66e1f1d6bfc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c4c9a813-02ea-4e58-9f1c-c66e1f1d6bfc.json"
                         }
                     ],
                     "width": 2178,
@@ -6388,7 +6388,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b3751615-c907-4c09-9768-40f643df0242/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b3751615-c907-4c09-9768-40f643df0242.json"
                         }
                     ],
                     "width": 2190,
@@ -6420,7 +6420,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8243f1a9-72fe-4445-b6ac-c464efe88fed/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8243f1a9-72fe-4445-b6ac-c464efe88fed.json"
                         }
                     ],
                     "width": 2168,
@@ -6452,7 +6452,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/dca723cd-4548-40db-bbfb-eda7f50670eb/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/dca723cd-4548-40db-bbfb-eda7f50670eb.json"
                         }
                     ],
                     "width": 2211,
@@ -6484,7 +6484,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/07e47004-b0ad-4445-875f-65f26339bcf7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/07e47004-b0ad-4445-875f-65f26339bcf7.json"
                         }
                     ],
                     "width": 2211,
@@ -6516,7 +6516,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/59e354c6-c5e4-4acd-839b-090ca082ac9f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/59e354c6-c5e4-4acd-839b-090ca082ac9f.json"
                         }
                     ],
                     "width": 2188,
@@ -6548,7 +6548,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e7235725-21d3-4beb-9399-60b69dbe1450/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e7235725-21d3-4beb-9399-60b69dbe1450.json"
                         }
                     ],
                     "width": 2194,
@@ -6580,7 +6580,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c2513d9f-aaad-4334-9bc6-8847f3f52eaa/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c2513d9f-aaad-4334-9bc6-8847f3f52eaa.json"
                         }
                     ],
                     "width": 2184,
@@ -6612,7 +6612,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b035c887-0b51-4428-a89c-7a6e40ce1bb3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b035c887-0b51-4428-a89c-7a6e40ce1bb3.json"
                         }
                     ],
                     "width": 2200,
@@ -6644,7 +6644,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1d07a44b-2c62-45d1-bb29-10f36e5d5c0c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1d07a44b-2c62-45d1-bb29-10f36e5d5c0c.json"
                         }
                     ],
                     "width": 2190,
@@ -6676,7 +6676,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e4319a05-1979-49ba-9970-859e99e08b03/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e4319a05-1979-49ba-9970-859e99e08b03.json"
                         }
                     ],
                     "width": 2186,
@@ -6708,7 +6708,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f660d0d8-9e50-4b58-8507-7816fcdc2064/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f660d0d8-9e50-4b58-8507-7816fcdc2064.json"
                         }
                     ],
                     "width": 2183,
@@ -6740,7 +6740,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/056dcaa7-ac29-4449-bcba-9290fe7cde42/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/056dcaa7-ac29-4449-bcba-9290fe7cde42.json"
                         }
                     ],
                     "width": 2184,
@@ -6772,7 +6772,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4c5b9941-3b11-447b-8908-be29ed66f22c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4c5b9941-3b11-447b-8908-be29ed66f22c.json"
                         }
                     ],
                     "width": 2174,
@@ -6804,7 +6804,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/24c4da59-e234-4279-bf49-c4c6889d9395/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/24c4da59-e234-4279-bf49-c4c6889d9395.json"
                         }
                     ],
                     "width": 2173,
@@ -6836,7 +6836,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8ad71f3c-f7c5-4b5c-8710-e0cfae84cc29/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8ad71f3c-f7c5-4b5c-8710-e0cfae84cc29.json"
                         }
                     ],
                     "width": 2174,
@@ -6868,7 +6868,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/dd6d5d2f-0410-48e6-a371-5f3b031dea59/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/dd6d5d2f-0410-48e6-a371-5f3b031dea59.json"
                         }
                     ],
                     "width": 2184,
@@ -6900,7 +6900,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/667128d7-775a-46aa-9ef1-fb2d34c66e4a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/667128d7-775a-46aa-9ef1-fb2d34c66e4a.json"
                         }
                     ],
                     "width": 2192,
@@ -6932,7 +6932,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/afabf51d-9f3c-474b-b995-425eae903fe5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/afabf51d-9f3c-474b-b995-425eae903fe5.json"
                         }
                     ],
                     "width": 2182,
@@ -6964,7 +6964,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0dcd01ff-f7b8-4a3b-9dc5-58d8adc97f2c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/0dcd01ff-f7b8-4a3b-9dc5-58d8adc97f2c.json"
                         }
                     ],
                     "width": 2193,
@@ -6996,7 +6996,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5439b2c2-f620-4a38-805b-a46e1c4d1740/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5439b2c2-f620-4a38-805b-a46e1c4d1740.json"
                         }
                     ],
                     "width": 2192,
@@ -7028,7 +7028,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f2b8740c-c395-4e36-94ca-ddda1b546af6/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f2b8740c-c395-4e36-94ca-ddda1b546af6.json"
                         }
                     ],
                     "width": 2202,
@@ -7060,7 +7060,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e28d2b5c-2317-482b-b51d-d60a66c55cfb/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e28d2b5c-2317-482b-b51d-d60a66c55cfb.json"
                         }
                     ],
                     "width": 2200,
@@ -7092,7 +7092,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2a632d0a-c0d1-42c0-81f2-cdadd21f1c50/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2a632d0a-c0d1-42c0-81f2-cdadd21f1c50.json"
                         }
                     ],
                     "width": 2177,
@@ -7124,7 +7124,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/35bca7be-3d5d-4e7b-a170-5325bd9d73da/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/35bca7be-3d5d-4e7b-a170-5325bd9d73da.json"
                         }
                     ],
                     "width": 2202,
@@ -7156,7 +7156,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b3c73d27-a6fd-4c23-b291-730275446172/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b3c73d27-a6fd-4c23-b291-730275446172.json"
                         }
                     ],
                     "width": 2195,
@@ -7188,7 +7188,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6bf182f6-95ec-4a70-a43c-c7b58ee5c551/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6bf182f6-95ec-4a70-a43c-c7b58ee5c551.json"
                         }
                     ],
                     "width": 2203,
@@ -7220,7 +7220,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6613b1ed-3398-4bcf-b556-a4939b54529c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6613b1ed-3398-4bcf-b556-a4939b54529c.json"
                         }
                     ],
                     "width": 2193,
@@ -7252,7 +7252,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9a7890ae-8bf5-4ef0-bb9f-33c58c516124/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9a7890ae-8bf5-4ef0-bb9f-33c58c516124.json"
                         }
                     ],
                     "width": 2183,
@@ -7284,7 +7284,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/314e96f7-1501-4d90-91a3-0cc80eb92f7b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/314e96f7-1501-4d90-91a3-0cc80eb92f7b.json"
                         }
                     ],
                     "width": 2188,
@@ -7316,7 +7316,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7ab8a521-63e7-4de9-ba45-e46e8fa1fe8f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7ab8a521-63e7-4de9-ba45-e46e8fa1fe8f.json"
                         }
                     ],
                     "width": 2188,
@@ -7348,7 +7348,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5f4d930b-b22b-4cd8-ad57-92d3e91b617a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5f4d930b-b22b-4cd8-ad57-92d3e91b617a.json"
                         }
                     ],
                     "width": 2198,
@@ -7380,7 +7380,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d16865ce-6752-4890-981a-04704482f8a7/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d16865ce-6752-4890-981a-04704482f8a7.json"
                         }
                     ],
                     "width": 2175,
@@ -7412,7 +7412,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a1d7fa8a-3584-4a7c-a7d6-220bcb2585e8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a1d7fa8a-3584-4a7c-a7d6-220bcb2585e8.json"
                         }
                     ],
                     "width": 2201,
@@ -7444,7 +7444,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ce565571-e36c-45ac-b6dd-2b0bd8b7d688/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ce565571-e36c-45ac-b6dd-2b0bd8b7d688.json"
                         }
                     ],
                     "width": 2166,
@@ -7476,7 +7476,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9e6f3a7a-fd36-4b60-9af2-ef7182ce4086/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9e6f3a7a-fd36-4b60-9af2-ef7182ce4086.json"
                         }
                     ],
                     "width": 2211,
@@ -7508,7 +7508,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/284902e2-bbb2-40b4-85b1-97d8a822f4df/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/284902e2-bbb2-40b4-85b1-97d8a822f4df.json"
                         }
                     ],
                     "width": 2211,
@@ -7540,7 +7540,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e6811edb-4e17-48a2-84e7-9019f6267cc8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e6811edb-4e17-48a2-84e7-9019f6267cc8.json"
                         }
                     ],
                     "width": 2178,
@@ -7572,7 +7572,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/28e64f2b-b35d-4e05-93ab-7ea55c9b90e9/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/28e64f2b-b35d-4e05-93ab-7ea55c9b90e9.json"
                         }
                     ],
                     "width": 2181,
@@ -7604,7 +7604,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/976dd9fd-cc9e-461e-aa3b-a2419d391c56/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/976dd9fd-cc9e-461e-aa3b-a2419d391c56.json"
                         }
                     ],
                     "width": 2192,
@@ -7636,7 +7636,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d041026d-c1ba-4ba6-9368-4da002f9260a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d041026d-c1ba-4ba6-9368-4da002f9260a.json"
                         }
                     ],
                     "width": 2192,
@@ -7668,7 +7668,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/05aa89ec-35c6-4157-9193-12f7bfb4b650/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/05aa89ec-35c6-4157-9193-12f7bfb4b650.json"
                         }
                     ],
                     "width": 2186,
@@ -7700,7 +7700,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2ef52f8a-4075-46f6-8859-8e1595aaa421/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2ef52f8a-4075-46f6-8859-8e1595aaa421.json"
                         }
                     ],
                     "width": 2198,
@@ -7732,7 +7732,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/7fcc54d3-38d3-4040-9fc3-a368fdecb946/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/7fcc54d3-38d3-4040-9fc3-a368fdecb946.json"
                         }
                     ],
                     "width": 2215,
@@ -7764,7 +7764,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d441c602-afbf-4a9c-92b6-0c3c2744112d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d441c602-afbf-4a9c-92b6-0c3c2744112d.json"
                         }
                     ],
                     "width": 2204,
@@ -7796,7 +7796,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e5ae0dc7-49ac-4550-abb7-ab75f3fb35fc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e5ae0dc7-49ac-4550-abb7-ab75f3fb35fc.json"
                         }
                     ],
                     "width": 2186,
@@ -7828,7 +7828,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/718b7498-70c1-4840-a387-67ad5f5593da/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/718b7498-70c1-4840-a387-67ad5f5593da.json"
                         }
                     ],
                     "width": 2205,
@@ -7860,7 +7860,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b3bb72b8-ad89-4b99-beab-f5a7c2e9bf67/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b3bb72b8-ad89-4b99-beab-f5a7c2e9bf67.json"
                         }
                     ],
                     "width": 2199,
@@ -7892,7 +7892,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fa2b2cef-1299-4ca8-861d-88811ce4155d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fa2b2cef-1299-4ca8-861d-88811ce4155d.json"
                         }
                     ],
                     "width": 2187,
@@ -7924,7 +7924,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c1f7b390-df30-48ff-9f50-82a4139724d3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c1f7b390-df30-48ff-9f50-82a4139724d3.json"
                         }
                     ],
                     "width": 2195,
@@ -7956,7 +7956,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/47e797f5-117f-46ec-848a-5d80cd8c765f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/47e797f5-117f-46ec-848a-5d80cd8c765f.json"
                         }
                     ],
                     "width": 2193,
@@ -7988,7 +7988,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2c20f0a4-f9b6-429c-b67a-d18939a15c78/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2c20f0a4-f9b6-429c-b67a-d18939a15c78.json"
                         }
                     ],
                     "width": 2185,
@@ -8020,7 +8020,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f2ac518a-c498-41ca-b886-089b80cdc6ce/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f2ac518a-c498-41ca-b886-089b80cdc6ce.json"
                         }
                     ],
                     "width": 2187,
@@ -8052,7 +8052,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/63553385-bcc9-424b-8628-54f39ac068cf/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/63553385-bcc9-424b-8628-54f39ac068cf.json"
                         }
                     ],
                     "width": 2171,
@@ -8084,7 +8084,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b3bd692c-0670-4792-8faa-a80c8f34a0dc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b3bd692c-0670-4792-8faa-a80c8f34a0dc.json"
                         }
                     ],
                     "width": 2169,
@@ -8116,7 +8116,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4393690f-b40e-41db-b8c9-84d195685d38/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4393690f-b40e-41db-b8c9-84d195685d38.json"
                         }
                     ],
                     "width": 2172,
@@ -8148,7 +8148,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3afedb2a-dd9b-4427-a260-3fab16765e09/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3afedb2a-dd9b-4427-a260-3fab16765e09.json"
                         }
                     ],
                     "width": 2189,
@@ -8180,7 +8180,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/46beb84e-a47b-488f-af66-003625bbcd36/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/46beb84e-a47b-488f-af66-003625bbcd36.json"
                         }
                     ],
                     "width": 2175,
@@ -8212,7 +8212,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f4f7aa38-21f6-4e0a-86a4-45f252eb7aef/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f4f7aa38-21f6-4e0a-86a4-45f252eb7aef.json"
                         }
                     ],
                     "width": 2172,
@@ -8244,7 +8244,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/20caaccf-2e08-4cdb-89b9-95f658cb7d0f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/20caaccf-2e08-4cdb-89b9-95f658cb7d0f.json"
                         }
                     ],
                     "width": 2178,
@@ -8276,7 +8276,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/17414439-d817-4b9e-bb45-1ab6ec454ab4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/17414439-d817-4b9e-bb45-1ab6ec454ab4.json"
                         }
                     ],
                     "width": 2181,
@@ -8308,7 +8308,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4760d63c-ba9c-47a8-99ae-6bc2610cca93/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4760d63c-ba9c-47a8-99ae-6bc2610cca93.json"
                         }
                     ],
                     "width": 2165,
@@ -8340,7 +8340,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a693c6fd-562b-48fe-8914-0e38ee9afefa/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a693c6fd-562b-48fe-8914-0e38ee9afefa.json"
                         }
                     ],
                     "width": 2167,
@@ -8372,7 +8372,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/87fccffb-b870-409b-ac69-11fba963d671/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/87fccffb-b870-409b-ac69-11fba963d671.json"
                         }
                     ],
                     "width": 2182,
@@ -8404,7 +8404,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/25d704fb-03bd-4712-822a-928253889f3b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/25d704fb-03bd-4712-822a-928253889f3b.json"
                         }
                     ],
                     "width": 2180,
@@ -8436,7 +8436,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ec87eba9-3492-45f2-88b7-02057917fb9a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ec87eba9-3492-45f2-88b7-02057917fb9a.json"
                         }
                     ],
                     "width": 2176,
@@ -8468,7 +8468,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/43980deb-0076-4089-a91d-93734d7b9c17/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/43980deb-0076-4089-a91d-93734d7b9c17.json"
                         }
                     ],
                     "width": 2184,
@@ -8500,7 +8500,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8a00138f-b0b2-4cb4-a26b-142b5d286fc8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8a00138f-b0b2-4cb4-a26b-142b5d286fc8.json"
                         }
                     ],
                     "width": 2178,
@@ -8532,7 +8532,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e4d85ed1-998a-49d6-918c-29ca8796e8b5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e4d85ed1-998a-49d6-918c-29ca8796e8b5.json"
                         }
                     ],
                     "width": 2196,
@@ -8564,7 +8564,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/27baf897-d7c2-4017-b86e-73d72290cafd/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/27baf897-d7c2-4017-b86e-73d72290cafd.json"
                         }
                     ],
                     "width": 2144,
@@ -8596,7 +8596,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5624453b-711e-4250-8e5b-265fd2b13323/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5624453b-711e-4250-8e5b-265fd2b13323.json"
                         }
                     ],
                     "width": 2183,
@@ -8628,7 +8628,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/ec985c3b-6e5b-46e3-9720-13108baf43ae/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/ec985c3b-6e5b-46e3-9720-13108baf43ae.json"
                         }
                     ],
                     "width": 2158,
@@ -8660,7 +8660,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/6737f93f-dd61-4579-af2a-afc67ace54a9/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/6737f93f-dd61-4579-af2a-afc67ace54a9.json"
                         }
                     ],
                     "width": 2186,
@@ -8692,7 +8692,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e4a8ebc1-e357-41b0-9c1d-e797d92d6fc9/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e4a8ebc1-e357-41b0-9c1d-e797d92d6fc9.json"
                         }
                     ],
                     "width": 2162,
@@ -8724,7 +8724,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/59d88915-a0ea-4a8a-a11f-084efa8cff5b/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/59d88915-a0ea-4a8a-a11f-084efa8cff5b.json"
                         }
                     ],
                     "width": 2184,
@@ -8756,7 +8756,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/802a0760-7bd9-4755-9a98-cd5a09ba186a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/802a0760-7bd9-4755-9a98-cd5a09ba186a.json"
                         }
                     ],
                     "width": 2156,
@@ -8788,7 +8788,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/79544912-79a9-4793-ae2d-a5c3422a5695/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/79544912-79a9-4793-ae2d-a5c3422a5695.json"
                         }
                     ],
                     "width": 2165,
@@ -8820,7 +8820,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/91b94de4-d391-4626-bcc6-a6f5f723b28a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/91b94de4-d391-4626-bcc6-a6f5f723b28a.json"
                         }
                     ],
                     "width": 2152,
@@ -8852,7 +8852,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d1953e16-8cc6-4291-a2bb-b34b420c4699/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d1953e16-8cc6-4291-a2bb-b34b420c4699.json"
                         }
                     ],
                     "width": 2168,
@@ -8884,7 +8884,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/12e9e6a6-5cb4-478a-8dd4-1103dafb19ca/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/12e9e6a6-5cb4-478a-8dd4-1103dafb19ca.json"
                         }
                     ],
                     "width": 2159,
@@ -8916,7 +8916,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/52040a09-5b1d-4d57-85a1-9e15bb240e39/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/52040a09-5b1d-4d57-85a1-9e15bb240e39.json"
                         }
                     ],
                     "width": 2177,
@@ -8948,7 +8948,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e575f3a1-d6bd-4d57-ba4d-22103a36639f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e575f3a1-d6bd-4d57-ba4d-22103a36639f.json"
                         }
                     ],
                     "width": 2161,
@@ -8980,7 +8980,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e550f023-30e4-41e9-8a15-0f96bb1aa6af/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e550f023-30e4-41e9-8a15-0f96bb1aa6af.json"
                         }
                     ],
                     "width": 2180,
@@ -9012,7 +9012,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/11091e11-90e2-44dd-a74d-27fe171b3ab4/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/11091e11-90e2-44dd-a74d-27fe171b3ab4.json"
                         }
                     ],
                     "width": 2161,
@@ -9044,7 +9044,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/dcca181a-181c-4a2e-8ac0-62c9a42f2330/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/dcca181a-181c-4a2e-8ac0-62c9a42f2330.json"
                         }
                     ],
                     "width": 2167,
@@ -9076,7 +9076,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d57c289b-752d-40bc-b65f-6f9853575a6e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d57c289b-752d-40bc-b65f-6f9853575a6e.json"
                         }
                     ],
                     "width": 2151,
@@ -9108,7 +9108,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b76db84a-0698-4a6f-bbc1-0c0d9c09ae1f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b76db84a-0698-4a6f-bbc1-0c0d9c09ae1f.json"
                         }
                     ],
                     "width": 2176,
@@ -9140,7 +9140,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eda8641c-eb57-4227-a9ac-a366520f801a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eda8641c-eb57-4227-a9ac-a366520f801a.json"
                         }
                     ],
                     "width": 2144,
@@ -9172,7 +9172,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3b499896-f311-44bd-be73-042a0b87abfe/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3b499896-f311-44bd-be73-042a0b87abfe.json"
                         }
                     ],
                     "width": 2173,
@@ -9204,7 +9204,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2fae5d72-158c-4bb0-801d-8e6ca7d8f4f1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2fae5d72-158c-4bb0-801d-8e6ca7d8f4f1.json"
                         }
                     ],
                     "width": 2161,
@@ -9236,7 +9236,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/015069ce-a74e-4eaa-8b23-1f5f92b3397f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/015069ce-a74e-4eaa-8b23-1f5f92b3397f.json"
                         }
                     ],
                     "width": 2179,
@@ -9268,7 +9268,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cd321da6-8fe0-4281-80ba-1637703691be/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/cd321da6-8fe0-4281-80ba-1637703691be.json"
                         }
                     ],
                     "width": 2147,
@@ -9300,7 +9300,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9d89caa1-a256-4f70-8167-7094313ae2b2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9d89caa1-a256-4f70-8167-7094313ae2b2.json"
                         }
                     ],
                     "width": 2160,
@@ -9332,7 +9332,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fa1a3479-06ba-4759-89ba-2e4e36dc14f2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fa1a3479-06ba-4759-89ba-2e4e36dc14f2.json"
                         }
                     ],
                     "width": 2148,
@@ -9364,7 +9364,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8ccb9672-cb69-4e5b-801c-2c569abca09c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8ccb9672-cb69-4e5b-801c-2c569abca09c.json"
                         }
                     ],
                     "width": 2165,
@@ -9396,7 +9396,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9589395b-098f-4228-ac5e-8111b78a35b5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9589395b-098f-4228-ac5e-8111b78a35b5.json"
                         }
                     ],
                     "width": 2141,
@@ -9428,7 +9428,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2547a710-3788-4a3c-a5cd-90364ab016ed/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2547a710-3788-4a3c-a5cd-90364ab016ed.json"
                         }
                     ],
                     "width": 2173,
@@ -9460,7 +9460,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8264200f-8e88-47d9-943b-7d0872b00f9d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8264200f-8e88-47d9-943b-7d0872b00f9d.json"
                         }
                     ],
                     "width": 2148,
@@ -9492,7 +9492,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a861e301-ced5-4e01-ac50-afa11a10d16e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a861e301-ced5-4e01-ac50-afa11a10d16e.json"
                         }
                     ],
                     "width": 2174,
@@ -9524,7 +9524,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/c819b38a-3851-4dcb-bd6b-d9cbacd30601/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/c819b38a-3851-4dcb-bd6b-d9cbacd30601.json"
                         }
                     ],
                     "width": 2158,
@@ -9556,7 +9556,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1b681f4b-754b-4343-a684-9d6ecab25217/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1b681f4b-754b-4343-a684-9d6ecab25217.json"
                         }
                     ],
                     "width": 2161,
@@ -9588,7 +9588,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a6911fdf-f004-4b4b-9d61-7a32cad098a2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a6911fdf-f004-4b4b-9d61-7a32cad098a2.json"
                         }
                     ],
                     "width": 2138,
@@ -9620,7 +9620,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/349e2b38-38f9-4724-a23a-7ab74c90d98d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/349e2b38-38f9-4724-a23a-7ab74c90d98d.json"
                         }
                     ],
                     "width": 2145,
@@ -9652,7 +9652,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2a4b90d8-194a-4e9e-b095-7ae6379a05d0/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2a4b90d8-194a-4e9e-b095-7ae6379a05d0.json"
                         }
                     ],
                     "width": 2141,
@@ -9684,7 +9684,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/0f5c2b0e-0c2d-4335-beab-4b860c105637/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/0f5c2b0e-0c2d-4335-beab-4b860c105637.json"
                         }
                     ],
                     "width": 2173,
@@ -9716,7 +9716,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/948126af-ec00-448a-9c45-ace5905c8b7f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/948126af-ec00-448a-9c45-ace5905c8b7f.json"
                         }
                     ],
                     "width": 2144,
@@ -9748,7 +9748,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/131e83a4-90fc-4f6b-bff0-d3c7a7bf581a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/131e83a4-90fc-4f6b-bff0-d3c7a7bf581a.json"
                         }
                     ],
                     "width": 2171,
@@ -9780,7 +9780,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/947ad358-8033-4170-91fd-bd1999e47244/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/947ad358-8033-4170-91fd-bd1999e47244.json"
                         }
                     ],
                     "width": 2134,
@@ -9812,7 +9812,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fe0cb0c8-9049-4fcc-8735-0bf7923601d3/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fe0cb0c8-9049-4fcc-8735-0bf7923601d3.json"
                         }
                     ],
                     "width": 2161,
@@ -9844,7 +9844,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/2bbdcab8-a111-4cd3-8815-bedad1297a5c/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/2bbdcab8-a111-4cd3-8815-bedad1297a5c.json"
                         }
                     ],
                     "width": 2134,
@@ -9876,7 +9876,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/67f458ac-fddd-4cfb-8576-4e49b8a57b63/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/67f458ac-fddd-4cfb-8576-4e49b8a57b63.json"
                         }
                     ],
                     "width": 2159,
@@ -9908,7 +9908,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1a3649bb-93a9-4a89-8a77-b04df6d0c749/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1a3649bb-93a9-4a89-8a77-b04df6d0c749.json"
                         }
                     ],
                     "width": 2144,
@@ -9940,7 +9940,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/21781b1d-ac6a-4e90-81c4-0877c67f54e8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/21781b1d-ac6a-4e90-81c4-0877c67f54e8.json"
                         }
                     ],
                     "width": 2166,
@@ -9972,7 +9972,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e227a77c-6325-46c4-b7d2-c906de6946dc/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e227a77c-6325-46c4-b7d2-c906de6946dc.json"
                         }
                     ],
                     "width": 2142,
@@ -10004,7 +10004,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/f1b9ddb3-ce45-43c7-92d8-83ee1b3791c8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/f1b9ddb3-ce45-43c7-92d8-83ee1b3791c8.json"
                         }
                     ],
                     "width": 2161,
@@ -10036,7 +10036,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/455a8de8-a8eb-471d-ba0b-c6fae26cee91/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/455a8de8-a8eb-471d-ba0b-c6fae26cee91.json"
                         }
                     ],
                     "width": 2135,
@@ -10068,7 +10068,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a785d8a4-d2f6-4b40-ae21-d854ab5e89e5/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a785d8a4-d2f6-4b40-ae21-d854ab5e89e5.json"
                         }
                     ],
                     "width": 2161,
@@ -10100,7 +10100,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eb1526cd-ac25-4108-b1fb-caf87e92b3f9/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eb1526cd-ac25-4108-b1fb-caf87e92b3f9.json"
                         }
                     ],
                     "width": 2127,
@@ -10132,7 +10132,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8126f72c-dff2-48c5-a4f6-8cf5f2208fa8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8126f72c-dff2-48c5-a4f6-8cf5f2208fa8.json"
                         }
                     ],
                     "width": 2165,
@@ -10164,7 +10164,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/eb7d9808-a361-4a1c-8797-6db342966d04/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/eb7d9808-a361-4a1c-8797-6db342966d04.json"
                         }
                     ],
                     "width": 2144,
@@ -10196,7 +10196,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5aa25fbb-53c0-483c-80fa-bcab11395a7d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5aa25fbb-53c0-483c-80fa-bcab11395a7d.json"
                         }
                     ],
                     "width": 2154,
@@ -10228,7 +10228,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/66b8f044-83e1-483b-8e1b-96c1dd8428e1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/66b8f044-83e1-483b-8e1b-96c1dd8428e1.json"
                         }
                     ],
                     "width": 2122,
@@ -10260,7 +10260,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/9755dbaf-15fd-43e5-9982-fbe6f669615d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/9755dbaf-15fd-43e5-9982-fbe6f669615d.json"
                         }
                     ],
                     "width": 2172,
@@ -10292,7 +10292,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/5ba62eb8-e474-47c3-97c5-d5089393bb7d/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/5ba62eb8-e474-47c3-97c5-d5089393bb7d.json"
                         }
                     ],
                     "width": 2124,
@@ -10324,7 +10324,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/35410319-e40a-466e-b463-1ee31393de54/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/35410319-e40a-466e-b463-1ee31393de54.json"
                         }
                     ],
                     "width": 2163,
@@ -10356,7 +10356,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/8509b96b-0927-4a6f-8d74-14df7195e6df/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/8509b96b-0927-4a6f-8d74-14df7195e6df.json"
                         }
                     ],
                     "width": 2137,
@@ -10388,7 +10388,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/91f4a51b-6dca-414a-a4e9-15805f68fa7f/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/91f4a51b-6dca-414a-a4e9-15805f68fa7f.json"
                         }
                     ],
                     "width": 2147,
@@ -10420,7 +10420,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/edabd5cd-93b3-4d2e-b07b-fa656096d8bf/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/edabd5cd-93b3-4d2e-b07b-fa656096d8bf.json"
                         }
                     ],
                     "width": 2127,
@@ -10452,7 +10452,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/e83095a0-f796-4550-bde2-84ab7ce240b8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/e83095a0-f796-4550-bde2-84ab7ce240b8.json"
                         }
                     ],
                     "width": 2163,
@@ -10484,7 +10484,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/a1f3fc31-5da6-4b01-8379-e90199a4b623/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/a1f3fc31-5da6-4b01-8379-e90199a4b623.json"
                         }
                     ],
                     "width": 2130,
@@ -10516,7 +10516,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/3ea0fb3b-bb7b-49b4-84a6-0c2fef6d08be/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/3ea0fb3b-bb7b-49b4-84a6-0c2fef6d08be.json"
                         }
                     ],
                     "width": 2152,
@@ -10548,7 +10548,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/bd0ebc71-be43-423f-826f-04dc93b1b94e/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/bd0ebc71-be43-423f-826f-04dc93b1b94e.json"
                         }
                     ],
                     "width": 2128,
@@ -10580,7 +10580,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/833a8503-3847-4dcf-8320-693fe5046fb8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/833a8503-3847-4dcf-8320-693fe5046fb8.json"
                         }
                     ],
                     "width": 2134,
@@ -10612,7 +10612,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/1a9ab1fe-4dcb-479c-bf67-14464cadf889/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/1a9ab1fe-4dcb-479c-bf67-14464cadf889.json"
                         }
                     ],
                     "width": 2124,
@@ -10644,7 +10644,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/b66b6c6c-eb11-4785-bca2-341df8da76c8/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/b66b6c6c-eb11-4785-bca2-341df8da76c8.json"
                         }
                     ],
                     "width": 2248,
@@ -10676,7 +10676,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/07610d33-3494-4f3c-a0c6-97875c682f37/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/07610d33-3494-4f3c-a0c6-97875c682f37.json"
                         }
                     ],
                     "width": 2357,
@@ -10708,7 +10708,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/fd4a3956-fe2e-45dc-963e-872f288c1f0a/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/fd4a3956-fe2e-45dc-963e-872f288c1f0a.json"
                         }
                     ],
                     "width": 909,
@@ -10740,7 +10740,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/82c7b9bc-3642-41af-b909-671dc10a55ee/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/82c7b9bc-3642-41af-b909-671dc10a55ee.json"
                         }
                     ],
                     "width": 946,
@@ -10772,7 +10772,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/d388ccc1-3742-416e-960b-83fd170053f2/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/d388ccc1-3742-416e-960b-83fd170053f2.json"
                         }
                     ],
                     "width": 919,
@@ -10804,7 +10804,7 @@
                         {
                             "@type": "sc:AnnotationList",
                             "label": "Transcriptions",
-                            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/4730c992-8903-4f13-86a6-9ce61f82a1a1/transcriptions/?format=json"
+                            "@id":  "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/4730c992-8903-4f13-86a6-9ce61f82a1a1.json"
                         }
                     ],
                     "width": 930,
