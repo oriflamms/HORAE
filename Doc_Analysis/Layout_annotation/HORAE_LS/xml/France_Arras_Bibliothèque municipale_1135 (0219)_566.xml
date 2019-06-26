@@ -1,0 +1,45 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+TRP</Creator>
+<Created>2019-03-27T13:57:28.502+01:00</Created>
+<LastChange>2019-04-04T18:51:29.781+02:00</LastChange>
+</Metadata>
+<Page imageFilename="https://iiif.irht.cnrs.fr/iiif/Arras/620416201_MS1135_0219/jp2/620416201_MS1135_0219_0196B/full/full/0/default.jpg" imageHeight="8279" imageWidth="6149">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1554396689829">
+<RegionRefIndexed index="2" regionRef="region_1554396561977_423"/>
+</OrderedGroup>
+</ReadingOrder>
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554396541550_415">
+<Coords points="1490,985 6149,985 6149,7364 1490,7364"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:decorated_border;}" id="Image_1554396552926_419">
+<Coords points="2100,2068 3129,2068 3129,5508 2100,5508"/>
+</ImageRegion>
+<TextRegion custom="readingOrder {index:2;}" id="region_1554396561977_423" orientation="0.0">
+<Coords points="3156,2082 5486,2082 5486,2718 3156,2718"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1554396665705_468">
+<Coords points="3179,2246 5346,2289 5345,2339 3178,2296"/>
+<Baseline points="3178,2291 5345,2334"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="line_1554396670313_473">
+<Coords points="3179,2479 5423,2527 5422,2577 3178,2529"/>
+<Baseline points="3178,2524 5422,2572"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode>
+</Unicode>
+</TextEquiv>
+</TextRegion>
+<SeparatorRegion custom="readingOrder {index:3;} structure {type:line_filler;}" id="Separator_1554396680985_478">
+<Coords points="4879,2416 5470,2416 5470,2624 4879,2624"/>
+</SeparatorRegion>
+</Page>
+</PcGts>

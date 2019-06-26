@@ -1,0 +1,35 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+TRP</Creator>
+<Created>2019-03-27T09:39:51.110+01:00</Created>
+<LastChange>2019-04-04T17:00:49.412+02:00</LastChange>
+</Metadata>
+<Page imageFilename="https://iiif.irht.cnrs.fr/iiif/Angers/M490075203_MS2003_1_784/jp2/M490075203_MS2003_1_784_0001/full/full/0/default.jpg" imageHeight="5412" imageWidth="7216">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1554390049464">
+<RegionRefIndexed index="2" regionRef="region_1554389948595_696"/>
+</OrderedGroup>
+</ReadingOrder>
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554389612140_647">
+<Coords points="2498,1058 4821,1058 4821,4859 2498,4859"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:miniature;}" id="Image_1554389634837_651">
+<Coords points="2637,1197 4701,1197 4701,4543 2637,4543"/>
+</ImageRegion>
+<TextRegion custom="readingOrder {index:2;}" id="region_1554389948595_696">
+<Coords points="2875,4593 4629,4593 4629,4828 2875,4828"/>
+<TextLine custom="readingOrder {index:0;}" id="line_1554390013041_703">
+<Coords points="2945,4612 4572,4603 4572,4782 2945,4791"/>
+<Baseline points="2966,4786 4572,4777"/>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextLine>
+<TextEquiv>
+<Unicode/>
+</TextEquiv>
+</TextRegion>
+</Page>
+</PcGts>

@@ -1,0 +1,9 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:45.143+02:00</Created>
+        <LastChange>2019-05-03T10:53:45.143+02:00</LastChange>
+        <TranskribusMetadata docId="158113" pageId="5831062" pageNr="99" tsid="9831036" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=OYLVVZRELLBTKQJYJZBYDXAZ&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=QRMQJFQHXQVPQDIVTHMJPDAN" imageId="3469647"/>
+    </Metadata>
+    <Page imageFilename="https://ids.lib.harvard.edu/ids/iiif/5981110/full/full/0/default.jpg" imageWidth="2253" imageHeight="2400"/>
+</PcGts>

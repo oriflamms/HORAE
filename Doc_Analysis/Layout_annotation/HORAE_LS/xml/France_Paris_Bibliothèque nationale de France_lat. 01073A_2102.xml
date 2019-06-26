@@ -1,0 +1,22 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:13.959+02:00</Created>
+        <LastChange>2019-05-15T23:46:18.514+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830797" pageNr="45" tsid="10175441" status="IN_PROGRESS" userId="35276" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=QBIXRFOAAUPCFSIVQTASGNCQ&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=VPERLLESFXQIEGHZWLMDWLFW" imageId="3469489"/>
+    </Metadata>
+    <Page imageFilename="https://gallica.bnf.fr/iiif/ark:/12148/btv1b90665847/f4/full/full/0/default.jpg" imageWidth="5667" imageHeight="3946">
+        <UnknownRegion id="UnknownRegion_1557956732933_3038" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="347,259 2950,259 2950,3892 347,3892"/>
+        </UnknownRegion>
+        <UnknownRegion id="UnknownRegion_1557956736641_3041" custom="readingOrder {index:1;} structure {type:page;}">
+            <Coords points="2972,224 5469,224 5469,3831 2972,3831"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1557956745170_3044" custom="readingOrder {index:2;} structure {type:miniature;}">
+            <Coords points="1092,493 2673,493 2673,2998 1092,2998"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557956748818_3047" custom="readingOrder {index:3;} structure {type:miniature;}">
+            <Coords points="3157,457 4720,457 4720,2950 3157,2950"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,9 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:06.087+02:00</Created>
+        <LastChange>2019-05-03T10:53:06.087+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830733" pageNr="11" tsid="9830485" status="NEW" userId="31936" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=HDOKEIGCRXDQEBCOHYUNQVGE&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=TMDHRPDXGWLIRKTRPJQEDUKX" imageId="3469425"/>
+    </Metadata>
+    <Page imageFilename="https://iiif.irht.cnrs.fr/iiif/Beaune/210545209_0006/jp2/210545209_006_0010/full/full/0/default.jpg" imageWidth="6496" imageHeight="4872"/>
+</PcGts>
