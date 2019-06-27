@@ -1,0 +1,27 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>TRP</Creator>
+<Created>2019-03-27T16:36:06.509+01:00</Created>
+<LastChange>2019-04-09T15:13:39.612+02:00</LastChange>
+</Metadata>
+<Page imageFilename="https://stacks.stanford.edu/image/iiif/qm670kv1873%2FW168_000206_300/full/full/0/default.jpg" imageHeight="2049" imageWidth="1335">
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554815524442_467">
+<Coords points="122,78 1301,78 1301,1980 122,1980"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:miniature;}" id="Image_1554815551199_474">
+<Coords points="1215,1386 532,1386 532,389 1215,389"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:2;} structure {type:illustrated_border;}" id="Image_1554815569146_481">
+<Coords points="553,194 187,194 187,1669 553,1669"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:3;} structure {type:illustrated_border;}" id="Image_1554815575268_484">
+<Coords points="187,1669 1297,1669 1297,1376 187,1376"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:4;} structure {type:illustrated_border;}" id="Image_1554815585926_487">
+<Coords points="187,143 1304,143 1304,402 187,402"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:5;} structure {type:decorated_border;}" id="Image_1554815604302_490">
+<Coords points="1297,177 1181,177 1181,1676 1297,1676"/>
+</ImageRegion>
+</Page>
+</PcGts>

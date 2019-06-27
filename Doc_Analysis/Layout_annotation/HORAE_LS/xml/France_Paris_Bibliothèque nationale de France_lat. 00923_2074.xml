@@ -1,0 +1,28 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>TRP</Creator>
+        <Created>2019-05-03T10:53:13.739+02:00</Created>
+        <LastChange>2019-05-15T23:45:12.884+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830795" pageNr="44" tsid="10175408" status="IN_PROGRESS" userId="35276" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=ROVNXWLHGTKJUXPSRRFWTQSK&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=OXSAXZXWDJERIKQPAOLAWDRZ" imageId="3469487"/>
+    </Metadata>
+    <Page imageFilename="https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/f12/full/full/0/default.jpg" imageWidth="2592" imageHeight="3981">
+        <UnknownRegion id="UnknownRegion_1557956563740_2994" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="66,39 2540,39 2540,3901 66,3901"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1557956578664_2997" custom="readingOrder {index:1;} structure {type:decorated_border;}">
+            <Coords points="136,66 2562,66 2562,484 136,484"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557956582977_3000" custom="readingOrder {index:2;} structure {type:decorated_border;}">
+            <Coords points="2082,268 2540,268 2540,3571 2082,3571"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557956586969_3003" custom="readingOrder {index:3;} structure {type:decorated_border;}">
+            <Coords points="2536,3602 79,3602 79,3329 2536,3329"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557956594752_3006" custom="readingOrder {index:4;} structure {type:decorated_border;}">
+            <Coords points="713,3545 101,3545 101,83 713,83"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1557956600806_3009" custom="readingOrder {index:5;} structure {type:miniature;}">
+            <Coords points="709,444 2091,444 2091,3320 709,3320"/>
+        </ImageRegion>
+    </Page>
+</PcGts>

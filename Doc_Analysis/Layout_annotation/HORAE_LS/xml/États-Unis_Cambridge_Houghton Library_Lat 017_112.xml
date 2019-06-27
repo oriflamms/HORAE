@@ -1,0 +1,55 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=?2.2.1
+TRP</Creator>
+<Created>2019-03-26T16:51:52.498+01:00</Created>
+<LastChange>2019-04-04T17:18:27.313+02:00</LastChange>
+</Metadata>
+<Page imageFilename="https://ids.lib.harvard.edu/ids/iiif/10840861/full/full/0/default.jpg" imageHeight="2400" imageWidth="2356">
+<ReadingOrder>
+<OrderedGroup caption="Regions reading order" id="ro_1554391107362">
+<RegionRefIndexed index="4" regionRef="region_1554390862334_202"/>
+</OrderedGroup>
+</ReadingOrder>
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554390790477_186">
+<Coords points="49,111 1460,111 1460,2313 49,2313"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:miniature;}" id="Image_1554390819366_190">
+<Coords points="214,230 919,230 919,1332 214,1332"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:2;} structure {type:decorated_border;}" id="Image_1554390829101_193">
+<Coords points="908,237 1251,237 1251,2015 908,2015"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:3;} structure {type:decorated_border;}" id="Image_1554390834897_196">
+<Coords points="87,222 218,222 218,2022 87,2022"/>
+</ImageRegion>
+<TextRegion custom="readingOrder {index:4;}" id="region_1554390862334_202" orientation="0.0">
+<Coords points="226,1346 911,1346 911,1584 226,1584"/>
+<TextLine custom="readingOrder {index:0;}" id="region_1554390862334_202l1">
+<Coords points="552,1414 577,1414 602,1415 627,1415 652,1415 678,1416 703,1416 728,1417 753,1417 778,1417 804,1417 829,1417 854,1417 879,1416 905,1415 905,1363 879,1364 854,1365 829,1365 804,1365 778,1365 753,1365 728,1365 703,1364 678,1364 652,1363 627,1363 602,1363 577,1362 552,1362"/>
+<Baseline points="552,1397 577,1397 602,1398 627,1398 652,1398 678,1399 703,1399 728,1400 753,1400 778,1400 804,1400 829,1400 854,1400 879,1399 905,1398"/>
+</TextLine>
+<TextLine custom="readingOrder {index:1;}" id="region_1554390862334_202l2">
+<Coords points="535,1491 560,1491 586,1490 612,1490 637,1490 663,1489 689,1489 715,1488 740,1488 766,1488 792,1487 817,1487 843,1486 869,1486 895,1485 895,1436 869,1437 843,1437 817,1438 792,1438 766,1439 740,1439 715,1439 689,1440 663,1440 637,1441 612,1441 586,1441 560,1442 535,1442"/>
+<Baseline points="535,1475 560,1475 586,1474 612,1474 637,1474 663,1473 689,1473 715,1472 740,1472 766,1472 792,1471 817,1471 843,1470 869,1470 895,1469"/>
+</TextLine>
+<TextLine custom="readingOrder {index:2;}" id="region_1554390862334_202l4">
+<Coords points="556,1560 583,1561 610,1562 637,1562 664,1562 692,1563 719,1564 746,1564 773,1565 903,1560 903,1509 773,1514 746,1513 719,1513 692,1512 664,1511 637,1511 610,1511 583,1510 556,1509"/>
+<Baseline points="556,1543 583,1544 610,1545 637,1545 664,1545 692,1546 719,1547 746,1547 773,1548 801,1550"/>
+</TextLine>
+<TextEquiv>
+<Unicode>
+</Unicode>
+</TextEquiv>
+</TextRegion>
+<ImageRegion custom="readingOrder {index:5;} structure {type:decorated_border;}" id="Image_1554390840343_199">
+<Coords points="90,1606 1255,1606 1255,2026 90,2026"/>
+</ImageRegion>
+<SeparatorRegion custom="readingOrder {index:6;} structure {type:decorated_initial;}" id="Separator_1554391046309_220">
+<Coords points="226,1350 535,1350 535,1575 226,1575"/>
+</SeparatorRegion>
+<SeparatorRegion custom="readingOrder {index:7;} structure {type:line_filler;}" id="Separator_1554391050364_223">
+<Coords points="749,1489 861,1489 861,1556 749,1556"/>
+</SeparatorRegion>
+</Page>
+</PcGts>

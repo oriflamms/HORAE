@@ -1,0 +1,71 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.3.1
+TRP</Creator>
+        <Created>2019-05-03T10:53:19.992+02:00</Created>
+        <LastChange>2019-05-17T22:43:12.308+02:00</LastChange>
+        <TranskribusMetadata docId="158114" pageId="5830830" pageNr="72" tsid="10250511" status="IN_PROGRESS" userId="35276" imgUrl="https://dbis-thure.uibk.ac.at/f/Get?id=IOYEJZNPSWMAAAMLSTAYAMNH&amp;fileType=view" xmlUrl="https://dbis-thure.uibk.ac.at/f/Get?id=GHPORLTRSBACVFHVAAEJSNXL" imageId="3469522"/>
+    </Metadata>
+    <Page imageFilename="https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509693s/f35/full/full/0/default.jpg" imageWidth="4929" imageHeight="7233">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1558687021620" caption="Regions reading order">
+                <RegionRefIndexed index="2" regionRef="region_1558125583711_133"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <UnknownRegion id="UnknownRegion_1558125480168_114" custom="readingOrder {index:0;} structure {type:page;}">
+            <Coords points="181,140 4824,140 4824,7051 181,7051"/>
+        </UnknownRegion>
+        <ImageRegion id="Image_1558125492279_117" custom="readingOrder {index:1;} structure {type:decorated_border;}">
+            <Coords points="181,140 973,140 973,6738 181,6738"/>
+        </ImageRegion>
+        <TextRegion orientation="0.0" id="region_1558125583711_133" custom="readingOrder {index:2;}">
+            <Coords points="931,3653 3232,3653 3232,4560 931,4560"/>
+            <TextLine id="line_1558125747828_174" custom="readingOrder {index:0;}">
+                <Coords points="1018,3737 3054,3715 3058,3818 1022,3840"/>
+                <Baseline points="1022,3835 3058,3813"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1558125753560_179" custom="readingOrder {index:1;}">
+                <Coords points="1788,3899 3164,3881 3169,4027 1793,4045"/>
+                <Baseline points="1793,4040 3169,4022"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1558125757968_184" custom="readingOrder {index:2;}">
+                <Coords points="1757,4108 3088,4089 3097,4243 1766,4262"/>
+                <Baseline points="1766,4257 3097,4238"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="line_1558125761954_189" custom="readingOrder {index:3;}">
+                <Coords points="1781,4322 3103,4306 3110,4445 1788,4461"/>
+                <Baseline points="1788,4456 3110,4440"/>
+                <TextEquiv>
+                    <Unicode/>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+
+
+</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <ImageRegion id="Image_1558125500840_120" custom="readingOrder {index:3;} structure {type:decorated_border;}">
+            <Coords points="214,4569 4800,4569 4800,6729 214,6729"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558125513227_123" custom="readingOrder {index:4;} structure {type:decorated_border;}">
+            <Coords points="4800,6729 3142,6729 3142,181 4800,181"/>
+        </ImageRegion>
+        <ImageRegion id="Image_1558125524954_129" custom="readingOrder {index:5;} structure {type:miniature;}">
+            <Coords points="3125,3587 1014,3587 1014,239 3125,239"/>
+        </ImageRegion>
+        <SeparatorRegion id="Separator_1558125591988_136" custom="readingOrder {index:6;} structure {type:decorated_initial;}">
+            <Coords points="940,3843 1773,3843 1773,4527 940,4527"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

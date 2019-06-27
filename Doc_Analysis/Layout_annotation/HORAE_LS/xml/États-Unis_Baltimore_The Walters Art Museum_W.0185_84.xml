@@ -1,0 +1,27 @@
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<Metadata>
+<Creator>TRP</Creator>
+<Created>2019-03-26T20:37:30.041+01:00</Created>
+<LastChange>2019-04-11T16:17:41.078+02:00</LastChange>
+</Metadata>
+<Page imageFilename="https://stacks.stanford.edu/image/iiif/by397hw6027%2FW185_000148_300/full/full/0/default.jpg" imageHeight="1754" imageWidth="1218">
+<UnknownRegion custom="readingOrder {index:0;} structure {type:page;}" id="UnknownRegion_1554992147207_1334">
+<Coords points="134,130 1164,130 1164,1627 134,1627"/>
+</UnknownRegion>
+<ImageRegion custom="readingOrder {index:1;} structure {type:miniature;}" id="Image_1554992160261_1337">
+<Coords points="472,365 1016,365 1016,1172 472,1172"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:2;} structure {type:decorated_border;}" id="Image_1554992172545_1340">
+<Coords points="298,213 1155,213 1155,363 298,363"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:3;} structure {type:decorated_border;}" id="Image_1554992181105_1343">
+<Coords points="491,206 285,206 285,1338 491,1338"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:4;} structure {type:decorated_border;}" id="Image_1554992186464_1346">
+<Coords points="278,1166 1159,1166 1159,1340 278,1340"/>
+</ImageRegion>
+<ImageRegion custom="readingOrder {index:5;} structure {type:decorated_border;}" id="Image_1554992191033_1349">
+<Coords points="1155,213 1020,213 1020,1333 1155,1333"/>
+</ImageRegion>
+</Page>
+</PcGts>
