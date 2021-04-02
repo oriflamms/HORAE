@@ -11192,6 +11192,7 @@
                 "https://arkindex.dev.teklia.com/api/v1/manifest/4730c992-8903-4f13-86a6-9ce61f82a1a1/canvas/"
             ],
             "@id": "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/https___gallica.bnf.fr_iiif_ark__12148_btv1b550103864_manifest.json",
+            "label": "France, Paris, Bibliothèque de l'Arsenal, 1194",
             "@type": "sc:Range"
         },
         {
