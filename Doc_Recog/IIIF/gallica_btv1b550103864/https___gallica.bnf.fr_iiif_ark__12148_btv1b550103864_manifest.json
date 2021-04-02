@@ -10,6 +10,7 @@
         "@id": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/f1/full/200,/0/default.jpg"
     },
     "@id": "https://raw.githubusercontent.com/oriflamms/HORAE/master/Doc_Recog/IIIF/gallica_btv1b550103864/https___gallica.bnf.fr_iiif_ark__12148_btv1b550103864_manifest.json",
+    "label": "France, Paris, Bibliothèque de l'Arsenal, 1194",
     "sequences": [
         {
             "canvases": [
@@ -11190,8 +11191,6 @@
                 "https://arkindex.dev.teklia.com/api/v1/manifest/d388ccc1-3742-416e-960b-83fd170053f2/canvas/",
                 "https://arkindex.dev.teklia.com/api/v1/manifest/4730c992-8903-4f13-86a6-9ce61f82a1a1/canvas/"
             ],
-            "label": "France, Paris, Bibliothèque de l'Arsenal, 1194",
-            "@id": "https://arkindex.dev.teklia.com/api/v1/manifest/cb0c637f-fd08-4869-969d-acf191a851ab/pages/",
             "@type": "sc:Range"
         },
         {
