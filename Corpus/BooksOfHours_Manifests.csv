@@ -28,6 +28,7 @@ CHE;Luzern;Zentral- und Hochschulbibliothek;P 6 4°;https://www.e-codices.unifr.
 CHE;Neuchâtel;Bibliothèque publique et universitaire de Neuchâtel;AF A28;https://www.e-codices.unifr.ch/metadata/iiif/bpun-A0028/manifest.json;Manuscript;546
 CHE;Porrentruy;Bibliothèque cantonale jurassienne;Ms. 9;https://www.e-codices.unifr.ch/metadata/iiif/bcj-0009/manifest.json;Manuscript;547
 CHE;Sarnen;Benediktinerkollegium;Cod. membr. 64;https://www.e-codices.unifr.ch/metadata/iiif/bks-membr0064/manifest.json;Manuscript;562
+CHE;St. Gallen;Kantonsbibliothek, Vadianische Sammlung;VadSlg Ms 327;https://www.e-codices.ch/metadata/iiif/vad-0327/manifest.json;Manuscript;725176
 CHE;St. Gallen;Stiftsbibliothek;Cod. Sang. 2107;https://www.e-codices.unifr.ch/metadata/iiif/csg-2107/manifest.json;Manuscript;566
 CHE;St. Gallen;Stiftsbibliothek;Cod. Sang. 470;https://e-codices.unifr.ch/metadata/iiif/csg-0470/manifest.json;Manuscript;567
 CHE;Trogen;Kantonsbibliothek Appenzell Ausserrhoden;CM Ms. 4;https://www.e-codices.unifr.ch/metadata/iiif/cea-0004/manifest.json;Manuscript;569
@@ -61,10 +62,13 @@ DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 126;https://fuldig.hs-fulda.de
 DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 131;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN434646423/manifest;Manuscript;774
 DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 132;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN434646644/manifest;Manuscript;775
 DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 137;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN314754601/manifest;Manuscript;777
+DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 144;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN437530361/manifest;Manuscript;724426
 DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 65;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN321296575/manifest;Manuscript;779
 DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 86;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN321296737/manifest;Manuscript;780
 DEU;Karlsruhe;Badische Landesbibliothek;Aug. perg. 267;https://digital.blb-karlsruhe.de/i3f/v20/3320343/manifest;Manuscript;799
+DEU;Karlsruhe;Badische Landesbibliothek;Donaueschingen 217;https://digital.blb-karlsruhe.de/i3f/v20/3433877/manifest;Manuscript;724430
 DEU;Karlsruhe;Badische Landesbibliothek;Durlach 1;https://digital.blb-karlsruhe.de/i3f/v20/490655/manifest;Manuscript;800
+DEU;Karlsruhe;Badische Landesbibliothek;Durlach 2;https://digital.blb-karlsruhe.de/i3f/v20/2981237/manifest;Manuscript;724421
 DEU;Karlsruhe;Badische Landesbibliothek;Karlsruhe 1271;https://digital.blb-karlsruhe.de/i3f/v20/2271795/manifest;Manuscript;801
 DEU;Karlsruhe;Badische Landesbibliothek;Karlsruhe 3118;https://digital.blb-karlsruhe.de/i3f/v20/2926713/manifest;Manuscript;804
 DEU;Karlsruhe;Badische Landesbibliothek;Karlsruhe 3125;https://digital.blb-karlsruhe.de/i3f/v20/3087863/manifest;Manuscript;805
@@ -98,12 +102,12 @@ FRA;Abbeville;Bibliothèque municipale;15;https://bvmm.irht.cnrs.fr/iiif/21537/m
 FRA;Albi;Bibliothèque municipale;0052 (004);https://bvmm.irht.cnrs.fr/iiif/2801/manifest;Manuscript;1186
 FRA;Albi;Bibliothèque municipale;0053 (002);https://bvmm.irht.cnrs.fr/iiif/2804/manifest;Manuscript;1187
 FRA;Alençon;Bibliothèque municipale;197;https://bvmm.irht.cnrs.fr/iiif/24708/manifest;Manuscript;1189
+FRA;Angers;Bibliothèque municipale;0134 (0126);https://bvmm.irht.cnrs.fr/iiif/4645/manifest;Manuscript;1230
+FRA;Angers;Bibliothèque municipale;0138 (0130);https://bvmm.irht.cnrs.fr/iiif/1069/manifest;Manuscript;1234
 FRA;Angers;Bibliothèque municipale;2047;https://bvmm.irht.cnrs.fr/iiif/4659/manifest;Manuscript;1215
 FRA;Angers;Bibliothèque municipale;2048;https://bvmm.irht.cnrs.fr/iiif/4660/manifest;Manuscript;1216
 FRA;Angers;Bibliothèque municipale;2104;https://bvmm.irht.cnrs.fr/iiif/1140/manifest;Manuscript;1217
 FRA;Angers;Bibliothèque municipale;2111;https://bvmm.irht.cnrs.fr/iiif/1141/manifest;Manuscript;1218
-FRA;Angers;Bibliothèque municipale;0134 (0126);https://bvmm.irht.cnrs.fr/iiif/4645/manifest;Manuscript;1230
-FRA;Angers;Bibliothèque municipale;0138 (0130);https://bvmm.irht.cnrs.fr/iiif/1069/manifest;Manuscript;1234
 FRA;Angers;Musée des Beaux-Arts;2003.1.071;https://bvmm.irht.cnrs.fr/iiif/1383/manifest;Manuscript;1238
 FRA;Angers;Musée des Beaux-Arts;2003.1.072;https://bvmm.irht.cnrs.fr/iiif/2385/manifest;Manuscript;1239
 FRA;Angers;Musée des Beaux-Arts;2003.1.073;https://bvmm.irht.cnrs.fr/iiif/1385/manifest;Manuscript;1240
@@ -122,7 +126,6 @@ FRA;Annecy;Bibliothèque municipale;4;https://bvmm.irht.cnrs.fr/iiif/32559/manif
 FRA;Annecy;Bibliothèque municipale;8;https://bvmm.irht.cnrs.fr/iiif/32555/manifest;Manuscript;1257
 FRA;Annecy;Bibliothèque municipale;9;https://bvmm.irht.cnrs.fr/iiif/32556/manifest;Manuscript;1258
 FRA;Argentan;Bibliothèque municipale;27;https://bvmm.irht.cnrs.fr/iiif/4257/manifest;Manuscript;1262
-FRA;Arras;Bibliothèque municipale;1282;https://bvmm.irht.cnrs.fr/iiif/33715/manifest;Manuscript;1264
 FRA;Arras;Bibliothèque municipale;0366 (0212);https://bvmm.irht.cnrs.fr/iiif/23957/manifest;Manuscript;1265
 FRA;Arras;Bibliothèque municipale;0367 (0449);https://bvmm.irht.cnrs.fr/iiif/24778/manifest;Manuscript;1266
 FRA;Arras;Bibliothèque municipale;0376 (1030);https://bvmm.irht.cnrs.fr/iiif/32262/manifest;Manuscript;1267
@@ -141,6 +144,7 @@ FRA;Arras;Bibliothèque municipale;0899 (1020);https://bvmm.irht.cnrs.fr/iiif/32
 FRA;Arras;Bibliothèque municipale;0900 (0235);https://bvmm.irht.cnrs.fr/iiif/23977/manifest;Manuscript;1290
 FRA;Arras;Bibliothèque municipale;1051 (0233);https://bvmm.irht.cnrs.fr/iiif/24000/manifest;Manuscript;1295
 FRA;Arras;Bibliothèque municipale;1135 (0219);https://bvmm.irht.cnrs.fr/iiif/24001/manifest;Manuscript;1296
+FRA;Arras;Bibliothèque municipale;1282;https://bvmm.irht.cnrs.fr/iiif/33715/manifest;Manuscript;1264
 FRA;Auch;Bibliothèque municipale;25;https://bvmm.irht.cnrs.fr/iiif/1274/manifest;Manuscript;1310
 FRA;Auch;Bibliothèque municipale;26;https://bvmm.irht.cnrs.fr/iiif/1275/manifest;Manuscript;1311
 FRA;Autun;Bibliothèque de la Société Eduenne;Album Bulliot, n° 05;https://bvmm.irht.cnrs.fr/iiif/22886/manifest;Manuscript;1314
@@ -241,13 +245,13 @@ FRA;Chantilly;Bibliothèque et archives du musée Condé;1480 (1966);https://bvm
 FRA;Chantilly;Bibliothèque et archives du musée Condé;Bernier-I-C-028;https://bvmm.irht.cnrs.fr/iiif/22223/manifest;Manuscript;1606
 FRA;Chantilly;Bibliothèque et archives du musée Condé;Bernier-I-D-041;https://bvmm.irht.cnrs.fr/iiif/22233/manifest;Manuscript;1607
 FRA;Chantilly;Bibliothèque et archives du musée Condé;Bernier-I-E-009;https://bvmm.irht.cnrs.fr/iiif/22238/manifest;Manuscript;1608
-FRA;Chartres;Bibliothèque municipale;929;https://bvmm.irht.cnrs.fr/iiif/23221/manifest;Manuscript;1625
 FRA;Chartres;Bibliothèque municipale;0547 (0493);https://bvmm.irht.cnrs.fr/iiif/23244/manifest;Manuscript;1632
+FRA;Chartres;Bibliothèque municipale;929;https://bvmm.irht.cnrs.fr/iiif/23221/manifest;Manuscript;1625
 FRA;Chartres;Bibliothèque municipale;nouv. acq. 167;https://bvmm.irht.cnrs.fr/iiif/2704/manifest;Manuscript;1641
 FRA;Chartres;Bibliothèque municipale;nouv. acq. 168;https://bvmm.irht.cnrs.fr/iiif/998/manifest;Manuscript;1642
 FRA;Chartres;Bibliothèque municipale;nouv. acq. 313;https://bvmm.irht.cnrs.fr/iiif/2752/manifest;Manuscript;1643
-FRA;Château-Gontier;Bibliothèque municipale;14;https://bvmm.irht.cnrs.fr/iiif/1231/manifest;Manuscript;1650
 FRA;Chaumont;Bibliothèque municipale;0034 (027);https://bvmm.irht.cnrs.fr/iiif/5092/manifest;Manuscript;1652
+FRA;Château-Gontier;Bibliothèque municipale;14;https://bvmm.irht.cnrs.fr/iiif/1231/manifest;Manuscript;1650
 FRA;Coutances;Bibliothèque municipale;4;https://bvmm.irht.cnrs.fr/iiif/162/manifest;Manuscript;1690
 FRA;Dieppe;Château-Musée;inv. 0978.4.4;https://bvmm.irht.cnrs.fr/iiif/20455/manifest;Manuscript;1691
 FRA;Dijon;Bibliothèque municipale;2969;https://bvmm.irht.cnrs.fr/iiif/32619/manifest;Manuscript;1698
@@ -265,9 +269,9 @@ FRA;Fécamp;Musée du Palais Bénédictine;A.10.009;https://bvmm.irht.cnrs.fr/ii
 FRA;Fécamp;Musée du Palais Bénédictine;A.10.011;https://bvmm.irht.cnrs.fr/iiif/20239/manifest;Manuscript;1765
 FRA;Fécamp;Musée du Palais Bénédictine;A.10.012;https://bvmm.irht.cnrs.fr/iiif/20240/manifest;Manuscript;1766
 FRA;Fécamp;Musée du Palais Bénédictine;A.10.013;https://bvmm.irht.cnrs.fr/iiif/20241/manifest;Manuscript;1767
+FRA;Langres;Bibliothèque municipale;0004 (0030);https://bvmm.irht.cnrs.fr/iiif/4940/manifest;Manuscript;1812
 FRA;Langres;Bibliothèque municipale;273;https://bvmm.irht.cnrs.fr/iiif/35/manifest;Manuscript;1810
 FRA;Langres;Bibliothèque municipale;360;https://bvmm.irht.cnrs.fr/iiif/36/manifest;Manuscript;1811
-FRA;Langres;Bibliothèque municipale;0004 (0030);https://bvmm.irht.cnrs.fr/iiif/4940/manifest;Manuscript;1812
 FRA;Le Mans;Bibliothèque municipale;127;https://bvmm.irht.cnrs.fr/iiif/2937/manifest;Manuscript;1819
 FRA;Le Mans;Bibliothèque municipale;186;https://bvmm.irht.cnrs.fr/iiif/2948/manifest;Manuscript;1829
 FRA;Le Mans;Bibliothèque municipale;371;https://bvmm.irht.cnrs.fr/iiif/3121/manifest;Manuscript;1831
@@ -279,7 +283,6 @@ FRA;Le Puy-en-Velay;Bibliothèque diocésaine;non coté 023;https://bvmm.irht.cn
 FRA;Le Puy-en-Velay;Bibliothèque diocésaine;non coté 025;https://bvmm.irht.cnrs.fr/iiif/32275/manifest;Manuscript;1840
 FRA;Le Puy-en-Velay;Bibliothèque municipale;Cortial 176;https://bvmm.irht.cnrs.fr/iiif/32235/manifest;Manuscript;1841
 FRA;Lyon;Bibliothèque municipale;0586 (0502);https://bvmm.irht.cnrs.fr/iiif/32622/manifest;Manuscript;1922
-FRA;Mâcon;Bibliothèque municipale;101;https://bvmm.irht.cnrs.fr/iiif/18815/manifest;Manuscript;1954
 FRA;Melun;Bibliothèque municipale;10;https://bvmm.irht.cnrs.fr/iiif/4537/manifest;Manuscript;1966
 FRA;Melun;Musée Municipal;inv. 967.47;https://bvmm.irht.cnrs.fr/iiif/4531/manifest;Manuscript;1969
 FRA;Metz;Bibliothèque municipale;570;https://bvmm.irht.cnrs.fr/iiif/24280/manifest;Manuscript;1974
@@ -290,32 +293,33 @@ FRA;Metz;Bibliothèque municipale;1484;https://bvmm.irht.cnrs.fr/iiif/23251/mani
 FRA;Metz;Bibliothèque municipale;1581;https://bvmm.irht.cnrs.fr/iiif/23380/manifest;Manuscript;1984
 FRA;Metz;Bibliothèque municipale;1588;https://bvmm.irht.cnrs.fr/iiif/23851/manifest;Manuscript;1985
 FRA;Metz;Bibliothèque municipale;1598;https://bvmm.irht.cnrs.fr/iiif/23852/manifest;Manuscript;1986
-FRA;Nantes;Bibliothèque municipale;3072;https://bvmm.irht.cnrs.fr/iiif/4297/manifest;Manuscript;2045
-FRA;Nantes;Bibliothèque municipale;3340;https://bvmm.irht.cnrs.fr/iiif/4408/manifest;Manuscript;2046
+FRA;Mâcon;Bibliothèque municipale;101;https://bvmm.irht.cnrs.fr/iiif/18815/manifest;Manuscript;1954
 FRA;Nantes;Bibliothèque municipale;0019 (lat. 0019);https://bvmm.irht.cnrs.fr/iiif/4204/manifest;Manuscript;2047
 FRA;Nantes;Bibliothèque municipale;0020 (lat. 0020);https://bvmm.irht.cnrs.fr/iiif/4203/manifest;Manuscript;2048
 FRA;Nantes;Bibliothèque municipale;0021 (lat. 0021);https://bvmm.irht.cnrs.fr/iiif/4202/manifest;Manuscript;2049
 FRA;Nantes;Bibliothèque municipale;0022 (lat. 0022);https://bvmm.irht.cnrs.fr/iiif/4201/manifest;Manuscript;2050
-FRA;Nantes;Musée Dobrée;9;https://bvmm.irht.cnrs.fr/iiif/4318/manifest;Manuscript;2053
+FRA;Nantes;Bibliothèque municipale;3072;https://bvmm.irht.cnrs.fr/iiif/4297/manifest;Manuscript;2045
+FRA;Nantes;Bibliothèque municipale;3340;https://bvmm.irht.cnrs.fr/iiif/4408/manifest;Manuscript;2046
+FRA;Nantes;Musée Dobrée;0012, t. I;https://bvmm.irht.cnrs.fr/iiif/4321/manifest;Manuscript;2062
+FRA;Nantes;Musée Dobrée;0012, t. II;https://bvmm.irht.cnrs.fr/iiif/4322/manifest;Manuscript;2063
 FRA;Nantes;Musée Dobrée;13;https://bvmm.irht.cnrs.fr/iiif/4323/manifest;Manuscript;2054
+FRA;Nantes;Musée Dobrée;2005.1.1;https://bvmm.irht.cnrs.fr/iiif/4337/manifest;Manuscript;2065
+FRA;Nantes;Musée Dobrée;9;https://bvmm.irht.cnrs.fr/iiif/4318/manifest;Manuscript;2053
 FRA;Nantes;Musée Dobrée;27;https://bvmm.irht.cnrs.fr/iiif/4328/manifest;Manuscript;2056
 FRA;Nantes;Musée Dobrée;28;https://bvmm.irht.cnrs.fr/iiif/4329/manifest;Manuscript;2057
 FRA;Nantes;Musée Dobrée;30;https://bvmm.irht.cnrs.fr/iiif/4331/manifest;Manuscript;2058
 FRA;Nantes;Musée Dobrée;31;https://bvmm.irht.cnrs.fr/iiif/4332/manifest;Manuscript;2059
 FRA;Nantes;Musée Dobrée;33;https://bvmm.irht.cnrs.fr/iiif/4334/manifest;Manuscript;2060
 FRA;Nantes;Musée Dobrée;34;https://bvmm.irht.cnrs.fr/iiif/4335/manifest;Manuscript;2061
-FRA;Nantes;Musée Dobrée;0012, t. I;https://bvmm.irht.cnrs.fr/iiif/4321/manifest;Manuscript;2062
-FRA;Nantes;Musée Dobrée;0012, t. II;https://bvmm.irht.cnrs.fr/iiif/4322/manifest;Manuscript;2063
-FRA;Nantes;Musée Dobrée;2005.1.1;https://bvmm.irht.cnrs.fr/iiif/4337/manifest;Manuscript;2065
 FRA;Nîmes;Bibliothèque municipale;6;https://bvmm.irht.cnrs.fr/iiif/5294/manifest;Manuscript;2076
 FRA;Nîmes;Bibliothèque municipale;8;https://bvmm.irht.cnrs.fr/iiif/5295/manifest;Manuscript;2078
 FRA;Nîmes;Bibliothèque municipale;9;https://bvmm.irht.cnrs.fr/iiif/5296/manifest;Manuscript;2079
+FRA;Paris;Bibliothèque Mazarine;502;https://mazarinum.bibliotheque-mazarine.fr/iiif/2572/manifest;Manuscript;2207
+FRA;Paris;Bibliothèque Mazarine;504;https://mazarinum.bibliotheque-mazarine.fr/iiif/4150/manifest;Manuscript;2209
 FRA;Paris;Bibliothèque du Centre culturel irlandais;Ms E3;https://www.wdl.org/fr/item/251/manifest;Manuscript;2167
 FRA;Paris;Bibliothèque du Saulchoir;Rés. Ms. C 01;https://bvmm.irht.cnrs.fr/iiif/22140/manifest;Manuscript;2168
 FRA;Paris;Bibliothèque du Saulchoir;Rés. Ms. C 09;https://bvmm.irht.cnrs.fr/iiif/22139/manifest;Manuscript;2169
 FRA;Paris;Bibliothèque du Saulchoir;Rés. Ms. C 10;https://bvmm.irht.cnrs.fr/iiif/22141/manifest;Manuscript;2170
-FRA;Paris;Bibliothèque Mazarine;502;https://mazarinum.bibliotheque-mazarine.fr/iiif/2572/manifest;Manuscript;2207
-FRA;Paris;Bibliothèque Mazarine;504;https://mazarinum.bibliotheque-mazarine.fr/iiif/4150/manifest;Manuscript;2209
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;288;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550008104/manifest.json;Manuscript;2246
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;290;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525011578/manifest.json;Manuscript;2248
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;291;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103847/manifest.json;Manuscript;2249
@@ -327,11 +331,13 @@ FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;557;http
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;562;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52505805b/manifest.json;Manuscript;2278
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;565;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/manifest.json;Manuscript;2281
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;569;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009437p/manifest.json;Manuscript;2285
+FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/manifest.json;Manuscript;2342
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;615;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010392r/manifest.json;Manuscript;2293
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;616;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/manifest.json;Manuscript;2294
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;634;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010382b/manifest.json;Manuscript;2296
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;637;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010383s/manifest.json;Manuscript;2299
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;638;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008559f/manifest.json;Manuscript;2300
+FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;639;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/manifest.json;Manuscript;2343
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;640;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550057309/manifest.json;Manuscript;2301
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;641;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55005731r/manifest.json;Manuscript;2302
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;644;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010380f/manifest.json;Manuscript;2305
@@ -351,8 +357,12 @@ FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1188;htt
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1191;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/manifest.json;Manuscript;2330
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1194;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/manifest.json;Manuscript;2333
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;2162;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525068833/manifest.json;Manuscript;2338
-FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/manifest.json;Manuscript;2342
-FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;639;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55008564m/manifest.json;Manuscript;2343
+FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575 Bis réserve;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/manifest.json;Manuscript;725394
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;Rothschild 3154 (24 a);https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091875z/manifest.json;Manuscript;2752
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 21;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10547048x/manifest.json;Manuscript;2754
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 24;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105222685/manifest.json;Manuscript;2757
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 28;https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223238/manifest.json;Manuscript;2761
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 42;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/manifest.json;Manuscript;2774
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;fr. 01869;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52506271h/manifest.json;Manuscript;2354
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;fr. 01874;https://gallica.bnf.fr/iiif/ark:/12148/btv1b9007441s/manifest.json;Manuscript;2355
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;fr. 02224;https://gallica.bnf.fr/iiif/ark:/12148/btv1b85397092/manifest.json;Manuscript;2356
@@ -370,7 +380,6 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01073A;https://gall
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01077;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525111708/manifest.json;Manuscript;2377
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01079;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036591q/manifest.json;Manuscript;2379
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01082;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84516336/manifest.json;Manuscript;2380
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01156;https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/manifest.json;Manuscript;2381
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01156A;https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000466t/manifest.json;Manuscript;2382
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01156B;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52502614h/manifest.json;Manuscript;2383
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01157;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024825r/manifest.json;Manuscript;2384
@@ -393,7 +402,6 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01175;https://galli
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01176;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8528584r/manifest.json;Manuscript;2403
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01177;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10024151j/manifest.json;Manuscript;2404
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01178;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013036z/manifest.json;Manuscript;2405
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01178;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013036z/manifest.json;Manuscript;2406
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01179;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8446945q/manifest.json;Manuscript;2407
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01181;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8538808p/manifest.json;Manuscript;2409
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 01182;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032288x/manifest.json;Manuscript;2410
@@ -505,8 +513,7 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 1416 + L
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3027;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/manifest.json;Manuscript;2685
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3055;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/manifest.json;Manuscript;2686
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3090;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/manifest.json;Manuscript;2687
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3093;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/manifest.json;Manuscript;2688
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3093 + Paris, Musée du Louvre, Cab. Dessins RF2022, RF2024, RF2024, RF2025;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/manifest.json;Manuscript;2689
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3093;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84496839/manifest.json;Manuscript;2689
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3107;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10032954j/manifest.json;Manuscript;2692
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3109;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035303s/manifest.json;Manuscript;2694
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3110;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52509634r/manifest.json;Manuscript;2695
@@ -521,7 +528,7 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3118;htt
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3119;https://gallica.bnf.fr/iiif/ark:/12148/btv1b100373758/manifest.json;Manuscript;2704
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3120;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515740c/manifest.json;Manuscript;2705
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3134;https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000424g/manifest.json;Manuscript;2707
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3145;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452807q/manifest.json;Manuscript;2708
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3145;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10025448r/manifest.json;Manuscript;2708
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3181;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52511766t/manifest.json;Manuscript;2711
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3187;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8447775g/manifest.json;Manuscript;2712
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3188;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8452807q/manifest.json;Manuscript;2713
@@ -529,7 +536,8 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3190;htt
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3191;https://gallica.bnf.fr/iiif/ark:/12148/btv1b6000442d/manifest.json;Manuscript;2715
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3194;https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000324z/manifest.json;Manuscript;2716
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3196;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10035924b/manifest.json;Manuscript;2717
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3197;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/manifest.json;Manuscript;2718
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3197;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154676/manifest.json;Manuscript;2718
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3197 (Miniature);https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/manifest.json;Manuscript;725403
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3200;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10037130m/manifest.json;Manuscript;2719
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3201;https://gallica.bnf.fr/iiif/ark:/12148/btv1b53000319s/manifest.json;Manuscript;2720
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3203;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038542s/manifest.json;Manuscript;2721
@@ -548,30 +556,20 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3231;htt
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3234;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84528262/manifest.json;Manuscript;2734
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3244;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8571085n/manifest.json;Manuscript;2736
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3248;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10021257k/manifest.json;Manuscript;2738
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;Rothschild 3154 (24 a);https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091875z/manifest.json;Manuscript;2752
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 21;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10547048x/manifest.json;Manuscript;2754
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 24;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105222685/manifest.json;Manuscript;2757
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 28;https://gallica.bnf.fr/iiif/ark:/12148/btv1b100223238/manifest.json;Manuscript;2761
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 42;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550106099/manifest.json;Manuscript;2774
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3258;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10463253t/manifest.json;Manuscript;725188
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3260;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/manifest.json;Manuscript;725251
 FRA;Paris;IRHT, Collections privées;CP 0008;https://bvmm.irht.cnrs.fr/iiif/22221/manifest;Manuscript;2876
 FRA;Paris;IRHT, Collections privées;CP 0017;https://bvmm.irht.cnrs.fr/iiif/22371/manifest;Manuscript;2877
 FRA;Paris;IRHT, Collections privées;CP 0450;https://bvmm.irht.cnrs.fr/iiif/20202/manifest;Manuscript;2897
 FRA;Paris;IRHT, Collections privées;CP 0451;https://bvmm.irht.cnrs.fr/iiif/20203/manifest;Manuscript;2898
 FRA;Paris;IRHT, Collections privées;CP 0452;https://bvmm.irht.cnrs.fr/iiif/20204/manifest;Manuscript;2899
 FRA;Paris;IRHT, Collections privées;CP 0600;https://bvmm.irht.cnrs.fr/iiif/23555/manifest;Manuscript;2900
+FRA;Paris;Musée Jacquemart-André;MJAP-Ms 1312;https://bvmm.irht.cnrs.fr/iiif/33680/manifest;Manuscript;2956
 FRA;Paris;Musée des Arts décoratifs;inv. 40342;https://bvmm.irht.cnrs.fr/iiif/18616/manifest;Manuscript;2950
 FRA;Paris;Musée des Arts décoratifs;inv. 40343;https://bvmm.irht.cnrs.fr/iiif/18617/manifest;Manuscript;2951
-FRA;Paris;Musée Jacquemart-André;MJAP-Ms 1312;https://bvmm.irht.cnrs.fr/iiif/33680/manifest;Manuscript;2956
 FRA;Paris;Petit Palais, Musée des Beaux-Arts de la ville de Paris;LDUT 0035;https://bvmm.irht.cnrs.fr/iiif/19008/manifest;Manuscript;2969
 FRA;Paris;Petit Palais, Musée des Beaux-Arts de la ville de Paris;LDUT 0036;https://bvmm.irht.cnrs.fr/iiif/19009/manifest;Manuscript;2970
 FRA;Paris;Petit Palais, Musée des Beaux-Arts de la ville de Paris;LDUT 0037;https://bvmm.irht.cnrs.fr/iiif/19010/manifest;Manuscript;2971
-FRA;Poitiers;Bibliothèque municipale;1096;https://horae-pictavenses.fr/iiif/708/manifest;Manuscript;3066
-FRA;Poitiers;Bibliothèque municipale;1097;https://horae-pictavenses.fr/iiif/889/manifest;Manuscript;3067
-FRA;Poitiers;Bibliothèque municipale;1106;https://horae-pictavenses.fr/iiif/1084/manifest;Manuscript;3068
-FRA;Poitiers;Bibliothèque municipale;1110;https://horae-pictavenses.fr/iiif/1083/manifest;Manuscript;3069
-FRA;Poitiers;Bibliothèque municipale;1120;https://horae-pictavenses.fr/iiif/217/manifest;Manuscript;3070
-FRA;Poitiers;Bibliothèque municipale;1122;https://horae-pictavenses.fr/iiif/1598/manifest;Manuscript;3071
-FRA;Poitiers;Bibliothèque municipale;1327;https://horae-pictavenses.fr/iiif/1599/manifest;Manuscript;3072
 FRA;Poitiers;Bibliothèque municipale;0043 (214);https://horae-pictavenses.fr/iiif/3146/manifest;Manuscript;3073
 FRA;Poitiers;Bibliothèque municipale;0044 (267);https://horae-pictavenses.fr/iiif/6831/manifest;Manuscript;3074
 FRA;Poitiers;Bibliothèque municipale;0045 (291);https://horae-pictavenses.fr/iiif/7096/manifest;Manuscript;3075
@@ -588,15 +586,22 @@ FRA;Poitiers;Bibliothèque municipale;0055 (334);https://horae-pictavenses.fr/ii
 FRA;Poitiers;Bibliothèque municipale;0056 (268);https://horae-pictavenses.fr/iiif/2008/manifest;Manuscript;3086
 FRA;Poitiers;Bibliothèque municipale;0057 (269);https://horae-pictavenses.fr/iiif/2007/manifest;Manuscript;3087
 FRA;Poitiers;Bibliothèque municipale;0058 (310);https://horae-pictavenses.fr/iiif/2006/manifest;Manuscript;3088
+FRA;Poitiers;Bibliothèque municipale;1096;https://horae-pictavenses.fr/iiif/708/manifest;Manuscript;3066
+FRA;Poitiers;Bibliothèque municipale;1097;https://horae-pictavenses.fr/iiif/889/manifest;Manuscript;3067
+FRA;Poitiers;Bibliothèque municipale;1106;https://horae-pictavenses.fr/iiif/1084/manifest;Manuscript;3068
+FRA;Poitiers;Bibliothèque municipale;1110;https://horae-pictavenses.fr/iiif/1083/manifest;Manuscript;3069
+FRA;Poitiers;Bibliothèque municipale;1120;https://horae-pictavenses.fr/iiif/217/manifest;Manuscript;3070
+FRA;Poitiers;Bibliothèque municipale;1122;https://horae-pictavenses.fr/iiif/1598/manifest;Manuscript;3071
+FRA;Poitiers;Bibliothèque municipale;1327;https://horae-pictavenses.fr/iiif/1599/manifest;Manuscript;3072
 FRA;Provins;Bibliothèque municipale;20;https://bvmm.irht.cnrs.fr/iiif/4243/manifest;Manuscript;3117
 FRA;Provins;Bibliothèque municipale;21;https://bvmm.irht.cnrs.fr/iiif/4244/manifest;Manuscript;3118
 FRA;Provins;Bibliothèque municipale;22;https://bvmm.irht.cnrs.fr/iiif/4281/manifest;Manuscript;3119
 FRA;Provins;Bibliothèque municipale;23;https://bvmm.irht.cnrs.fr/iiif/4247/manifest;Manuscript;3120
 FRA;Provins;Bibliothèque municipale;24;https://bvmm.irht.cnrs.fr/iiif/4249/manifest;Manuscript;3121
-FRA;Reims;Bibliothèque municipale;2446;https://bvmm.irht.cnrs.fr/iiif/17975/manifest;Manuscript;3125
-FRA;Reims;Bibliothèque municipale;2788;https://bvmm.irht.cnrs.fr/iiif/5271/manifest;Manuscript;3126
 FRA;Reims;Bibliothèque municipale;0358 (C. 205);https://bvmm.irht.cnrs.fr/iiif/2406/manifest;Manuscript;3128
 FRA;Reims;Bibliothèque municipale;0359 (N. Fonds);https://bvmm.irht.cnrs.fr/iiif/2407/manifest;Manuscript;3129
+FRA;Reims;Bibliothèque municipale;2446;https://bvmm.irht.cnrs.fr/iiif/17975/manifest;Manuscript;3125
+FRA;Reims;Bibliothèque municipale;2788;https://bvmm.irht.cnrs.fr/iiif/5271/manifest;Manuscript;3126
 FRA;Rennes;Bibliothèque municipale;27;https://bvmm.irht.cnrs.fr/iiif/5194/manifest;Manuscript;3132
 FRA;Rennes;Bibliothèque municipale;28;https://bvmm.irht.cnrs.fr/iiif/5195/manifest;Manuscript;3133
 FRA;Rennes;Bibliothèque municipale;29;https://bvmm.irht.cnrs.fr/iiif/5196/manifest;Manuscript;3134
@@ -627,13 +632,13 @@ FRA;Rouen;Musée des Beaux-Arts;AG.1975.4.5839;https://bvmm.irht.cnrs.fr/iiif/20
 FRA;Rouen;Musée des Beaux-Arts;AG.1975.4.5840;https://bvmm.irht.cnrs.fr/iiif/20464/manifest;Manuscript;3243
 FRA;Saint-Omer;Bibliothèque d’agglomération;883;https://bvmm.irht.cnrs.fr/iiif/24998/manifest;Manuscript;3266
 FRA;Saumur;Château-Musée;2;https://bvmm.irht.cnrs.fr/iiif/1377/manifest;Manuscript;3272
-FRA;Sées;Archives diocésaines;026 (A-7);https://bvmm.irht.cnrs.fr/iiif/23919/manifest;Manuscript;3274
 FRA;Sens;Bibliothèque municipale;35;https://bvmm.irht.cnrs.fr/iiif/25047/manifest;Manuscript;3278
 FRA;Soissons;Bibliothèque municipale;0109 (100);https://bvmm.irht.cnrs.fr/iiif/25508/manifest;Manuscript;3284
 FRA;Soissons;Bibliothèque municipale;0110 (101);https://bvmm.irht.cnrs.fr/iiif/25666/manifest;Manuscript;3285
 FRA;Soissons;Bibliothèque municipale;0111 (102);https://bvmm.irht.cnrs.fr/iiif/25663/manifest;Manuscript;3286
 FRA;Solesmes;Bibliothèque de l'abbaye Saint-Pierre;204;https://bvmm.irht.cnrs.fr/iiif/3650/manifest;Manuscript;3292
 FRA;Strasbourg;Bibliothèque du Grand Séminaire;739;https://bvmm.irht.cnrs.fr/iiif/2674/manifest;Manuscript;3297
+FRA;Sées;Archives diocésaines;026 (A-7);https://bvmm.irht.cnrs.fr/iiif/23919/manifest;Manuscript;3274
 FRA;Tonnerre;Bibliothèque municipale;01 (01);https://bvmm.irht.cnrs.fr/iiif/24224/manifest;Manuscript;3306
 FRA;Toulouse;Bibliothèque municipale;129;https://bvmm.irht.cnrs.fr/iiif/1554/manifest;Manuscript;3311
 FRA;Toulouse;Bibliothèque municipale;130;https://bvmm.irht.cnrs.fr/iiif/511/manifest;Manuscript;3312
@@ -695,19 +700,58 @@ GBR;Oxford;Christ Church;93;https://iiif.bodleian.ox.ac.uk/iiif/manifest/66bad1a
 GBR;Oxford;Christ Church;100;https://iiif.bodleian.ox.ac.uk/iiif/manifest/a4b2100c-003f-4868-8587-bc39b685ee47.json;Manuscript;4815
 ITA;Napoli;Biblioteca Nazionale Vittorio Emanuele III;I B 51;https://www.wdl.org/fr/item/20149/manifest;Manuscript;5390
 ITA;Torino;Biblioteca Reale;Var. 076;https://www.wdl.org/fr/item/19476/manifest;Manuscript;5572
-NLD;'s-Gravenhage;Koninklijke Bibliotheek;074 G 037a;https://www.wdl.org/fr/item/14414/manifest;Manuscript;5726
 NLD;'s-Gravenhage;Koninklijke Bibliotheek;074 G 037;https://www.wdl.org/fr/item/14415/manifest;Manuscript;5729
+NLD;'s-Gravenhage;Koninklijke Bibliotheek;074 G 037a;https://www.wdl.org/fr/item/14414/manifest;Manuscript;5726
 NLD;'s-Gravenhage;Koninklijke Bibliotheek;1900 A 009;https://www.wdl.org/fr/item/14422/manifest;Manuscript;5872
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1216 II Rkps;https://polona.pl/iiif/item/NDI1MzcxNzA/manifest.json;Manuscript;725080
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1217 II Rkps;https://polona.pl/iiif/item/Njg1MzQzNTI/manifest.json;Manuscript;725082
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1550 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxODY/manifest.json;Manuscript;725084
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2032 II Rkps.;https://polona.pl/iiif/item/Njg1MzQzNTc/manifest.json;Manuscript;5994
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2389 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMzk/manifest.json;Manuscript;725087
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2390 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNDA/manifest.json;Manuscript;725089
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2391 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTA/manifest.json;Manuscript;5995
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2416 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNDU/manifest.json;Manuscript;725092
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2420 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTE/manifest.json;Manuscript;725094
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2421 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTM/manifest.json;Manuscript;725096
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2422 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTU/manifest.json;Manuscript;5996
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2617 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTY/manifest.json;Manuscript;725099
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2943 II Rkps;https://polona.pl/iiif/item/NjI5MzkwNTk/manifest.json;Manuscript;725101
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2944 II Rkps.;https://polona.pl/iiif/item/NjI5MzkwNjQ/manifest.json;Manuscript;725103
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2945 II Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDU/manifest.json;Manuscript;725105
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2946 I Rkps.;https://polona.pl/iiif/item/NjM2MjA5MDA/manifest.json;Manuscript;725107
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2947 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDY/manifest.json;Manuscript;725109
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2948 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDc/manifest.json;Manuscript;725111
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2949 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDg/manifest.json;Manuscript;725113
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2951 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDk/manifest.json;Manuscript;725115
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3020 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTA/manifest.json;Manuscript;5997
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3021 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTE/manifest.json;Manuscript;725118
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3022 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTQ/manifest.json;Manuscript;725120
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3024 I Rkps.;https://polona.pl/iiif/item/Njg1MzQzNTE/manifest.json;Manuscript;725122
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3025 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTg/manifest.json;Manuscript;5998
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3091 I Rkps.;https://polona.pl/iiif/item/NjMwNDc0NjY/manifest.json;Manuscript;725125
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3093 I Rkps.;https://polona.pl/iiif/item/NjkwNzI0NzQ/manifest.json;Manuscript;5999
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3117 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNjE/manifest.json;Manuscript;725131
+POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3121 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMjM/manifest.json;Manuscript;725133
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3466 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMjg/manifest.json;Manuscript;6000
 POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3467 II Rkps.;https://polona.pl/iiif/item/NDI1MzcyMzA/manifest.json;Manuscript;6001
+POL;Warszawa;Biblioteka Narodowa;Rps 12518 I;https://polona.pl/iiif/item/OTQwNjAyODQ/manifest.json;Manuscript;725067
+POL;Warszawa;Biblioteka Narodowa;Rps 3308 I;https://polona.pl/iiif/item/NzQzMTk1MzQ/manifest.json;Manuscript;725049
+POL;Warszawa;Biblioteka Narodowa;Rps 3314 I;https://polona.pl/iiif/item/MjQ2MjU4NDY/manifest.json;Manuscript;725052
+POL;Warszawa;Biblioteka Narodowa;Rps 3315 I;https://polona.pl/iiif/item/NzUwMjYwOTM/manifest.json;Manuscript;725055
 POL;Warszawa;Biblioteka Narodowa;Rps 8004 II;https://polona.pl/iiif/item/MTg4NjM3OTE/manifest.json;Manuscript;6005
 POL;Warszawa;Biblioteka Narodowa;Rps 8005 II;https://polona.pl/iiif/item/MjIzNTgxMQ/manifest.json;Manuscript;6006
+POL;Warszawa;Biblioteka Narodowa;Rps 8083 I;https://polona.pl/iiif/item/ODk0MjUxODI/manifest.json;Manuscript;725061
+POL;Warszawa;Biblioteka Narodowa;Rps 8118 I;https://polona.pl/iiif/item/NjUwODAzNDQ/manifest.json;Manuscript;725064
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 129;https://polona.pl/iiif/item/ODU0ODI2Ng/manifest.json;Manuscript;725046
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 29;https://polona.pl/iiif/item/MTA0OTgwMQ/manifest.json;Manuscript;725036
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 39;https://polona.pl/iiif/item/MTAxNzQxMg/manifest.json;Manuscript;725039
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 41;https://polona.pl/iiif/item/MTAzNDg5OQ/manifest.json;Manuscript;725041
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 42;https://polona.pl/iiif/item/MTAyMTA1OQ/manifest.json;Manuscript;725044
+POL;Warszawa;Biblioteka Narodowa;Rps BOZ 44;https://polona.pl/iiif/item/MTAxMzM5Nw/manifest.json;Manuscript;725033
+POL;Warszawa;Biblioteka Narodowa;Rps akc. 12399;https://polona.pl/iiif/item/ODEyOTU1NDU/manifest.json;Manuscript;725070
+POL;Warszawa;Biblioteka Narodowa;Rps akc. 16483;https://polona.pl/iiif/item/NTQ4Nzg3MTA/manifest.json;Manuscript;725073
+POL;Wroc?aw;Biblioteka Uniwersytecka we Wroc?awiu;Ms I Q 253;https://glam.uni.wroc.pl/iiif/RKP_I_Q_253_31610/manifest;Manuscript;725154
+SVK;Martin;Slovenská národná knižnica;?;https://www.wdl.org/fr/item/14217/manifest;Manuscript;725267
 USA;Baltimore;The Walters Art Museum;W.0034;https://purl.stanford.edu/zw200wd8767/iiif/manifest;Manuscript;6171
 USA;Baltimore;The Walters Art Museum;W.0037;https://purl.stanford.edu/dn556rp6795/iiif/manifest;Manuscript;6173
 USA;Baltimore;The Walters Art Museum;W.0039;https://purl.stanford.edu/ww852nx4077/iiif/manifest;Manuscript;6176
@@ -728,7 +772,9 @@ USA;Baltimore;The Walters Art Museum;W.0104;https://purl.stanford.edu/hf206wb974
 USA;Baltimore;The Walters Art Museum;W.0105;https://purl.stanford.edu/sr994pm0975/iiif/manifest;Manuscript;6203
 USA;Baltimore;The Walters Art Museum;W.0113;https://purl.stanford.edu/gp528rw3198/iiif/manifest;Manuscript;6204
 USA;Baltimore;The Walters Art Museum;W.0164;https://purl.stanford.edu/kf642qf4553/iiif/manifest;Manuscript;6205
+USA;Baltimore;The Walters Art Museum;W.0165;https://purl.stanford.edu/kb564yr3366/iiif/manifest|https://www.wdl.org/item/13000/manifest;Manuscript;724231
 USA;Baltimore;The Walters Art Museum;W.0166;https://purl.stanford.edu/ff688vm4417/iiif/manifest|https://www.wdl.org/fr/item/19226/manifest;Manuscript;6206
+USA;Baltimore;The Walters Art Museum;W.0167;https://purl.stanford.edu/ky597ww7858/iiif/manifest;Manuscript;724232
 USA;Baltimore;The Walters Art Museum;W.0168;https://purl.stanford.edu/qm670kv1873/iiif/manifest;Manuscript;6207
 USA;Baltimore;The Walters Art Museum;W.0169;https://purl.stanford.edu/vj053mn4619/iiif/manifest;Manuscript;6208
 USA;Baltimore;The Walters Art Museum;W.0170;https://purl.stanford.edu/qz701mh4428/iiif/manifest;Manuscript;6209
@@ -745,8 +791,10 @@ USA;Baltimore;The Walters Art Museum;W.0183;https://purl.stanford.edu/xr480bs566
 USA;Baltimore;The Walters Art Museum;W.0184;https://purl.stanford.edu/kx876df8760/iiif/manifest;Manuscript;6220
 USA;Baltimore;The Walters Art Museum;W.0185;https://purl.stanford.edu/by397hw6027/iiif/manifest;Manuscript;6221
 USA;Baltimore;The Walters Art Museum;W.0186;https://purl.stanford.edu/fx476tb0662/iiif/manifest;Manuscript;6222
+USA;Baltimore;The Walters Art Museum;W.0188;https://purl.stanford.edu/fx973hx3846/iiif/manifest;Manuscript;724223
 USA;Baltimore;The Walters Art Museum;W.0189;https://purl.stanford.edu/kf205rk4807/iiif/manifest;Manuscript;6224
 USA;Baltimore;The Walters Art Museum;W.0190;https://purl.stanford.edu/pb462wj5265/iiif/manifest;Manuscript;6225
+USA;Baltimore;The Walters Art Museum;W.0192;https://purl.stanford.edu/dh571cx7381/iiif/manifest;Manuscript;724233
 USA;Baltimore;The Walters Art Museum;W.0193;https://purl.stanford.edu/kt794yq9040/iiif/manifest;Manuscript;6227
 USA;Baltimore;The Walters Art Museum;W.0194;https://purl.stanford.edu/bd845tn4821/iiif/manifest;Manuscript;6228
 USA;Baltimore;The Walters Art Museum;W.0195;https://purl.stanford.edu/vs234vd4916/iiif/manifest;Manuscript;6229
@@ -790,8 +838,12 @@ USA;Baltimore;The Walters Art Museum;W.0437;https://purl.stanford.edu/vn362wg621
 USA;Baltimore;The Walters Art Museum;W.0439;https://purl.stanford.edu/xb915nd9363/iiif/manifest;Manuscript;6349
 USA;Baltimore;The Walters Art Museum;W.0440;https://purl.stanford.edu/gh974by5078/iiif/manifest;Manuscript;6350
 USA;Baltimore;The Walters Art Museum;W.0441;https://purl.stanford.edu/xw613th3364/iiif/manifest;Manuscript;6351
+USA;Baltimore;The Walters Art Museum;W.0534;https://purl.stanford.edu/vz074kt5152/iiif/manifest;Manuscript;724236
 USA;Baltimore;The Walters Art Museum;W.0719;https://purl.stanford.edu/tc762gc0596/iiif/manifest;Manuscript;6367
 USA;Baltimore;The Walters Art Museum;W.0721;https://purl.stanford.edu/zx896jf6359/iiif/manifest;Manuscript;6368
+USA;Baltimore;The Walters Art Museum;W.0764;https://purl.stanford.edu//iiif/manifest;Manuscript;724237
+USA;Baltimore;The Walters Art Museum;W.0782;https://purl.stanford.edu/jw881cs8503/iiif/manifest;Manuscript;724238
+USA;Baltimore;The Walters Art Museum;W.0918;https://purl.stanford.edu/sy560zv0718/iiif/manifest;Manuscript;724239
 USA;Cambridge (MA);Harvard College Library;Lat. 017;https://iiif.lib.harvard.edu/manifests/drs:10840328;Manuscript;6456
 USA;Cambridge (MA);Harvard College Library;Lat. 133;https://iiif.lib.harvard.edu/manifests/drs:10614144;Manuscript;6458
 USA;Cambridge (MA);Harvard College Library;Lat. 159;https://iiif.lib.harvard.edu/manifests/drs:4771822;Manuscript;6459
@@ -824,12 +876,30 @@ USA;Cambridge (MA);Harvard College Library;Typ 957;https://iiif.lib.harvard.edu/
 USA;Cambridge (MA);Harvard College Library;Typ 958;https://iiif.lib.harvard.edu/manifests/drs:6522891;Manuscript;6524
 USA;Cambridge (MA);Harvard College Library;Typ 999;https://iiif.lib.harvard.edu/manifests/drs:9899749;Manuscript;6525
 USA;Cambridge (MA);Harvard College Library;Widener 02;https://iiif.lib.harvard.edu/manifests/drs:47779375;Manuscript;6526
+USA;Collegeville (Minn.);Saint John's University Library, Rare Book Collection;SJU Ms. 1;https://www.vhmml.org/image/manifest/510541;Manuscript;725329
+USA;Collegeville (Minn.);Saint John's University. Arca Artium Rare Book Collection;Kacmarcik Ms. 16;https://www.vhmml.org/image/manifest/510586;Manuscript;725333
+USA;Collegeville (Minn.);Saint John's University. Arca Artium Rare Book Collection;Kacmarcik Ms. 2;https://www.vhmml.org/image/manifest/510543;Manuscript;725369
+USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bean Ms. 1;https://www.vhmml.org/image/manifest/510545;Manuscript;725337
+USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bean Ms. 2;https://www.vhmml.org/image/manifest/510546;Manuscript;725339
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bethune Ms. 1;https://www.vhmml.org/image/manifest/510579;Manuscript;6601
+USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 1;https://www.vhmml.org/image/manifest/510548;Manuscript;725342
+USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 2;https://www.vhmml.org/image/manifest/510549;Manuscript;725331
 USA;Philadelphia;Museum of Art;1945-65-08;https://iiif.archivelab.org/iiif/1945_65_8/manifest.json;Manuscript;7156
 USA;Philadelphia;Museum of Art;1945-65-12;https://iiif.archivelab.org/iiif/1945_65_12/manifest.json;Manuscript;7158
+USA;Philadelphia;Museum of Art;1945-65-16;https://iiif.archivelab.org/iiif/1945_65_16/manifest.json;Manuscript;724998
 USA;Philadelphia;Philadelphia Museum of Art;45-65-06;https://iiif.archivelab.org/iiif/1945_65_6/manifest.json;Manuscript;7161
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 27;https://www.vhmml.org/image/manifest/519220;Manuscript;725356
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 28;https://www.vhmml.org/image/manifest/519221;Manuscript;725345
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 29;https://www.vhmml.org/image/manifest/519222;Manuscript;725348
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 30;https://www.vhmml.org/image/manifest/519223;Manuscript;725335
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 31;https://www.vhmml.org/image/manifest/519224;Manuscript;725375
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 64;https://www.vhmml.org/image/manifest/519229;Manuscript;725352
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 65;https://www.vhmml.org/image/manifest/519225;Manuscript;725359
 USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 66;https://www.vhmml.org/image/manifest/519226;Manuscript;7291
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 67;https://www.vhmml.org/image/manifest/519227;Manuscript;725364
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;s.n.;https://www.vhmml.org/image/manifest/519230;Manuscript;725382
 USA;Washington (DC);Library of Congress;052 (Ros. 10/14);https://www.loc.gov/item/50041712/manifest.json|https://www.wdl.org/fr/item/354/manifest;Manuscript;7325
+VAT;Vaticano;Biblioteca Apostolica Vaticana;Arch. Cap. S. Pietro E.15;https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.E.15/manifest.json;Manuscript;7522
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Barb. lat. 00387;https://digi.vatlib.it/iiif/MSS_Barb.lat.387/manifest.json;Manuscript;7360
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Barb. lat. 00443;https://digi.vatlib.it/iiif/MSS_Barb.lat.443/manifest.json;Manuscript;7361
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Barb. lat. 00444;https://digi.vatlib.it/iiif/MSS_Barb.lat.444/manifest.json;Manuscript;7362
@@ -887,117 +957,46 @@ VAT;Vaticano;Biblioteca Apostolica Vaticana;Vat. lat. 10293;https://digi.vatlib.
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Vat. lat. 13985;https://digi.vatlib.it/iiif/MSS_Vat.lat.13985/manifest.json;Manuscript;7506
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Vat. lat. 14935;https://digi.vatlib.it/iiif/MSS_Vat.lat.14935/manifest.json;Manuscript;7511
 VAT;Vaticano;Biblioteca Apostolica Vaticana;Vat. lat. 14936;https://digi.vatlib.it/iiif/MSS_Vat.lat.14936/manifest.json;Manuscript;7512
-VAT;Vaticano;Biblioteca Apostolica Vaticana;Arch. Cap. S. Pietro E.15;https://digi.vatlib.it/iiif/MSS_Arch.Cap.S.Pietro.E.15/manifest.json;Manuscript;7522
-USA;Baltimore;The Walters Art Museum;W.0188;https://purl.stanford.edu/fx973hx3846/iiif/manifest;Manuscript;724223
-USA;Baltimore;The Walters Art Museum;W.0165;https://purl.stanford.edu/kb564yr3366/iiif/manifest|https://www.wdl.org/item/13000/manifest;Manuscript;724231
-USA;Baltimore;The Walters Art Museum;W.0167;https://purl.stanford.edu/ky597ww7858/iiif/manifest;Manuscript;724232
-USA;Baltimore;The Walters Art Museum;W.0192;https://purl.stanford.edu/dh571cx7381/iiif/manifest;Manuscript;724233
-USA;Baltimore;The Walters Art Museum;W.0534;https://purl.stanford.edu/vz074kt5152/iiif/manifest;Manuscript;724236
-USA;Baltimore;The Walters Art Museum;W.0764;https://purl.stanford.edu//iiif/manifest;Manuscript;724237
-USA;Baltimore;The Walters Art Museum;W.0782;https://purl.stanford.edu/jw881cs8503/iiif/manifest;Manuscript;724238
-USA;Baltimore;The Walters Art Museum;W.0918;https://purl.stanford.edu/sy560zv0718/iiif/manifest;Manuscript;724239
-DEU;Karlsruhe;Badische Landesbibliothek;Durlach 2;https://digital.blb-karlsruhe.de/i3f/v20/2981237/manifest;Manuscript;724421
-DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 144;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN437530361/manifest;Manuscript;724426
-DEU;Karlsruhe;Badische Landesbibliothek;Donaueschingen 217;https://digital.blb-karlsruhe.de/i3f/v20/3433877/manifest;Manuscript;724430
-USA;Philadelphia;Museum of Art;1945-65-16;https://iiif.archivelab.org/iiif/1945_65_16/manifest.json;Manuscript;724998
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 44;https://polona.pl/iiif/item/MTAxMzM5Nw/manifest.json;Manuscript;725033
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 29;https://polona.pl/iiif/item/MTA0OTgwMQ/manifest.json;Manuscript;725036
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 39;https://polona.pl/iiif/item/MTAxNzQxMg/manifest.json;Manuscript;725039
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 41;https://polona.pl/iiif/item/MTAzNDg5OQ/manifest.json;Manuscript;725041
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 42;https://polona.pl/iiif/item/MTAyMTA1OQ/manifest.json;Manuscript;725044
-POL;Warszawa;Biblioteka Narodowa;Rps BOZ 129;https://polona.pl/iiif/item/ODU0ODI2Ng/manifest.json;Manuscript;725046
-POL;Warszawa;Biblioteka Narodowa;Rps 3308 I;https://polona.pl/iiif/item/NzQzMTk1MzQ/manifest.json;Manuscript;725049
-POL;Warszawa;Biblioteka Narodowa;Rps 3314 I;https://polona.pl/iiif/item/MjQ2MjU4NDY/manifest.json;Manuscript;725052
-POL;Warszawa;Biblioteka Narodowa;Rps 3315 I;https://polona.pl/iiif/item/NzUwMjYwOTM/manifest.json;Manuscript;725055
-POL;Warszawa;Biblioteka Narodowa;Rps 8083 I;https://polona.pl/iiif/item/ODk0MjUxODI/manifest.json;Manuscript;725061
-POL;Warszawa;Biblioteka Narodowa;Rps 8118 I;https://polona.pl/iiif/item/NjUwODAzNDQ/manifest.json;Manuscript;725064
-POL;Warszawa;Biblioteka Narodowa;Rps 12518 I;https://polona.pl/iiif/item/OTQwNjAyODQ/manifest.json;Manuscript;725067
-POL;Warszawa;Biblioteka Narodowa;Rps akc. 12399;https://polona.pl/iiif/item/ODEyOTU1NDU/manifest.json;Manuscript;725070
-POL;Warszawa;Biblioteka Narodowa;Rps akc. 16483;https://polona.pl/iiif/item/NTQ4Nzg3MTA/manifest.json;Manuscript;725073
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1216 II Rkps;https://polona.pl/iiif/item/NDI1MzcxNzA/manifest.json;Manuscript;725080
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1217 II Rkps;https://polona.pl/iiif/item/Njg1MzQzNTI/manifest.json;Manuscript;725082
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;1550 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxODY/manifest.json;Manuscript;725084
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2389 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMzk/manifest.json;Manuscript;725087
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2390 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNDA/manifest.json;Manuscript;725089
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2416 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNDU/manifest.json;Manuscript;725092
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2420 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTE/manifest.json;Manuscript;725094
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2421 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTM/manifest.json;Manuscript;725096
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2617 I Rkps.;https://polona.pl/iiif/item/NDI1MzcxOTY/manifest.json;Manuscript;725099
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2943 II Rkps;https://polona.pl/iiif/item/NjI5MzkwNTk/manifest.json;Manuscript;725101
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2944 II Rkps.;https://polona.pl/iiif/item/NjI5MzkwNjQ/manifest.json;Manuscript;725103
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2945 II Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDU/manifest.json;Manuscript;725105
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2946 I Rkps.;https://polona.pl/iiif/item/NjM2MjA5MDA/manifest.json;Manuscript;725107
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2947 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDY/manifest.json;Manuscript;725109
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2948 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDY/manifest.json;Manuscript;725111
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2949 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDg/manifest.json;Manuscript;725113
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;2951 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMDk/manifest.json;Manuscript;725115
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3021 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTE/manifest.json;Manuscript;725118
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3022 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMTQ/manifest.json;Manuscript;725120
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3024 I Rkps.;https://polona.pl/iiif/item/Njg1MzQzNTE/manifest.json;Manuscript;725122
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3091 I Rkps.;https://polona.pl/iiif/item/NjMwNDc0NjY/manifest.json;Manuscript;725125
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3117 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyNjE/manifest.json;Manuscript;725131
-POL;Kraków;Muzeum Narodowe, Biblioteka Czartoryskich;3121 I Rkps.;https://polona.pl/iiif/item/NDI1MzcyMjM/manifest.json;Manuscript;725133
-POL;Wroc?aw;Biblioteka Uniwersytecka we Wroc?awiu;Ms I Q 253;https://glam.uni.wroc.pl/iiif/RKP_I_Q_253_31610/manifest;Manuscript;725154
-CHE;St. Gallen;Kantonsbibliothek, Vadianische Sammlung;VadSlg Ms 327;https://www.e-codices.ch/metadata/iiif/vad-0327/manifest.json;Manuscript;725176
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3258;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10463253t/manifest.json;Manuscript;725188
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3260;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55013837f/manifest.json;Manuscript;725251
-SVK;Martin;Slovenská národná knižnica;?;https://www.wdl.org/fr/item/14217/manifest;Manuscript;725267
-USA;Collegeville (Minn.);Saint John's University Library, Rare Book Collection;SJU Ms. 1;https://www.vhmml.org/image/manifest/510541;Manuscript;725329
-USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 2;https://www.vhmml.org/image/manifest/510549;Manuscript;725331
-USA;Collegeville (Minn.);Saint John's University. Arca Artium Rare Book Collection;Kacmarcik Ms. 16;https://www.vhmml.org/image/manifest/510586;Manuscript;725333
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 30;https://www.vhmml.org/image/manifest/519223;Manuscript;725335
-USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bean Ms. 1;https://www.vhmml.org/image/manifest/510545;Manuscript;725337
-USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bean Ms. 2;https://www.vhmml.org/image/manifest/510546;Manuscript;725339
-USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 1;https://www.vhmml.org/image/manifest/510548;Manuscript;725342
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 28;https://www.vhmml.org/image/manifest/519221;Manuscript;725345
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 29;https://www.vhmml.org/image/manifest/519222;Manuscript;725348
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 64;https://www.vhmml.org/image/manifest/519229;Manuscript;725352
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 27;https://www.vhmml.org/image/manifest/519221;Manuscript;725356
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 65;https://www.vhmml.org/image/manifest/519225;Manuscript;725359
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 67;https://www.vhmml.org/image/manifest/519227;Manuscript;725364
-USA;Collegeville (Minn.);Saint John's University. Arca Artium Rare Book Collection;Kacmarcik Ms. 2;https://www.vhmml.org/image/manifest/510543;Manuscript;725369
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 31;https://www.vhmml.org/image/manifest/519224;Manuscript;725375
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;s.n.;https://www.vhmml.org/image/manifest/519230;Manuscript;725382
-FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575 Bis réserve;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/manifest.json;Manuscript;725394
-DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 145a;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN438001117/manifest;Printed text;778
-DEU;München;Bayerische Staatsbibliothek;4 Inc.c.a. 756 g;https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00070331/manifest;Printed text;848
-DEU;München;Bayerische Staatsbibliothek;Inc.s.a. 77;https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036126/manifest;Printed text;894
-FRA;Albi;Bibliothèque municipale;inc. Roch. 12429;https://bvmm.irht.cnrs.fr/iiif/2853/manifest;Printed text;1188
-FRA;Angers;Bibliothèque municipale;impr. Rés. T 1343;https://bvmm.irht.cnrs.fr/iiif/1147/manifest;Printed text;1237
-FRA;Angers;Musée des Beaux-Arts;impr. 2003.1.078;https://bvmm.irht.cnrs.fr/iiif/1372/manifest;Printed text;1251
-FRA;Auch;Bibliothèque municipale;impr. 1064;https://bvmm.irht.cnrs.fr/iiif/1188/manifest;Printed text;1312
-FRA;Autun;Bibliothèque de la Société Eduenne;Album Bulliot, n° 31;https://bvmm.irht.cnrs.fr/iiif/22909/manifest;Printed text;1315
-FRA;Autun;Bibliothèque municipale;impr. SR 347;https://bvmm.irht.cnrs.fr/iiif/22744/manifest;Printed text;1318
-FRA;Beaune;Archives hospitalières;impr. Layette 123, 07;https://bvmm.irht.cnrs.fr/iiif/23169/manifest;Printed text;1389
-FRA;Beaune;Archives hospitalières;impr. Layette 123, 08;https://bvmm.irht.cnrs.fr/iiif/23173/manifest;Printed text;1390
-FRA;Blois;Musée diocésain d'Art religieux;impr. 84.1.1054;https://bvmm.irht.cnrs.fr/iiif/32137/manifest;Printed text;1443
-FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.16;https://bvmm.irht.cnrs.fr/iiif/19844/manifest;Printed text;1565
-FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.17;https://bvmm.irht.cnrs.fr/iiif/19845/manifest;Printed text;1566
-FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.18;https://bvmm.irht.cnrs.fr/iiif/19846/manifest;Printed text;1567
-FRA;Chartres;Bibliothèque municipale;impr. 8°, GR 045;https://bvmm.irht.cnrs.fr/iiif/103/manifest;Printed text;1639
-FRA;Fécamp;Musée du Palais Bénédictine;A.10.004;https://bvmm.irht.cnrs.fr/iiif/20259/manifest;Printed text;1762
-FRA;Le Mans;Bibliothèque municipale;inc. R.I.A. 063;https://bvmm.irht.cnrs.fr/iiif/3320/manifest;Printed text;1835
-FRA;Nantes;Musée Dobrée;impr. 0690.2776;https://bvmm.irht.cnrs.fr/iiif/4308/manifest;Printed text;2066
-FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0105;https://bvmm.irht.cnrs.fr/iiif/5725/manifest;Printed text;2171
-FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0106;https://bvmm.irht.cnrs.fr/iiif/5726/manifest;Printed text;2172
-FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0107;https://bvmm.irht.cnrs.fr/iiif/5727/manifest;Printed text;2173
-FRA;Poitiers;Bibliothèque municipale;Impr. CR048 bis;https://horae-pictavenses.fr/iiif/9599/manifest;Printed text;3094
-FRA;Poitiers;Bibliothèque municipale;Impr. CR049;https://horae-pictavenses.fr/iiif/9600/manifest;Printed text;3095
-FRA;Poitiers;Bibliothèque municipale;Impr. DP 558;https://horae-pictavenses.fr/iiif/4832/manifest;Printed text;3098
-FRA;Poitiers;Bibliothèque municipale;Impr. DR 69;https://horae-pictavenses.fr/iiif/3893/manifest;Printed text;3099
-FRA;Poitiers;Bibliothèque municipale;Impr. DR014;https://horae-pictavenses.fr/iiif/4811/manifest;Printed text;3100
-FRA;Poitiers;Bibliothèque municipale;Impr. DR025;https://horae-pictavenses.fr/iiif/4690/manifest;Printed text;3101
-FRA;Poitiers;Bibliothèque municipale;Impr. DR038;https://horae-pictavenses.fr/iiif/6033/manifest;Printed text;3104
-FRA;Poitiers;Bibliothèque municipale;Impr. DR246;https://horae-pictavenses.fr/iiif/3892/manifest;Printed text;3105
-FRA;Poitiers;Bibliothèque municipale;Impr. DR524;https://horae-pictavenses.fr/iiif/3623/manifest;Printed text;3106
-FRA;Poitiers;Bibliothèque municipale;Inc. D04;https://horae-pictavenses.fr/iiif/5764/manifest;Printed text;3109
-FRA;Poitiers;Bibliothèque municipale;Inc. D27;https://horae-pictavenses.fr/iiif/6254/manifest;Printed text;3110
-FRA;Poitiers;Bibliothèque municipale;Inc. D53;https://horae-pictavenses.fr/iiif/216/manifest;Printed text;3111
-FRA;Poitiers;Bibliothèque municipale;Inc. D54;https://horae-pictavenses.fr/iiif/5583/manifest;Printed text;3112
-FRA;Provins;Bibliothèque municipale;inc. 010;https://bvmm.irht.cnrs.fr/iiif/4265/manifest;Printed text;3122
-FRA;Saumur;Château-Musée;inc. 0040;https://bvmm.irht.cnrs.fr/iiif/1373/manifest;Printed text;3273
-FRA;Toulouse;Bibliothèque municipale;inc. Paris 0149;https://bvmm.irht.cnrs.fr/iiif/1193/manifest;Printed text;3331
-FRA;Sens;Société Archéologique;boite 2/1;https://bvmm.irht.cnrs.fr/iiif/25481/manifest;Printed text;723877
-FRA;Annecy;Bibliothèque municipale;Inc. 9;https://bvmm.irht.cnrs.fr/iiif/32548/manifest;Printed text;725244
-USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;BX2080.C37 1518;https://www.vhmml.org/image/manifest/533818;Printed text;725372
-USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 78;https://www.vhmml.org/image/manifest/519228;Printed text;725388
+DEU;Fulda;Hessische Landesbibliothek Fulda;100 Aa 145a;https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN438001117/manifest;Printed;778
+DEU;München;Bayerische Staatsbibliothek;4 Inc.c.a. 756 g;https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00070331/manifest;Printed;848
+DEU;München;Bayerische Staatsbibliothek;Inc.s.a. 77;https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036126/manifest;Printed;894
+FRA;Albi;Bibliothèque municipale;inc. Roch. 12429;https://bvmm.irht.cnrs.fr/iiif/2853/manifest;Printed;1188
+FRA;Angers;Bibliothèque municipale;impr. Rés. T 1343;https://bvmm.irht.cnrs.fr/iiif/1147/manifest;Printed;1237
+FRA;Angers;Musée des Beaux-Arts;impr. 2003.1.078;https://bvmm.irht.cnrs.fr/iiif/1372/manifest;Printed;1251
+FRA;Auch;Bibliothèque municipale;impr. 1064;https://bvmm.irht.cnrs.fr/iiif/1188/manifest;Printed;1312
+FRA;Autun;Bibliothèque de la Société Eduenne;Album Bulliot, n° 31;https://bvmm.irht.cnrs.fr/iiif/22909/manifest;Printed;1315
+FRA;Autun;Bibliothèque municipale;impr. SR 347;https://bvmm.irht.cnrs.fr/iiif/22744/manifest;Printed;1318
+FRA;Beaune;Archives hospitalières;impr. Layette 123, 07;https://bvmm.irht.cnrs.fr/iiif/23169/manifest;Printed;1389
+FRA;Beaune;Archives hospitalières;impr. Layette 123, 08;https://bvmm.irht.cnrs.fr/iiif/23173/manifest;Printed;1390
+FRA;Blois;Musée diocésain d'Art religieux;impr. 84.1.1054;https://bvmm.irht.cnrs.fr/iiif/32137/manifest;Printed;1443
+FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.16;https://bvmm.irht.cnrs.fr/iiif/19844/manifest;Printed;1565
+FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.17;https://bvmm.irht.cnrs.fr/iiif/19845/manifest;Printed;1566
+FRA;Chalon-sur-Saône;Musée Denon;inv. 2005.0.3.18;https://bvmm.irht.cnrs.fr/iiif/19846/manifest;Printed;1567
+FRA;Chartres;Bibliothèque municipale;impr. 8°, GR 045;https://bvmm.irht.cnrs.fr/iiif/103/manifest;Printed;1639
+FRA;Fécamp;Musée du Palais Bénédictine;A.10.004;https://bvmm.irht.cnrs.fr/iiif/20259/manifest;Printed;1762
+FRA;Le Mans;Bibliothèque municipale;inc. R.I.A. 063;https://bvmm.irht.cnrs.fr/iiif/3320/manifest;Printed;1835
+FRA;Nantes;Musée Dobrée;impr. 0690.2776;https://bvmm.irht.cnrs.fr/iiif/4308/manifest;Printed;2066
+FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0105;https://bvmm.irht.cnrs.fr/iiif/5725/manifest;Printed;2171
+FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0106;https://bvmm.irht.cnrs.fr/iiif/5726/manifest;Printed;2172
+FRA;Paris;Bibliothèque Historique de la Ville de Paris;impr. 8-RES-0107;https://bvmm.irht.cnrs.fr/iiif/5727/manifest;Printed;2173
+FRA;Poitiers;Bibliothèque municipale;Impr. CR046;https://horae-pictavenses.fr/iiif/9598/manifest;Printed;3092
+FRA;Poitiers;Bibliothèque municipale;Impr. CR048 bis;https://horae-pictavenses.fr/iiif/9599/manifest;Printed;3094
+FRA;Poitiers;Bibliothèque municipale;Impr. CR049;https://horae-pictavenses.fr/iiif/9600/manifest;Printed;3095
+FRA;Poitiers;Bibliothèque municipale;Impr. DP 558;https://horae-pictavenses.fr/iiif/4832/manifest;Printed;3098
+FRA;Poitiers;Bibliothèque municipale;Impr. DR 69;https://horae-pictavenses.fr/iiif/3893/manifest;Printed;3099
+FRA;Poitiers;Bibliothèque municipale;Impr. DR014;https://horae-pictavenses.fr/iiif/4811/manifest;Printed;3100
+FRA;Poitiers;Bibliothèque municipale;Impr. DR025;https://horae-pictavenses.fr/iiif/4690/manifest;Printed;3101
+FRA;Poitiers;Bibliothèque municipale;Impr. DR038;https://horae-pictavenses.fr/iiif/6033/manifest;Printed;3104
+FRA;Poitiers;Bibliothèque municipale;Impr. DR246;https://horae-pictavenses.fr/iiif/3892/manifest;Printed;3105
+FRA;Poitiers;Bibliothèque municipale;Impr. DR524;https://horae-pictavenses.fr/iiif/3623/manifest;Printed;3106
+FRA;Poitiers;Bibliothèque municipale;Inc. D04;https://horae-pictavenses.fr/iiif/5764/manifest;Printed;3109
+FRA;Poitiers;Bibliothèque municipale;Inc. D27;https://horae-pictavenses.fr/iiif/6254/manifest;Printed;3110
+FRA;Poitiers;Bibliothèque municipale;Inc. D53;https://horae-pictavenses.fr/iiif/216/manifest;Printed;3111
+FRA;Poitiers;Bibliothèque municipale;Inc. D54;https://horae-pictavenses.fr/iiif/5583/manifest;Printed;3112
+FRA;Provins;Bibliothèque municipale;inc. 010;https://bvmm.irht.cnrs.fr/iiif/4265/manifest;Printed;3122
+FRA;Saumur;Château-Musée;inc. 0040;https://bvmm.irht.cnrs.fr/iiif/1373/manifest;Printed;3273
+FRA;Toulouse;Bibliothèque municipale;inc. Paris 0149;https://bvmm.irht.cnrs.fr/iiif/1193/manifest;Printed;3331
+FRA;Sens;Société Archéologique;boite 2/1;https://bvmm.irht.cnrs.fr/iiif/25481/manifest;Printed;723877
+FRA;Annecy;Bibliothèque municipale;Inc. 9;https://bvmm.irht.cnrs.fr/iiif/32548/manifest;Printed;725244
+USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;BX2080.C37 1518;https://www.vhmml.org/image/manifest/533818;Printed;725372
+USA;Saint Benedict (Oregon);Mount Angel Abbey. Library;MS 78;https://www.vhmml.org/image/manifest/519228;Printed;725388
