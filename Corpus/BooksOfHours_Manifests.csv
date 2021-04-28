@@ -304,9 +304,9 @@ FRA;Nantes;Bibliothèque municipale;3072;https://bvmm.irht.cnrs.fr/iiif/4297/man
 FRA;Nantes;Bibliothèque municipale;3340;https://bvmm.irht.cnrs.fr/iiif/4408/manifest;Manuscript;2046
 FRA;Nantes;Musée Dobrée;0012, t. I;https://bvmm.irht.cnrs.fr/iiif/4321/manifest;Manuscript;2062
 FRA;Nantes;Musée Dobrée;0012, t. II;https://bvmm.irht.cnrs.fr/iiif/4322/manifest;Manuscript;2063
+FRA;Nantes;Musée Dobrée;9;https://bvmm.irht.cnrs.fr/iiif/4318/manifest;Manuscript;2053
 FRA;Nantes;Musée Dobrée;13;https://bvmm.irht.cnrs.fr/iiif/4323/manifest;Manuscript;2054
 FRA;Nantes;Musée Dobrée;2005.1.1;https://bvmm.irht.cnrs.fr/iiif/4337/manifest;Manuscript;2065
-FRA;Nantes;Musée Dobrée;9;https://bvmm.irht.cnrs.fr/iiif/4318/manifest;Manuscript;2053
 FRA;Nantes;Musée Dobrée;27;https://bvmm.irht.cnrs.fr/iiif/4328/manifest;Manuscript;2056
 FRA;Nantes;Musée Dobrée;28;https://bvmm.irht.cnrs.fr/iiif/4329/manifest;Manuscript;2057
 FRA;Nantes;Musée Dobrée;30;https://bvmm.irht.cnrs.fr/iiif/4331/manifest;Manuscript;2058
@@ -886,32 +886,68 @@ USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Libra
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bethune Ms. 1;https://www.vhmml.org/image/manifest/510579;Manuscript;6601
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 1;https://www.vhmml.org/image/manifest/510548;Manuscript;725342
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 2;https://www.vhmml.org/image/manifest/510549;Manuscript;725331
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;712.1;https://collections.library.yale.edu/manifests/10543757;Manuscript;733017
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0009;https://collections.library.yale.edu/manifests/2014406;Manuscript;6682
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0010;https://collections.library.yale.edu/manifests/10269840;Manuscript;6683
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0016;https://collections.library.yale.edu/manifests/10506542;Manuscript;6684
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0017;https://collections.library.yale.edu/manifests/11684572;Manuscript;6685
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0019;https://collections.library.yale.edu/manifests/11684574;Manuscript;733050
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0032;https://collections.library.yale.edu/manifests/2013547;Manuscript;733051
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0107;https://collections.library.yale.edu/manifests/2004051;Manuscript;6687
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0108;https://collections.library.yale.edu/manifests/16929066;Manuscript;6688
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0109;https://collections.library.yale.edu/manifests/10255877;Manuscript;6689
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0110;https://collections.library.yale.edu/manifests/2014405;Manuscript;6690
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0190;https://collections.library.yale.edu/manifests/2034085;Manuscript;6691
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0191;https://collections.library.yale.edu/manifests/2013550;Manuscript;733052
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0217;https://collections.library.yale.edu/manifests/2013985;Manuscript;6692
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0218;https://collections.library.yale.edu/manifests/2013366;Manuscript;733053
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0287;https://collections.library.yale.edu/manifests/2004052;Manuscript;6693
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0310;https://collections.library.yale.edu/manifests/9998587;Manuscript;733054
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0360;https://collections.library.yale.edu/manifests/10269839;Manuscript;733055
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0375;https://collections.library.yale.edu/manifests/2014402;Manuscript;733018
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0390;https://collections.library.yale.edu/manifests/2002815;Manuscript;733019
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0400;https://collections.library.yale.edu/manifests/2001878;Manuscript;6696
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0411;https://collections.library.yale.edu/manifests/2029198;Manuscript;733020
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0434;https://collections.library.yale.edu/manifests/10269834;Manuscript;733021
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0435;https://collections.library.yale.edu/manifests/2034084;Manuscript;6694
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0436;https://collections.library.yale.edu/manifests/2001877;Manuscript;733022
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0482.123;https://collections.library.yale.edu/manifests/2004094;Manuscript;733024
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0482.124;https://collections.library.yale.edu/manifests/2004095;Manuscript;733025
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0483.2;https://collections.library.yale.edu/manifests/2004116;Manuscript;733026
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0483.21;https://collections.library.yale.edu/manifests/2004130;Manuscript;733030
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0483.3;https://collections.library.yale.edu/manifests/2004117;Manuscript;733027
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0483.4;https://collections.library.yale.edu/manifests/2004118;Manuscript;733029
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0505;https://collections.library.yale.edu/manifests/17368175;Manuscript;6698
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0514;https://collections.library.yale.edu/manifests/9998855;Manuscript;6699
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.1;https://collections.library.yale.edu/manifests/10520811;Manuscript;6700
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.10;https://collections.library.yale.edu/manifests/10520825;Manuscript;733035
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.12;https://collections.library.yale.edu/manifests/10520827;Manuscript;733036
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.3;https://collections.library.yale.edu/manifests/10520816;Manuscript;733031
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.5;https://collections.library.yale.edu/manifests/10520819;Manuscript;733032
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.6;https://collections.library.yale.edu/manifests/17451918;Manuscript;733033
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.9;https://collections.library.yale.edu/manifests/10520823;Manuscript;733034
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0577;https://collections.library.yale.edu/manifests/9998893;Manuscript;6704
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0630;https://collections.library.yale.edu/manifests/9998914;Manuscript;733037
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0631;https://collections.library.yale.edu/manifests/9998661;Manuscript;733038
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0657;https://collections.library.yale.edu/manifests/9998934;Manuscript;6706
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0662;https://collections.library.yale.edu/manifests/9998936;Manuscript;6707
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0663;https://collections.library.yale.edu/manifests/9998937;Manuscript;6708
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0664;https://collections.library.yale.edu/manifests/9998938;Manuscript;6709
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0689;https://collections.library.yale.edu/manifests/9998956;Manuscript;733040
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0748.1;https://collections.library.yale.edu/manifests/10520308;Manuscript;6710
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0748.2;https://collections.library.yale.edu/manifests/10520310;Manuscript;733056
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0756;https://collections.library.yale.edu/manifests/10923620;Manuscript;733041
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0804.16;https://collections.library.yale.edu/manifests/11872848;Manuscript;733042
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0806;https://collections.library.yale.edu/manifests/10958725;Manuscript;6711
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 1053;https://collections.library.yale.edu/manifests/10621958;Manuscript;6712
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 1210;https://collections.library.yale.edu/manifests/15763578;Manuscript;733049
 USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Marston MS 022;https://collections.library.yale.edu/manifests/2013548;Manuscript;6695
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Osborn a44;https://collections.library.yale.edu/manifests/10520306;Manuscript;733043
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Takamiya MS 100;https://collections.library.yale.edu/manifests/16371268;Manuscript;733044
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Takamiya MS 101;https://collections.library.yale.edu/manifests/16371269;Manuscript;733047
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Takamiya MS 111;https://collections.library.yale.edu/manifests/16692035;Manuscript;733048
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Takamiya MS 142;https://collections.library.yale.edu/manifests/16700283;Manuscript;733046
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Takamiya MS 143;https://collections.library.yale.edu/manifests/16701098;Manuscript;733045
 USA;Philadelphia;Museum of Art;1945-65-08;https://iiif.archivelab.org/iiif/1945_65_8/manifest.json;Manuscript;7156
 USA;Philadelphia;Museum of Art;1945-65-12;https://iiif.archivelab.org/iiif/1945_65_12/manifest.json;Manuscript;7158
 USA;Philadelphia;Museum of Art;1945-65-16;https://iiif.archivelab.org/iiif/1945_65_16/manifest.json;Manuscript;724998
