@@ -1,4 +1,5 @@
 country;settlement;repository;idno;iiif manifest;Type;H-ID
+AUT;Innsbruck;Universitätsbibliothek;281;https://diglib.uibk.ac.at/i3f/v20/5921243/manifest;Manuscript;14
 BEL;Gent;Universiteitsbibliotheek;186;https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3AACDEC1CE-F244-11E7-B6BF-C49F0AD9BE4D;Manuscript;349
 BEL;Gent;Universiteitsbibliotheek;197;https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3ACC0726BC-F6FA-11E7-8F64-7FDC0AD9BE4D;Manuscript;350
 BEL;Gent;Universiteitsbibliotheek;203;https://adore.ugent.be/IIIF/manifests/archive.ugent.be%3A520E37D6-23C5-11E8-8556-EB9A0AD9BE4D;Manuscript;352
@@ -125,6 +126,7 @@ FRA;Annecy;Bibliothèque municipale;2;https://bvmm.irht.cnrs.fr/iiif/32550/manif
 FRA;Annecy;Bibliothèque municipale;4;https://bvmm.irht.cnrs.fr/iiif/32559/manifest;Manuscript;1256
 FRA;Annecy;Bibliothèque municipale;8;https://bvmm.irht.cnrs.fr/iiif/32555/manifest;Manuscript;1257
 FRA;Annecy;Bibliothèque municipale;9;https://bvmm.irht.cnrs.fr/iiif/32556/manifest;Manuscript;1258
+FRA;Apt;Musée Trésor de la Cathédrale Sainte-Anne;4;https://bvmm.irht.cnrs.fr/iiif/34027/manifest;Manuscript;1260
 FRA;Argentan;Bibliothèque municipale;27;https://bvmm.irht.cnrs.fr/iiif/4257/manifest;Manuscript;1262
 FRA;Arras;Bibliothèque municipale;0366 (0212);https://bvmm.irht.cnrs.fr/iiif/23957/manifest;Manuscript;1265
 FRA;Arras;Bibliothèque municipale;0367 (0449);https://bvmm.irht.cnrs.fr/iiif/24778/manifest;Manuscript;1266
@@ -332,6 +334,7 @@ FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;562;http
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;565;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550094367/manifest.json;Manuscript;2281
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;569;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009437p/manifest.json;Manuscript;2285
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009271w/manifest.json;Manuscript;2342
+FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575 Bis réserve;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/manifest.json;Manuscript;725394
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;615;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010392r/manifest.json;Manuscript;2293
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;616;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55012863j/manifest.json;Manuscript;2294
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;634;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55010382b/manifest.json;Manuscript;2296
@@ -357,7 +360,6 @@ FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1188;htt
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1191;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550101151/manifest.json;Manuscript;2330
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;1194;https://gallica.bnf.fr/iiif/ark:/12148/btv1b550103864/manifest.json;Manuscript;2333
 FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;2162;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525068833/manifest.json;Manuscript;2338
-FRA;Paris;Bibliothèque nationale de France, Bibliothèque de l'Arsenal;575 Bis réserve;https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/manifest.json;Manuscript;725394
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;Rothschild 3154 (24 a);https://gallica.bnf.fr/iiif/ark:/12148/btv1b10091875z/manifest.json;Manuscript;2752
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 21;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10547048x/manifest.json;Manuscript;2754
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;Smith-Lesouëf 24;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105222685/manifest.json;Manuscript;2757
@@ -372,7 +374,7 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00757;https://galli
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00774A;https://gallica.bnf.fr/iiif/ark:/12148/btv1b100361075/manifest.json;Manuscript;2363
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00774B;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036108m/manifest.json;Manuscript;2364
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00774C;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10036012z/manifest.json;Manuscript;2365
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00919 + Paris, Musée du Louvre, Peintures, RF2835;https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/manifest.json;Manuscript;2367
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00919;https://gallica.bnf.fr/iiif/ark:/12148/btv1b520004510/manifest.json;Manuscript;2367
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00920;https://gallica.bnf.fr/iiif/ark:/12148/btv1b52501620s/manifest.json;Manuscript;2368
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00923;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10537589m/manifest.json;Manuscript;2371
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;lat. 00924;https://gallica.bnf.fr/iiif/ark:/12148/btv1b8496557x/manifest.json;Manuscript;2372
@@ -509,7 +511,7 @@ FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 0688;htt
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 0841;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10038346t/manifest.json;Manuscript;2671
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 0894;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10020246c/manifest.json;Manuscript;2674
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 1017;https://gallica.bnf.fr/iiif/ark:/12148/btv1b100255484/manifest.json;Manuscript;2681
-FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 1416 + London, British Library MS Add. 37421 + Paris Louvre, dép. Arts graphiques RF 1679 + M.I 1093;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105094102/manifest.json;Manuscript;2683
+FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 1416;https://gallica.bnf.fr/iiif/ark:/12148/btv1b105094102/manifest.json;Manuscript;2683
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3027;https://gallica.bnf.fr/iiif/ark:/12148/btv1b84328965/manifest.json;Manuscript;2685
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3055;https://gallica.bnf.fr/iiif/ark:/12148/btv1b525095563/manifest.json;Manuscript;2686
 FRA;Paris;Bibliothèque nationale de France, Manuscrits;nouv. acq. lat. 3090;https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515741t/manifest.json;Manuscript;2687
@@ -750,7 +752,7 @@ POL;Warszawa;Biblioteka Narodowa;Rps BOZ 42;https://polona.pl/iiif/item/MTAyMTA1
 POL;Warszawa;Biblioteka Narodowa;Rps BOZ 44;https://polona.pl/iiif/item/MTAxMzM5Nw/manifest.json;Manuscript;725033
 POL;Warszawa;Biblioteka Narodowa;Rps akc. 12399;https://polona.pl/iiif/item/ODEyOTU1NDU/manifest.json;Manuscript;725070
 POL;Warszawa;Biblioteka Narodowa;Rps akc. 16483;https://polona.pl/iiif/item/NTQ4Nzg3MTA/manifest.json;Manuscript;725073
-POL;Wroc?aw;Biblioteka Uniwersytecka we Wroc?awiu;Ms I Q 253;https://glam.uni.wroc.pl/iiif/RKP_I_Q_253_31610/manifest;Manuscript;725154
+POL;Wrocław;Biblioteka Uniwersytecka we Wrocławiu;Ms I Q 253;https://glam.uni.wroc.pl/iiif/RKP_I_Q_253_31610/manifest;Manuscript;725154
 SVK;Martin;Slovenská národná knižnica;?;https://www.wdl.org/fr/item/14217/manifest;Manuscript;725267
 USA;Baltimore;The Walters Art Museum;W.0034;https://purl.stanford.edu/zw200wd8767/iiif/manifest;Manuscript;6171
 USA;Baltimore;The Walters Art Museum;W.0037;https://purl.stanford.edu/dn556rp6795/iiif/manifest;Manuscript;6173
@@ -884,6 +886,32 @@ USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Libra
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Bethune Ms. 1;https://www.vhmml.org/image/manifest/510579;Manuscript;6601
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 1;https://www.vhmml.org/image/manifest/510548;Manuscript;725342
 USA;Collegeville (Minn.);Saint John's University. Hill Museum & Manuscript Library. Special Collections;Gavin Ms. 2;https://www.vhmml.org/image/manifest/510549;Manuscript;725331
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0009;https://collections.library.yale.edu/manifests/2014406;Manuscript;6682
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0010;https://collections.library.yale.edu/manifests/10269840;Manuscript;6683
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0016;https://collections.library.yale.edu/manifests/10506542;Manuscript;6684
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0017;https://collections.library.yale.edu/manifests/11684572;Manuscript;6685
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0107;https://collections.library.yale.edu/manifests/2004051;Manuscript;6687
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0108;https://collections.library.yale.edu/manifests/16929066;Manuscript;6688
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0109;https://collections.library.yale.edu/manifests/10255877;Manuscript;6689
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0110;https://collections.library.yale.edu/manifests/2014405;Manuscript;6690
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0190;https://collections.library.yale.edu/manifests/2034085;Manuscript;6691
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0217;https://collections.library.yale.edu/manifests/2013985;Manuscript;6692
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0287;https://collections.library.yale.edu/manifests/2004052;Manuscript;6693
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0400;https://collections.library.yale.edu/manifests/2001878;Manuscript;6696
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0435;https://collections.library.yale.edu/manifests/2034084;Manuscript;6694
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0505;https://collections.library.yale.edu/manifests/17368175;Manuscript;6698
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0514;https://collections.library.yale.edu/manifests/9998855;Manuscript;6699
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0525.1;https://collections.library.yale.edu/manifests/10520811;Manuscript;6700
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0577;https://collections.library.yale.edu/manifests/9998893;Manuscript;6704
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0657;https://collections.library.yale.edu/manifests/9998934;Manuscript;6706
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0662;https://collections.library.yale.edu/manifests/9998936;Manuscript;6707
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0663;https://collections.library.yale.edu/manifests/9998937;Manuscript;6708
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0664;https://collections.library.yale.edu/manifests/9998938;Manuscript;6709
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0748.1;https://collections.library.yale.edu/manifests/10520308;Manuscript;6710
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0748.2;https://collections.library.yale.edu/manifests/10520310;Manuscript;733056
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 0806;https://collections.library.yale.edu/manifests/10958725;Manuscript;6711
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Beinecke MS 1053;https://collections.library.yale.edu/manifests/10621958;Manuscript;6712
+USA;New Haven;Yale University Library, Beinecke Rare Book and Manuscript Library;Marston MS 022;https://collections.library.yale.edu/manifests/2013548;Manuscript;6695
 USA;Philadelphia;Museum of Art;1945-65-08;https://iiif.archivelab.org/iiif/1945_65_8/manifest.json;Manuscript;7156
 USA;Philadelphia;Museum of Art;1945-65-12;https://iiif.archivelab.org/iiif/1945_65_12/manifest.json;Manuscript;7158
 USA;Philadelphia;Museum of Art;1945-65-16;https://iiif.archivelab.org/iiif/1945_65_16/manifest.json;Manuscript;724998
