@@ -1,0 +1,334 @@
+@import "tei_oxygen.css";
+
+titleStmt{
+    display:none;
+}
+
+hi[rend='superscript']{
+    position: relative; top: -0.5em; font-size: 70%;
+}
+hi[rend='red']{
+    color:red;
+}
+
+physDesc{
+background-color:#ccfcfc;
+font-size:x-small;
+}
+
+/*msItem > title + note, msItem > rubric + note, msItem > incipit + note, msItem > explicit + note{
+    display:none;
+}*/
+ 
+locus:after{
+    content:". ";
+}
+
+
+
+
+msDesc{
+    display:block;
+    color: black;
+}
+
+msDesc > msPart{
+    border: 10px double green;
+}
+
+msIdentifier{
+    display: inline;
+    font-size: large;
+    font-weight: bold;
+}
+settlement:after, repository:after{
+content:", ";
+}
+
+altIdentifier{
+    font-size: medium;
+    display:block;
+}
+altIdentifier:before{
+    content: "Cote ancienne : "
+}
+
+summary{
+    font-weight: bold;
+    display: block;
+    color:red;
+}
+msItem{
+    -oxy-foldable:true;
+    padding-top:15px;
+    padding-bottom:15px
+}
+
+
+msContents > msItem{
+    background-color:white;
+    border: 2px dotted grey;
+    display: block;
+    }
+
+msItem > msItem{
+    border: 1px dotted grey;
+    display: block;
+    margin-left: 100px;
+}
+
+explicit{display:block;}
+/*locus[from]{
+    content: "(" attr(from) "-" attr(to) ")";
+}
+locus[n]{
+    content: "(" attr(n) ")";
+}
+*/
+physDesc{
+    padding-top: 20px;
+    border: 1px dotted grey;
+    background-color: #e6f7ff;
+}
+
+supportDesc:before{
+    content: "Matière du support : "
+}
+supportDesc{
+    display:inline;
+}
+
+extent > measure[type = "composition"]{
+    content: "Nombre de feuillets : ";
+    display: block;
+}
+
+dimensions{
+    display: block;
+    color:purple;
+}
+
+dimensions[type = "leaf"]:before{
+    content: "Dimensions : "
+}
+dimensions[type = "justification"]:before{
+    content: "Justification : "
+}
+
+height:before{
+    content: "(hauteur) "
+}
+width:before{
+    content: " x (largeur) "
+}
+height:empty, width:empty{
+    content:attr(quantity);
+}
+dimensions:after{
+    content: " mm";
+}
+
+
+layout:before{
+    content: "[Nombre de colonnes : " attr(columns) "] "; 
+    display: inline;
+    color:purple;
+}
+
+layout{
+    display:block;
+}
+
+scriptNote{
+    display: block;
+    font-weight: bold;
+    content: "Ecriture : " attr(script);
+}
+
+author{
+    font: bold;
+}
+title{
+    font-style: italic;
+     text-transform:uppercase;
+    font: bold;
+    color:navy;
+    }
+    
+    hi[rend='black']{
+        color:black;
+    }
+rubric{
+    text-decoration-line: underline;
+  text-decoration-style: solid;
+  color: #f75c6b; 
+  font-style:italic;
+ }
+  
+finalRubric{
+    color: fuchsia;
+}
+/*incipit:after{
+    content: "...";
+    color:gray;
+}
+*/
+locus:before{
+    content:" [";
+    color:gray;
+}
+locus:after{
+    content:"]";
+    color:gray;
+}
+
+locus{color:gray;
+}
+
+msItem > quote{
+    padding-left:40px;
+    display:block;
+}
+
+note{
+    font-size: small;
+    color: grey;
+}
+
+note[type = "footnote"]{
+    color: orange;
+}
+rubric > note, explicit > note, incipit > note{
+    display:inline;
+    }
+rubric > note:before, explicit > note:before, incipit > note:before{
+    content: " (";
+    }
+    rubric > note:after, explicit > note:after, incipit > note:after{
+    content: ") ";
+    }
+
+bibl{
+    display:list-item;
+    color:purple;
+}
+
+bibl[type="edition"]:before{
+    content: "(édition) ";
+}
+
+/*bibl[sameAs]:before{
+    content:   "[" attr(sameAs) "] " oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'display_biblStruct'));
+            color: blue;
+            font-size:15px;
+}*/
+
+bibl:not([sameAs]):not([type="CoteMedium"]):before{
+   display:inline;
+   color:#84bff9;
+   font-size:x-small;
+    content: oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'identifyBibl'));
+  }
+
+/*  
+  
+ [contains(@xml:id, substring-after("',attr(sameAs),'", "#"))]
+  
+ */
+  
+ /* bibl:not([type="CoteMedium"]):before{
+content: oxy_xpath(
+    oxy_concat(
+        'string-join(doc("', oxy_url('${cfdu}/biblio-saint-omer.xml'), '")//listBibl/biblStruct[@xml:id=substring-after("',attr(sameAs),'", "#")]//*[self::author|self::title]//text(), ",")'
+        )) "\a";
+        color:blue;
+} */
+
+idno{
+    color:brown;
+    display:inline;
+}
+
+origDate{
+    font: bold;
+    color:olive;
+}
+
+orgName{
+    font:italic;
+    color:purple;
+}
+
+scriptNote{
+    font-size:small;
+    color:maroon;
+}
+
+decoNote{
+    display:block;
+}
+
+decoNote > p, additions > p {
+    display:inline;
+}
+decoNote > p:after{
+    content: "; "
+}
+
+additions:before{
+content: "Additions";
+color:purple;
+   }
+   
+   sourceDesc > listBibl{
+       display:none;
+       background-color:#D8F6CE;
+   }
+   
+   provenance {
+       border: 1px dotted grey;
+       display:block;
+   }
+   provenance > p > idno,  provenance > p > locus,  provenance > p > date,  provenance > p > q,  provenance > p > note, provenance > p > desc {
+   display:inline;
+       padding-left:40px
+   }
+   
+   
+   quote{
+       display:inline;
+       color:green;
+   }
+   
+   filiation{
+        border: 1px dotted grey;
+       background-color:orange;
+   }
+   filiation > bibl{
+       display:inline;
+   }
+   
+   ptr:before{
+  link: attr(target);
+}
+
+history{
+    display:block;
+    background-color:#e6ffe6
+}
+
+bibl[type="CoteMedium"] > ptr:before{
+        link: "http://medium-avance.irht.cnrs.fr/Manuscrits/Voir?idFicheManuscrit=" attr(target)
+}
+bibl[type="CoteMedium"] {
+        content: "Lien Medium : ";
+        color: black;
+}
+
+additions > p {
+    display:block;
+}

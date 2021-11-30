@@ -1,0 +1,3477 @@
+/* =============================================================
+    CSS2 specification for TEI in oXygen.
+ derived from stylesheet by
+    Author: Adrian Edwards (adrian_edwards@yahoo.com)
+    Date:   2000-04-19
+ edited by Sebastian Rahtz (sebastian.rahtz@oucs.ox.ac.uk)
+            2001-05-06
+ 2003-08-29 start of new parent div resets child auto-count. kl
+ 2003-11-06 list attr list-style-type was none, now disc. kl
+ 2007-06  reworking for TEI P5 and oxygen
+
+$LastChangedDate$, $LastChangedRevision$, $LastChangedBy$
+============================================================= */
+/* Use Times New Roman for default font */
+body{
+    color:#2f2f2f;
+}
+
+@media oxygen AND (platform:"webapp") {
+  body  {
+    color:#2f2f2f;    
+  }
+}
+TEI {
+}
+abbr {
+  display: inline;
+}
+
+address {
+  display: block;
+  margin-top: 2em;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-bottom: 2em;
+}
+addrLine {
+  display: block;
+  white-space: nowrap;
+}
+anchor {
+  display: none;
+}
+argument {
+  display: block;
+  margin-bottom: 0.5em;
+}
+att {
+  display: inline;
+  font-family: sans-serif;
+  color: blue;
+  background-color: inherit;
+}
+att:before {
+  content: "@";
+}
+author {
+  display: inline;
+}
+    
+back {
+  display: block;
+  border: thin black solid;
+  margin-top: 1em;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+}
+bibl {
+  display: inline;
+}
+    
+argument > bibl, body > bibl, cit > bibl, div > bibl, div0 > bibl, div1 > bibl, div2 > bibl, div3 > bibl, div4 > bibl, div5 > bibl, div6 > bibl, div7 > bibl, epigraph > bibl, listBibl > bibl > bibl, taxonomy > bibl {
+  display: block;
+  margin-bottom: 0.5em;
+}
+biblFull {
+  display: inline;
+}
+    
+argument > biblFull, body > biblFull, cit > biblFull, div > biblFull, div0 > biblFull, div1 > biblFull, div2 > biblFull, div3 > biblFull, div4 > biblFull, div5 > biblFull, div6 > biblFull, div7 > biblFull, epigraph > biblFull, listBibl > biblFull > biblFull, taxonomy > biblFull {
+  display: block;
+  margin-bottom: 0.5em;
+}
+biblScope {
+  display: inline;
+}
+    
+imprint > biblScope {
+  display: block;
+}
+    
+body {
+  margin-top: 5px;
+  margin-left: 10px;
+  display: block;
+  counter-reset: div1;
+
+}
+byline {
+  display: block;
+  font-style: italic;
+  margin-bottom: 0.5em;
+}
+@media oxygen AND (platform:"eclipse") {
+  byline {
+    font-style: normal;
+  }
+}
+
+category {
+  display: block;
+  margin-bottom: 1em;
+}
+catRef {
+  display: none;
+}
+cell {
+  display: table-cell;
+  border: 1px solid #EEEFEE;
+  padding: 0.3em;
+  color: inherit;
+  background-color:inherit;
+}
+cell[role='label'] {
+   color: inherit;
+   background-color: #BBBBBB;
+}
+
+@media oxygen and (platform:webapp) {
+ table > row > cell {
+   -oxy-show-placeholder:no;
+ }
+}
+
+change {
+  display: block;
+  margin-bottom: 1em;
+  margin-left: 2em;
+}
+cit {
+  display: inline;
+}
+    
+argument > cit, body > cit, div > cit, div0 > cit, div1 > cit, div2 > cit, div3 > cit, div4 > cit, div5 > cit, div6 > cit, div7 > cit, epigraph > cit {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-top: 0.5em;
+}
+classCode {
+  display: block;
+}
+elementSpec, macroSpec, classSpec {
+  display: block;
+  margin-bottom: 1em;
+}
+closer {
+  display: block;
+  margin-bottom: 1em;
+}
+code {
+  display: inline;
+  font-family: monospace;
+}
+
+creation {
+  display: block;
+}
+date {
+  display: inline;
+}
+    
+change > date, publicationStmt > date {
+  display: block;
+  font-weight: bold;
+}
+dateline {
+  display: inline;
+}
+
+
+distributor {
+  display: block;
+  margin-bottom: 0.5em;
+}
+
+/*
+body > div {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div1;
+  counter-reset: div2;
+}
+body > div > div {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div2;
+  counter-reset: div3;
+}
+body > div > div > div {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div3;
+}
+
+*/
+div1 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div1;
+  counter-reset: div2;
+}
+div2 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div2;
+  counter-reset: div3;
+}
+div3 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div3;
+  counter-reset: div4;
+}
+div4 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div4;
+  counter-reset: div5;
+}
+div5 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div5;
+  counter-reset: div6;
+}
+div6 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div6;
+  counter-reset: div7;
+}
+div7 {
+  display: block;
+  margin-bottom: 1em;
+  counter-increment: div7;
+}
+divGen {
+  display: none;
+}
+docAuthor {
+  display: block;
+  margin-bottom: 0.5em;
+}
+    
+byline docAuthor {
+  display: inline;
+}
+    
+titlePage docAuthor {
+
+}
+    
+titlePage docTitle {
+
+}
+    
+edition {
+  display: block;
+  margin-bottom: 0.5em;
+}
+    
+bibl edition {
+  display: inline;
+}
+    
+editionStmt {
+  display: block;
+  margin-bottom: 1em;
+}
+editor {
+  display: block;
+  margin-bottom: 0.5em;
+}
+    
+bibl editor {
+  display: inline;
+}
+    
+eg {
+  font-family: monospace;
+  padding-top: 3mm;
+  padding-left: 4pt;
+  padding-bottom: 2pt;
+  display: block;
+  margin-top: 12pt;
+  margin-bottom: 12pt;
+  white-space: pre;
+  color: inherit;
+  background-color: #FFCC99;
+}
+    
+argument > eg, body > eg, div > eg, div0 > eg, div1 > eg, div2 > eg, div3 > eg, div4 > eg, div5 > eg, div6 > eg, div7 > eg, epigraph > eg {
+  display: block;
+  margin-bottom: 1em;
+}
+emph {
+  display: inline;
+  font-style: italic;
+}
+epigraph {
+  display: block;
+  margin-bottom: 1em;
+  text-align: center;
+}
+    
+extent {
+  display: block;
+  margin-bottom: 1em;
+}
+    
+bibl extent {
+  display: inline;
+}
+ 
+graphic{
+    color: gray;
+    background-color: inherit;
+    content: "{" attr(url) "}";    
+}
+figure {
+  display: block;
+  margin-bottom: 1em;
+}
+foreign {
+  display: inline;
+  font-style: italic;
+}
+formula {
+  display: inline;
+  font-style: italic;
+}
+@media oxygen AND (platform:"eclipse") {
+  formula {
+    font-style: normal;
+  }
+}
+front {
+  display: block;
+  margin-bottom: 1em;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+  padding-bottom: 0.5em;
+}
+funder {
+  display: block;
+  margin-bottom: 0.5em;
+}
+gap {
+  display: none;
+}
+    
+gap:after {
+  content: "[...]";
+  font-style: italic;
+}
+@media oxygen AND (platform:"eclipse") {
+  gap:after {
+    font-style: normal;
+  }
+}
+gi,tag {
+  display: inline;
+  font-family: sans-serif;
+  color: blue;
+  background-color: inherit;
+}
+    
+tag:before,gi:before {
+  content: "<";
+}
+    
+tag:after,gi:after {
+  content: ">";
+}
+    
+gloss {
+  display: inline;
+}
+group {
+  display: block;
+  margin-bottom: 1em;
+}
+
+/*
+
+body > div > head {
+  display: block;
+  font-size: larger;
+  padding-top: 14px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  color: inherit;
+  background-color: #BBBBBB;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+body > div > div > head {
+  display: block;
+  padding-top: 14px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  color: inherit;
+  background-color: #BBBBBB;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+body > div > div > div > head {
+  display: block;
+  padding-top: 14px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  color: inherit;
+  background-color: #BBBBBB;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+  margin-top: 1em;
+}
+
+
+div1 > head:before {
+  content: counter(div1) ". ";
+  color: black;
+  background-color: inherit;
+}
+div2 > head:before {
+  content: counter(div1) "." counter(div2) ". ";
+  color: black;
+  background-color: inherit;
+}
+div3 > head:before {
+  content: counter(div1) "." counter(div2) "." counter(div3) ". ";
+  color: black;
+  background-color: inherit;
+}
+body > div > head:before {
+  content: counter(div1) ". ";
+  color: black;
+  background-color: inherit;
+}
+body > div > div > head:before {
+  content: counter(div1) "." counter(div2) ". ";
+  color: black;
+  background-color: inherit;
+}
+body > div > div > div > head:before {
+  content: counter(div1) "." counter(div2) "." counter(div3) ". ";
+  color: black;
+  background-color: inherit;
+}
+*/
+
+hi {
+  display: inline;
+  background-color:yellow;
+  color: black;
+}
+
+hi[rend] {
+  background-color: inherit;
+  color: inherit;
+}
+    
+hi[rend="bold"] {
+  display: inline;
+  font-weight: bold;
+}
+hi[rend="italic"] {
+  display: inline;
+  font-style: italic;
+}
+hi[rend="underline"] {
+  display: inline;
+  text-decoration:underline;
+}
+hi[rend="it"] {
+  display: inline;
+  font-style: italic;
+}
+hi[rend="sc"] {
+  display: inline;
+  font-variant: small-caps;
+}
+hi[rend="sup"] {
+  display: inline;
+  vertical-align: super;
+  font-size: smaller;
+}
+hi[rend="sub"] {
+  display: inline;
+  vertical-align: sub;
+  font-size: smaller;
+}
+hi[rend="ul"] {
+  display: inline;
+  text-decoration: underline;
+}
+ident {
+  display: inline;
+  font-family: monospace;
+}
+idno {
+  display: block;
+  margin-bottom: 1em;
+}
+    
+bibl idno {
+  display: inline;
+}
+        
+imprint {
+  display: inline;
+}
+index {
+  display: none;
+}
+interp {
+  display: none;
+}
+interpGrp {
+  display: none;
+}
+list[type = "gloss"] item {
+  display: block;
+  margin-left: 1em;
+}
+list item {
+  display: list-item;
+  margin-left: 12pt;
+}
+    
+    
+item {
+  display: list-item;
+  margin-left: 12pt;
+}
+    
+item[n]:before {
+  content: attr(n) ". " ;
+  list-style: none;
+} /* should there be space after the content?
+     And should default marker be suppressed
+     when there is an @n attribute? --DRS */
+    
+change item {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+keywords {
+  display: block;
+  margin-bottom: 0.5em;
+}
+kw {
+  display: inline;
+  font-style: italic;
+}
+l {
+  display: block;
+  white-space: nowrap;
+}
+label {
+  display: inline;
+  font-weight: bold;
+}
+Label {
+	display: inline;
+	font-weight : bold;
+	color : #2F4F4F;
+           background-color: inherit;
+}
+    
+argument > label, body > label, div > label, div0 > label, div1 > label, div2 > label, div3 > label, div4 > label, div5 > label, div6 > label, div7 > label, epigraph > label {
+  display: block;
+  font-weight: bold;
+}
+langUsage {
+  display: block;
+  margin-bottom: 1em;
+}
+lb {
+  display: block;
+}
+lg {
+  display: block;
+  margin-bottom: 0.5em;
+}
+list {
+  display: block;
+  list-style-type: disc;
+  list-style-position: outside;
+  margin-bottom: 1em;
+  margin-left: 2em;
+  margin-top: 1em;
+}
+    
+list[rend="runon"] {
+  display: inline;
+}
+    
+list[type="bulleted"] {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+list[type="unordered"] {
+  list-style-type: disc;
+  list-style-position: outside;
+}
+list[type="ordered"] {
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+    
+list[type="numbered"] {
+  list-style-type: decimal;
+  list-style-position: outside;
+}
+list[type="none"] {
+  list-style-type: none;
+}
+    
+listBibl {
+  display: block;
+  margin-bottom: 0.5em;
+}
+mentioned {
+  display: inline;
+  font-style: italic;
+}
+milestone {
+  display: none;
+}
+name {
+  display: inline;
+}
+note {
+  display: block;
+  font-size: smaller;
+}
+    
+note[n]:before {
+  content: attr(n);
+  vertical-align: super;
+}
+    
+note[place="left"] {
+  float: left;
+}
+    
+note[place="right"] {
+  float: right;
+}
+    
+note[place="inline"], note[place="unspecified"] {
+  display: inline;
+}
+notesStmt {
+  display: block;
+  margin-bottom: 1em;
+}
+num {
+  display: inline;
+}
+opener {
+  display: block;
+  margin-bottom: 0.5em;
+}
+orig {
+  display: inline;
+}
+p {
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;  
+  font-size: 0.9em;
+}
+
+
+    
+principal {
+  display: block;
+  margin-bottom: 0.5em;
+}
+ptr {
+    color: navy;
+    text-decoration: underline;
+    background-color: inherit;
+}
+ptr:before{
+    background-color: inherit;
+    color: red;
+    
+}
+
+publicationStmt {
+  display: block;
+  margin-bottom: 1em;
+}
+publisher {
+  display: inline;
+}
+    
+imprint > publisher, publicationStmt > publisher {
+  display: block;
+  margin-bottom: 0.5em;
+}
+pubPlace {
+  display: inline;
+}
+    
+imprint > pubPlace, publicationStmt > pubPlace {
+  display: block;
+  margin-bottom: 0.5em;
+}
+q {
+  display: inline;
+  quotes: '"' '"' "'" "'";
+  margin-top: 0em;
+  margin-left: 0em;
+  margin-right: 0em;
+  margin-bottom: 0em;
+}
+    
+q[rend="display"], argument > q, body > q, cit > q, div > q, div0 > q, div1 > q, div2 > q, div3 > q, div4 > q, div5 > q, div6 > q, div7 > q, epigraph > q {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-left: 3em;
+  margin-right: 3em;
+  quotes: none;
+}
+    
+q:before {
+  content: open-quote;
+}
+    
+q:after {
+  content: close-quote;
+}
+    
+ref {
+  display: inline;
+  color: blue;
+  background-color: inherit;
+}
+ref:before{
+    color: gray;
+    background-color: inherit;
+    text-decoration: underline;
+    content:'{' attr(target) '}';
+}
+
+reg {
+  display: inline;
+  font-style: italic;
+}
+@media oxygen AND (platform:"eclipse") {
+  reg {
+    font-style: normal;
+  }
+}
+rendition {
+  display: block;
+  margin-bottom: 0.5em;
+}
+resp {
+  display: inline;
+}
+respStmt {
+  display: block;
+}
+    
+bibl respStmt {
+  display: inline;
+}
+    
+
+row {
+  display: table-row;
+}
+row[role='label'] {
+   color: inherit;
+   background-color: #BBBBBB;
+}
+
+rs {
+  display: inline;
+}
+s {
+  display: inline;
+}
+salute {
+  display: block;
+  margin-bottom: 0.5em;
+}
+samplingDecl {
+  display: block;
+  margin-bottom: 1em;
+}
+seg {
+  display: inline;
+}
+seriesStmt {
+  display: block;
+  margin-bottom: 1em;
+}
+sic {
+  display: inline;
+  color: red;
+  background-color: inherit;
+}
+    
+sic:after {
+  content: " [sic]";
+}
+signed {
+  display: block;
+  text-align: right;
+  font-style: italic;
+  font-size: 0.8em;
+}
+soCalled {
+  display: inline;
+  font-style: italic;
+  quotes: "'" "'";
+}
+@media oxygen AND (platform:"eclipse") {
+  soCalled {
+    font-style: normal;
+  }
+}
+    
+soCalled:before {
+  content: open-quote;
+}
+    
+soCalled:after {
+  content: close-quote;
+}
+    
+sp {
+  display: block;
+  margin-bottom: 0.5em;
+  margin-left: 2em;
+}
+speaker {
+  display: inline;
+  font-weight: bold;
+}
+sponsor {
+  display: block;
+  margin-bottom: 0.5em;
+}
+stage {
+  display: inline;
+  font-style: italic;
+}
+@media oxygen AND (platform:"eclipse") {
+  stage {
+    font-style: normal;
+  }
+}
+table {
+  display: table;
+  margin: 1em;  
+}
+
+table head{
+    display:table-caption;
+    font-style: italic;
+    margin-bottom: 0.5em;
+    color:#4d4d4d;
+}
+@media oxygen AND (platform:"eclipse") {
+  table > head{
+    font-style: normal;
+  }
+}
+
+tagUsage {
+  display: block;
+  margin-bottom: 0.5em;
+}
+taxonomy {
+  display: block;
+  margin-bottom: 0.5em;
+}
+term {
+  font-family: sans-serif;
+  color: blue;
+  background-color: inherit;
+  display: inline;
+}
+textClass {
+  display: block;
+  margin-bottom: 0.5em;
+}
+time {
+  display: inline;
+}
+title {
+  display: inline;
+}
+    
+seriesStmt > title, titleStmt > title {
+}
+titlePage {
+  display: block;
+  border: thin black solid;
+  margin-bottom: 2em;
+  text-align: center;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+titlePart {
+  display: block;
+}
+titleStmt {
+  font-size: large;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+trailer {
+  display: block;
+  margin-bottom: 1em;
+}
+
+/* header-related material 
+teiHeader {
+  display: block;
+  color: #2f2f2f;
+  background-color: #e2f5ff;
+  border: 1px solid #cccccc;
+  margin-bottom: 2em;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+  font-size: 0.9em;
+}
+titleStmt > author {
+  display: block;
+  margin-bottom: 1em;
+}
+authority {
+  display: block;
+  margin-bottom: 0.5em;
+}
+availability {
+  display: block;
+  margin-bottom: 0.5em;
+}
+fileDesc {
+  display: block;
+  margin-bottom: 1em;
+}
+sourceDesc {
+  display: block;
+  border: thin silver solid;
+  margin-bottom: 1em;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+revisionDesc {
+  display: block;
+  margin-bottom: 1em;
+}
+catDesc {
+  display: block;
+  margin-bottom: 0.5em;
+}
+encodingDesc {
+  display: block;
+  margin-bottom: 1em;
+}
+profileDesc {
+  display: block;
+  margin-bottom: 1em;
+}
+projectDesc {
+  display: block;
+  margin-bottom: 1em;
+}
+        
+docDate {
+  display: block;
+  margin-bottom: 0.5em;
+}
+    
+docImprint docDate {
+  display: inline;
+}
+    
+docEdition {
+  display: block;
+  margin-bottom: 0.5em;
+}
+docImprint {
+  display: block;
+  margin-bottom: 0.5em;
+}
+docTitle {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5em;
+}
+
+*/
+
+/* OUCS additions */
+Button {
+	  font-family: monospace;
+	  color: red;
+	  font-weight: bold;
+	  background-color: rgb(75%,75%,75%)
+	  }
+Value {
+	  font-family: monospace;
+	  color: rgb(255, 102, 0);
+	  background-color: inherit;
+	  }
+Code {
+	  font-family: monospace;
+	  color: red;
+	  background-color: inherit;
+	  }
+Field {
+	   font-family: monospace;
+	   color: red;
+	   background-color: inherit;
+	   }
+Filespec {
+	      font-family: monospace;
+	      color: red;
+	      background-color: inherit;
+	      }
+Input {
+	   font-family: monospace;
+	   color: green;
+	   background-color: inherit;
+	   }
+Key {
+	 font-family: monospace;
+         text-decoration: underline;
+	 color: green;
+	 background-color: inherit;
+	 }
+Link {
+	  font-family: monospace;
+	  color: green;
+	  background-color: inherit;
+	  text-decoration: underline;
+	  }
+Menu {
+	  font-family: monospace;
+	  color: red;
+	  background-color: inherit;
+	  }
+Output {
+	    font-family: monospace;
+	    color: red;
+	    background-color: inherit;
+	    }
+Icon {
+	color: inherit;
+	background-color : #B0E0E6;
+	font-weight : bold;
+}
+Screen {
+  font-family: monospace;
+  padding-top: 3mm;
+  padding-left: 4pt;
+  padding-bottom: 2pt;
+  display: block;
+  margin-top: 12pt;
+  margin-bottom: 12pt;
+  white-space: pre;
+  color: inherit;
+  background-color: #FFCC99;
+   }
+   
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+   /* env édition critique Emmanuelle Kuhry */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+/*   ********************************************************************************************************************* */
+   del {
+  display: inline;
+  color: red;
+  background-color: inherit;
+  text-decoration: line-through;
+}
+
+del:before{
+content:" suppr. " oxy_combobox(edit, "@rend",
+            editable, false,
+            values, "biffe, surcharge, exponctuation, grattage, soulignage, autre", labels, "biffe, surcharge, exponctuation, grattage, soulignage, autre", width, 50px);
+			color:red;
+			text-decoration: none;
+			vertical-align: super;
+	font-size:80%;
+}
+
+add {
+  display: inline;
+  color: green;
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+add:before{
+content: " add. " oxy_combobox(edit, "@place",
+            editable, false,
+            values, "margeG, margeD, margeSup, margeInf, interligne, inline, above, below, surcharge, autre", labels, "marge gauche, marge droite, marge supérieure, marge inférieure, interlinéaire, dans le texte, au-dessus, en-dessous, surcharge, autre", width, 50px);
+			color: green;
+			text-decoration: none;
+			vertical-align: super;
+	font-size:80%;
+}
+
+mod > add:after{
+	display:none;
+}
+
+mod > del:after{
+	display:none;
+}
+
+mod:before {
+	content: " corr.";
+	vertical-align: super;
+	font-size:80%;
+	color:purple;
+	text-decoration: none;
+}
+
+mod:after{
+	content:" main :" oxy_popup(edit, '@hand', values, oxy_xpath('string-join(//teiHeader/profileDesc/handNotes/handNote/@xml:id/concat("#", .), ",")'), selectionMode, "single") "  ";
+	color:blue;
+	text-decoration: none;
+	vertical-align: super;
+	font-size:80%;
+}
+
+del:after{
+	content:" main :" oxy_popup(edit, '@hand', values, oxy_xpath('string-join(//teiHeader/profileDesc/handNotes/handNote/@xml:id/concat("#", .), ",")'), selectionMode, "single") "  ";
+	color:blue;
+	text-decoration: none;
+	vertical-align: super;
+	font-size:80%;
+}
+
+add:after{
+	content:" main :" oxy_popup(edit, '@hand', values, oxy_xpath('string-join(//teiHeader/profileDesc/handNotes/handNote/@xml:id/concat("#", .), ",")'), selectionMode, "single") "  ";
+	color:blue;
+	text-decoration: none;
+	vertical-align: super;
+	font-size:80%;
+}
+
+app{
+    
+    display:block;
+    margin-right:50px;
+    margin-top:0px;
+    margin-bottom:0px;
+    border:1px dashed #FF0066;
+}
+
+app:before{
+    content:"[apparat]  " ;
+    display:block;
+    font-size:100%;
+    font-weight:bold;
+    color:#FF0066;
+    text-align:left;
+    margin-top:7px;
+
+}
+
+
+app:after{
+    content:"[nouvelle variante]  "  oxy_button(transparent, true, action, oxy_action(id, 'inserRdg'));
+    display:block;
+    font-weight:bold;
+    color:#5A5A5A;
+    font-style:italic;
+    font-size:80%;
+    margin-bottom:10px;
+
+    
+}
+rdg:before{
+    content:"   " ;
+    display:inline;
+    font-weight:bold;
+    color:black;
+}
+
+rdg{
+    display:block;
+    margin-left:10px;
+    margin-top:05px;
+    margin-bottom:0px;
+    background-color:#E9E9E9;
+content: oxy_textfield(columns, 40, edit, "#text");
+visibility: -oxy-collapse-text;
+}
+
+rdg:after{
+    content:"     Type : " 
+	oxy_combobox(edit, "@type",
+            editable, false,
+            values, "orth., inversion, add., om., del., autre", labels, "orth., inversion, addition, omission, suppression, autre", width, 50px)
+	
+	"     Cause : " 
+	oxy_combobox(edit, "@cause",
+            editable, false,
+            values, "deplacement, add., om., err., del., homeoteleuton, autre", labels, "déplacement, addition, omission, erreur, suppression, homeoteleuton, autre", width, 50px)
+	
+	"    [" attr(wit)"]  "
+	
+	" témoin:" oxy_popup(edit, '@wit', values, oxy_xpath('string-join(//teiHeader/fileDesc/sourceDesc/listWit/witness/@xml:id/concat("#", .), ",")'), selectionMode, "multiple") "  "
+	
+	 "    Ajouter le témoin en cours d'enregistrement " oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserCurrentWit'))
+	
+	;
+    
+	display:inline;
+    font-weight:bold;
+    color:#5A5A5A;
+    font-style:italic;
+font-size:80%;
+}
+
+supplied:before{
+content: "[";
+font-size:80%;
+color:#9c9cbd;
+
+}
+
+supplied:after{
+content: "]" " source:" oxy_popup(edit, '@source', values, oxy_xpath('string-join(//teiHeader/fileDesc/sourceDesc/listWit/witness/@xml:id/concat("#", .), ",")'), selectionMode, "multiple") "  Raison : " 
+	oxy_combobox(edit, "@reason",
+            editable, false,
+            values, "illisible, autre", labels, "illisible, autre", width, 50px);
+font-size:80%;
+color:#9c9cbd;
+
+}
+
+
+unclear:after{
+content:oxy_button(transparent, true, action, oxy_action(id, 'unclear2'))
+}
+
+choice>unclear:after{
+display:none;
+}
+
+unclear{
+  display: inline;
+  color: silver;
+  background-color: inherit;
+  font-style: italic;
+}
+
+pb:before {
+  content: "<" attr(n) attr(source);
+  font-weight: bold;
+font-size:80%;
+color:#db704c;
+}
+    
+pb:after {
+  content: ">" ;
+  font-weight: bold;
+  font-size:80%;
+color:#db704c;
+}
+
+cb:before {
+  content: "<cb " attr(source);
+  font-weight: bold;
+font-size:80%;
+color:#ffa826;
+}
+    
+cb:after {
+  content: ">" ;
+  font-weight: bold;
+  font-size:80%;
+color:#ffa826;
+}
+
+/* teiHeader */
+
+
+titleStmt:before,
+editionStmt:before,
+publicationStmt:before,
+sourceDesc:before,
+projectDesc:before,
+handNotes:before,
+langUsage:before,
+creation:before
+ {
+	margin-left:10px;
+	margin-right:10px;
+	font-weight:bold;
+}
+
+titleStmt,
+editionStmt,
+publicationStmt,
+sourceDesc,
+projectDesc,
+handNotes,
+creation,
+langUsage
+ {
+	background-color:#FFF0AD;
+		margin-left:15px;
+			margin-right:15px;
+			        border: 1px dashed #afafaf;
+
+}
+
+encodingDesc,
+fileDesc,
+profileDesc,
+revisionDesc
+{
+    border: 1px solid;
+}
+
+publicationStmt > p,
+editionStmt > p,
+titleStmt > title,
+titleStmt > author,
+sourceDesc > p,
+creation,
+language,
+handNote
+{
+    background-color:white;
+    margin-right:50px;
+    margin-left:25px;
+   
+}
+
+sourceDesc > msDesc{
+border: 1px dashed #afafaf;
+    background-color: #E6F5EB;
+    margin-left:30px;
+			margin-right:30px;
+			margin-bottom:5px;
+}
+
+msIdentifier > idno,
+settlement,
+repository,
+collection,
+country
+{
+display:block;
+content:oxy_textfield(columns, 40, edit, "#text");
+visibility: -oxy-collapse-text;
+}
+
+
+/*country:before{
+content:"Pays : ";
+}*/
+/*settlement:before{
+content:"Ville : ";
+}*/
+/*repository:before{
+content:"Etablissement : ";
+}
+collection:before{
+content:"Collection : ";
+}*/
+idno:before{
+content:"Cote : ";
+}
+
+sourceDesc > listBibl > biblStruct {
+    border: 1px dashed #afafaf;
+    background-color: #FFFAF2;
+    margin-left:30px;
+			margin-right:30px;
+			margin-bottom:5px;
+}
+
+teiHeader:before {
+/*		content: "En-tête TEI" collapser();*/
+		display:block;
+		font-size:20px;
+		
+}
+
+teiHeader {
+/*		collapsible:yes;
+		collapsed:no;*/
+		display: block;
+        width:95%;
+        border: 1px solid;
+        margin-left:0px;
+        margin-right:auto;
+        margin-bottom:20px;
+        padding:5px;
+        font-family:arial;
+        font-size: 15px;
+        color:#000000;
+		background-color:#efefef;
+}
+
+fileDesc:before {
+		display:block;
+/*		content:"Description du fichier" collapser();*/
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:17px
+}
+
+fileDesc {
+/*		collapsible:yes;
+		collapsed:no;
+*/		display: block;
+		font-size:13px;
+		border: 1px solid;
+}
+
+/*titleStmt:before {
+		display:block;
+		font-weight:bold;
+		content:"Description de l'œuvre" collapser();
+		width:90%;
+		margin-bottom:0px;
+		margin-top:20px;
+		font-size:15px;
+}*/
+
+titleStmt {
+		/*collapsible:yes;
+		collapsed:no;
+		display: n;*/
+		font-size:13px;
+        border: 1px dashed #afafaf;
+}
+
+titleStmt > title {
+		display:block;
+		content:"Titre : "oxy_textfield(columns, 40, edit, "#text");
+visibility: -oxy-collapse-text;
+		margin-bottom:10px;
+		margin-left:25px;
+		font-size:13px;
+		color:black;
+}
+
+titleStmt > title:before{
+    display:block;
+    font-weight:bold;
+    color:#193668;
+    content: 
+"Ajouter un auteur du texte" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserAuthor'));
+}
+
+titleStmt > *:last-child:after{
+    display:block;
+    font-weight:bold;
+    color:#193668;
+    content: "Ajouter un éditeur scientifique / traducteur / annotateur du texte" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserEditor'));
+}
+
+editor:before{
+    display:inline;
+    font-size:14px;
+    color:#999999;
+    background-color:#ffffff;
+    font-weight:bold;
+    font-style:italic;
+content: "Éditeur scientifique : ""Rôle : " 
+oxy_combobox(edit, "@role",
+            editable, false,
+            values, "editeur_scientifique, traducteur, annotateur, autre", labels, "éditeur scientifique, traducteur, annotateur, autre", width, 50px);
+    }
+
+titleStmt > author {
+		display:block;
+		content:"   Identifiant : "oxy_textfield(columns, 20, edit, "@xml:id")"  Nom : " 
+oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+		color:black;
+visibility: -oxy-collapse-text;
+}
+titleStmt > author:before{
+    display:inline;
+    font-size:14px;
+    color:#999999;
+    background-color:#ffffff;
+    font-weight:bold;
+    font-style:italic;
+content: "  Auteur : ""Rôle : " 
+
+oxy_combobox(edit, "@role",
+            editable, false,
+            values, "auteur, editeur, catalographe, copiste, autre", labels, "auteur, éditeur, catalographe, copiste, autre", width, 70px);
+
+    }
+
+titleStmt > editor {
+		display:block;
+		content:"   Identifiant : "oxy_textfield(columns, 20, edit, "@xml:id")" Nom : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+ 
+titleStmt > sponsor {
+		display:block;
+		content:"Institution / organisme partenaire : \A" oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+titleStmt > funder {
+		display:block;
+		content:"Institution / organisme financeur : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;		
+visibility: -oxy-collapse-text;
+}
+
+titleStmt > principal {
+		display:block;
+		content:"Chercheur principal : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+respStmt:before {
+		display:block;
+		content:" Autres responsables : \A";
+		margin-bottom:10px;
+		margin-left:25px; 
+        font-size: 13px;
+}
+
+
+titleStmt > respStmt > resp {
+		display:block;
+		content:"Statut : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:10px;
+visibility: -oxy-collapse-text;
+}
+
+titleStmt > respStmt > name {
+		display:block;
+		content:" Nom, Prénom : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		font-size:10px;
+visibility: -oxy-collapse-text;
+}
+
+editionStmt:before {
+		display:block;
+		font-weight:bold;
+/*		content:"Informations scientifiques supplémentaires sur l'édition" collapser();*/
+		width:90%;
+		margin-bottom:0px;
+		margin-top:20px;
+		font-size:15px
+}
+
+
+
+editionStmt {
+/*		collapsible:yes;
+		collapsed:no;*/
+		display: block;
+		font-size:13px;
+		border: 1px dashed #afafaf;
+}
+
+
+editionStmt > edition {
+		display:block;
+		content:"Détails sur l'édition : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px; 
+        font-size: 13px;		
+visibility: -oxy-collapse-text;
+}
+
+editionStmt > respStmt > resp {
+		display:block;
+		content:"Statut : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+        font-size: 10px;
+visibility: -oxy-collapse-text;
+}
+
+editionStmt > respStmt > name {
+		display:block;
+		content:" Nom, Prénom : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+        font-size: 10px;
+visibility: -oxy-collapse-text;
+}
+
+editionStmt > p {
+    display:block;
+		content:"Édition : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+		color:black;
+visibility: -oxy-collapse-text;
+}
+
+/*extent {
+		display:block;
+		content:"Taille approximative : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px;
+visibility: -oxy-collapse-text;
+}
+*/
+publicationStmt:before {
+		display:block;
+		font-weight:bold;
+/*		content:"Informations sur la publication" collapser();*/
+		width:90%;
+		margin-bottom:0px;
+		margin-top:20px;		
+		font-size:15px
+}
+
+publicationStmt > *:last-child:after{
+    display:block;
+    font-weight:bold;
+    color:#193668;
+    
+}
+
+publicationStmt {
+/*		collapsible:yes;
+		collapsed:no;*/
+		display: block;
+		font-size:13px;
+		border: 1px dashed #afafaf;
+}
+
+publicationStmt > p {
+    display:block;
+		content:"Publication : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+		color:black;
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > publisher {
+		display:block;
+		content:"Éditeur matériel : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > distributor {
+		display:block;
+		content:"Diffuseur : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > authority {
+		display:block;
+		content:"Responsable de la publication : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;	
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > pubPlace {
+		display:block;
+		content:"Lieu de publication : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+address {
+		display:block;
+}
+
+publicationStmt > address:before {
+		display:block;
+		content:"Adresse : ";
+		margin-bottom:10px;
+		font-size:13px;
+		margin-left:25px;
+		margin-top:10px;
+}
+
+publicationStmt > address > addrLine {
+		display:inline;
+		content:"         "oxy_textfield(columns, 40, edit, "#text");
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > idno {
+		display:block;
+		content:"ISBN : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+		margin-top:10px;
+visibility: -oxy-collapse-text;
+}
+
+publicationStmt > availability {
+		display:block;
+		content:"Disponibilité : \A";
+		margin-bottom:20px;
+		margin-left:25px; 
+		font-size:13px;
+}
+
+publicationStmt > date {
+		display:block;
+		content:"Date de publication : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-top:10px;
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+seriesStmt:before {
+		display:block;
+/*		content:"Informations sur la collection" collapser();*/
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;		
+		font-size:15px;
+}
+seriesStmt {
+/*		collapsible:yes;
+		collapsed:yes;*/
+		display: block;
+		font-size:13px;
+        border: 1px dashed #afafaf;
+}
+
+seriesStmt > title {
+		display:block;
+		content:"Titre : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+seriesStmt > idno {
+		display:block;
+		content:"N° / ISSN : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+seriesStmt > respStmt > resp {
+		display:block;
+		content:"Statut : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:10px;
+visibility: -oxy-collapse-text;
+}
+
+seriesStmt > respStmt > name {
+		display:block;
+		content:" Nom, Prénom : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		font-size:10px;
+visibility: -oxy-collapse-text;
+}
+
+notesStmt:before {
+		display:block;
+/*		content:"Annotations" collapser();*/
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;		
+		font-size:15px
+}
+notesStmt {
+/*		collapsible:yes;
+		collapsed:yes;*/
+		display: block;
+		font-size:13px;
+        border: 1px dashed #afafaf;
+}
+
+sourceDesc {
+/*		collapsible:yes;
+		collapsed:no;*/
+		display: block;
+		font-size:13px;
+        border: 1px dashed #afafaf;
+}
+
+/*sourceDesc:before {
+		display:block;
+		font-weight:bold;
+		content:"Informations sur les témoins de l'édition" collapser();
+		width:90%;
+		margin-bottom:0px;
+		margin-top:20px;		
+		font-size:15px;
+}
+
+sourceDesc > p {
+    display:block;
+		content:"Témoins (informations générales) : "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:25px; 
+		font-size:13px;
+		color:black;
+visibility: -oxy-collapse-text;
+}
+
+sourceDesc:after{
+    display:block;
+    font-weight:bold;
+    color:#193668;
+    content:"Ajouter des témoins" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserListWit'));
+}
+*/
+/*sourceDesc:has(listWit):after {
+display:none;
+}
+
+profileDesc:has(handNotes):after {
+display:none;
+}*/
+
+TEI:last-of-type:after{
+		content:" Ajouter un manuscrit" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'regest_2'));
+}
+
+
+/*sourceDesc > listWit > witness{
+    display:block;
+		margin-bottom:10px;
+		margin-top:10px;
+		margin-left:25px; 
+		font-size:13px;
+		color:black;
+		background-color:white;
+		/\*content:"— Témoin "attr(xml|id)" : Identifiant : " oxy_textfield(columns, 20, edit, "@xml:id")   " Description : "oxy_textfield(columns, 60, edit, "#text");*\/
+visibility: -oxy-collapse-text;
+font-weight:bold
+}
+
+
+
+
+sourceDesc > listWit{
+    display:block;
+		margin-bottom:10px;
+		margin-left:25px;
+}*/
+
+
+
+
+
+encodingDesc:before {
+		display:block;
+		content:"Description de l'encodage" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:17px
+}
+
+encodingDesc {
+		collapsible:yes;
+		collapsed:no;
+		display: block;
+		font-size:13px;
+		border: 1px solid;
+}
+
+projectDesc, samplingDecl, editorialDecl, tagsDecl, refsDecl, classDecl, appInfo {
+		display:block;
+		width:90%;
+		margin-bottom:10px;
+        border: 1px dashed #afafaf;
+}
+
+encodingDesc > projectDesc:before {
+		display:block;
+		content:"Informations sur les objectifs de l'encodage" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+encodingDesc > projectDesc {
+		collapsible:yes;
+		collapsed:no;
+		display: block;
+		font-size:13px;
+}
+
+encodingDesc > projectDesc > p {
+		display:block;
+		content:oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:15px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > samplingDecl:before {
+		display:block;
+		content:"Échantillonnage"collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:17px
+}
+
+encodingDesc >samplingDecl  {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:13px;
+}
+
+encodingDesc > samplingDecl > p {
+		display:block;
+		content:"Échantillonnage : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:15px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+encodingDesc > editorialDecl:before {
+		display:block;
+		content:"Déclaration des spécificités éditoriales" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+encodingDesc > editorialDecl {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:13px;
+}
+
+correction, normalization, quotation, hyphenation, segmentation, stdVals, interpretation {
+		display:block;
+		width:80%;
+		margin-bottom:10px;
+}
+
+
+encodingDesc > editorialDecl > correction > p {
+		display:block;
+		content:"Règles de correction : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > normalization > p {
+		display:block;
+		content:"Normalisation : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > quotation > p {
+		display:block;
+		content:"Citation : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > hyphenation > p {
+		display:block;
+		content:"Césurage : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > segmentation > p {
+		display:block;
+		content:"Segmentation : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > stdVals > p {
+		display:block;
+		content:"Valeurs des mesures utilisées : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > editorialDecl > interpretation > p {
+		display:block;
+		content:"Interprétation : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > tagsDecl > namespace:before {
+		display:block;
+		content:"Déclaration de balisage" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+encodingDesc > tagsDecl > namespace {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:13px;
+}
+
+
+encodingDesc > tagsDecl > rendition  {
+		display:block;
+		content:"Rendu : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > tagsDecl > namespace > tagUsage  {
+		display:block;
+		content:"Information sur l'utilisation d'un élément spécifique : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+encodingDesc > refsDecl:before {
+		display:block;
+		content:"Déclaration de référence" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+encodingDesc > refsDecl  {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:13px;
+}
+
+encodingDesc > refsDecl > cRefPattern  {
+		display:block;
+		content:"Manière de référencer : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+encodingDesc > classDecl > taxonomy:before {
+		display:block;
+		content:"Déclaration de classification" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+encodingDesc > classDecl > taxonomy {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:15px;
+}
+
+
+encodingDesc > classDecl > taxonomy > category {
+		display:block;
+		content:"Catégorie : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+
+
+variantEncoding{
+    display:block;
+		content:"[encodingDesc : " attr(method)"]";
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:13px;
+}
+
+profileDesc:before {
+		display:block;
+		content:"Autres aspects du texte" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:17px
+}
+
+
+
+profileDesc {
+		collapsible:yes;
+		collapsed:no;
+		display: block;
+		font-size:13px;
+		border: 1px solid;
+}
+
+profileDesc > creation:before{
+     content:"Informations sur la création du document" collapser();
+    display:block;
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+profileDesc > creation  {
+		display:block;
+		margin-bottom:10px;
+	collapsible:yes;
+		collapsed:no;
+		font-size:15px;
+background-color:white;
+}
+
+profileDesc > creation > ref {
+    display:block;
+}
+profileDesc > creation > ref:before {
+content:"Référence : ";
+font-weight:bold;
+}
+
+
+profileDesc > langUsage:before  {
+		display:block;
+		content:"Langue(s) : " collapser();
+		margin-bottom:10px;
+		font-size:15px;
+
+}
+langUsage {
+		display:block;
+		width:80%;
+		margin-bottom:10px;
+		collapsible:yes;
+		collapsed:no;
+}
+profileDesc > langUsage > language  {
+		display:block;
+		content:"— "attr(ident)" : "oxy_textfield(columns, 40, edit, "#text");
+    background-color: white;
+    margin-left:15px;
+			margin-right:50px;
+			margin-bottom:5px;
+visibility: -oxy-collapse-text;
+}
+
+profileDesc > textClass:before  {
+		display:block;
+		content:"Classification du texte : ";
+		margin-bottom:10px;
+		margin-left:20px;
+		font-size:15px;
+}
+
+keywords, classcode, textClass {
+		display:block;
+		width:80%;
+		margin-bottom:10px;
+}
+
+profileDesc > textClass > keywords:before  {
+		display:block;
+		content:"Termes : ";
+		margin-bottom:10px;
+		margin-left:40px;
+		font-size:13px;
+
+}
+
+
+profileDesc > textClass > keywords > term {
+		display:block;
+		content:"—  "oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:40px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+
+profileDesc > textClass > classCode {
+		display:block;
+		content:"Code de classification — "attr(scheme)" : \A"oxy_textfield(columns, 40, edit, "#text");
+		margin-bottom:10px;
+		margin-left:40px;
+		font-size:13px;
+visibility: -oxy-collapse-text;
+}
+
+
+
+profileDesc:after{
+    display:block;
+    font-weight:bold;
+    color:#193668;
+    content:"    Ajouter des informations sur les mains" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserHandnotes'));
+}
+
+profileDesc:has(>handNotes):after {
+display:none;
+}
+
+
+
+/* Notes sur les mains */
+
+handNotes:before{
+    content:"Informations sur les mains" collapser();
+    display:block;
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:15px
+}
+
+handNotes{
+    display:block;
+    collapsible:yes;
+    collapsed:no;
+}
+
+
+handNote{
+font-weight:normal;
+display:block;
+    background-color:white;
+    margin:5px;
+    counter-increment:subsection;
+    content:" Main " counter(subsection) " : " oxy_textfield(columns, 60, edit, "#text");
+    visibility: -oxy-collapse-text;
+}
+
+
+handNote:last-of-type:after{
+content:"    Ajouter une main" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserHandnote'));
+}
+
+
+
+
+revisionDesc:before {
+		display:block;
+		content:"Informations de révision" collapser();
+		width:90%;
+		margin-bottom:10px;
+		margin-top:20px;
+		font-size:17px
+}
+
+revisionDesc {
+		collapsible:yes;
+		collapsed:yes;
+		display: block;
+		font-size:13px;
+		border: 1px solid;
+}
+
+change:before {
+		display:block;
+   		margin-left:30px;
+		margin-bottom:0px;
+		font-size:13px;
+        content:"— Date de la révision : \A"
+oxy_textfield(columns, 40, edit, "@when")
+"\AResponsable : \A"oxy_textfield(columns, 40, edit, "#who");
+visibility: -oxy-collapse-text;
+}
+
+change {
+        display:block;
+		margin-left:30px;
+		margin-bottom:15px;
+		font-size:13px;
+		content:"\AType de la révision : \A"oxy_textfield(columns, 40, edit, "#text");
+visibility: -oxy-collapse-text;
+}
+
+
+
+text {
+		display:block;
+}
+/*text[xml|lang="he"]{
+direction:rtl;
+}
+text:before{
+content:" Langue : " oxy_combobox(edit, "@xml:lang",
+            editable, false,
+            values, "he, la", labels, "hébreu, latin", width, 100px)
+;
+font-family:arial;
+font-weight:bold;
+}
+*/
+front {
+		display:block;
+}
+
+titlePage {
+		display:block;
+}
+
+body {
+		display:block;
+
+}
+
+/*body:before {
+		content: " Texte(s) enregistré(s) : " oxy_textfield(columns, 80, edit, "@corresp")  "   Variantes en cours d'enregistrement : "oxy_textfield(columns, 15, edit, "@n");
+		display:inline;
+		font-weight:bold;
+		color:black;	
+font-size:80%;	
+font-family:arial;
+margin-bottom:10px;
+}*/
+
+div { 
+		display:block;
+        width:95%;
+        margin-left:0px;
+        margin-right:auto;
+        margin-bottom:20px;
+margin-top:20px;
+        padding:15px;
+        border: 1px dashed #afafaf;
+ }
+
+div[type="section1"]:before{
+content:" Division : " attr(subtype)
+"     Hiérarchie : " attr(type)
+
+"           Ajouter un titre "oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserHead'))
+;
+font-family:arial;
+font-weight:bold;
+}
+
+div[type="section1"]:has(head):before{
+content:" Division : " attr(subtype)
+"     Hiérarchie : " attr(type)
+;
+font-family:arial;
+font-weight:bold;
+}
+
+div:before{
+content:" Division : " oxy_combobox(edit, "@subtype",
+            editable, false,
+            values, "lettre, racine, autre", labels, "lettre, racine, autre", width, 100px)
+"     Hiérarchie : " attr(type)
+/*oxy_combobox(edit, "@type",
+            editable, false,
+            values, "section1, section2, section3, autre", labels, "section1, section2, section3, autre", width, 100px)*/
+"           Ajouter un titre "oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserHead'))
+;
+font-family:arial;
+font-weight:bold;
+}
+
+div:has(head):before{
+content:" Division : " oxy_combobox(edit, "@subtype",
+            editable, false,
+            values, "lettre, racine, autre", labels, "lettre, racine, autre", width, 100px)
+
+"     Hiérarchie : " attr(type)
+/*oxy_combobox(edit, "@type",
+            editable, false,
+            values, "section1, section2, section3, autre", labels, "section1, section2, section3, autre", width, 100px)*/
+;
+font-family:arial;
+font-weight:bold;
+}
+head {
+		display:block;
+		margin-top:5px;
+        padding:5px;
+        font-size:150%;
+        text-align:left;
+		font-weight:bold;
+		background-color:#BABAD1;
+}
+
+div[subtype=lettre]>head:before{
+content:"[Lettre : ] ";
+}
+
+div[subtype=racine]>head:before{
+content:"[Racine : ] ";
+}
+
+div[type="section2"]:after{
+display:block;
+content:"Ajouter une section de même niveau ("  attr(subtype)") "oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserSameDiv')) "           Ajouter une section de niveau inférieur "oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserDivInf')) ;
+text-align:right;
+font-family:arial;
+font-size:80%;
+}
+
+div[type="section3"]:after{
+display:block;
+content:"Ajouter une section de même niveau ("  attr(subtype)") "oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserSameDiv'));
+text-align:right;
+font-family:arial;
+font-size:80%;
+}
+ 
+docAuthor {
+		display:block;
+}
+
+
+
+p {
+		display:block;
+		margin-left:10px;
+		margin-right:auto;
+        font-family:arial;
+        font-size:14px;
+        color:black;
+        line-height:1.5;
+        text-align:left;
+        
+        }
+
+bibl {
+		display:block;
+        font-family:arial;
+        font-size:14px;
+        color:black;
+        line-height:1.5;
+}
+
+listBibl {
+		display:block;
+		width:600px;
+}
+
+
+p {
+		text-align:left;
+        margin-top:10px;
+        margin-bottom:10px;
+}
+
+hi[rend=italic] {
+		font-style:italic;
+}
+
+hi[rend=sup]{
+		vertical-align:super;
+		font-size:80%;
+}
+
+hi[rend=bold]{
+		font-weight:bold;
+}
+
+hi[rend=smallcaps]{
+		color:red;
+}
+
+
+
+lb {
+	content:"\A";
+}
+/********************************************/
+/********************************************/
+/********************************************/
+/************ msDesc    *******************/
+/************D. Stutzmann (2018) ********/
+/********************************************/
+/********************************************/
+
+/********************************************/
+/************** teiHeader         ************/
+/********************************************/
+
+TEI > teiHeader > fileDesc > titleStmt, 
+TEI > teiHeader > fileDesc > publicationStmt
+{display:none}
+
+
+
+/********************************************/
+/************** msDesc         ***************/
+/********************************************/
+
+msDesc{
+    color:black;
+    font-size:large;
+}
+
+msIdentifier{
+    display:inline;
+    font-size:x-large;
+    font-weight:bold;
+}
+
+
+idno{
+    display:inline;
+}
+msIdentifier > idno{
+    display:block;
+}
+
+
+/********************************************/
+/************** msPart         ***************/
+/********************************************/
+
+msDesc > msPart{
+    border: 10px double green;
+}
+
+
+/********************************************/
+/************** msIdentifier         ***************/
+/********************************************/
+
+msIdentifier{
+    display: inline;
+    font-size: x-large;
+    font-weight: bold;
+    background-color:#f4f390;
+}
+altIdentifier{
+    font-size: medium;
+    display:block;
+}
+altIdentifier:before{
+    content: "Cote ancienne : "
+}
+
+/********************************************/
+/************** msContents        **********/
+/********************************************/
+
+msContents{
+    display:block;
+    background-color:#bef7d5;
+    }
+summary{
+    font-weight: bold;
+      font-size:x-large;
+      display: block;
+    color:black;
+/*   content:oxy_textfield(columns, 40, edit, "#text");*/
+/*visibility: -oxy-collapse-text;*/
+}
+
+summary:after, msItem:last-of-type:after{
+   display:block;
+   color:#84bff9;
+   font-size:x-small;
+    content:"Ajouter un texte" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_msItem'));
+            }
+ 
+/* msItem > 
+  <title>Prière à la Vierge Marie</title>
+                              <author/>
+                              <index/>
+                              <rubric/>
+                              <incipit>Glorieuse vierge marie mirouer</incipit>
+                              <explicit/>
+                              <finalRubric/>
+                              <listBibl type="édition">
+ */
+ msContents > msItem > *:last-child:after{
+     display:inline;
+   color:#84bff9;
+   font-size:x-small;
+    content:
+    "Ajouter référence bibl. (répertoire/édition/étude)" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_msItem'))
+            
+    "Ajouter une sous-partie" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_msItem'));
+}
+ 
+msContents > msItem{
+    border: 2px dotted grey;
+    display: block;
+    -oxy-foldable:true;
+   /* content:oxy_textfield(columns, 40, edit, "#text");*/
+/*visibility: -oxy-collapse-text;*/
+    }
+
+
+msItem > msItem{
+    border: 1px dotted grey;
+    display: block;
+    margin-left: 100px;
+}
+
+locus[from]{
+    content: "(" attr(from) "-" attr(to) ")";
+}
+locus[n]{
+    content: "(" attr(n) ")";
+}
+msItem > author{
+    font: bold;
+    /* content:oxy_textfield(columns, 40, edit, "#text");*/
+/*visibility: -oxy-collapse-text;*/
+}
+msItem > title{
+    font-style: italic;
+    color:navy;
+}
+msItem  > title:empty, rubric:empty, finalRubric:empty, index:empty, author:empty, explicit:empty, incipit:empty, explicit:empty{
+    font-size:x-small;
+    display:inline;
+}
+
+msItem > rubric{
+    color: red;
+}
+finalRubric{
+    color: fuchsia;
+}
+
+bibl{
+    color:blue
+}
+
+
+
+
+p{
+    font-size:inherit;
+}
+
+
+msContents > msItem > author{
+    display:block;
+    /*content:attr(corresp)*/
+    }
+
+msContents > msItem > author:not([role]):before{
+content:"Auteur : ";
+font-weight:bold;
+}
+
+msContents > msItem > author[role="traducteur"]:before{
+    display:inline;
+    content:"Traducteur : ";
+    font-weight:bold;
+}
+
+msContents > msItem > title{
+    display:block;
+    }
+    
+msContents > msItem > title:before{
+     display:inline;
+    content:"Titre : ";
+    font-weight:bold;
+}
+
+msContents > msItem > incipit:not(:empty):before{
+    display:block;
+    content:"« ";
+}
+
+incipit > lb, explicit > lb{
+    display:none;
+}
+
+incipit:not(:empty):after{
+    content: "...-...";
+}
+incipit > note{
+    display:inline;
+    }
+    incipit > note:before{
+    content: " (";
+    }
+    incipit > note:after{
+    content: ") ";
+    }
+
+msContents > msItem > explicit:not(:empty):after{
+    display:inline;
+    content:"  ».";
+}
+
+colophon{
+    display:block;
+}
+
+msContents > msItem > colophon:before{
+    display:inline;
+    font-weight:bold;
+    content:"Colophon : ";
+}
+
+
+locus[n]{
+    content:"[" attr(n) "] ";
+    font-style:normal;
+}
+
+locus[from]{
+    content:"[" attr(from) "-" attr(to) "] ";
+}
+locus:not([n][from]):before{
+    content:"["
+}
+locus:not([n][from]):after{
+    content:"] "
+}
+
+q:before{
+    content:"« ";
+}
+
+rubric, finalRubric{
+    font-style:italic;
+    color:red;
+}
+
+measure[corresp]{
+    content: "[" attr(corresp) "] ";
+    }
+    
+q:after{
+    content:" »";
+}
+
+
+q{
+    font-style:italic;
+}
+
+
+
+/********************************************/
+/************** physDesc        ************/
+/********************************************/
+physDesc{
+    display:block;
+    background-color:#f0c7f9;
+}
+supportDesc:before{
+    content: "Matière du support : "
+}
+supportDesc{
+    display:inline;
+    content:oxy_combobox(edit, "@material",
+            editable, false,
+            values, "parch, paper, mixed", labels, "parchemin, papier, mixed", width, 100px);
+			}
+supportDesc > support > material{
+    content:oxy_textfield(columns, 10, edit, "#text");
+    visibility: -oxy-collapse-text;
+}
+
+supportDesc > support > material:after{
+    content:"Décrire les filigranes" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_watermark'));
+            color:#84bff9;
+   font-size:x-small;
+            
+}
+
+
+extent > measure[type = "composition"]{
+    content: "Nombre de feuillets : ";
+    display: block;
+}
+
+dimensions{
+    display: block;
+}
+
+dimensions[type = "leaf"]:before{
+    content: "Dimensions : "
+}
+dimensions[type = "justification"]:before{
+    content: "Justification : "
+}
+measure[unit = "volume"]{
+    content:attr(quantity) " vol. ; "
+}
+objectDesc{
+    display:inline;
+}
+support,
+dimensions{
+    display:inline;
+}
+
+dimensions[type = "leaf"]:before{
+    content:" ;  "
+}
+dimensions[type = "justification"]:before{
+    content:"justification "
+}
+
+
+width:before{
+    content:" x "
+}
+dimensions:after{
+    content:" mm ; ";
+}
+collation:before{
+    content:"Cahiers : ";
+    color:black;
+    font-weight:bold;
+}
+collation > list > item:last-of-type:after{
+    content:"Ajouter un cahier" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_item_quire'));
+            color:#84bff9;
+   font-size:x-small;
+   columns: 2;
+            }
+            
+collation > list > item > measure{
+    content:oxy_textfield(columns, 10, edit, "@type");
+    visibility: -oxy-collapse-text;
+}
+collation > list > item:before{
+    counter-increment: item;                 /* Increment the value of item counter by 1 */
+  content: counter(item);                  /* Display the value of item counter */
+    color: red;
+  display: inline-block; width: 1em;
+  margin-left: -1em
+}
+collation > list > item > locus{
+display: inline;
+  vertical-align: super;
+  font-size: x-small;
+  content:oxy_textfield(columns, 3, edit, "#text");
+    visibility: -oxy-collapse-text;
+}
+
+/*<item corresp="quire"><measure unit="leaves" quantity="6" type="III"></measure><locus>6</locus></item>*/
+
+
+decoNote:before{
+    display:inline;
+    font-weight:bold;
+    content:"Décoration : "
+}
+
+decoNote{
+    display:inline;
+}
+binding > p:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Reliure : "
+}
+
+handNote:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Copiste : "
+}
+height:before{
+    content: "(hauteur) "
+}
+width:before{
+    content: " x (largeur) "
+}
+height, width{
+    content:oxy_textfield(columns, 10, edit, "@quantity");
+    visibility: -oxy-collapse-text;
+}
+dimensions:after{
+    content: " mm";
+}
+
+
+layout{
+    content: oxy_textfield(columns, 5, edit, "@columns") "col. de " oxy_textfield(columns, 5, edit, "@writtenLines") " lignes" ;
+    visibility: -oxy-collapse-text;
+    display: block;
+}
+
+layout > desc{
+    content: "Réglure : " oxy_textfield(columns, 50, edit, "#text") ;
+    visibility: -oxy-collapse-text;
+    display: block;
+}
+
+
+
+note{
+    font-size: x-small;
+    color: grey;
+}
+
+idno{
+    color:brown;
+    display:inline;
+}
+
+scriptNote{
+    display: block;
+    font-weight: bold;
+    content: "Ecriture : " oxy_combobox(edit, "@script",
+            editable, false,
+            values, "caroline, littera textualis, littera textualis meridionalis, littera semitextualis, littera cursiva, littera hybrida, littera semihybrida, humanistique, humanistique cursive, hors système", labels, "caroline, littera textualis, littera textualis meridionalis, littera semitextualis, littera cursiva, littera hybrida, littera semihybrida, humanistique, humanistique cursive, hors système", width, 150px)
+            oxy_combobox(edit, "@rend", editable, false, values, "formata, libraria, currens", width, 150px);
+    
+/*    Littera cursiva formata*/
+}
+
+decoNote{
+    display:block;
+}
+
+decoNote > p, additions > p {
+    display:inline;
+}
+decoNote > p:after{
+    content: "; "
+}
+
+additions:before{
+content: "Additions";
+color:purple;
+   }
+
+/****************************/
+/******** history *********/
+/****************************/
+
+origDate{
+    font: bold;
+    color:olive;
+}
+
+
+
+orgName{
+    font:italic;
+    color:purple;
+}
+
+provenance:last-of-type:after{
+		content:" Ajouter une provenance" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'select_place'));
+}
+
+/*placeName{
+    content:oxy_substring(attr(ref), 5)
+    /\*visibility: -oxy-collapse-text;*\/
+}*/
+
+provenance[n]{
+    display:block;
+    content:"[" attr(n) "] ";
+}
+
+provenance:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+    content:"Provenance : "
+}
+
+
+  provenance {
+       border: 1px dotted grey;
+       display:block;
+   }
+   provenance > p > idno,  provenance > p > locus,  provenance > p > date,  provenance > p > q,  provenance > p > note {
+   display:inline;
+       
+   }
+
+
+
+/********************************************/
+/*********** Additionnal          ************/
+/********************************************/
+
+
+   
+   sourceDesc > listBibl{
+       background-color:#D8F6CE;
+   }
+   
+ 
+   bibl{
+       display:list-item
+   }
+   
+   
+bibl[sameAs]{
+    content:oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${cfdu}/biblio-saint-omer.xml'), '")//listBibl/biblStruct[attribute::xml:id='",attr(sameAs),"']/string(), ",")'));
+}
+
+
+/*  snippet         doc("', oxy_url('${cfdu}/biblio.xml'), '") */
+/* OK :             oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${cfdu}/index.xml'), '")//listPlace/place/@xml:id, ",")'))  */
+/* OK :             content:oxy_xpath(oxy_concat("//listBibl/biblStruct[attribute::xml:id='",attr(sameAs),"']/string()"))  */
+/*  OK : content: oxy_xpath(oxy_concat("//sources:entry[attribute::id='",attr(idRef),"']/child::anyelement/string()"))   */
+   
+
+listBibl[type='édition']:before{
+    content:"Editions : ";
+    font-size:small;
+}
+listBibl[type='répertoire']:before{
+    content:"Répertoire : ";
+    font-size:small;
+}
+listBibl[type='étude']:before{
+    content:"Etude : ";
+    font-size:small;
+}
+
+listBibl > bibl{
+    display:list-item;
+    content:oxy_textfield(columns, 40, edit, "#text");
+    visibility: -oxy-collapse-text;
+}
+
+bibl{
+    content:attr(corresp) ": "
+}
+bibl:last-child:after{
+     display:inline;
+   color:#84bff9;
+   font-size:x-small;
+    content:"Ajouter une référence" oxy_button(transparent, true,
+   action, oxy_action(
+            id, 'inserTEI_bibl'));
+            }
+ 
+
+surrogates:before{
+    display:inline;
+    font-weight:bold;
+    content:"Reproductions : "
+}
+
+
+/*********************************************************************/
+/****************** text > body > p     ******************************/
+/*********************************************************************/
+p > title{
+    font-style:italic
+    }
+
+
+supportDesc{
+    display:inline;
+}
+origDate:before{
+    content:"Date, origine : ";
+    font-weight:bold;
+}
+origDate[when]{
+    content:attr(when);
+    display:block;
+    font-weight:bold;
+}
+
+origDate[notBefore]{
+    content:"[" attr(notBefore) "-" attr(notAfter) "]";
+    display:block;
+    font-weight:bold;
+}
+
+origin > origPlace:first-of-type:before{
+    content:"Lieu, origine : ";
+    font-weight:bold;
+}
+
+
+origin > origPlace[corresp]:first-of-type:before{
+    display:inline;
+    font-weight:bold;
+}
+
+
+gap{
+    content: "..."
+}
+note{
+    display:inline;
+    font-size:inherit;
+}
+note:before{
+    content: " ["
+}
+note:after{
+    content: "] "
+}
+
+
+
+
+lb{
+    color:gray;
+    content:"\a [" attr(n) "] ";
+    display:inline;
+
+}
+
+
+
+lb[break='no']{
+    color:gray;
+    content:"-\a [" attr(n) "]- ";
+    display:inline;
+
+}
+
+text > body > p{
+    font-size:x-large;
+    column-count:4;
+}
+cb{
+    content:"[col. " attr(n) "] ";
+    color:green;
+}
+
+expan{
+    color:green;
+    display:inline;
+}
+ex{
+    font-style:italic;
+}
+abbr, am{
+    color:blue;
+    display:inline;
+}
+abbr:after, abbr:before{
+    content:"|"
+}
+
+ptr:before{
+    link:attr(target);
+   }
+ptr[corresp]:before{
+    link:attr(target);
+    content:attr(corresp);
+}
+pb:before{
+    link:attr(facs);
+    content:"[Gallica]";
+}
+
+pb{
+    display:inline;
+}
+
+
+figure[type="bout-de-ligne"]{
+    content:"∞∞∞∞";
+    display:inline;
+    color:green;
+}
+ 
+figure[type="pied-de-mouche"]{
+    display:inline;
+    content:"§ ";
+    color:blue;
+}
+figure[type="musique"]{
+    display:inline;
+    content:"[musique]";
+    color:blue;
+}
+figure[type="enluminure"]{
+    display:inline;
+    content:"[enluminure]";
+    color:blue;
+}
+figure[type="double-trait"]{
+    display:inline;
+    content:"// ";
+    color:blue;
+} 
+hi[rend~="red"]{
+    color:red;
+}
+
+hi[rend~="initiale"]{
+    font-size:54px;
+    
+}
+
+hi[rend~="souligné en rouge"]{
+    text-decoration: underline;
+    text-decoration-color: red;
+}
+hi[rend~="souligné en noir"]{
+    text-decoration: underline;
+    text-decoration-color: black;
+}
+hi[rend~="2"]{
+    font-size:30px;
+ }
+hi[rend~="3"]{
+    font-size:40px;
+  }
+  hi[rend~="5"]{
+    font-size:60px;
+  }
+hi[rend~="7"]{
+    font-size:80px;
+    }
+    hi[rend~="12"]{
+    font-size:180px;
+    }
+    hi[rend~="filigrane"]{
+        text-decoration:line-through
+    }
+    
+    q[rend]{
+        content:" (" attr(rend) ") "
+    }
+    
+    supplied{
+        color:grey;
+        font-size:smaller;
+    }
+    supplied:before{
+        content:" ["
+    }
+    supplied:after{
+        content:"] "
+       
+    }
+    orig{display:inline}
+    reg{
+    color:red;}
+    
+    num, persName, placeName{
+        text-decoration:overline dotted;
+    }
+/*orgName:after{*/
+/* inserRdgActionTest1 */
+    /*ask('Buchstaben des zu verlinkenden Registereintrags auswählen', combobox, ('a':'A';'b':'B';'c':'C';'d':'D';'e':'E';'f':'F';'g':'G';'h':'H';'i':'I';'j':'J';'k':'K';'l':'L';'m':'M';'n':'N';'o':'O';'p':'P';'q':'Q';'r':'R';'s':'S';'t':'T';'u':'U';'v':'V';'w':'W';'x':'X';'y':'Y';'z':'Z';))}.xml*/
+/*}*/
+
+orgName:after{
+    content:"     index"
+    oxy_popup(edit, '@ref', 
+    values, 
+    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${cfdu}/index.xml'), '")//listPlace/place/@xml:id, ",")')),
+    selectionMode, single,
+    labels,
+    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${cfdu}/index.xml'), '")//listPlace/place[@xml:id]/replace(normalize-space(*[1]), ",", "|"), ",")'))
+)
+}
+/*values*/
+/*    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('https://raw.githubusercontent.com/bodleian/medieval-mss/master/places.xml'), '")//listPlace/place/@xml:id, ",")')),*/
+/*    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${framework}/', 'resources/include_taxonomies.xml'), '")//taxonomy[@xml:id="IIP-genre"]/category/@xml:id, ",")')),*/
+/*file:///C:/path/to/l */
+/*labels*/
+/*oxy_xpath(oxy_concat('string-join(doc("', oxy_url('https://raw.githubusercontent.com/bodleian/medieval-mss/master/places.xml'), '")//listPlace/place/*[1], ",")'))*/
+
+
+/*  FONCTION QUI FONCTIONNE 
+ * 
+ *
+orgName:after{
+    content:"     index"
+    oxy_popup(edit, '@ref', 
+    values, 
+    oxy_xpath('string-join(//listPlace/place/@xml:id, ",")'),
+    selectionMode, single,
+    labels,
+    oxy_xpath('string-join(//listPlace/place/placeName[1], ",")')
+)
+}
+* */
+/*essai pour biblio Zotero*/
+ /*    
+ orgName:after{
+    content:"     index"
+    oxy_popup(edit, '@ref', 
+    values, 
+    oxy_xpath('string-join(/teiCorpus/teiHeader/fileDesc/sourceDesc/listPlace/place/@xml:id, ",")'),
+    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${framework}/', 'resources/include_taxonomies.xml'), '")//taxonomy[@xml:id="IIP-genre"]/category/@xml:id, ",")'))*\/
+     selectionMode, single,
+    labels,
+    oxy_xpath('string-join(/teiCorpus/teiHeader/fileDesc/sourceDesc/listPlace/place/placeName[1], ",")')
+    oxy_xpath(oxy_concat('string-join(doc("', oxy_url('../index.xml'), '")//tteiCorpus/teiHeader/fileDesc/sourceDesc/listPlace/place/placeName[1], ",")'))
+     }
+*/
+
+/*Source : https://www.oxygenxml.com/forum/topic12855.html
+ * 
+ * oxy_xpath('string-join(//encodingDesc/xi:include/doc(@href)/classDecl/taxonomy[@xml:id="IIP-genre"]/category/@xml:id , ",")
+ * the file that is being accessed via the doc(@href) is a remote file 
+ * 
+ * 1. ${xpath_eval()} inside an Author Action will succeed even when it reads data from a remote file.
+2. if the CSS oxy_xpath() function reads data from a remote file then:
+- if the CSS is local and located inside the framework directory, the oxy_xpath() will succeed without any required interaction
+- if the CSS is remote (Elli's situation) a confirmation dialog will appear to the user. Adding the host inside the Trusted Hosts preferences page will result in connecting to the remote location without notifying the user.
+ * 
+ * 
+ * values, oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${framework}/', 'resources/include_taxonomies.xml'), '")//taxonomy[@xml:id="IIP-genre"]/category/@xml:id, ",")')),
+labels, oxy_xpath(oxy_concat('string-join(doc("', oxy_url('${framework}/', 'resources/include_taxonomies.xml'), '")//taxonomy[@xml:id="IIP-genre"]/category/catDesc, ",")' )) 
+ * 
+ * */
+quote{
+    display:inline;
+}
+quote:before{
+    content:"« ";
+}
+quote:after{
+    content:" »";
+}
+
+lb[type='rejet']{
+    margin:100px
+}
+
+lacunaStart{
+    content:"[Début de lacune] ";
+    color:grey;
+}
+lacunaEnd{
+    content:" [Fin de lacune]";
+    color:grey;
+}
+
+fw{
+    display:block;
+    margin:100px;
+}
+
+del[rend='expunct']{
+  text-decoration: underline line-through;
+}
