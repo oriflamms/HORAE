@@ -1,0 +1,322 @@
+#########################################################################################################
+#########################################################################################################
+######## 																						#########
+######## Data preparation from CSV spreadsheet from K. Ottosen's Cantus Planus Database 		#########
+######## 																						#########
+#########################################################################################################
+######################################################################################################### 
+######## 																						#########
+######## 		SOURCE = K. Ottosen, Responsories of the Latin Office of the Dead				#########
+# https://www-app.uni-regensburg.de/Fakultaeten/PKGG/Musikwissenschaft/Cantus/Ottosen/Ottosenseries.php #
+######################################################################################################### 
+######################################################################################################### 
+
+
+
+rm(list = ls())
+setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Office_Dead_Ottosen") 			#Set the working directory
+install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel"))
+library(tidyverse)
+library(dplyr)
+library(MASS)
+library(ggplot2)
+library(gridExtra)
+library(stringr)
+library(network)
+library(ggnetwork)
+library(plotly)
+library(ggrepel)
+
+
+#### Files: "Ottosen-original.csv" and "Ottosen-openrefine.csv"
+#### In "Ottosen-openrefine.csv": 
+####	- comma "," are suppressed in the field "Location"
+####	- some location names are normalised (Hmburg, Reenes, etc.)
+
+
+ott <- read.csv("Ottosen-openrefine.csv", encoding="UTF-8", sep=",", header = TRUE) 			#import the CSV file
+colnames(ott)[1] <- c("Location")  #clean initial coding character
+ott[ott == 0] <- NA
+dim(ott)							# [1] 2047   17
+head(ott)
+
+
+#########################################################################################################
+#########################################################################################################
+######## 																						#########
+######## 	DATA EXPLORATION	(sets of responsories)									 		#########
+######## 																						#########
+#########################################################################################################
+######################################################################################################### 
+
+
+ott.use <- ott[!duplicated(ott[,c(1,5:16)]),]				# 	Deduplicate records for the same use ("Location") 
+															#	with the same set of 12 responsories
+nrow(ott.use)												#	as of 13.11.2021 : 1061 couples
+
+stats.Use <- count(ott.use, Location)
+rownames(ott.use) <- paste(ott.use[,1], ott.use[,3], sep="_")		# rowname keeping "Localisation" and one of the "sources"
+																	# for it in order to have unique rownames
+ott.use.resp <- ott.use[c(5:16)]							# Limit to the responsory information
+head(ott.use)
+head(ott.use.resp)
+
+###############################################################################################
+###########			   SETS of responsories: STATS 							###################
+###############################################################################################
+
+####################################################################################################
+########### 1. Number of witnesses and different sets of responsories for each location 	########
+
+
+	stats.Loc <- count(ott, Location) 								#	count the number of witnesses per location
+	stats.Use <- count(ott.use, Location)							#	count the number of different sets of responsories per location
+	stats <- cbind(stats.Loc[,1:2], stats.Use[,2])
+	colnames(stats) <- c("Location", "# witnesses by Location", "# sets of responsories by Location")
+	write.csv(stats, "Ottosen-stats-Location-Witness-Sets.csv")		#Save statistics in external document
+
+
+######################################################################################################
+########### 2. Number and list of locations for each set of responsories (as of 13.11.2021 : 697)  ###
+
+
+responsories.sets1 <- add_rownames(ott.use.resp) %>% group_by(across(names(ott.use.resp))) %>% summarise(rownames = list(rowname))
+						
+rowname.unlist <- unlist(lapply(responsories.sets1$rownames, paste, collapse=" "))
+n <- count(ott.use, R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12)
+n <- n$n
+responsories.sets2 <- cbind(as.data.frame(responsories.sets1), as.data.frame(rowname.unlist), as.data.frame(n))
+rownames(responsories.sets2) <- rowname.unlist
+#responsories.sets <- as.data.frame(responsories.sets)
+
+write.csv(responsories.sets2[c(1:12, 14:15)], "Ottosen-responsories.sets.csv")
+
+###################################################################################################
+###########	3. Responsories by position in unique (set,location) : STATS plot	###################
+
+
+g1 <- ggplot(responsories.sets2, aes(x=R1)) + geom_histogram(color="black", fill="white") + ylim(0,450) + xlab("Responsory 1") + ylab("") 
+g2 <- ggplot(responsories.sets2, aes(x=R2)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 2")+ ylab("")
+g3 <- ggplot(responsories.sets2, aes(x=R3)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 3") + ylab("")
+g5 <- ggplot(responsories.sets2, aes(x=R5)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 5") + ylab("")
+g6 <- ggplot(responsories.sets2, aes(x=R6)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 6") + ylab("")
+g7 <- ggplot(responsories.sets2, aes(x=R7)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 7") + ylab("")
+g9 <- ggplot(responsories.sets2, aes(x=R9)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 9") + ylab("")
+g10 <- ggplot(responsories.sets2, aes(x=R10)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 10") + ylab("")
+g11 <- ggplot(responsories.sets2, aes(x=R11)) + geom_histogram(color="black", fill="white") + ylim(0,450) +  xlab("Responsory 11") + ylab("")
+g <- arrangeGrob(g1, g2, g3, g5, g6, g7, g9, g10, g11, ncol=3)	# Optionnal: add common title with "top="Number of occurrences of each responsory across the different sets /n(Responsories numbered from 1 to 99 according to K. Ottosen)"
+ggsave(g, file="Responsories.frequencies.svg", device=svg)
+ 
+
+###################################################################################################
+###########	4. Network of unique (sets,location)								###################
+
+#############
+#1. keeping only uses that are fully described for all 9 responsories
+
+ott.use.nonNA <- ott.use.resp[,c(1:3,5:7,9:11)]     								#Exclude R4, R8, R12
+ott.use.nonNA <- ott.use.nonNA[complete.cases(ott.use.nonNA),]				#Exclude all lines which are not complete
+rownames(ott.use.nonNA) <- gsub(",", "", rownames(ott.use.nonNA))			#Clean rownames containing ","
+dim(ott.use.nonNA)															# [1] 912   9
+
+#############
+#2. creating the list of edges with different cut off points
+df <- ott.use.nonNA 														# we set a short name to use the following command
+# combn(1:nrow(df), 2, FUN = function(i) sum(df[i[1],] - df[i[2],]==0))   	# Source: https://stackoverflow.com/questions/44964358/how-count-common-elements-for-every-combination-of-rows-in-a-matrix
+# All links from all UseLoc to all UseLoc and number of common responsories 
+# Nota: links are declared twice a -> b and b -> a
+
+df.edges <- setNames(combn(1:nrow(df), 2, FUN = function(i) sum(df[i[1],] - df[i[2],]==0)), combn(rownames(df), 2, toString))
+df.edges <- as.data.frame(df.edges)
+edges <- cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges)				#requires library(stringr)
+colnames(edges) <- c("from", "to", "Weight")
+write.csv(edges, "edgesSETSall.csv", fileEncoding="utf-8", row.names=FALSE)
+
+edges <- as.data.frame(edges)
+nrow(edges)																					#415416 as of 19 Apr. 2022
+
+for (i in 5:8){ 									# cf. https://stackoverflow.com/questions/16566799/change-variable-name-in-for-loop-using-r
+	nam <- paste("edgesSETS.sup.", i, sep = "")
+	assign(nam, edges %>% filter(Weight > i))
+	}
+
+write.csv(edgesSETS.sup.5, "edgesSETS.sup.5.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesSETS.sup.6, "edgesSETS.sup.6.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesSETS.sup.7, "edgesSETS.sup.7.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesSETS.sup.8, "edgesSETS.sup.8.csv", fileEncoding="utf-8", row.names=FALSE)	
+
+#############
+#3. Plot Network	
+
+
+# if one wishes to start from here
+# edgesSETS.sup.5 <- read.csv("edgesSETS.sup.5.csv", sep=",", header = TRUE) #import the CSV file
+
+set.seed(1234)
+net <- network(as.data.frame(edgesSETS.sup.5), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
+g <- ggplot(ggnetwork(net, layout="fruchtermanreingold"), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
+	geom_nodes(size = 0.5, color = "darkred")
+#g
+
+datapoints <- as.data.frame(g$data)
+dataParis <- datapoints %>% filter(str_detect(vertex.names,"^Paris_"))
+dataUtrecht <- datapoints %>% filter(str_detect(vertex.names,"^Utrecht_"))
+dataWindesheim <- datapoints %>% filter(str_detect(vertex.names,"^Windesheim_"))
+dataRoman <- datapoints %>% filter(str_detect(vertex.names,"^Roman_"))
+dataCambrai <- datapoints %>% filter(str_detect(vertex.names,"^Cambrai_"))
+dataTroyes <- datapoints %>% filter(str_detect(vertex.names,"^Troyes_"))
+dataTours <- datapoints %>% filter(str_detect(vertex.names,"^Tours_"))
+#dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
+dataFlandersScandinavia <- datapoints %>% 
+	filter(x > 0.3, x < 0.385, y >= 0.86, y < 0.95)
+
+z <- g + 
+	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
+	geom_point(data = dataUtrecht, aes(x = x, y = y), alpha = 0.5, color = "green") +
+	geom_point(data = dataWindesheim, aes(x = x, y = y), alpha = 0.5, color = "darkgreen") +
+	geom_point(data = dataRoman, aes(x = x, y = y), alpha = 0.5, color = "orange") +
+	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
+	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
+	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
+	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow")
+z
+
+zz <- z + 
+		annotate("text", x=0.85, y=0.57, label="Paris", color="blue", size=4) +
+		annotate("text", x=0.49, y=0.90, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.5, y=0.88, label="Windesheim", color="darkgreen", size=4) +
+		annotate("text", x=0.84, y=0.44, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.88, y=0.42, label="Windesheim", color="darkgreen", size=4) +
+		annotate("text", x=0.5, y=0.5, label="Rome", color="orange", size=4) +
+		annotate("text", x=0.6, y=0.96, label="Cambrai", color="red", size=4) +
+		annotate("text", x=0.41, y=0.385, label="Tours", color="purple", size=4) +
+		annotate("text", x=0.49, y=0.25, label="Troyes", color="lightblue", size=4) +
+ 		annotate("text", x=0.4, y=0.85, label="Flanders and \nScandinavia", color="yellow2", size=4) +
+		theme_blank()
+#zz
+
+
+ggsave("Ottosen-SETS-sup5-annotate2.png", plot=zz, dpi=500, device="png", width=10, height=10) 
+
+ggplotly(z)
+
+
+######################################################################################################### 
+######################################################################################################### 
+######## 																						#########
+######## Network Analysis on all witnesses														#########
+######## 																						#########
+#########################################################################################################
+######################################################################################################### 
+######## 																						#########
+######## 		SOURCE = K. Ottosen, Responsories of the Latin Office of the Dead				#########
+# https://www-app.uni-regensburg.de/Fakultaeten/PKGG/Musikwissenschaft/Cantus/Ottosen/Ottosenseries.php #
+######################################################################################################### 
+######################################################################################################### 
+
+
+
+####################################
+### 1. Load files if not done before
+# ott <- read.csv("Ottosen-openrefine.csv", sep=",", header = TRUE) #import the CSV file
+# colnames(ott)[1] <- c("Location")  #clean initial coding character
+# ott[ott == 0] <- NA
+# head(ott)
+
+
+
+####################################
+### 2. Deduplicate (location,index)
+
+ott <- ott[!duplicated(ott[,c(1,3)]),]
+rownames(ott) <- paste(ott$Location, ott$Index, sep="_")
+head(ott)
+
+
+#####################################
+### 3. Create edges on complete sets
+
+df <- ott[,c(5:7,9:11,13:15)]
+head(df)
+df <- df[complete.cases(df),]
+df.edges <- setNames(combn(1:nrow(df), 2, FUN = function(i) sum(df[i[1],] - df[i[2],]==0)), combn(rownames(df), 2, toString))
+head(df.edges)
+df.edges <- as.data.frame(df.edges)
+edges <- cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges)#requires library(stringr)
+head(edges)
+colnames(edges) <- c("from", "to", "Weight")
+edgesMSS <- as.data.frame(edges)
+write.csv(edgesMSS, "edgesMSSall.csv", fileEncoding="utf-8", row.names=FALSE)	
+
+#####################################
+### 3. Create edgelists with cut-off
+#	edgesMSS <- read.csv("edgesMSSall.csv", encoding="UTF-8", sep=",", header = TRUE) 			#import the CSV file
+
+
+for (i in 5:8){ 									# cf. https://stackoverflow.com/questions/16566799/change-variable-name-in-for-loop-using-r
+		nam <- paste("edgesMSS.sup.", i, sep = "")
+		assign(nam, edgesMSS %>% filter(Weight > i))
+	}
+
+write.csv(edgesMSS.sup.5, "edgesMSS.sup.5.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesMSS.sup.6, "edgesMSS.sup.6.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesMSS.sup.7, "edgesMSS.sup.7.csv", fileEncoding="utf-8", row.names=FALSE)	
+write.csv(edgesMSS.sup.8, "edgesMSS.sup.8.csv", fileEncoding="utf-8", row.names=FALSE)	
+
+
+#####################################
+### 4. plot network
+
+set.seed(42)
+net <- network(as.data.frame(edgesMSS.sup.5), directed=FALSE)
+set.seed(42)
+g <- ggplot(ggnetwork(net, layout="fruchtermanreingold"), #layout choice: kamadakawai, fruchtermanreingold, mds, eigen, spring, target
+	aes(x, y, xend = xend, yend = yend, text = vertex.names)) + 
+	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
+	geom_nodes(size = 0.5, color = "darkred")
+#g
+head(g$data)
+datapoints <- as.data.frame(g$data)
+dataParis <- datapoints %>% filter(str_detect(vertex.names,"^Paris_"))
+dataUtrecht <- datapoints %>% filter(str_detect(vertex.names,"^Utrecht_"))
+dataWindesheim <- datapoints %>% filter(str_detect(vertex.names,"^Windesheim_"))
+dataRoman <- datapoints %>% filter(str_detect(vertex.names,"^Roman_"))
+dataCambrai <- datapoints %>% filter(str_detect(vertex.names,"^Cambrai_"))
+dataTroyes <- datapoints %>% filter(str_detect(vertex.names,"^Troyes_"))
+dataTours <- datapoints %>% filter(str_detect(vertex.names,"^Tours_"))
+dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
+# dataAntwerp <- datapoints %>% filter(str_detect(vertex.names,"^Antwerp_"))
+# dataBrussels <- datapoints %>% filter(str_detect(vertex.names,"^Brussels_"))
+# dataBruges <- datapoints %>% filter(str_detect(vertex.names,"^St. Donatian_"))
+
+z <- g + 
+	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
+	geom_point(data = dataUtrecht, aes(x = x, y = y), alpha = 0.5, color = "green") +
+	geom_point(data = dataWindesheim, aes(x = x, y = y), alpha = 0.5, color = "darkgreen") +
+	geom_point(data = dataRoman, aes(x = x, y = y), alpha = 0.5, color = "orange") +
+	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
+	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
+	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
+	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "yellow")
+#	+ 
+#	geom_point(data = dataAntwerp, aes(x = x, y = y), alpha = 0.5, color = "hotpink") + 
+#	geom_point(data = dataBrussels, aes(x = x, y = y), alpha = 0.5, color = "cyan4") +
+#	geom_point(data = dataBruges, aes(x = x, y = y), alpha = 0.5, color = "lightsalmon")
+#z
+
+zz <- z + 
+		annotate("text", x=0.75, y=0.63, label="Paris", color="blue", size=4) +
+		annotate("text", x=0.16, y=0.63, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.2, y=0.59, label="Windesheim", color="darkgreen", size=4) +
+		annotate("text", x=0.84, y=0.41, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.84, y=0.37, label="Windesheim", color="darkgreen", size=4) +
+		annotate("text", x=0.57, y=0.25, label="Rome", color="orange", size=4) +
+		annotate("text", x=0.3, y=0.75, label="Cambrai", color="red", size=4) +
+		annotate("text", x=0.37, y=0.33, label="Tours", color="purple", size=4) +
+		annotate("text", x=0.28, y=0.37, label="Troyes", color="lightblue", size=4) +
+		annotate("text", x=0.17, y=0.35, label="Bourges", color="yellow2", size=4)
+zz
+
+ggsave("Ottosen-MSS-sup5-annotate2.png", plot=zz, dpi=500, device="png", width=10, height=10) 

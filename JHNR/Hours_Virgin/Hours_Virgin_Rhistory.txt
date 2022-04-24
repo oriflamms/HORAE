@@ -29,7 +29,7 @@ library(ggforce)
 ### Data preparation
 
 rm(list = ls())
-setwd("C:/Users/stutzmann/Documents/GitHub/HORAE/Hours_Virgin") #Set the working directory
+setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Hours_Virgin") #Set the working directory
 use <- read.csv("rectype-93.csv", header = TRUE, fileEncoding = "UTF-8")
 #use <- read.csv("rectype-93-Baltimore.csv", header = TRUE, fileEncoding = "UTF-8")
 head(use)
