@@ -1,0 +1,221 @@
+#########################################################################################################
+#########################################################################################################
+######## 																						#########
+########  Exploration of MSS books of hours containing the Hours of the Virgin for one use 		#########
+######## 						and the Office of the Dead for another use						#########
+######## 																						#########
+######## 																						#########
+######## 																						#########
+#########################################################################################################
+######################################################################################################### 
+######## 																						#########
+######## 		SOURCE = https://heurist.huma-num.fr/heurist/?db=stutzmann_horae&website		#########
+######################################################################################################### 
+######################################################################################################### 
+
+
+#---------------------------------------------------------------------------------------------------------
+rm(list = ls())
+setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Hybrid_Virgin_Dead") 			#Set the working directory
+install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "svglite")
+library(tidyverse)
+library(dplyr)
+library(MASS)
+library(ggplot2)
+library(gridExtra)
+library(stringr)
+library(network)
+library(ggnetwork)
+library(plotly)
+library(ggrepel)
+library(sna)
+library(svglite)
+#-----------------------------------------------------------------------------------------------------------
+
+
+#-----------------------------------------------------------------------------------------------------------
+#-------------------- DATA PREPARATION ---------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------
+
+#### Files: "rectype-55.csv" is an export from the "stutzmann_horae" database 
+#### hosted on https://heurist.huma-num.fr/heurist/ server.
+#### t:55 entities are [msItem]s. The export includes 
+####		- H-ID of parent entities (Manuscript H-ID and Printed H-ID)
+#### 		- H-ID of [Work]s (distinguishing here between Calendars, Virgin and Dead)
+####		- H-ID of [Organisation]s (indicating the use) 
+#### Nota: Work H-ID : Calendar = 75963 ; Dead = 75965 ; Virgin = 75966
+
+data <- read.csv("rectype-55.csv", encoding="UTF-8", sep=",", header = TRUE) 			#import the CSV file
+dim(data)														 						# [1] 4233   10
+colnames(data) <- c("msItemHID", "msItemTitle", "mssHID", "mssTitle", "printedHID", 
+							"printedTitle", "workHID", "workTitle", "useHID", "useTitle")
+head(data)
+
+
+#---- Removing msItems which are not in MSS or describing offices of the Virgin or Dead
+data <- data %>% drop_na(mssHID)
+dim(data)																				# [1] 4210   10																			#
+data <- data %>% filter(workHID == 75965 | workHID == 75966)
+dim(data)																				# [1] 3228   10
+data <- data %>% filter(useHID != "")										
+dim(data)																				# [1] 3046   10
+data <- dplyr::filter(data, !grepl("Unknown",useTitle))				# You need to discard the uses that are "unknown", because they all point to a 
+																	# single entity while being diverse and different from one another
+dim(data)																				# [1] 2824   10
+
+
+data$target <- paste(data$workHID, data$useTitle, sep="_")
+data$target <- sub(" \\(Organisation\\)", "", data$target)
+data$target <- gsub(75965, "D", data$target)
+data$target <- gsub("75966", "V", data$target)
+head(data)
+
+
+#-------------------------------------------------------------------------
+# ----- List of edges 
+
+edges <- cbind(data$mssHID, data$target)
+colnames(edges) <- c("from", "to")
+write.csv(edges, "MSS-Uses.csv", fileEncoding="utf-8", row.names=FALSE)
+
+set.seed(42)
+net <- network(as.data.frame(edges), directed=FALSE, matrix.type="edgelist")
+
+# ------  Documentation
+
+#	network.vertex.names(net)						# list all vertices
+#	list.vertex.attributes(net)						# [1] "na"           "vertex.names"
+#	net[,]											#	"net" as adjacency matrix
+#	net %n% "net.name"								# name of the network (by default NULL)
+#	net %v% "Type" # Node attribute					# list the values of the nodes (vertices) in the "Type" attribute
+#	net %e% "Weight" # Edge attribute
+
+
+# ------- List of nodes
+nodes <- as.data.frame(network.vertex.names(net))
+colnames(nodes) <- "vertex.names"
+nodes$Type[startsWith(nodes$vertex.names, "D_")] <- "Dead"
+nodes$Type[startsWith(nodes$vertex.names, "V_")] <- "Virgin"
+nodes$Type[is.na(nodes$Type)] <- "MSS"
+
+set.seed(42)
+net <- network(as.data.frame(edges), vertex.attr=as.data.frame(nodes), directed=FALSE, matrix.type="edgelist", ignore.eval = F)
+list.vertex.attributes(net)	
+net %v% "betweenness" <- betweenness(net)
+net %v% "degree" <- degree(net)
+net %v% "vertex.sizes" <- ifelse(net %v% "Type" == "MSS", "1", "2")
+net %v% "Label" <- ifelse(net %v% "Type" == "MSS", "", net %v% "vertex.names")
+
+
+
+set.seed(142)
+i <- ggplot(ggnetwork(net, layout="fruchtermanreingold"), #layout choice: kamadakawai, fruchtermanreingold other layouts https://www.rdocumentation.org/packages/sna/versions/2.5/topics/gplot.layout
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
+	geom_nodes(aes(color = Type, size = vertex.sizes)) +
+	geom_nodetext(aes(label = Label), size=1) + 
+	scale_size_manual(values = c(1, 4))											# length of vector = number of different values
+i
+
+#---------------------------- stats on "net"
+# Network attributes:
+#  vertices = 2393 
+#  directed = FALSE 
+#  hyper = FALSE 
+#  loops = FALSE 
+#  multiple = FALSE 
+#  bipartite = FALSE 
+#  total edges= 2824 
+#    missing edges= 0 
+#    non-missing edges= 2824 
+#
+# Vertex attribute names: 
+#    betweenness degree Label Type vertex.names vertex.sizes 
+#
+# Edge attribute names not shown 
+
+#----------- Removing incomplete data (MSS linked to only one office) ---------------------------
+#-HELP : there probably is a simpler way
+
+
+b <- cbind(net %v% "vertex.names", net %v% "degree", net %v% "Type")
+colnames(b) <- c("vertex.names", "degree", "Type")
+b <- as.data.frame(b)
+b$"node-id" <- rownames(b)
+c <- b %>% filter (degree < 3 & Type == "MSS")
+head(c)
+dim(c)								# [1] 1422    4
+d <- as.integer(c$"node-id")
+d
+dim(d)								# NULL
+delete.vertices(net, d)
+
+#--- new stats on "net"
+#net
+# Network attributes:
+#  vertices = 971 
+#  directed = FALSE 
+#  hyper = FALSE 
+#  loops = FALSE 
+#  multiple = FALSE 
+#  bipartite = FALSE 
+#  total edges= 1402 
+#    missing edges= 0 
+#    non-missing edges= 1402 
+#
+# Vertex attribute names: 
+#    betweenness degree Label Type vertex.names vertex.sizes 
+#
+# Edge attribute names not shown 
+> 
+
+
+set.seed(142)
+k <- ggplot(ggnetwork(net, layout="fruchtermanreingold"), #layout choice: kamadakawai, fruchtermanreingold other layouts https://www.rdocumentation.org/packages/sna/versions/2.5/topics/gplot.layout
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
+	geom_nodes(aes(color = Type, size = vertex.sizes)) +
+	geom_nodetext(aes(label = Label), size=1) + 
+	scale_size_manual(values = c(1, 4))											# length of vector = number of different values
+k
+
+
+#----------- Removing incomplete data (Offices linked to no MSS) ---------------------------
+#-HELP : there probably is a simpler way
+
+net %v% "degree2" <- degree(net)
+
+e <- cbind(net %v% "vertex.names", net %v% "degree2", net %v% "Type")
+e <- as.data.frame(e)
+colnames(e) <- c("vertex.names", "degree2", "Type")
+e$"degree2" <- as.integer(e$"degree2")
+e$"node-id" <- rownames(e)
+f <- e %>% filter (degree2 < 2)
+head(f)
+dim(f)											# 205   4				
+g <- as.integer(f$"node-id")
+g
+dim(g)											# NULL
+net2 <- delete.vertices(net, g)
+
+
+
+set.seed(9999)
+m <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", 				#layout choice: kamadakawai, fruchtermanreingold other layouts https://www.rdocumentation.org/packages/sna/versions/2.5/topics/gplot.layout
+				niter = 5000, 											#number of iteration
+				cell.jitter = 1), 
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
+	geom_nodes(aes(color = Type, size = vertex.sizes)) +
+	geom_nodetext(aes(label = Label), size=4) + 
+	scale_size_manual(values = c(1, 6))	+										# length of vector = number of different values
+	guides(size = FALSE) +
+	theme_void() +
+	theme(legend.title = element_blank(),
+		legend.position = c(0.8, 0.2))
+        legend.spacing.y = unit(2, "mm"), 
+        legend.background = element_blank(),
+        legend.box.background = element_rect(colour = "green"))
+m
+
+ggsave("Hybrid_Virgin_Dead-2-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
