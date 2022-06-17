@@ -17,7 +17,7 @@
 #---------------------------------------------------------------------------------------------------------
 rm(list = ls())
 setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Hybrid_Virgin_Dead") 			#Set the working directory
-install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "svglite")
+install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "svglite", "sna"))
 library(tidyverse)
 library(dplyr)
 library(MASS)
@@ -93,7 +93,9 @@ net <- network(as.data.frame(edges), directed=FALSE, matrix.type="edgelist")
 
 # ------- List of nodes
 nodes <- as.data.frame(network.vertex.names(net))
+nodes <- data.frame(lapply(nodes, as.character), stringsAsFactors=FALSE)
 colnames(nodes) <- "vertex.names"
+nodes$Type <- NA
 nodes$Type[startsWith(nodes$vertex.names, "D_")] <- "Dead"
 nodes$Type[startsWith(nodes$vertex.names, "V_")] <- "Virgin"
 nodes$Type[is.na(nodes$Type)] <- "MSS"
@@ -135,7 +137,11 @@ i
 # Edge attribute names not shown 
 
 #----------- Removing incomplete data (MSS linked to only one office) ---------------------------
-#-HELP : there probably is a simpler way
+
+
+
+
+#-----HELP!!!!----- : there probably is a simpler way
 
 
 b <- cbind(net %v% "vertex.names", net %v% "degree", net %v% "Type")
@@ -200,14 +206,14 @@ net2 <- delete.vertices(net, g)
 
 
 
-set.seed(9999)
+set.seed(42)
 m <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", 				#layout choice: kamadakawai, fruchtermanreingold other layouts https://www.rdocumentation.org/packages/sna/versions/2.5/topics/gplot.layout
 				niter = 5000, 											#number of iteration
-				cell.jitter = 1), 
+				cell.jitter = 4), 
 	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
 	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
 	geom_nodes(aes(color = Type, size = vertex.sizes)) +
-	geom_nodetext(aes(label = Label), size=5) + 
+	geom_nodetext(aes(label = Label), size=4) + 
 	scale_size_manual(values = c(1, 6))	+										# length of vector = number of different values
 	guides(size = "none") +
 	theme_void() +
@@ -223,5 +229,7 @@ m <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", 				#layout choice: ka
 
 m
 
-ggsave("Hybrid_Virgin_Dead-3-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
+ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
+ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1.svg", plot=m, dpi=500, device="svg", width=10, height=10) 
+
 
