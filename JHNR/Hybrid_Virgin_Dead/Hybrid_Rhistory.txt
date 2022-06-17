@@ -207,15 +207,21 @@ m <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", 				#layout choice: ka
 	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
 	geom_edges(color = "grey50",arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.1) + 
 	geom_nodes(aes(color = Type, size = vertex.sizes)) +
-	geom_nodetext(aes(label = Label), size=4) + 
+	geom_nodetext(aes(label = Label), size=5) + 
 	scale_size_manual(values = c(1, 6))	+										# length of vector = number of different values
-	guides(size = FALSE) +
+	guides(size = "none") +
 	theme_void() +
-	theme(legend.title = element_blank(),
-		legend.position = c(0.8, 0.2))
-        legend.spacing.y = unit(2, "mm"), 
-        legend.background = element_blank(),
-        legend.box.background = element_rect(colour = "green"))
+	theme(
+		legend.position = c(0.1, 0.85),
+		legend.title = element_blank(),
+		legend.background = element_rect(fill="lightgrey",			#element_blank(), legend.box.background = element_rect(colour = "green")
+                                  size=1, linetype="solid", 
+                                  colour ="darkgrey"
+								  )
+		  )
+        
+
 m
 
-ggsave("Hybrid_Virgin_Dead-2-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
+ggsave("Hybrid_Virgin_Dead-3-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
+

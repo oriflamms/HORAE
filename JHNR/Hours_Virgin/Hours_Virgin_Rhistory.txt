@@ -116,8 +116,8 @@ ggsave("Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, heigh
 # Removing "Tours 1501-1600, which appears to be central but late
 
 network.Use(net)											# identifying the "id" corresponding to the "vertex.name"	
-net2 <- delete.vertices(net, 129)									# deleting vertex 129  = "Tours [1501 to 1600]"
-# net2 <- delete.vertices(net, 134)													# idem for network with Baltimore W.166 and W.169
+net2 <- delete.vertices(net, 129)							# deleting vertex 129  = "Tours [1501 to 1600]"
+# net2 <- delete.vertices(net, 134)							# idem for network with Baltimore W.166 and W.169
 network.Use(net2)											# checking deletion complete
 
 
