@@ -84,20 +84,20 @@ df.edges <- as.data.frame(df.edges)
 edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
 colnames(edges) <- c("from", "to", "weight")
 edges$weight <- as.integer(edges$weight)
-write.csv(edges, "output/edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
-# write.csv(edges, "output/edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges, "edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 
 quantile(edges$weight)  #      0%  25%  50%  75% 100% 
 						#		0   28   38   51  100
-png(file="figures/png/histogram-edges-weight.png", width=10, height=10, units="cm", res=300)
+png(file="histogram-edges-weight.png", width=10, height=10, units="cm", res=300)
 cutoff <- hist(edges$weight, breaks = 100, xlab="Percentage of shared pieces", ylab="Number of edges", main = NULL)
 dev.off()
 
 edges.sup70 <- edges %>% filter(weight > 70)
 
-write.csv(edges.sup70, "output/edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
-# write.csv(edges.sup70, "output/edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 #----------------------------------------------------------------------------------------------------------------------
 # Plot Network	
@@ -117,9 +117,9 @@ g <- ggplot(ggnetwork(net, layout="fruchtermanreingold", na.rm=TRUE), #layout ch
 g
 ggplotly(g)
 
-#ggsave("figures/tif/Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
-ggsave("figures/png/Hours_Virgin.sup70.png", plot=g, dpi=500, device="png", width=10, height=10) 
-ggsave("figures/svg/Hours_Virgin.sup70.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
+#ggsave("Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.png", plot=g, dpi=500, device="png", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
 
 
 
@@ -144,9 +144,9 @@ h <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout c
 h
 #ggplotly(h)
 
-#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
-#ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16.svg", plot=h, dpi=500, device="svg", width=10, height=10) 
-#ggsave("figures/png/Hours_Virgin.sup70.withoutTours16.png", plot=h, dpi=500, device="png", width=10, height=10) 
+#ggsave("Hours_Virgin.sup70.withoutTours16.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
+#ggsave("Hours_Virgin.sup70.withoutTours16.svg", plot=h, dpi=500, device="svg", width=10, height=10) 
+#ggsave("Hours_Virgin.sup70.withoutTours16.png", plot=h, dpi=500, device="png", width=10, height=10) 
 
 
 
@@ -291,9 +291,9 @@ z
 
 ggplotly(z)
 
-#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
-ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
-ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
+#ggsave("tif/Hours_Virgin.sup70.withoutTours16.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
 
 
 ############################################################################################################
@@ -355,13 +355,13 @@ df.edges <- as.data.frame(df.edges)
 edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
 colnames(edges) <- c("from", "to", "weight")
 edges$weight <- as.integer(edges$weight)
-# write.csv(edges, "output/edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
-write.csv(edges, "output/edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges, "edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 edges.sup70 <- edges %>% filter(weight > 70)
 
-# write.csv(edges.sup70, "output/edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
-write.csv(edges.sup70, "output/edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 #----------------------------------------------------------------------------------------------------------------------
 # Plot Network	
@@ -422,13 +422,13 @@ k
 k2 <- j + annotate("rect", xmin = 0.12, xmax = 0.4, ymin = 0.6, ymax = 0.81,  alpha = .2, fill = "blue")
 
 
-#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
-ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
-ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
-ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.svg", plot=k2, dpi=500, device="svg", width=10, height=10) 
-ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.png", plot=k2, dpi=500, device="png", width=10, height=10) 
-ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
-ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
+#ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.svg", plot=k2, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.png", plot=k2, dpi=500, device="png", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
 
 
 blob <- as.data.frame(cbind(net2 %v% "vertex.names", net2 %v% "degree", net2 %v% "betweenness"))
@@ -450,10 +450,10 @@ ggplot(blob, aes(x=degree)) +   geom_bar()
 
 
 edges.sup75 <- edges %>% filter(weight > 75)
-write.csv(edges.sup80, "output/edgesHoursVirgin.sup75-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup80, "edgesHoursVirgin.sup75-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 edges.sup80 <- edges %>% filter(weight > 80)
-write.csv(edges.sup80, "output/edgesHoursVirgin.sup80-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup80, "edgesHoursVirgin.sup80-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 set.seed(1977)
 net75 <- network(as.data.frame(edges.sup75), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
