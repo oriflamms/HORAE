@@ -12,7 +12,9 @@
 
 #-----------------------------------------------------------------------------------------------------------------------
 ### Libraries
-install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "ggforce"))
+
+
+install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "ggforce", "sna"))
 library(tidyverse)
 library(dplyr)
 library(MASS)
@@ -24,6 +26,7 @@ library(ggnetwork)
 library(plotly)
 library(ggrepel)
 library(ggforce)
+library(sna)
 
 #----------------------------------------------------------------------------------------------------------------------
 ### Data preparation
@@ -31,7 +34,7 @@ library(ggforce)
 rm(list = ls())
 setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Hours_Virgin") #Set the working directory
 use <- read.csv("rectype-93.csv", header = TRUE, fileEncoding = "UTF-8")
-#use <- read.csv("rectype-93-Baltimore.csv", header = TRUE, fileEncoding = "UTF-8")
+#use <- read.csv("rectype-93-Baltimore.csv", header = TRUE, fileEncoding = "UTF-8")    #this file will be used below to reproduce the pipeline with additional mss from Baltimore
 head(use)
 colnames(use) <- c("useItem", "Position","s", "rec_Title", "Work", "Work.RecordTitle", "UseID", "Use")
 use[,8] <- substring(use[,8],24,nchar(use[,8]))
@@ -166,8 +169,9 @@ dataNormandie <- datapoints %>%
 		str_detect(vertex.names,"^Dol")|
 		str_detect(vertex.names,"^Tréguier")|
 		str_detect(vertex.names,"^Nantes")|
-		str_detect(vertex.names,"^Rennes")|
-		str_detect(vertex.names,"^Évreux")
+		str_detect(vertex.names,"^Évreux")|
+		vertex.names == "Rennes [1430]"|
+		vertex.names == "Rennes [1401 to 1500]"
 		)
 dataSFrance1 <- datapoints %>% 
 	filter(str_detect(vertex.names,"^Valence")|
@@ -219,20 +223,22 @@ dataNFrance1 <- datapoints %>%
 		str_detect(vertex.names,"^Bruxelles Sainte-Gudule O.S.A.")|
 		str_detect(vertex.names,"^Noyon")|
 		str_detect(vertex.names,"^Senlis")|
+		str_detect(vertex.names,"^Watten")|
+		str_detect(vertex.names,"^Tournai")|
 		vertex.names == "Saint-Quentin"|
 		str_detect(vertex.names,"^Thérouanne [1488]")|
 		str_detect(vertex.names,"^Laon")|
 		str_detect(vertex.names,"^Hénin-Liétard Notre-Dame O.S.A.")|
 		str_detect(vertex.names,"^Amiens")|
 		str_detect(vertex.names,"^Mons Sainte-Waudru O.S.A.")|
-		str_detect(vertex.names,"^La Croix-Saint-Leufroy O.S.B.")|
 		str_detect(vertex.names,"^Douai Saint-Amé")|
-		str_detect(vertex.names,"^Saint-Omer [1201 to 1300]")|
-		str_detect(vertex.names,"^Arras [1301 to 1400]")|
-		str_detect(vertex.names,"^Thérouanne [1401 to 1500]")|
-		str_detect(vertex.names,"^Arras [1595]")|
+		vertex.names == "Saint-Omer [1201 to 1300]"|
+		vertex.names == "Arras [1301 to 1400]"|
+		vertex.names == "Arras [1401 to 1500]"|
+		vertex.names == "Thérouanne [1401 to 1500]"|
+		vertex.names == "Arras [1595]"|
 		str_detect(vertex.names,"^Cambrai")|
-		str_detect(vertex.names,"^Arras [1501 to 1600]")
+		vertex.names == "Arras [1501 to 1600]"
 		)
 dataBrugge <- datapoints %>% 
 	filter(str_detect(vertex.names,"^Brugge"))
@@ -255,17 +261,17 @@ z <- h +
 			label.buffer = unit(-1, 'mm'), label.fontsize = 12, label.colour = "purple", label.fill = FALSE,
 			con.colour = "purple", con.size = 0.5, con.linetype = 0,
  			alpha = 0.5, color = "purple",
-			expand=unit(0, 'mm')) +
+			expand=unit(2, 'mm')) +
 	geom_point(data = dataNFrance1, aes(x = x, y = y), alpha = 0.5, color = "orange") +
-	geom_mark_ellipse(data = dataNFrance1, aes(x = x, y = y, label="Northern France and Low Countries"), 
+	geom_mark_ellipse(data = dataNFrance1, aes(x = x, y = y, label="Northern France \nand Low Countries"), 
 			label.buffer = unit(-7, 'mm'), label.fontsize = 12, label.colour = "orange", label.fill = FALSE,
 			con.colour = "orange", con.size = 0.5, con.linetype = 0,
  			alpha = 0.5, color = "orange") +
-	geom_point(data = dataEFrance1, aes(x = x, y = y), alpha = 0.5, color = "darkorange") +
+	geom_point(data = dataEFrance1, aes(x = x, y = y), alpha = 0.5, color = "lightblue") +
 	geom_mark_ellipse(data = dataEFrance1, aes(x = x, y = y, label="Old Benedictine abbeys \n in Eastern and Northern France"), 
-			label.buffer = unit(-7, 'mm'), label.fontsize = 12, label.colour = "darkorange", label.fill = FALSE, 
-			con.colour = "darkorange", con.size = 0.5, con.linetype = 0,
- 			alpha = 0.5, color = "darkorange") +
+			label.buffer = unit(-7, 'mm'), label.fontsize = 12, label.colour = "lightblue", label.fill = FALSE, 
+			con.colour = "lightblue", con.size = 0.5, con.linetype = 0,
+ 			alpha = 0.5, color = "lightblue") +
 	geom_point(data = dataNormandie, aes(x = x, y = y), alpha = 0.5, color = "darkgreen") +
 	geom_mark_ellipse(data = dataNormandie, aes(x = x, y = y, label="Normandy, England and Brittany"), 
 			label.buffer = unit(-7, 'mm'), label.fontsize = 12, label.colour = "darkgreen", label.fill = FALSE,
@@ -284,7 +290,147 @@ ggplotly(z)
 ggsave("Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
 ggsave("Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
 
-#-----------------------------------------------------------------------------------------------------------
-AroundBaltimore <- use %>% filter(str_detect(Use,"^Baltimore")|str_detect(Use,"^Thérouanne")|str_detect(Use,"^Noyon")|str_detect(Use,"^Arras")|str_detect(Use,"^Cambrai"))
-write.csv(AroundBaltimore, "Baltimore-and-friends.csv")
 
+############################################################################################################
+#-----------------------------------------------------------------------------------------------------------
+#------------------------ BALTIMORE MSS --------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------
+#-----------------------------------------------------------------------------------------------------------
+############################################################################################################
+
+### Data preparation
+
+use <- read.csv("rectype-93-Baltimore.csv", header = TRUE, fileEncoding = "UTF-8")
+head(use)
+colnames(use) <- c("useItem", "Position","s", "rec_Title", "Work", "Work.RecordTitle", "UseID", "Use")
+use[,8] <- substring(use[,8],24,nchar(use[,8]))
+use[,8] <- gsub(",", "", use[,8])
+use[,2] <- gsub(" ", "", use[,2])
+
+#----------------------------------------------------------------------------------------------------------------------
+### Equivalent of "NA" : rectype-93 linked to Work.H.ID 395430 (Not Identified) and to 708938 (Expected but not attested)
+
+use <- use %>% filter(Work != "395430") %>% filter(Work != "708938") %>% filter(Position !="")
+use <- use %>% filter(grepl("-", Position))
+use$position.work <- paste(use$Position, use$Work, sep="_")
+
+#----------------------------------------------------------------------------------------------------------------------
+### Creation of edges
+
+use.useItem1 <- use %>%
+  group_by(Use) %>%
+  summarize(positions = list(Position))
+  
+use.useItem2 <- use %>%
+  group_by(Use) %>%
+  summarize(position.work = list(position.work))
+
+use.useItem <- cbind(use.useItem1, use.useItem2)
+
+	# for the record:
+	# summarize(position.work = list(c(Position, Work)))  								#list all [Position] and then all [Work]
+	# summarize(position.work = list(mapply(list, Position, Work, SIMPLIFY=FALSE)))		#list all elements in the right order ([Position]1, [Work]1, [Position]2, [Work]2 etc.)
+	# summarize(position.work = list(mapply(c, Position, Work, SIMPLIFY=FALSE)))		#creates a list for each use containing multiple lists with two elements [Position] [Work]
+
+rownames(use.useItem) <- use.useItem$Use
+
+df <- use.useItem										# we set a short name to use the following command
+
+df.edges <- setNames(combn(1:nrow(df), 
+		2, 
+		FUN = function(i) 
+		length(intersect(unique(df[i[1],]$position.work[[1]]),unique(df[i[2],]$position.work[[1]])))			#percentage of common texts among common positions for which texts are known
+		/ 
+		length(intersect(unique(df[i[1],]$positions[[1]]),unique(df[i[2],]$positions[[1]]))) * 100
+		), 
+		combn(rownames(df), 2, toString)
+		)
+df.edges <- as.data.frame(df.edges)
+
+edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
+colnames(edges) <- c("from", "to", "weight")
+edges$weight <- as.integer(edges$weight)
+# write.csv(edges, "edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+
+edges.sup70 <- edges %>% filter(weight > 70)
+
+# write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+
+#----------------------------------------------------------------------------------------------------------------------
+# Plot Network	
+
+set.seed(1977)
+net <- network(as.data.frame(edges.sup70), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
+
+
+set.seed(1977)
+i <- ggplot(ggnetwork(net, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "darkred") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+i
+ggplotly(i)
+
+#ggsave("Hours_Virgin.sup70-Baltimore.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
+ggsave("Hours_Virgin.sup70-Baltimore.png", plot=g, dpi=500, device="png", width=10, height=10) 
+ggsave("Hours_Virgin.sup70-Baltimore.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
+
+
+
+#----------------------------------------------------------------------------------------------------------------------
+# Plot Network	
+# Removing "Tours 1501-1600, which appears to be central but late
+
+network.vertex.names(net)											# identifying the "id" corresponding to the "vertex.name"	
+# net2 <- delete.vertices(net, 129)							# deleting vertex 129  = "Tours [1501 to 1600]"
+net2 <- delete.vertices(net, 131)							# idem for network with Baltimore W.166 and W.169
+network.vertex.names(net2)											# checking deletion complete
+
+net2 %v% "betweenness" <- betweenness(net2)
+net2 %v% "degree" <- degree(net2)
+
+set.seed(35356)
+j <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "lightgreen") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+# j
+# ggplotly(j)
+ 
+datapoints <- as.data.frame(j$data)
+dataBaltimore <- datapoints %>% 
+	filter(str_detect(vertex.names,"^Baltimore"))
+
+k <- j + xlim(0.12, 0.4) + 
+		ylim(0.6, 0.81) + 
+		geom_point(data = dataBaltimore, aes(x = x, y = y), alpha = 1, color = "red", shape=2, size=6)
+k
+
+#ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
+
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
+ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
+
+
+
+##################################################################################################################################
+#-----------------  Documentation 
+#--------------------------------------------------------------------
+
+kc<-kcores(net2)
+kc
+gplot(net2,vertex.col=kc)
+
+cutpoints(net2, mode = "graph", 							# mode = "digraph"| mode = "graph" (directed | not directed)
+	connected = c("strong"),				# connected = c("strong","weak","recursive"),			
+	return.indicator = FALSE)								# return.indicator = FALSE
