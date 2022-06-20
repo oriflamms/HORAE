@@ -1,816 +1,732 @@
 "from","to","weight"
-"Agde","Aix-en-Provence",78.2608695652174
-"Agde","Apt",73.1707317073171
-"Agde","Béziers",89.1304347826087
-"Agde","Fréjus",87.8048780487805
-"Agde","Grasse",82.6086956521739
-"Agde","Lérida",71.7391304347826
-"Agde","Maguelonne",88.8888888888889
-"Agde","Mende",82.6086956521739
-"Agde","Narbonne",77.0833333333333
-"Agde","O.P.",71.7391304347826
-"Agde","O.T.",73.9130434782609
-"Agde","Toulouse",73.9130434782609
-"Agde","Uzès",83.3333333333333
-"Agde","Valencia",73.3333333333333
+"Agde","Aix-en-Provence",78
+"Agde","Apt",73
+"Agde","Béziers",89
+"Agde","Fréjus",87
+"Agde","Grasse",82
+"Agde","Lérida",71
+"Agde","Maguelonne",88
+"Agde","Mende",82
+"Agde","Narbonne",77
+"Agde","O.P.",71
+"Agde","O.T.",73
+"Agde","Toulouse",73
+"Agde","Uzès",83
+"Agde","Valencia",73
 "Agen","Dax",72
-"Aix-en-Provence","Apt",75.5555555555556
-"Aix-en-Provence","Béziers",87.7551020408163
-"Aix-en-Provence","Fréjus",88.8888888888889
-"Aix-en-Provence","Grasse",90.1960784313726
-"Aix-en-Provence","Lérida",77.0833333333333
-"Aix-en-Provence","Maguelonne",92.6829268292683
-"Aix-en-Provence","Mende",85.7142857142857
-"Aix-en-Provence","Narbonne",82.3529411764706
-"Aix-en-Provence","O.P.",77.5510204081633
-"Aix-en-Provence","O.T.",77.5510204081633
-"Aix-en-Provence","Sisteron",80.6451612903226
-"Aix-en-Provence","Toulouse",80.3921568627451
-"Aix-en-Provence","Uzès",83.7837837837838
-"Aix-en-Provence","Valencia",78.7234042553192
-"Amiens","Arras [1301 to 1400]",74.2424242424242
-"Amiens","Autun",73.9130434782609
+"Aix-en-Provence","Apt",75
+"Aix-en-Provence","Béziers",87
+"Aix-en-Provence","Fréjus",88
+"Aix-en-Provence","Grasse",90
+"Aix-en-Provence","Lérida",77
+"Aix-en-Provence","Maguelonne",92
+"Aix-en-Provence","Mende",85
+"Aix-en-Provence","Narbonne",82
+"Aix-en-Provence","O.P.",77
+"Aix-en-Provence","O.T.",77
+"Aix-en-Provence","Sisteron",80
+"Aix-en-Provence","Toulouse",80
+"Aix-en-Provence","Uzès",83
+"Aix-en-Provence","Valencia",78
+"Amiens","Arras [1301 to 1400]",74
+"Amiens","Autun",73
 "Amiens","Auxerre",75
-"Amiens","Baltimore The Walters Art Museum W.0166",77.3333333333333
-"Amiens","Baltimore The Walters Art Museum W.0169",78.6666666666667
+"Amiens","Baltimore The Walters Art Museum W.0166",77
+"Amiens","Baltimore The Walters Art Museum W.0169",78
 "Amiens","Bazas",75
-"Amiens","Bourges",73.2394366197183
-"Amiens","Bruxelles Sainte-Gudule O.S.A.",77.9411764705882
-"Amiens","Châlons-en-Champagne",77.3333333333333
-"Amiens","Douai Saint-Amé",73.4375
-"Amiens","Évreux",72.2222222222222
-"Amiens","Hénin-Liétard Notre-Dame O.S.A.",81.8181818181818
-"Amiens","Laon",75.4098360655738
-"Amiens","Le Mans",70.8333333333333
-"Amiens","Lille Saint-Pierre",71.4285714285714
+"Amiens","Bourges",73
+"Amiens","Bruxelles Sainte-Gudule O.S.A.",77
+"Amiens","Châlons-en-Champagne",77
+"Amiens","Douai Saint-Amé",73
+"Amiens","Évreux",72
+"Amiens","Hénin-Liétard Notre-Dame O.S.A.",81
+"Amiens","Laon",75
+"Amiens","Lille Saint-Pierre",71
 "Amiens","Lisieux",72
-"Amiens","Mons Sainte-Waudru O.S.A.",87.3015873015873
-"Amiens","Noyon",79.7101449275362
-"Amiens","O.Hosp.",71.875
-"Amiens","O.Praem.",70.2702702702703
-"Amiens","Poitiers",74.2424242424242
-"Amiens","Rennes [1401 to 1500]",72.972972972973
+"Amiens","Mons Sainte-Waudru O.S.A.",87
+"Amiens","Noyon",79
+"Amiens","O.Hosp.",71
+"Amiens","Poitiers",74
+"Amiens","Rennes [1401 to 1500]",72
 "Amiens","Saint-Omer [1201 to 1300]",85
-"Amiens","Saint-Omer [1518]",79.7101449275362
-"Amiens","Saint-Pierre de La Couture O.S.B.",72.0588235294118
-"Amiens","Saint-Quentin",81.8181818181818
-"Amiens","Senlis",77.6119402985075
-"Amiens","Soissons",76.7857142857143
-"Amiens","Thérouanne [1401 to 1500]",92.0634920634921
-"Amiens","Thérouanne [1488]",73.9130434782609
-"Amiens","Tours [1401 to 1600]",70.4225352112676
-"Amiens","Tours [1501 to 1600]",87.5
-"Amiens","Tréguier",70.3125
-"Amiens","Verdun",73.015873015873
-"Angers","Beaugency",70.6666666666667
-"Angers","Bourges",76.8115942028985
-"Angers","Châlons-en-Champagne",72.2222222222222
-"Angers","Dol",73.6842105263158
-"Angers","Le Mans",78.5714285714286
-"Angers","Nantes",72.8571428571428
-"Angers","Nevers",74.6031746031746
-"Angers","Orléans",79.1666666666667
-"Angers","Reims",76.1194029850746
-"Angers","Rennes [1401 to 1500]",80.5555555555556
-"Angers","Rennes [1430]",73.0769230769231
-"Angers","Saint-Brieuc",75.4098360655738
-"Angers","Saint-Malo",78.6885245901639
-"Angers","Saint-Pierre de La Couture O.S.B.",79.7297297297297
-"Angers","Sarum",73.9130434782609
-"Angers","Soissons",73.6842105263158
-"Angers","Tours Saint-Julien O.S.B.",75.7575757575758
-"Angers","Tréguier",81.5384615384615
-"Antwerpen","Bruxelles Sainte-Gudule O.S.A.",81.4285714285714
-"Antwerpen","Hénin-Liétard Notre-Dame O.S.A.",75.9259259259259
-"Antwerpen","Mons Sainte-Waudru O.S.A.",73.7704918032787
-"Antwerpen","Noyon",78.2608695652174
-"Antwerpen","O.Praem.",76.056338028169
-"Antwerpen","Saint-Omer [1201 to 1300]",72.8813559322034
-"Antwerpen","Thérouanne [1401 to 1500]",73.7704918032787
-"Antwerpen","Thérouanne [1488]",72.0588235294118
-"Antwerpen","Tours [1501 to 1600]",76.9230769230769
-"Apt","Béziers",79.0697674418605
-"Apt","Embrun",73.469387755102
-"Apt","Fréjus",81.8181818181818
-"Apt","Grasse",79.5918367346939
-"Apt","Lérida",73.8095238095238
-"Apt","Maguelonne",82.051282051282
-"Apt","O.P.",78.7234042553192
-"Apt","O.T.",76.5957446808511
-"Apt","Sisteron",79.3103448275862
-"Apt","Toulouse",77.5510204081633
-"Apt","Uzès",78.125
-"Apt","Valencia",80.4878048780488
-"Arles","Auch",83.6734693877551
-"Arles","Cavaillon",83.3333333333333
-"Arles","Dax",71.1111111111111
-"Arles","Elne",73.9130434782609
-"Arles","Marseille",86.6666666666667
-"Arles","Saint-Paul-Trois-Châteaux",81.8181818181818
-"Arles","Valence Saint-Ruf",78.0487804878049
-"Arles","Vienne",70.8333333333333
+"Amiens","Saint-Omer [1518]",79
+"Amiens","Saint-Pierre de La Couture O.S.B.",72
+"Amiens","Saint-Quentin",81
+"Amiens","Senlis",77
+"Amiens","Soissons",76
+"Amiens","Thérouanne [1401 to 1500]",92
+"Amiens","Thérouanne [1488]",73
+"Amiens","Tours [1501 to 1600]",87
+"Amiens","Verdun",73
+"Angers","Bourges",76
+"Angers","Châlons-en-Champagne",72
+"Angers","Dol",73
+"Angers","Le Mans",78
+"Angers","Nantes",72
+"Angers","Nevers",74
+"Angers","Orléans",79
+"Angers","Reims",76
+"Angers","Rennes [1401 to 1500]",80
+"Angers","Rennes [1430]",73
+"Angers","Saint-Brieuc",75
+"Angers","Saint-Malo",78
+"Angers","Saint-Pierre de La Couture O.S.B.",79
+"Angers","Sarum",73
+"Angers","Soissons",73
+"Angers","Tours Saint-Julien O.S.B.",75
+"Angers","Tréguier",81
+"Antwerpen","Bruxelles Sainte-Gudule O.S.A.",81
+"Antwerpen","Hénin-Liétard Notre-Dame O.S.A.",75
+"Antwerpen","Mons Sainte-Waudru O.S.A.",73
+"Antwerpen","Noyon",78
+"Antwerpen","O.Praem.",76
+"Antwerpen","Saint-Omer [1201 to 1300]",72
+"Antwerpen","Thérouanne [1401 to 1500]",73
+"Antwerpen","Thérouanne [1488]",72
+"Antwerpen","Tours [1501 to 1600]",76
+"Apt","Béziers",79
+"Apt","Embrun",73
+"Apt","Fréjus",81
+"Apt","Grasse",79
+"Apt","Lérida",73
+"Apt","Maguelonne",82
+"Apt","O.P.",78
+"Apt","O.T.",76
+"Apt","Sisteron",79
+"Apt","Toulouse",77
+"Apt","Uzès",78
+"Apt","Valencia",80
+"Arles","Auch",83
+"Arles","Cavaillon",83
+"Arles","Dax",71
+"Arles","Elne",73
+"Arles","Marseille",86
+"Arles","Saint-Paul-Trois-Châteaux",81
+"Arles","Valence Saint-Ruf",78
 "Arras [1301 to 1400]","Arras [1401 to 1500]",90
-"Arras [1301 to 1400]","Arras [1501 to 1600]",97.0588235294118
-"Arras [1301 to 1400]","Arras [1595]",77.3584905660377
+"Arras [1301 to 1400]","Arras [1501 to 1600]",97
+"Arras [1301 to 1400]","Arras [1595]",77
 "Arras [1301 to 1400]","Auxerre",72
-"Arras [1301 to 1400]","Baltimore The Walters Art Museum W.0166",77.6119402985075
-"Arras [1301 to 1400]","Baltimore The Walters Art Museum W.0169",79.1044776119403
-"Arras [1301 to 1400]","Douai Saint-Amé",90.625
-"Arras [1301 to 1400]","Hénin-Liétard Notre-Dame O.S.A.",74.5454545454545
-"Arras [1301 to 1400]","Lille Saint-Pierre",71.2121212121212
-"Arras [1301 to 1400]","Mons Sainte-Waudru O.S.A.",78.9473684210526
-"Arras [1301 to 1400]","Noyon",73.8461538461539
-"Arras [1301 to 1400]","Saint-Omer [1201 to 1300]",74.5762711864407
-"Arras [1301 to 1400]","Saint-Omer [1518]",72.3076923076923
-"Arras [1301 to 1400]","Saint-Quentin",71.4285714285714
-"Arras [1301 to 1400]","Senlis",70.9677419354839
+"Arras [1301 to 1400]","Baltimore The Walters Art Museum W.0166",77
+"Arras [1301 to 1400]","Baltimore The Walters Art Museum W.0169",79
+"Arras [1301 to 1400]","Douai Saint-Amé",90
+"Arras [1301 to 1400]","Hénin-Liétard Notre-Dame O.S.A.",74
+"Arras [1301 to 1400]","Lille Saint-Pierre",71
+"Arras [1301 to 1400]","Mons Sainte-Waudru O.S.A.",78
+"Arras [1301 to 1400]","Noyon",73
+"Arras [1301 to 1400]","Saint-Omer [1201 to 1300]",74
+"Arras [1301 to 1400]","Saint-Omer [1518]",72
+"Arras [1301 to 1400]","Saint-Quentin",71
 "Arras [1301 to 1400]","Soissons",72
-"Arras [1301 to 1400]","Thérouanne [1401 to 1500]",84.2105263157895
-"Arras [1301 to 1400]","Thérouanne [1488]",73.4375
-"Arras [1301 to 1400]","Tours [1501 to 1600]",82.8571428571429
-"Arras [1301 to 1400]","Verdun",70.1754385964912
-"Arras [1401 to 1500]","Arras [1501 to 1600]",83.9080459770115
-"Arras [1401 to 1500]","Arras [1595]",74.5454545454545
-"Arras [1401 to 1500]","Douai Saint-Amé",81.1594202898551
-"Arras [1401 to 1500]","Watten O.S.A.",70.9090909090909
-"Arras [1501 to 1600]","Arras [1595]",72.8813559322034
-"Arras [1501 to 1600]","Douai Saint-Amé",84.2105263157895
-"Arras [1501 to 1600]","Hénin-Liétard Notre-Dame O.S.A.",74.5454545454545
-"Arras [1501 to 1600]","Mons Sainte-Waudru O.S.A.",71.4285714285714
-"Arras [1501 to 1600]","Saint-Omer [1201 to 1300]",74.5762711864407
-"Arras [1501 to 1600]","Saint-Quentin",70.9090909090909
-"Arras [1501 to 1600]","Thérouanne [1401 to 1500]",76.1904761904762
-"Arras [1501 to 1600]","Tours [1501 to 1600]",71.7948717948718
+"Arras [1301 to 1400]","Thérouanne [1401 to 1500]",84
+"Arras [1301 to 1400]","Thérouanne [1488]",73
+"Arras [1301 to 1400]","Tours [1501 to 1600]",82
+"Arras [1401 to 1500]","Arras [1501 to 1600]",83
+"Arras [1401 to 1500]","Arras [1595]",74
+"Arras [1401 to 1500]","Douai Saint-Amé",81
+"Arras [1501 to 1600]","Arras [1595]",72
+"Arras [1501 to 1600]","Douai Saint-Amé",84
+"Arras [1501 to 1600]","Hénin-Liétard Notre-Dame O.S.A.",74
+"Arras [1501 to 1600]","Mons Sainte-Waudru O.S.A.",71
+"Arras [1501 to 1600]","Saint-Omer [1201 to 1300]",74
+"Arras [1501 to 1600]","Thérouanne [1401 to 1500]",76
+"Arras [1501 to 1600]","Tours [1501 to 1600]",71
 "Arras [1595]","Douai Saint-Amé",76
 "Arras [1595]","Hénin-Liétard Notre-Dame O.S.A.",75
 "Arras [1595]","Saint-Omer [1201 to 1300]",78
-"Arras [1595]","Saint-Omer [1518]",70.1754385964912
-"Arras Saint-Vaast O.S.B.","Cluny O.S.B.",80.8823529411765
-"Arras Saint-Vaast O.S.B.","Hasnon",89.3617021276596
-"Arras Saint-Vaast O.S.B.","Saint-Denis O.S.B.",74.2424242424242
-"Arras Saint-Vaast O.S.B.","Saint-Omer Saint-Bertin O.S.B.",86.9565217391304
-"Arras Saint-Vaast O.S.B.","Saint-Riquier",75.8620689655172
-"Arras Saint-Vaast O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",95.8333333333333
-"Auch","Marseille",76.5957446808511
-"Auch","Saint-Paul-Trois-Châteaux",72.2222222222222
-"Auch","Valence Saint-Ruf",75.609756097561
-"Autun","Auxerre",76.4705882352941
-"Autun","Beaune Notre-Dame",75.4716981132076
-"Autun","Laon",70.9090909090909
-"Autun","Le Mans",74.6268656716418
+"Arras Saint-Vaast O.S.B.","Cluny O.S.B.",80
+"Arras Saint-Vaast O.S.B.","Hasnon",89
+"Arras Saint-Vaast O.S.B.","Saint-Denis O.S.B.",74
+"Arras Saint-Vaast O.S.B.","Saint-Omer Saint-Bertin O.S.B.",86
+"Arras Saint-Vaast O.S.B.","Saint-Riquier",75
+"Arras Saint-Vaast O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",95
+"Auch","Marseille",76
+"Auch","Saint-Paul-Trois-Châteaux",72
+"Auch","Valence Saint-Ruf",75
+"Autun","Auxerre",76
+"Autun","Beaune Notre-Dame",75
+"Autun","Le Mans",74
 "Autun","Mâcon",75
-"Autun","Saintes",70.1492537313433
-"Autun","Sion-en-Valais",70.5882352941177
-"Autun","Soissons",70.5882352941177
-"Autun","Tours [1501 to 1600]",78.9473684210526
-"Autun","Tréguier",71.1864406779661
-"Autun","Verdun",78.3333333333333
-"Auxerre","Baltimore The Walters Art Museum W.0166",73.6842105263158
-"Auxerre","Baltimore The Walters Art Museum W.0169",75.4385964912281
-"Auxerre","Bruxelles Sainte-Gudule O.S.A.",75.9259259259259
-"Auxerre","Châlons-en-Champagne",77.1929824561403
-"Auxerre","Lille Saint-Pierre",70.3703703703704
-"Auxerre","Mons Sainte-Waudru O.S.A.",73.2142857142857
-"Auxerre","Nantes",75.4385964912281
-"Auxerre","Noyon",72.7272727272727
-"Auxerre","Saint-Brieuc",71.9298245614035
-"Auxerre","Saint-Omer [1201 to 1300]",72.9166666666667
-"Auxerre","Saint-Omer [1518]",76.3636363636364
-"Auxerre","Saint-Quentin",73.2142857142857
-"Auxerre","Soissons",77.1929824561403
-"Auxerre","Thérouanne [1401 to 1500]",77.1929824561403
-"Auxerre","Toul",71.9298245614035
-"Auxerre","Tours [1501 to 1600]",78.7878787878788
-"Auxerre","Verdun",85.9649122807018
-"Avranches","Bayeux",86.9565217391304
-"Avranches","Châlons-en-Champagne",71.830985915493
-"Avranches","Coutances",78.9473684210526
-"Avranches","Dol",73.5849056603774
-"Avranches","Évreux",81.1594202898551
-"Avranches","Lisieux",84.9315068493151
-"Avranches","Rouen",76.3888888888889
-"Avranches","Saint-Brieuc",70.1754385964912
-"Avranches","Saint-Lô Sainte-Croix O.S.A.",90.625
-"Avranches","Sarum",79.4117647058823
+"Autun","Tours [1501 to 1600]",78
+"Autun","Tréguier",71
+"Autun","Verdun",78
+"Auxerre","Baltimore The Walters Art Museum W.0166",73
+"Auxerre","Baltimore The Walters Art Museum W.0169",75
+"Auxerre","Bruxelles Sainte-Gudule O.S.A.",75
+"Auxerre","Châlons-en-Champagne",77
+"Auxerre","Mons Sainte-Waudru O.S.A.",73
+"Auxerre","Nantes",75
+"Auxerre","Noyon",72
+"Auxerre","Saint-Brieuc",71
+"Auxerre","Saint-Omer [1201 to 1300]",72
+"Auxerre","Saint-Omer [1518]",76
+"Auxerre","Saint-Quentin",73
+"Auxerre","Soissons",77
+"Auxerre","Thérouanne [1401 to 1500]",77
+"Auxerre","Toul",71
+"Auxerre","Tours [1501 to 1600]",78
+"Auxerre","Verdun",85
+"Avranches","Bayeux",86
+"Avranches","Châlons-en-Champagne",71
+"Avranches","Coutances",78
+"Avranches","Dol",73
+"Avranches","Évreux",81
+"Avranches","Lisieux",84
+"Avranches","Rouen",76
+"Avranches","Saint-Lô Sainte-Croix O.S.A.",90
+"Avranches","Sarum",79
 "Avranches","Sens",100
-"Avranches","Tours [1501 to 1600]",76.3157894736842
-"Avranches","Tréguier",74.5762711864407
-"Avranches","Verdun",79.3103448275862
-"Avranches","York",89.5522388059701
-"Baltimore The Walters Art Museum W.0166","Baltimore The Walters Art Museum W.0169",98.9690721649485
-"Baltimore The Walters Art Museum W.0166","Brugge Sint-Donaaskerk",78.8888888888889
-"Baltimore The Walters Art Museum W.0166","Bruxelles Sainte-Gudule O.S.A.",77.9411764705882
-"Baltimore The Walters Art Museum W.0166","Cambrai",71.6417910447761
-"Baltimore The Walters Art Museum W.0166","Douai Saint-Amé",79.4520547945205
-"Baltimore The Walters Art Museum W.0166","Hénin-Liétard Notre-Dame O.S.A.",78.1818181818182
-"Baltimore The Walters Art Museum W.0166","Lille Saint-Pierre",78.5714285714286
-"Baltimore The Walters Art Museum W.0166","Mons Sainte-Waudru O.S.A.",81.25
-"Baltimore The Walters Art Museum W.0166","Noyon",82.6086956521739
-"Baltimore The Walters Art Museum W.0166","Ronse Sint-Hermes",76.7857142857143
-"Baltimore The Walters Art Museum W.0166","Saint-Omer [1201 to 1300]",81.6666666666667
-"Baltimore The Walters Art Museum W.0166","Saint-Omer [1518]",77.1428571428572
+"Avranches","Tours [1501 to 1600]",76
+"Avranches","Tréguier",74
+"Avranches","Verdun",79
+"Avranches","York",89
+"Baltimore The Walters Art Museum W.0166","Baltimore The Walters Art Museum W.0169",98
+"Baltimore The Walters Art Museum W.0166","Brugge Sint-Donaaskerk",78
+"Baltimore The Walters Art Museum W.0166","Bruxelles Sainte-Gudule O.S.A.",77
+"Baltimore The Walters Art Museum W.0166","Cambrai",71
+"Baltimore The Walters Art Museum W.0166","Douai Saint-Amé",79
+"Baltimore The Walters Art Museum W.0166","Hénin-Liétard Notre-Dame O.S.A.",78
+"Baltimore The Walters Art Museum W.0166","Lille Saint-Pierre",78
+"Baltimore The Walters Art Museum W.0166","Mons Sainte-Waudru O.S.A.",81
+"Baltimore The Walters Art Museum W.0166","Noyon",82
+"Baltimore The Walters Art Museum W.0166","Ronse Sint-Hermes",76
+"Baltimore The Walters Art Museum W.0166","Saint-Omer [1201 to 1300]",81
+"Baltimore The Walters Art Museum W.0166","Saint-Omer [1518]",77
 "Baltimore The Walters Art Museum W.0166","Saint-Quentin",75
-"Baltimore The Walters Art Museum W.0166","Senlis",71.6417910447761
-"Baltimore The Walters Art Museum W.0166","Thérouanne [1401 to 1500]",82.8125
-"Baltimore The Walters Art Museum W.0166","Thérouanne [1488]",78.9473684210526
-"Baltimore The Walters Art Museum W.0166","Tours [1501 to 1600]",77.5
-"Baltimore The Walters Art Museum W.0166","Verdun",70.3125
-"Baltimore The Walters Art Museum W.0169","Brugge Sint-Donaaskerk",78.4090909090909
-"Baltimore The Walters Art Museum W.0169","Bruxelles Sainte-Gudule O.S.A.",79.4117647058823
-"Baltimore The Walters Art Museum W.0169","Cambrai",73.134328358209
-"Baltimore The Walters Art Museum W.0169","Douai Saint-Amé",80.5555555555556
-"Baltimore The Walters Art Museum W.0169","Essômes O.S.A.",70.1754385964912
+"Baltimore The Walters Art Museum W.0166","Senlis",71
+"Baltimore The Walters Art Museum W.0166","Thérouanne [1401 to 1500]",82
+"Baltimore The Walters Art Museum W.0166","Thérouanne [1488]",78
+"Baltimore The Walters Art Museum W.0166","Tours [1501 to 1600]",77
+"Baltimore The Walters Art Museum W.0169","Brugge Sint-Donaaskerk",78
+"Baltimore The Walters Art Museum W.0169","Bruxelles Sainte-Gudule O.S.A.",79
+"Baltimore The Walters Art Museum W.0169","Cambrai",73
+"Baltimore The Walters Art Museum W.0169","Douai Saint-Amé",80
 "Baltimore The Walters Art Museum W.0169","Hénin-Liétard Notre-Dame O.S.A.",80
-"Baltimore The Walters Art Museum W.0169","Lille Saint-Pierre",78.5714285714286
-"Baltimore The Walters Art Museum W.0169","Mons Sainte-Waudru O.S.A.",82.8125
-"Baltimore The Walters Art Museum W.0169","Noyon",84.0579710144928
-"Baltimore The Walters Art Museum W.0169","Ronse Sint-Hermes",76.7857142857143
-"Baltimore The Walters Art Museum W.0169","Saint-Omer [1201 to 1300]",83.3333333333333
-"Baltimore The Walters Art Museum W.0169","Saint-Omer [1518]",78.2608695652174
-"Baltimore The Walters Art Museum W.0169","Saint-Quentin",76.7857142857143
-"Baltimore The Walters Art Museum W.0169","Senlis",73.134328358209
-"Baltimore The Walters Art Museum W.0169","Thérouanne [1401 to 1500]",84.375
-"Baltimore The Walters Art Museum W.0169","Thérouanne [1488]",80.2631578947368
+"Baltimore The Walters Art Museum W.0169","Lille Saint-Pierre",78
+"Baltimore The Walters Art Museum W.0169","Mons Sainte-Waudru O.S.A.",82
+"Baltimore The Walters Art Museum W.0169","Noyon",84
+"Baltimore The Walters Art Museum W.0169","Ronse Sint-Hermes",76
+"Baltimore The Walters Art Museum W.0169","Saint-Omer [1201 to 1300]",83
+"Baltimore The Walters Art Museum W.0169","Saint-Omer [1518]",78
+"Baltimore The Walters Art Museum W.0169","Saint-Quentin",76
+"Baltimore The Walters Art Museum W.0169","Senlis",73
+"Baltimore The Walters Art Museum W.0169","Thérouanne [1401 to 1500]",84
+"Baltimore The Walters Art Museum W.0169","Thérouanne [1488]",80
 "Baltimore The Walters Art Museum W.0169","Tours [1501 to 1600]",80
-"Baltimore The Walters Art Museum W.0169","Verdun",71.875
-"Bayeux","Coutances",83.5616438356164
-"Bayeux","Dol",71.9298245614035
+"Baltimore The Walters Art Museum W.0169","Verdun",71
+"Bayeux","Coutances",83
+"Bayeux","Dol",71
 "Bayeux","Évreux",76
-"Bayeux","Lisieux",81.3333333333333
-"Bayeux","Rouen",72.972972972973
-"Bayeux","Saint-Lô Sainte-Croix O.S.A.",82.089552238806
-"Bayeux","Sarum",79.7297297297297
-"Bayeux","Sens",88.8888888888889
-"Bayeux","Tours [1501 to 1600]",77.5
-"Bayeux","Tréguier",73.8461538461539
-"Bayeux","Verdun",71.875
-"Bayeux","York",80.8219178082192
-"Bazas","Dax",71.1538461538462
-"Bazas","Nantes",71.9298245614035
-"Bazas","O.Carm.",77.1929824561403
-"Bazas","O.Hosp.",73.6842105263158
-"Bazas","Poitiers",74.0740740740741
-"Bazas","Saintes",70.3703703703704
-"Bazas","Sevilla",81.4814814814815
-"Bazas","Soissons",70.1754385964912
-"Bazas","Thérouanne [1401 to 1500]",70.1754385964912
-"Bazas","Tours [1501 to 1600]",75.7575757575758
-"Beaugency","Chartres",88.7323943661972
-"Beaugency","Essômes O.S.A.",70.3703703703704
-"Beaugency","Josaphat Notre-Dame O.S.B.",75.9259259259259
-"Beaugency","Orléans",73.2394366197183
-"Beaugency","Saint-Brieuc",70.6896551724138
-"Beaugency","Saint-Malo",81.0344827586207
-"Beaugency","Saint-Omer [1201 to 1300]",70.1754385964912
-"Beaugency","Saint-Pol-de-Léon",71.4285714285714
-"Beaugency","Saint-Quentin",79.6296296296296
-"Beaugency","Senlis",71.875
-"Beaugency","Soissons",74.0740740740741
-"Beaugency","Thérouanne [1401 to 1500]",71.1864406779661
-"Beaugency","Tréguier",73.3333333333333
-"Beaugency","Troyes [1470 to 1507]",70.4225352112676
-"Beaulieu Notre Dame O.Cist","Essômes O.S.A.",71.4285714285714
+"Bayeux","Lisieux",81
+"Bayeux","Rouen",72
+"Bayeux","Saint-Lô Sainte-Croix O.S.A.",82
+"Bayeux","Sarum",79
+"Bayeux","Sens",88
+"Bayeux","Tours [1501 to 1600]",77
+"Bayeux","Tréguier",73
+"Bayeux","Verdun",71
+"Bayeux","York",80
+"Bazas","Dax",71
+"Bazas","Nantes",71
+"Bazas","O.Carm.",77
+"Bazas","O.Hosp.",73
+"Bazas","Poitiers",74
+"Bazas","Sevilla",81
+"Bazas","Tours [1501 to 1600]",75
+"Beaugency","Chartres",88
+"Beaugency","Josaphat Notre-Dame O.S.B.",75
+"Beaugency","Orléans",73
+"Beaugency","Saint-Malo",81
+"Beaugency","Saint-Pol-de-Léon",71
+"Beaugency","Saint-Quentin",79
+"Beaugency","Senlis",71
+"Beaugency","Soissons",74
+"Beaugency","Thérouanne [1401 to 1500]",71
+"Beaugency","Tréguier",73
+"Beaulieu Notre Dame O.Cist","Essômes O.S.A.",71
 "Beaune Notre-Dame","Genève",72
 "Beaune Notre-Dame","Sevilla",72
-"Beaune Notre-Dame","Sion-en-Valais",71.4285714285714
-"Beauvais","Essômes O.S.A.",73.6842105263158
-"Beauvais","Hénin-Liétard Notre-Dame O.S.A.",74.5454545454545
-"Beauvais","Reims",71.830985915493
-"Beauvais","Saint-Omer [1201 to 1300]",78.3333333333333
-"Beauvais","Saint-Quentin",73.2142857142857
-"Beauvais","Senlis",71.6417910447761
-"Beauvais","Soissons",71.9298245614035
-"Beauvais","Thérouanne [1401 to 1500]",72.5806451612903
-"Béziers","Fréjus",90.6976744186046
-"Béziers","Grasse",91.8367346938776
-"Béziers","Lérida",82.6086956521739
+"Beaune Notre-Dame","Sion-en-Valais",71
+"Beauvais","Essômes O.S.A.",73
+"Beauvais","Hénin-Liétard Notre-Dame O.S.A.",74
+"Beauvais","Reims",71
+"Beauvais","Saint-Omer [1201 to 1300]",78
+"Beauvais","Saint-Quentin",73
+"Beauvais","Senlis",71
+"Beauvais","Soissons",71
+"Beauvais","Thérouanne [1401 to 1500]",72
+"Béziers","Fréjus",90
+"Béziers","Grasse",91
+"Béziers","Lérida",82
 "Béziers","Maguelonne",95
 "Béziers","Mende",90
-"Béziers","Narbonne",88.2352941176471
-"Béziers","O.P.",82.9787234042553
-"Béziers","O.T.",85.1063829787234
-"Béziers","Sisteron",70.9677419354839
-"Béziers","Toulouse",85.7142857142857
-"Béziers","Utrecht",76.0869565217391
-"Béziers","Uzès",88.8888888888889
-"Béziers","Valencia",82.6086956521739
-"Bourges","Chalon-sur-Saône",73.015873015873
-"Bourges","Châlons-en-Champagne",75.3424657534247
-"Bourges","Dol",70.1754385964912
-"Bourges","Lisieux",71.2328767123288
-"Bourges","Rennes [1401 to 1500]",73.972602739726
-"Bourges","Rennes [1430]",71.4285714285714
-"Bourges","Saint-Brieuc",73.7704918032787
-"Bourges","Saint-Pierre de La Couture O.S.B.",75.7575757575758
-"Bourges","Sarum",75.3424657534247
-"Bourges","Sens",74.1935483870968
-"Bourges","Soissons",70.1754385964912
-"Bourges","Tours [1401 to 1600]",73.2394366197183
-"Bourges","Tréguier",76.9230769230769
-"Bremen","Köln",76.7857142857143
-"Bremen","Utrecht",75.8620689655172
-"Brugge","O.Camal.",74.5762711864407
-"Brugge","O.Carm.",75.4098360655738
-"Brugge","Roma",91.4285714285714
-"Brugge Sint-Donaaskerk","Bruxelles Sainte-Gudule O.S.A.",70.1492537313433
-"Brugge Sint-Donaaskerk","Douai Saint-Amé",72.8571428571428
-"Brugge Sint-Donaaskerk","Hénin-Liétard Notre-Dame O.S.A.",74.0740740740741
-"Brugge Sint-Donaaskerk","Lille Saint-Pierre",70.5882352941177
-"Brugge Sint-Donaaskerk","Mons Sainte-Waudru O.S.A.",70.4918032786885
-"Brugge Sint-Donaaskerk","Noyon",70.5882352941177
-"Brugge Sint-Donaaskerk","Ronse Sint-Hermes",73.2142857142857
-"Brugge Sint-Donaaskerk","Saint-Omer [1201 to 1300]",76.271186440678
-"Bruxelles Sainte-Gudule O.S.A.","Dol",70.3703703703704
-"Bruxelles Sainte-Gudule O.S.A.","Douai Saint-Amé",70.9677419354839
-"Bruxelles Sainte-Gudule O.S.A.","Hénin-Liétard Notre-Dame O.S.A.",81.8181818181818
-"Bruxelles Sainte-Gudule O.S.A.","Laon",72.4137931034483
-"Bruxelles Sainte-Gudule O.S.A.","Mons Sainte-Waudru O.S.A.",84.7457627118644
-"Bruxelles Sainte-Gudule O.S.A.","Nantes",72.463768115942
-"Bruxelles Sainte-Gudule O.S.A.","Noyon",79.7101449275362
-"Bruxelles Sainte-Gudule O.S.A.","O.Praem.",73.9130434782609
-"Bruxelles Sainte-Gudule O.S.A.","Poitiers",74.6031746031746
-"Bruxelles Sainte-Gudule O.S.A.","Reims",71.0144927536232
-"Bruxelles Sainte-Gudule O.S.A.","Ronse Sint-Hermes",71.4285714285714
-"Bruxelles Sainte-Gudule O.S.A.","Saint-Omer [1201 to 1300]",81.3559322033898
-"Bruxelles Sainte-Gudule O.S.A.","Saint-Omer [1518]",76.8115942028985
-"Bruxelles Sainte-Gudule O.S.A.","Saint-Quentin",74.0740740740741
-"Bruxelles Sainte-Gudule O.S.A.","Senlis",72.7272727272727
-"Bruxelles Sainte-Gudule O.S.A.","Soissons",70.3703703703704
-"Bruxelles Sainte-Gudule O.S.A.","Thérouanne [1401 to 1500]",81.3559322033898
+"Béziers","Narbonne",88
+"Béziers","O.P.",82
+"Béziers","O.T.",85
+"Béziers","Toulouse",85
+"Béziers","Utrecht",76
+"Béziers","Uzès",88
+"Béziers","Valencia",82
+"Bourges","Chalon-sur-Saône",73
+"Bourges","Châlons-en-Champagne",75
+"Bourges","Lisieux",71
+"Bourges","Rennes [1401 to 1500]",73
+"Bourges","Rennes [1430]",71
+"Bourges","Saint-Brieuc",73
+"Bourges","Saint-Pierre de La Couture O.S.B.",75
+"Bourges","Sarum",75
+"Bourges","Sens",74
+"Bourges","Tours [1401 to 1600]",73
+"Bourges","Tréguier",76
+"Bremen","Köln",76
+"Bremen","Utrecht",75
+"Brugge","O.Camal.",74
+"Brugge","O.Carm.",75
+"Brugge","Roma",91
+"Brugge Sint-Donaaskerk","Douai Saint-Amé",72
+"Brugge Sint-Donaaskerk","Hénin-Liétard Notre-Dame O.S.A.",74
+"Brugge Sint-Donaaskerk","Ronse Sint-Hermes",73
+"Brugge Sint-Donaaskerk","Saint-Omer [1201 to 1300]",76
+"Bruxelles Sainte-Gudule O.S.A.","Hénin-Liétard Notre-Dame O.S.A.",81
+"Bruxelles Sainte-Gudule O.S.A.","Laon",72
+"Bruxelles Sainte-Gudule O.S.A.","Mons Sainte-Waudru O.S.A.",84
+"Bruxelles Sainte-Gudule O.S.A.","Nantes",72
+"Bruxelles Sainte-Gudule O.S.A.","Noyon",79
+"Bruxelles Sainte-Gudule O.S.A.","O.Praem.",73
+"Bruxelles Sainte-Gudule O.S.A.","Poitiers",74
+"Bruxelles Sainte-Gudule O.S.A.","Reims",71
+"Bruxelles Sainte-Gudule O.S.A.","Ronse Sint-Hermes",71
+"Bruxelles Sainte-Gudule O.S.A.","Saint-Omer [1201 to 1300]",81
+"Bruxelles Sainte-Gudule O.S.A.","Saint-Omer [1518]",76
+"Bruxelles Sainte-Gudule O.S.A.","Saint-Quentin",74
+"Bruxelles Sainte-Gudule O.S.A.","Senlis",72
+"Bruxelles Sainte-Gudule O.S.A.","Thérouanne [1401 to 1500]",81
 "Bruxelles Sainte-Gudule O.S.A.","Thérouanne [1488]",75
-"Bruxelles Sainte-Gudule O.S.A.","Tours [1501 to 1600]",86.4864864864865
-"Bruxelles Sainte-Gudule O.S.A.","Tréguier",73.3333333333333
-"Bruxelles Sainte-Gudule O.S.A.","Verdun",75.4098360655738
-"Cambrai","Hénin-Liétard Notre-Dame O.S.A.",72.2222222222222
-"Cambrai","Mons Sainte-Waudru O.S.A.",78.6885245901639
-"Cambrai","Thérouanne [1401 to 1500]",72.1311475409836
+"Bruxelles Sainte-Gudule O.S.A.","Tours [1501 to 1600]",86
+"Bruxelles Sainte-Gudule O.S.A.","Tréguier",73
+"Bruxelles Sainte-Gudule O.S.A.","Verdun",75
+"Cambrai","Hénin-Liétard Notre-Dame O.S.A.",72
+"Cambrai","Mons Sainte-Waudru O.S.A.",78
+"Cambrai","Thérouanne [1401 to 1500]",72
 "Cavaillon","Marseille",75
-"Cavaillon","Plasencia",73.1707317073171
-"Chaise-Dieu (La) O.S.B.","Grenoble",70.5882352941177
-"Chaise-Dieu (La) O.S.B.","Tarentaise",73.3333333333333
-"Chalon-sur-Saône","Reims",71.4285714285714
-"Châlons-en-Champagne","Mons Sainte-Waudru O.S.A.",73.4375
-"Châlons-en-Champagne","Rennes [1401 to 1500]",73.6842105263158
-"Châlons-en-Champagne","Rennes [1430]",72.2222222222222
-"Châlons-en-Champagne","Saint-Brieuc",77.0491803278689
-"Châlons-en-Champagne","Saint-Malo",70.4918032786885
-"Châlons-en-Champagne","Saint-Pierre de La Couture O.S.B.",72.8571428571428
-"Châlons-en-Champagne","Sarum",70.2702702702703
-"Châlons-en-Champagne","Sens",79.0322580645161
-"Châlons-en-Champagne","Thérouanne [1401 to 1500]",71.875
-"Châlons-en-Champagne","Tours [1501 to 1600]",72.5
-"Châlons-en-Champagne","Tréguier",73.8461538461539
-"Châlons-en-Champagne","Verdun",76.5625
-"Châlons-en-Champagne","York",72.2222222222222
-"Chartres","Josaphat Notre-Dame O.S.B.",85.4545454545455
-"Chartres","Paris",70.2702702702703
-"Chartres","Saint-Malo",72.1311475409836
-"Chartres","Saint-Pol-de-Léon",71.6216216216216
-"Chartres","Saint-Quentin",71.4285714285714
-"Chartres","Senlis",70.1492537313433
-"Chezal-Benoît O.S.B.","O.Cist.",72.4137931034483
-"Chezal-Benoît O.S.B.","Tarentaise",76.9230769230769
-"Cluny O.S.B.","Compiègne Saint-Corneille O.S.B.",89.7435897435898
-"Cluny O.S.B.","Hasnon",78.7234042553192
-"Cluny O.S.B.","Saint-Denis O.S.B.",79.1044776119403
-"Cluny O.S.B.","Saint-Omer Saint-Bertin O.S.B.",75.3623188405797
-"Cluny O.S.B.","Saint-Riquier",81.6666666666667
-"Cluny O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",81.6326530612245
-"Cluny O.S.B.","Sens Saint-Pierre-le-Vif O.S.B.",70.3703703703704
-"Cluny O.S.B.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",71.1538461538462
+"Cavaillon","Plasencia",73
+"Chaise-Dieu (La) O.S.B.","Tarentaise",73
+"Chalon-sur-Saône","Reims",71
+"Châlons-en-Champagne","Mons Sainte-Waudru O.S.A.",73
+"Châlons-en-Champagne","Rennes [1401 to 1500]",73
+"Châlons-en-Champagne","Rennes [1430]",72
+"Châlons-en-Champagne","Saint-Brieuc",77
+"Châlons-en-Champagne","Saint-Pierre de La Couture O.S.B.",72
+"Châlons-en-Champagne","Sens",79
+"Châlons-en-Champagne","Thérouanne [1401 to 1500]",71
+"Châlons-en-Champagne","Tours [1501 to 1600]",72
+"Châlons-en-Champagne","Tréguier",73
+"Châlons-en-Champagne","Verdun",76
+"Châlons-en-Champagne","York",72
+"Chartres","Josaphat Notre-Dame O.S.B.",85
+"Chartres","Saint-Malo",72
+"Chartres","Saint-Pol-de-Léon",71
+"Chartres","Saint-Quentin",71
+"Chezal-Benoît O.S.B.","O.Cist.",72
+"Chezal-Benoît O.S.B.","Tarentaise",76
+"Cluny O.S.B.","Compiègne Saint-Corneille O.S.B.",89
+"Cluny O.S.B.","Hasnon",78
+"Cluny O.S.B.","Saint-Denis O.S.B.",79
+"Cluny O.S.B.","Saint-Omer Saint-Bertin O.S.B.",75
+"Cluny O.S.B.","Saint-Riquier",81
+"Cluny O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",81
+"Cluny O.S.B.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",71
 "Compiègne Saint-Corneille O.S.B.","Paris Saint-Germain des Prés O.S.B.",75
-"Compiègne Saint-Corneille O.S.B.","Saint-Denis O.S.B.",78.3783783783784
-"Compiègne Saint-Corneille O.S.B.","Saint-Quentin-en-l'Isle O.S.B.",72.2222222222222
-"Compiègne Saint-Corneille O.S.B.","Saint-Riquier",80.4878048780488
-"Compiègne Saint-Corneille O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",72.2222222222222
-"Compiègne Saint-Corneille O.S.B.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",70.9677419354839
-"Coutances","Dol",70.9090909090909
-"Coutances","Évreux",78.0821917808219
-"Coutances","Lisieux",81.0810810810811
-"Coutances","Rouen",87.6712328767123
-"Coutances","Saint-Lô Sainte-Croix O.S.A.",77.9411764705882
-"Coutances","Sarum",83.3333333333333
-"Coutances","Sens",81.25
-"Coutances","Tréguier",74.6031746031746
-"Coutances","York",85.9154929577465
-"Dax","Elne",72.5490196078431
-"Dax","Sevilla",77.5510204081633
-"Dax","Toul",70.3703703703704
-"Dol","Évreux",70.1754385964912
-"Dol","Lisieux",77.1929824561403
-"Dol","Nantes",73.6842105263158
-"Dol","Rennes [1401 to 1500]",73.6842105263158
-"Dol","Rennes [1430]",71.9298245614035
-"Dol","Saint-Brieuc",78.9473684210526
-"Dol","Saint-Pierre de La Couture O.S.B.",77.1929824561403
-"Dol","Sarum",85.9649122807018
+"Compiègne Saint-Corneille O.S.B.","Saint-Denis O.S.B.",78
+"Compiègne Saint-Corneille O.S.B.","Saint-Quentin-en-l'Isle O.S.B.",72
+"Compiègne Saint-Corneille O.S.B.","Saint-Riquier",80
+"Compiègne Saint-Corneille O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",72
+"Coutances","Évreux",78
+"Coutances","Lisieux",81
+"Coutances","Rouen",87
+"Coutances","Saint-Lô Sainte-Croix O.S.A.",77
+"Coutances","Sarum",83
+"Coutances","Sens",81
+"Coutances","Tréguier",74
+"Coutances","York",85
+"Dax","Elne",72
+"Dax","Sevilla",77
+"Dol","Lisieux",77
+"Dol","Nantes",73
+"Dol","Rennes [1401 to 1500]",73
+"Dol","Rennes [1430]",71
+"Dol","Saint-Brieuc",78
+"Dol","Saint-Pierre de La Couture O.S.B.",77
+"Dol","Sarum",85
 "Dol","Sens",72
-"Dol","Tréguier",85.9649122807018
-"Dol","York",73.2142857142857
-"Douai Saint-Amé","Hénin-Liétard Notre-Dame O.S.A.",78.1818181818182
-"Douai Saint-Amé","Lille Saint-Pierre",73.4375
-"Douai Saint-Amé","Mons Sainte-Waudru O.S.A.",81.8181818181818
-"Douai Saint-Amé","Noyon",74.6031746031746
+"Dol","Tréguier",85
+"Dol","York",73
+"Douai Saint-Amé","Hénin-Liétard Notre-Dame O.S.A.",78
+"Douai Saint-Amé","Lille Saint-Pierre",73
+"Douai Saint-Amé","Mons Sainte-Waudru O.S.A.",81
+"Douai Saint-Amé","Noyon",74
 "Douai Saint-Amé","Saint-Omer [1201 to 1300]",80
-"Douai Saint-Amé","Saint-Omer [1518]",71.875
-"Douai Saint-Amé","Saint-Quentin",72.3404255319149
-"Douai Saint-Amé","Senlis",71.6666666666667
-"Douai Saint-Amé","Soissons",70.8333333333333
-"Douai Saint-Amé","Thérouanne [1401 to 1500]",85.4545454545455
-"Douai Saint-Amé","Thérouanne [1488]",79.4117647058823
-"Douai Saint-Amé","Tours [1501 to 1600]",81.8181818181818
-"Douai Saint-Amé","Watten O.S.A.",72.3404255319149
-"Durham Saint Cuthbert O.S.B.","Tours [1501 to 1600]",87.5
-"Elne","Gerona",71.1538461538462
-"Elne","Marseille",70.4545454545455
-"Elne","Valence Saint-Ruf",76.9230769230769
-"Embrun","Fréjus",77.7777777777778
+"Douai Saint-Amé","Saint-Omer [1518]",71
+"Douai Saint-Amé","Saint-Quentin",72
+"Douai Saint-Amé","Senlis",71
+"Douai Saint-Amé","Thérouanne [1401 to 1500]",85
+"Douai Saint-Amé","Thérouanne [1488]",79
+"Douai Saint-Amé","Tours [1501 to 1600]",81
+"Douai Saint-Amé","Watten O.S.A.",72
+"Durham Saint Cuthbert O.S.B.","Tours [1501 to 1600]",87
+"Elne","Gerona",71
+"Elne","Valence Saint-Ruf",76
+"Embrun","Fréjus",77
 "Embrun","Grasse",76
-"Embrun","Lérida",72.0930232558139
-"Embrun","Maguelonne",72.5
-"Embrun","Valencia",80.9523809523809
-"Évreux","Lisieux",85.3333333333333
-"Évreux","Mons Sainte-Waudru O.S.A.",71.875
-"Évreux","Rouen",75.6756756756757
-"Évreux","Saint-Brieuc",73.7704918032787
-"Évreux","Saint-Lô Sainte-Croix O.S.A.",71.6417910447761
-"Évreux","Saint-Omer [1201 to 1300]",71.6666666666667
-"Évreux","Sarum",81.0810810810811
-"Évreux","Sens",77.7777777777778
-"Évreux","Thérouanne [1401 to 1500]",82.8125
-"Évreux","Tours [1501 to 1600]",72.5
-"Évreux","Tréguier",78.4615384615385
-"Évreux","York",83.5616438356164
+"Embrun","Lérida",72
+"Embrun","Maguelonne",72
+"Embrun","Valencia",80
+"Évreux","Lisieux",85
+"Évreux","Mons Sainte-Waudru O.S.A.",71
+"Évreux","Rouen",75
+"Évreux","Saint-Brieuc",73
+"Évreux","Saint-Lô Sainte-Croix O.S.A.",71
+"Évreux","Saint-Omer [1201 to 1300]",71
+"Évreux","Sarum",81
+"Évreux","Sens",77
+"Évreux","Thérouanne [1401 to 1500]",82
+"Évreux","Tours [1501 to 1600]",72
+"Évreux","Tréguier",78
+"Évreux","York",83
 "Fréjus","Grasse",100
-"Fréjus","Lérida",76.1904761904762
-"Fréjus","Maguelonne",94.2857142857143
-"Fréjus","Mende",86.046511627907
+"Fréjus","Lérida",76
+"Fréjus","Maguelonne",94
+"Fréjus","Mende",86
 "Fréjus","Narbonne",80
-"Fréjus","O.P.",76.7441860465116
-"Fréjus","O.T.",76.7441860465116
-"Fréjus","Sisteron",82.7586206896552
-"Fréjus","Toulouse",77.7777777777778
-"Fréjus","Uzès",93.5483870967742
-"Fréjus","Valencia",85.3658536585366
-"Grasse","Lérida",71.6981132075472
+"Fréjus","O.P.",76
+"Fréjus","O.T.",76
+"Fréjus","Sisteron",82
+"Fréjus","Toulouse",77
+"Fréjus","Uzès",93
+"Fréjus","Valencia",85
+"Grasse","Lérida",71
 "Grasse","Maguelonne",96
-"Grasse","Mende",85.4838709677419
-"Grasse","Narbonne",82.1428571428571
-"Grasse","Saint-Paul-Trois-Châteaux",73.5294117647059
-"Grasse","Sisteron",83.8709677419355
-"Grasse","Toulouse",70.4225352112676
-"Grasse","Uzès",94.5945945945946
-"Grasse","Valencia",78.8461538461538
-"Grenoble","Oulx",76.4705882352941
-"Grenoble","Valence",70.4545454545455
+"Grasse","Mende",85
+"Grasse","Narbonne",82
+"Grasse","Saint-Paul-Trois-Châteaux",73
+"Grasse","Sisteron",83
+"Grasse","Uzès",94
+"Grasse","Valencia",78
+"Grenoble","Oulx",76
 "Grenoble","Viviers",75
-"Hasnon","Saint-Omer Saint-Bertin O.S.B.",77.5510204081633
-"Hasnon","Saint-Quentin-en-l'Isle O.S.B.",89.7435897435898
-"Hasnon","Saint-Riquier",72.9166666666667
-"Hasnon","Saint-Thierry Saint-Thierry O.S.B.",92.5
-"Hasnon","Villiers-aux-Nonnains Notre-Dame O.S.B.f",71.7948717948718
+"Hasnon","Saint-Omer Saint-Bertin O.S.B.",77
+"Hasnon","Saint-Quentin-en-l'Isle O.S.B.",89
+"Hasnon","Saint-Riquier",72
+"Hasnon","Saint-Thierry Saint-Thierry O.S.B.",92
+"Hasnon","Villiers-aux-Nonnains Notre-Dame O.S.B.f",71
 "Hénin-Liétard Notre-Dame O.S.A.","Laon",78
-"Hénin-Liétard Notre-Dame O.S.A.","Lille Saint-Pierre",75.9259259259259
-"Hénin-Liétard Notre-Dame O.S.A.","Metz",74.0740740740741
+"Hénin-Liétard Notre-Dame O.S.A.","Lille Saint-Pierre",75
+"Hénin-Liétard Notre-Dame O.S.A.","Metz",74
 "Hénin-Liétard Notre-Dame O.S.A.","Mons Sainte-Waudru O.S.A.",94
-"Hénin-Liétard Notre-Dame O.S.A.","Noyon",90.9090909090909
-"Hénin-Liétard Notre-Dame O.S.A.","O.Praem.",75.9259259259259
-"Hénin-Liétard Notre-Dame O.S.A.","Paris Saint-Victor O.S.A.",75.5555555555556
-"Hénin-Liétard Notre-Dame O.S.A.","Reims",70.9090909090909
-"Hénin-Liétard Notre-Dame O.S.A.","Ronse Sint-Hermes",70.3703703703704
-"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1201 to 1300]",88.8888888888889
-"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1518]",81.8181818181818
-"Hénin-Liétard Notre-Dame O.S.A.","Saint-Quentin",86.6666666666667
+"Hénin-Liétard Notre-Dame O.S.A.","Noyon",90
+"Hénin-Liétard Notre-Dame O.S.A.","O.Praem.",75
+"Hénin-Liétard Notre-Dame O.S.A.","Paris Saint-Victor O.S.A.",75
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1201 to 1300]",88
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1518]",81
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Quentin",86
 "Hénin-Liétard Notre-Dame O.S.A.","Senlis",80
-"Hénin-Liétard Notre-Dame O.S.A.","Soissons",75.5555555555556
+"Hénin-Liétard Notre-Dame O.S.A.","Soissons",75
 "Hénin-Liétard Notre-Dame O.S.A.","Thérouanne [1401 to 1500]",88
-"Hénin-Liétard Notre-Dame O.S.A.","Thérouanne [1488]",87.2727272727273
+"Hénin-Liétard Notre-Dame O.S.A.","Thérouanne [1488]",87
 "Hénin-Liétard Notre-Dame O.S.A.","Tours [1501 to 1600]",75
 "Hénin-Liétard Notre-Dame O.S.A.","Watten O.S.A.",80
-"Hortulus animae","Strasbourg",73.4375
-"Josaphat Notre-Dame O.S.B.","Saint-Malo",72.7272727272727
-"Köln","Mainz",76.6666666666667
-"Köln","Utrecht",77.7777777777778
-"Konstanz","Regensburg",73.3333333333333
-"Konstanz","Würtzburg",71.4285714285714
-"La Croix-Saint-Leufroy O.S.B.","Rouen Saint-Ouen O.S.B.",74.0740740740741
-"La Riche Saint-Côme O.S.A.","Loches",82.4561403508772
-"La Riche Saint-Côme O.S.A.","Tours Saint-Martin",83.3333333333333
-"Langres","O.Hosp.",70.7692307692308
-"Langres","Toul",72.6027397260274
-"Langres","Verdun",70.3125
-"Laon","Le Mans",78.6885245901639
-"Laon","Mons Sainte-Waudru O.S.A.",71.6666666666667
-"Laon","Nantes",72.1311475409836
-"Laon","Noyon",74.5762711864407
-"Laon","Reims",72.1311475409836
-"Laon","Saint-Omer [1201 to 1300]",78.8461538461538
-"Laon","Saint-Omer [1518]",71.1864406779661
+"Hortulus animae","Strasbourg",73
+"Josaphat Notre-Dame O.S.B.","Saint-Malo",72
+"Köln","Mainz",76
+"Köln","Utrecht",77
+"Konstanz","Regensburg",73
+"Konstanz","Würtzburg",71
+"La Croix-Saint-Leufroy O.S.B.","Rouen Saint-Ouen O.S.B.",74
+"La Riche Saint-Côme O.S.A.","Loches",82
+"La Riche Saint-Côme O.S.A.","Tours Saint-Martin",83
+"Langres","Toul",72
+"Laon","Le Mans",78
+"Laon","Mons Sainte-Waudru O.S.A.",71
+"Laon","Nantes",72
+"Laon","Noyon",74
+"Laon","Reims",72
+"Laon","Saint-Omer [1201 to 1300]",78
+"Laon","Saint-Omer [1518]",71
 "Laon","Saint-Quentin",75
-"Laon","Senlis",74.5762711864407
-"Laon","Soissons",81.1320754716981
-"Laon","Thérouanne [1401 to 1500]",71.6666666666667
-"Laon","Tours [1401 to 1600]",72.1311475409836
-"Laon","Tours Saint-Julien O.S.B.",71.6666666666667
-"Le Mans","Poitiers",70.1492537313433
-"Le Mans","Saint-Pierre de La Couture O.S.B.",72.0588235294118
-"Le Mans","Saint-Quentin",71.4285714285714
-"Le Mans","Senlis",71.6417910447761
-"Le Mans","Soissons",80.7017543859649
-"Le Mans","Tours [1401 to 1600]",72.6027397260274
-"Le Mans","Tours [1501 to 1600]",72.5
-"Le Mans","Tours Saint-Julien O.S.B.",75.7575757575758
-"Le Mans","Tréguier",70.7692307692308
-"Le Mans","Verdun",71.875
-"Lérida","Maguelonne",81.5789473684211
-"Lérida","Mende",76.0869565217391
-"Lérida","O.P.",73.5849056603774
-"Lérida","O.T.",75.4716981132076
-"Lérida","Toulouse",71.6981132075472
-"Lérida","Uzès",75.6756756756757
+"Laon","Senlis",74
+"Laon","Soissons",81
+"Laon","Thérouanne [1401 to 1500]",71
+"Laon","Tours [1401 to 1600]",72
+"Laon","Tours Saint-Julien O.S.B.",71
+"Le Mans","Saint-Pierre de La Couture O.S.B.",72
+"Le Mans","Saint-Quentin",71
+"Le Mans","Senlis",71
+"Le Mans","Soissons",80
+"Le Mans","Tours [1401 to 1600]",72
+"Le Mans","Tours [1501 to 1600]",72
+"Le Mans","Tours Saint-Julien O.S.B.",75
+"Le Mans","Verdun",71
+"Lérida","Maguelonne",81
+"Lérida","Mende",76
+"Lérida","O.P.",73
+"Lérida","O.T.",75
+"Lérida","Toulouse",71
+"Lérida","Uzès",75
 "Lérida","Valencia",75
-"Lille Saint-Pierre","Mons Sainte-Waudru O.S.A.",83.6065573770492
-"Lille Saint-Pierre","Noyon",71.0144927536232
-"Lille Saint-Pierre","Saint-Omer [1201 to 1300]",76.271186440678
-"Lille Saint-Pierre","Saint-Omer [1518]",72.463768115942
-"Lille Saint-Pierre","Saint-Quentin",71.6981132075472
-"Lille Saint-Pierre","Thérouanne [1401 to 1500]",81.9672131147541
-"Lille Saint-Pierre","Tours [1501 to 1600]",76.9230769230769
-"Limoges","Poitiers",72.3076923076923
-"Limoges","Verdun",75.8064516129032
-"Lisieux","Rennes [1401 to 1500]",70.1298701298701
-"Lisieux","Rouen",78.2051282051282
-"Lisieux","Saint-Lô Sainte-Croix O.S.A.",82.3529411764706
-"Lisieux","Saint-Pierre de La Couture O.S.B.",70.4225352112676
-"Lisieux","Sarum",81.0810810810811
-"Lisieux","Sens",89.0625
-"Lisieux","Thérouanne [1401 to 1500]",73.4375
+"Lille Saint-Pierre","Mons Sainte-Waudru O.S.A.",83
+"Lille Saint-Pierre","Noyon",71
+"Lille Saint-Pierre","Saint-Omer [1201 to 1300]",76
+"Lille Saint-Pierre","Saint-Omer [1518]",72
+"Lille Saint-Pierre","Saint-Quentin",71
+"Lille Saint-Pierre","Thérouanne [1401 to 1500]",81
+"Lille Saint-Pierre","Tours [1501 to 1600]",76
+"Limoges","Poitiers",72
+"Limoges","Verdun",75
+"Lisieux","Rouen",78
+"Lisieux","Saint-Lô Sainte-Croix O.S.A.",82
+"Lisieux","Sarum",81
+"Lisieux","Sens",89
+"Lisieux","Thérouanne [1401 to 1500]",73
 "Lisieux","Tours [1501 to 1600]",75
-"Lisieux","Tréguier",78.4615384615385
-"Lisieux","Verdun",71.875
-"Lisieux","York",86.3013698630137
-"Loches","Reims",78.1818181818182
-"Loches","Tours [1401 to 1600]",76.3636363636364
-"Loches","Tours Saint-Martin",73.6842105263158
-"Lund","Tours [1501 to 1600]",70.9677419354839
+"Lisieux","Tréguier",78
+"Lisieux","Verdun",71
+"Lisieux","York",86
+"Loches","Reims",78
+"Loches","Tours [1401 to 1600]",76
+"Loches","Tours Saint-Martin",73
 "Mâcon","Tours [1501 to 1600]",85
-"Mâcon","Verdun",75.3846153846154
-"Maguelonne","Mainz",72.0930232558139
-"Maguelonne","Mende",91.9354838709677
-"Maguelonne","Narbonne",85.3658536585366
-"Maguelonne","O.P.",81.25
-"Maguelonne","O.T.",81.25
-"Maguelonne","Sisteron",87.5
+"Mâcon","Verdun",75
+"Maguelonne","Mainz",72
+"Maguelonne","Mende",91
+"Maguelonne","Narbonne",85
+"Maguelonne","O.P.",81
+"Maguelonne","O.T.",81
+"Maguelonne","Sisteron",87
 "Maguelonne","Toulouse",86
-"Maguelonne","Utrecht",75.5555555555556
-"Maguelonne","Uzès",96.4285714285714
-"Maguelonne","Valencia",89.4736842105263
-"Mainz","Regensburg",76.6666666666667
-"Mainz","Würtzburg",76.6666666666667
-"Marseille","Saint-Paul-Trois-Châteaux",73.3333333333333
-"Marseille","Valence Saint-Ruf",72.972972972973
-"Meaux","Tours [1501 to 1600]",71.0526315789474
-"Mende","Narbonne",82.3529411764706
-"Mende","O.P.",71.6666666666667
-"Mende","O.T.",73.3333333333333
-"Mende","Toulouse",77.4193548387097
-"Mende","Uzès",83.3333333333333
-"Mende","Valencia",76.0869565217391
-"Metz","Thérouanne [1401 to 1500]",70.9677419354839
-"Mons Sainte-Waudru O.S.A.","Nantes",73.4375
-"Mons Sainte-Waudru O.S.A.","Noyon",86.6666666666667
-"Mons Sainte-Waudru O.S.A.","O.Carm.",70.9677419354839
-"Mons Sainte-Waudru O.S.A.","O.Praem.",77.7777777777778
-"Mons Sainte-Waudru O.S.A.","Reims",70.9677419354839
-"Mons Sainte-Waudru O.S.A.","Saint-Omer [1201 to 1300]",88.6792452830189
+"Maguelonne","Utrecht",75
+"Maguelonne","Uzès",96
+"Maguelonne","Valencia",89
+"Mainz","Regensburg",76
+"Mainz","Würtzburg",76
+"Marseille","Saint-Paul-Trois-Châteaux",73
+"Marseille","Valence Saint-Ruf",72
+"Meaux","Tours [1501 to 1600]",71
+"Mende","Narbonne",82
+"Mende","O.P.",71
+"Mende","O.T.",73
+"Mende","Toulouse",77
+"Mende","Uzès",83
+"Mende","Valencia",76
+"Mons Sainte-Waudru O.S.A.","Nantes",73
+"Mons Sainte-Waudru O.S.A.","Noyon",86
+"Mons Sainte-Waudru O.S.A.","O.Praem.",77
+"Mons Sainte-Waudru O.S.A.","Saint-Omer [1201 to 1300]",88
 "Mons Sainte-Waudru O.S.A.","Saint-Omer [1518]",85
-"Mons Sainte-Waudru O.S.A.","Saint-Quentin",78.1818181818182
-"Mons Sainte-Waudru O.S.A.","Senlis",78.3333333333333
-"Mons Sainte-Waudru O.S.A.","Thérouanne [1401 to 1500]",88.8888888888889
-"Mons Sainte-Waudru O.S.A.","Thérouanne [1488]",77.4193548387097
-"Mons Sainte-Waudru O.S.A.","Tournai",72.1311475409836
-"Mons Sainte-Waudru O.S.A.","Tours [1501 to 1600]",82.051282051282
-"Mouzon Notre-Dame O.S.B.","Tarentaise",77.7777777777778
-"Nantes","Poitiers",85.0746268656716
-"Nantes","Rennes [1401 to 1500]",70.6666666666667
-"Nantes","Rennes [1430]",71.830985915493
-"Nantes","Saint-Brieuc",73.7704918032787
-"Nantes","Sarum",74.3243243243243
-"Nantes","Soissons",75.4385964912281
-"Nantes","Thérouanne [1401 to 1500]",73.4375
+"Mons Sainte-Waudru O.S.A.","Saint-Quentin",78
+"Mons Sainte-Waudru O.S.A.","Senlis",78
+"Mons Sainte-Waudru O.S.A.","Thérouanne [1401 to 1500]",88
+"Mons Sainte-Waudru O.S.A.","Thérouanne [1488]",77
+"Mons Sainte-Waudru O.S.A.","Tournai",72
+"Mons Sainte-Waudru O.S.A.","Tours [1501 to 1600]",82
+"Mouzon Notre-Dame O.S.B.","Tarentaise",77
+"Nantes","Poitiers",85
+"Nantes","Rennes [1430]",71
+"Nantes","Saint-Brieuc",73
+"Nantes","Sarum",74
+"Nantes","Soissons",75
+"Nantes","Thérouanne [1401 to 1500]",73
 "Nantes","Tours [1501 to 1600]",85
-"Nantes","Tours Saint-Julien O.S.B.",74.2424242424242
+"Nantes","Tours Saint-Julien O.S.B.",74
 "Nantes","Tréguier",80
-"Nantes","Verdun",76.5625
-"Narbonne","O.P.",72.2222222222222
-"Narbonne","O.T.",74.0740740740741
-"Narbonne","Toulouse",78.5714285714286
-"Narbonne","Uzès",75.6756756756757
-"Nevers","Tréguier",72.8813559322034
-"Nevers","Troyes [1470 to 1507]",74.6031746031746
+"Nantes","Verdun",76
+"Narbonne","O.P.",72
+"Narbonne","O.T.",74
+"Narbonne","Toulouse",78
+"Narbonne","Uzès",75
+"Nevers","Tréguier",72
+"Nevers","Troyes [1470 to 1507]",74
 "Noyon","O.Praem.",75
-"Noyon","Reims",72.8571428571428
-"Noyon","Ronse Sint-Hermes",73.2142857142857
-"Noyon","Saint-Omer [1201 to 1300]",91.6666666666667
-"Noyon","Saint-Omer [1518]",81.4285714285714
-"Noyon","Saint-Quentin",85.1851851851852
-"Noyon","Senlis",80.5970149253731
-"Noyon","Soissons",76.3636363636364
+"Noyon","Reims",72
+"Noyon","Ronse Sint-Hermes",73
+"Noyon","Saint-Omer [1201 to 1300]",91
+"Noyon","Saint-Omer [1518]",81
+"Noyon","Saint-Quentin",85
+"Noyon","Senlis",80
+"Noyon","Soissons",76
 "Noyon","Thérouanne [1401 to 1500]",85
-"Noyon","Thérouanne [1488]",91.304347826087
-"Noyon","Tours [1501 to 1600]",76.3157894736842
-"O.Carm.","O.Hosp.",85.7142857142857
-"O.Carm.","Sevilla",82.7586206896552
-"O.Carm.","Toul",70.8333333333333
-"O.Carm.","Tours [1501 to 1600]",84.2105263157895
-"O.Carm.","Verdun",72.5806451612903
+"Noyon","Thérouanne [1488]",91
+"Noyon","Tours [1501 to 1600]",76
+"O.Carm.","O.Hosp.",85
+"O.Carm.","Sevilla",82
+"O.Carm.","Tours [1501 to 1600]",84
+"O.Carm.","Verdun",72
 "O.Cist.","Saint-Antoine des Champs O.Cist.",80
-"O.Cist.","Tours [1501 to 1600]",76.3157894736842
-"O.Cist.","Tours Saint-Julien O.S.B.",71.6666666666667
+"O.Cist.","Tours [1501 to 1600]",76
+"O.Cist.","Tours Saint-Julien O.S.B.",71
 "O.Cist.","Verdun",75
-"O.Cist.","Villeneuve-lès-Avignon Saint-André O.S.B.",75.4716981132076
-"O.Hosp.","Sevilla",72.4137931034483
-"O.Hosp.","Toul",80.5970149253731
+"O.Cist.","Villeneuve-lès-Avignon Saint-André O.S.B.",75
+"O.Hosp.","Sevilla",72
+"O.Hosp.","Toul",80
 "O.Hosp.","Tours [1501 to 1600]",85
-"O.Hosp.","Verdun",72.7272727272727
-"O.P.","O.T.",95.7746478873239
-"O.P.","Toulouse",82.6086956521739
-"O.P.","Tours [1501 to 1600]",74.3589743589744
-"O.P.","Uzès",75.6756756756757
-"O.P.","Valencia",78.8461538461538
-"O.Praem.","Saint-Omer [1201 to 1300]",74.5762711864407
-"O.Praem.","Thérouanne [1401 to 1500]",73.015873015873
-"O.T.","Toulouse",85.5072463768116
-"O.T.","Tours [1501 to 1600]",71.7948717948718
-"O.T.","Utrecht",70.7692307692308
-"O.T.","Uzès",75.6756756756757
-"O.T.","Valencia",78.8461538461538
-"Orléans","Saint-Brieuc",72.1311475409836
-"Orléans","Saint-Malo",75.4098360655738
-"Orléans","Soissons",75.4385964912281
-"Orléans","Tréguier",76.9230769230769
-"Orléans","Troyes [1470 to 1507]",75.3623188405797
-"Oulx","Valence Saint-Ruf",72.5
+"O.Hosp.","Verdun",72
+"O.P.","O.T.",95
+"O.P.","Toulouse",82
+"O.P.","Tours [1501 to 1600]",74
+"O.P.","Uzès",75
+"O.P.","Valencia",78
+"O.Praem.","Saint-Omer [1201 to 1300]",74
+"O.Praem.","Thérouanne [1401 to 1500]",73
+"O.T.","Toulouse",85
+"O.T.","Tours [1501 to 1600]",71
+"O.T.","Uzès",75
+"O.T.","Valencia",78
+"Orléans","Saint-Brieuc",72
+"Orléans","Saint-Malo",75
+"Orléans","Soissons",75
+"Orléans","Tréguier",76
+"Orléans","Troyes [1470 to 1507]",75
+"Oulx","Valence Saint-Ruf",72
 "Paris","Saint-Pol-de-Léon",96
-"Paris Saint-Germain des Prés O.S.B.","Saint-Quentin-en-l'Isle O.S.B.",70.5882352941177
-"Paris Saint-Victor O.S.A.","Paris Sainte-Geneviève O.S.A.",83.9285714285714
-"Paris Saint-Victor O.S.A.","Senlis",70.9090909090909
-"Poitiers","Rennes [1401 to 1500]",70.1492537313433
-"Poitiers","Saintes",77.6119402985075
-"Poitiers","Sarum",71.2121212121212
-"Poitiers","Soissons",74.0740740740741
-"Poitiers","Thérouanne [1401 to 1500]",70.4918032786885
-"Poitiers","Tours [1501 to 1600]",79.4871794871795
-"Poitiers","Tours Saint-Julien O.S.B.",72.3076923076923
-"Poitiers","Tréguier",75.8064516129032
-"Poitiers","Verdun",73.7704918032787
-"Regensburg","Würtzburg",76.8115942028985
-"Reims","Saint-Malo",74.5762711864407
+"Paris Saint-Victor O.S.A.","Paris Sainte-Geneviève O.S.A.",83
+"Poitiers","Saintes",77
+"Poitiers","Sarum",71
+"Poitiers","Soissons",74
+"Poitiers","Tours [1501 to 1600]",79
+"Poitiers","Tours Saint-Julien O.S.B.",72
+"Poitiers","Tréguier",75
+"Poitiers","Verdun",73
+"Regensburg","Würtzburg",76
+"Reims","Saint-Malo",74
 "Reims","Saint-Omer [1201 to 1300]",75
-"Reims","Saint-Quentin",70.3703703703704
-"Reims","Senlis",71.6417910447761
-"Reims","Soissons",78.1818181818182
-"Reims","Tours [1401 to 1600]",81.9444444444444
-"Reims","Tours Saint-Julien O.S.B.",72.7272727272727
-"Reims","Tours Saint-Martin",74.1935483870968
-"Reims","Tréguier",71.4285714285714
-"Rennes [1401 to 1500]","Rennes [1430]",90.4109589041096
-"Rennes [1401 to 1500]","Saint-Brieuc",80.327868852459
-"Rennes [1401 to 1500]","Saint-Malo",70.4918032786885
+"Reims","Senlis",71
+"Reims","Soissons",78
+"Reims","Tours [1401 to 1600]",81
+"Reims","Tours Saint-Julien O.S.B.",72
+"Reims","Tours Saint-Martin",74
+"Reims","Tréguier",71
+"Rennes [1401 to 1500]","Rennes [1430]",90
+"Rennes [1401 to 1500]","Saint-Brieuc",80
 "Rennes [1401 to 1500]","Saint-Pierre de La Couture O.S.B.",80
 "Rennes [1401 to 1500]","Tréguier",80
-"Rennes [1430]","Saint-Brieuc",78.6885245901639
-"Rennes [1430]","Saint-Malo",73.7704918032787
-"Rennes [1430]","Tréguier",78.4615384615385
-"Rennes Notre-Dame-en-Saint-Melaine","Saumur Saint-Florent O.S.B.",71.9298245614035
-"Rennes Notre-Dame-en-Saint-Melaine","Tours Saint-Julien O.S.B.",74.0740740740741
-"Romans-sur-Isère Saint-Barnard","Saint-Paul-Trois-Châteaux",76.4705882352941
-"Romans-sur-Isère Saint-Barnard","Vienne",72.5490196078431
-"Ronse Sint-Hermes","Saint-Omer [1201 to 1300]",70.9090909090909
-"Ronse Sint-Hermes","Thérouanne [1488]",73.2142857142857
-"Ronse Sint-Hermes","Tournai",85.7142857142857
-"Rouen","Saint-Lô Sainte-Croix O.S.A.",74.6268656716418
-"Rouen","Sarum",78.3783783783784
-"Rouen","Sens",77.7777777777778
+"Rennes [1430]","Saint-Brieuc",78
+"Rennes [1430]","Saint-Malo",73
+"Rennes [1430]","Tréguier",78
+"Rennes Notre-Dame-en-Saint-Melaine","Saumur Saint-Florent O.S.B.",71
+"Rennes Notre-Dame-en-Saint-Melaine","Tours Saint-Julien O.S.B.",74
+"Romans-sur-Isère Saint-Barnard","Saint-Paul-Trois-Châteaux",76
+"Romans-sur-Isère Saint-Barnard","Vienne",72
+"Ronse Sint-Hermes","Thérouanne [1488]",73
+"Ronse Sint-Hermes","Tournai",85
+"Rouen","Saint-Lô Sainte-Croix O.S.A.",74
+"Rouen","Sarum",78
+"Rouen","Sens",77
 "Rouen","Tours [1501 to 1600]",75
-"Rouen","Tréguier",75.3846153846154
-"Rouen","York",81.9444444444444
-"Saint-Antoine des Champs O.Cist.","Tours [1501 to 1600]",77.5
-"Saint-Antoine des Champs O.Cist.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",77.4193548387097
-"Saint-Brieuc","Saint-Malo",83.6065573770492
-"Saint-Brieuc","Saint-Pierre de La Couture O.S.B.",78.9473684210526
-"Saint-Brieuc","Sarum",73.7704918032787
-"Saint-Brieuc","Soissons",73.6842105263158
-"Saint-Brieuc","Tréguier",80.327868852459
-"Saint-Brieuc","Troyes [1536]",70.1754385964912
-"Saint-Denis O.S.B.","Saint-Riquier",73.2142857142857
+"Rouen","Tréguier",75
+"Rouen","York",81
+"Saint-Antoine des Champs O.Cist.","Tours [1501 to 1600]",77
+"Saint-Antoine des Champs O.Cist.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",77
+"Saint-Brieuc","Saint-Malo",83
+"Saint-Brieuc","Saint-Pierre de La Couture O.S.B.",78
+"Saint-Brieuc","Sarum",73
+"Saint-Brieuc","Soissons",73
+"Saint-Brieuc","Tréguier",80
+"Saint-Denis O.S.B.","Saint-Riquier",73
 "Saint-Denis O.S.B.","Tours [1501 to 1600]",75
-"Saint-Lô Sainte-Croix O.S.A.","Sarum",71.2121212121212
-"Saint-Lô Sainte-Croix O.S.A.","Sens",92.1875
+"Saint-Lô Sainte-Croix O.S.A.","Sarum",71
+"Saint-Lô Sainte-Croix O.S.A.","Sens",92
 "Saint-Lô Sainte-Croix O.S.A.","Tours [1501 to 1600]",75
-"Saint-Lô Sainte-Croix O.S.A.","Verdun",70.6896551724138
-"Saint-Lô Sainte-Croix O.S.A.","York",83.5820895522388
-"Saint-Magloire","Tarentaise",76.9230769230769
-"Saint-Malo","Saint-Pierre de La Couture O.S.B.",70.1754385964912
-"Saint-Malo","Soissons",73.6842105263158
-"Saint-Malo","Tréguier",70.4918032786885
+"Saint-Lô Sainte-Croix O.S.A.","York",83
+"Saint-Magloire","Tarentaise",76
+"Saint-Malo","Soissons",73
 "Saint-Omer [1201 to 1300]","Saint-Omer [1518]",90
-"Saint-Omer [1201 to 1300]","Saint-Quentin",89.3617021276596
-"Saint-Omer [1201 to 1300]","Senlis",84.7457627118644
-"Saint-Omer [1201 to 1300]","Soissons",81.25
-"Saint-Omer [1201 to 1300]","Thérouanne [1401 to 1500]",92.4528301886792
-"Saint-Omer [1201 to 1300]","Thérouanne [1488]",91.5254237288136
-"Saint-Omer [1201 to 1300]","Tours [1501 to 1600]",77.4193548387097
-"Saint-Omer [1201 to 1300]","Watten O.S.A.",74.468085106383
-"Saint-Omer [1518]","Saint-Quentin",81.4814814814815
-"Saint-Omer [1518]","Senlis",76.1194029850746
-"Saint-Omer [1518]","Soissons",76.3636363636364
+"Saint-Omer [1201 to 1300]","Saint-Quentin",89
+"Saint-Omer [1201 to 1300]","Senlis",84
+"Saint-Omer [1201 to 1300]","Soissons",81
+"Saint-Omer [1201 to 1300]","Thérouanne [1401 to 1500]",92
+"Saint-Omer [1201 to 1300]","Thérouanne [1488]",91
+"Saint-Omer [1201 to 1300]","Tours [1501 to 1600]",77
+"Saint-Omer [1201 to 1300]","Watten O.S.A.",74
+"Saint-Omer [1518]","Saint-Quentin",81
+"Saint-Omer [1518]","Senlis",76
+"Saint-Omer [1518]","Soissons",76
 "Saint-Omer [1518]","Thérouanne [1401 to 1500]",90
-"Saint-Omer [1518]","Thérouanne [1488]",75.3623188405797
-"Saint-Omer [1518]","Tours [1501 to 1600]",81.5789473684211
-"Saint-Omer [1518]","Verdun",73.3333333333333
-"Saint-Omer Saint-Bertin O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",86.8852459016393
-"Saint-Paul-Trois-Châteaux","Tarentaise",73.3333333333333
-"Saint-Paul-Trois-Châteaux","Uzès",84.6153846153846
-"Saint-Paul-Trois-Châteaux","Valence Saint-Ruf",79.3103448275862
-"Saint-Paul-Trois-Châteaux","Vienne",71.4285714285714
-"Saint-Paul-Trois-Châteaux","Viviers",71.875
-"Saint-Pierre de La Couture O.S.B.","Sarum",73.134328358209
-"Saint-Pierre de La Couture O.S.B.","Soissons",71.9298245614035
-"Saint-Pierre de La Couture O.S.B.","Tours [1501 to 1600]",72.7272727272727
-"Saint-Pierre de La Couture O.S.B.","Tours Saint-Julien O.S.B.",71.1864406779661
-"Saint-Pierre de La Couture O.S.B.","Tréguier",87.9310344827586
-"Saint-Pierre de La Couture O.S.B.","Verdun",70.1754385964912
-"Saint-Quentin","Senlis",85.1851851851852
-"Saint-Quentin","Soissons",80.3571428571429
-"Saint-Quentin","Thérouanne [1401 to 1500]",85.7142857142857
-"Saint-Quentin","Thérouanne [1488]",76.7857142857143
-"Saint-Quentin-en-l'Isle O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",89.7435897435898
-"Saint-Riquier","Saint-Thierry Saint-Thierry O.S.B.",75.609756097561
-"Saint-Riquier","Tours [1501 to 1600]",71.0526315789474
+"Saint-Omer [1518]","Thérouanne [1488]",75
+"Saint-Omer [1518]","Tours [1501 to 1600]",81
+"Saint-Omer [1518]","Verdun",73
+"Saint-Omer Saint-Bertin O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",86
+"Saint-Paul-Trois-Châteaux","Tarentaise",73
+"Saint-Paul-Trois-Châteaux","Uzès",84
+"Saint-Paul-Trois-Châteaux","Valence Saint-Ruf",79
+"Saint-Paul-Trois-Châteaux","Vienne",71
+"Saint-Paul-Trois-Châteaux","Viviers",71
+"Saint-Pierre de La Couture O.S.B.","Sarum",73
+"Saint-Pierre de La Couture O.S.B.","Soissons",71
+"Saint-Pierre de La Couture O.S.B.","Tours [1501 to 1600]",72
+"Saint-Pierre de La Couture O.S.B.","Tours Saint-Julien O.S.B.",71
+"Saint-Pierre de La Couture O.S.B.","Tréguier",87
+"Saint-Quentin","Senlis",85
+"Saint-Quentin","Soissons",80
+"Saint-Quentin","Thérouanne [1401 to 1500]",85
+"Saint-Quentin","Thérouanne [1488]",76
+"Saint-Quentin-en-l'Isle O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",89
+"Saint-Riquier","Saint-Thierry Saint-Thierry O.S.B.",75
+"Saint-Riquier","Tours [1501 to 1600]",71
 "Saint-Thierry Saint-Thierry O.S.B.","Villiers-aux-Nonnains Notre-Dame O.S.B.f",75
-"Saintes","Thérouanne [1401 to 1500]",70.4918032786885
-"Saintes","Tours [1501 to 1600]",71.7948717948718
-"Sarum","Sens",79.0322580645161
-"Sarum","Soissons",70.1754385964912
-"Sarum","Thérouanne [1401 to 1500]",71.875
-"Sarum","Tours [1401 to 1600]",70.8333333333333
+"Saintes","Tours [1501 to 1600]",71
+"Sarum","Sens",79
+"Sarum","Thérouanne [1401 to 1500]",71
 "Sarum","Tours [1501 to 1600]",75
-"Sarum","Tréguier",89.2307692307692
-"Sarum","Verdun",71.875
-"Sarum","York",83.3333333333333
-"Saumur Saint-Florent O.S.B.","Tours Saint-Julien O.S.B.",72.5806451612903
+"Sarum","Tréguier",89
+"Sarum","Verdun",71
+"Sarum","York",83
+"Saumur Saint-Florent O.S.B.","Tours Saint-Julien O.S.B.",72
 "Senlis","Soissons",80
 "Senlis","Thérouanne [1401 to 1500]",80
-"Senlis","Thérouanne [1488]",76.1194029850746
-"Senlis","Tours [1501 to 1600]",71.0526315789474
-"Sens","Tours [1501 to 1600]",77.1428571428572
-"Sens","Tréguier",74.1379310344828
-"Sens","Verdun",78.9473684210526
-"Sens","York",90.4761904761905
+"Senlis","Thérouanne [1488]",76
+"Senlis","Tours [1501 to 1600]",71
+"Sens","Tours [1501 to 1600]",77
+"Sens","Tréguier",74
+"Sens","Verdun",78
+"Sens","York",90
 "Sens Saint-Pierre-le-Vif O.S.B.","Tarentaise",75
-"Sevilla","Toul",70.6896551724138
-"Sevilla","Tours [1501 to 1600]",74.2857142857143
-"Sevilla","Verdun",70.6896551724138
-"Sion-en-Valais","Tarentaise",83.3333333333333
-"Sisteron","Toulouse",77.4193548387097
-"Sisteron","Uzès",72.7272727272727
+"Sevilla","Tours [1501 to 1600]",74
+"Sion-en-Valais","Tarentaise",83
+"Sisteron","Toulouse",77
+"Sisteron","Uzès",72
 "Sisteron","Valence Saint-Ruf",72
-"Sisteron","Valencia",76.6666666666667
-"Soissons","Thérouanne [1401 to 1500]",78.9473684210526
-"Soissons","Thérouanne [1488]",73.6842105263158
-"Soissons","Tours [1401 to 1600]",81.8181818181818
-"Soissons","Tours [1501 to 1600]",75.7575757575758
-"Soissons","Tours Saint-Julien O.S.B.",75.9259259259259
-"Soissons","Tréguier",71.9298245614035
-"Soissons","Verdun",71.9298245614035
-"Tarentaise","Uzès",85.7142857142857
-"Thérouanne [1401 to 1500]","Thérouanne [1488]",80.6451612903226
+"Sisteron","Valencia",76
+"Soissons","Thérouanne [1401 to 1500]",78
+"Soissons","Thérouanne [1488]",73
+"Soissons","Tours [1401 to 1600]",81
+"Soissons","Tours [1501 to 1600]",75
+"Soissons","Tours Saint-Julien O.S.B.",75
+"Soissons","Tréguier",71
+"Soissons","Verdun",71
+"Tarentaise","Uzès",85
+"Thérouanne [1401 to 1500]","Thérouanne [1488]",80
 "Thérouanne [1401 to 1500]","Tours [1501 to 1600]",85
-"Thérouanne [1401 to 1500]","Tréguier",70.3125
-"Thérouanne [1401 to 1500]","Verdun",73.4375
-"Thérouanne [1488]","Watten O.S.A.",71.4285714285714
-"Toul","Tours [1501 to 1600]",87.5
-"Toul","Verdun",83.3333333333333
-"Toulouse","Uzès",72.972972972973
-"Toulouse","Valencia",73.0769230769231
-"Tournai","Tours [1501 to 1600]",76.9230769230769
-"Tours [1401 to 1600]","Tours Saint-Julien O.S.B.",71.2121212121212
-"Tours [1401 to 1600]","Tours Saint-Martin",76.4705882352941
-"Tours [1401 to 1600]","Tréguier",73.015873015873
-"Tours [1501 to 1600]","Tours Saint-Julien O.S.B.",77.5
-"Tours [1501 to 1600]","Tréguier",77.5
-"Tours [1501 to 1600]","Utrecht",71.0526315789474
-"Tours [1501 to 1600]","Verdun",87.5
-"Tours [1501 to 1600]","Villiers-aux-Nonnains Notre-Dame O.S.B.f",79.3103448275862
-"Tours [1501 to 1600]","York",74.3589743589744
-"Tours Saint-Julien O.S.B.","Tréguier",74.1935483870968
-"Tours Saint-Julien O.S.B.","Verdun",72.1311475409836
-"Tréguier","Verdun",70.3125
-"Tréguier","York",78.125
-"Troyes [1470 to 1507]","Troyes [1536]",79.3103448275862
-"Utrecht","Valencia",72.5490196078431
-"Uzès","Valencia",81.0810810810811
-"Valence","Viviers",72.5
-"Valence Saint-Ruf","Vienne",73.8095238095238
-"Verdun","York",71.4285714285714
+"Thérouanne [1401 to 1500]","Verdun",73
+"Thérouanne [1488]","Watten O.S.A.",71
+"Toul","Tours [1501 to 1600]",87
+"Toul","Verdun",83
+"Toulouse","Uzès",72
+"Toulouse","Valencia",73
+"Tournai","Tours [1501 to 1600]",76
+"Tours [1401 to 1600]","Tours Saint-Julien O.S.B.",71
+"Tours [1401 to 1600]","Tours Saint-Martin",76
+"Tours [1401 to 1600]","Tréguier",73
+"Tours [1501 to 1600]","Tours Saint-Julien O.S.B.",77
+"Tours [1501 to 1600]","Tréguier",77
+"Tours [1501 to 1600]","Utrecht",71
+"Tours [1501 to 1600]","Verdun",87
+"Tours [1501 to 1600]","Villiers-aux-Nonnains Notre-Dame O.S.B.f",79
+"Tours [1501 to 1600]","York",74
+"Tours Saint-Julien O.S.B.","Tréguier",74
+"Tours Saint-Julien O.S.B.","Verdun",72
+"Tréguier","York",78
+"Troyes [1470 to 1507]","Troyes [1536]",79
+"Utrecht","Valencia",72
+"Uzès","Valencia",81
+"Valence","Viviers",72
+"Valence Saint-Ruf","Vienne",73
+"Verdun","York",71
