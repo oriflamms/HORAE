@@ -1,0 +1,193 @@
+"from","to","weight"
+"Agde","Béziers",89
+"Agde","Fréjus",87
+"Agde","Grasse",82
+"Agde","Maguelonne",88
+"Agde","Mende",82
+"Agde","Uzès",83
+"Aix-en-Provence","Béziers",87
+"Aix-en-Provence","Fréjus",88
+"Aix-en-Provence","Grasse",90
+"Aix-en-Provence","Maguelonne",92
+"Aix-en-Provence","Mende",85
+"Aix-en-Provence","Narbonne",82
+"Aix-en-Provence","Uzès",83
+"Amiens","Hénin-Liétard Notre-Dame O.S.A.",81
+"Amiens","Mons Sainte-Waudru O.S.A.",87
+"Amiens","Saint-Omer [1201 to 1300]",85
+"Amiens","Saint-Quentin",81
+"Amiens","Thérouanne [1401 to 1500]",92
+"Amiens","Tours [1501 to 1600]",87
+"Angers","Tréguier",81
+"Antwerpen","Bruxelles Sainte-Gudule O.S.A.",81
+"Apt","Fréjus",81
+"Apt","Maguelonne",82
+"Arles","Auch",83
+"Arles","Cavaillon",83
+"Arles","Marseille",86
+"Arles","Saint-Paul-Trois-Châteaux",81
+"Arras [1301 to 1400]","Arras [1401 to 1500]",90
+"Arras [1301 to 1400]","Arras [1501 to 1600]",97
+"Arras [1301 to 1400]","Douai Saint-Amé",90
+"Arras [1301 to 1400]","Thérouanne [1401 to 1500]",84
+"Arras [1301 to 1400]","Tours [1501 to 1600]",82
+"Arras [1401 to 1500]","Arras [1501 to 1600]",83
+"Arras [1401 to 1500]","Douai Saint-Amé",81
+"Arras [1501 to 1600]","Douai Saint-Amé",84
+"Arras Saint-Vaast O.S.B.","Hasnon",89
+"Arras Saint-Vaast O.S.B.","Saint-Omer Saint-Bertin O.S.B.",86
+"Arras Saint-Vaast O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",95
+"Auxerre","Verdun",85
+"Avranches","Bayeux",86
+"Avranches","Évreux",81
+"Avranches","Lisieux",84
+"Avranches","Saint-Lô Sainte-Croix O.S.A.",90
+"Avranches","Sens",100
+"Avranches","York",89
+"Baltimore The Walters Art Museum W.0166","Baltimore The Walters Art Museum W.0169",98
+"Baltimore The Walters Art Museum W.0166","Mons Sainte-Waudru O.S.A.",81
+"Baltimore The Walters Art Museum W.0166","Noyon",82
+"Baltimore The Walters Art Museum W.0166","Saint-Omer [1201 to 1300]",81
+"Baltimore The Walters Art Museum W.0166","Thérouanne [1401 to 1500]",82
+"Baltimore The Walters Art Museum W.0169","Mons Sainte-Waudru O.S.A.",82
+"Baltimore The Walters Art Museum W.0169","Noyon",84
+"Baltimore The Walters Art Museum W.0169","Saint-Omer [1201 to 1300]",83
+"Baltimore The Walters Art Museum W.0169","Thérouanne [1401 to 1500]",84
+"Bayeux","Coutances",83
+"Bayeux","Lisieux",81
+"Bayeux","Saint-Lô Sainte-Croix O.S.A.",82
+"Bayeux","Sens",88
+"Bazas","Sevilla",81
+"Beaugency","Chartres",88
+"Beaugency","Saint-Malo",81
+"Béziers","Fréjus",90
+"Béziers","Grasse",91
+"Béziers","Lérida",82
+"Béziers","Maguelonne",95
+"Béziers","Mende",90
+"Béziers","Narbonne",88
+"Béziers","O.P.",82
+"Béziers","O.T.",85
+"Béziers","Toulouse",85
+"Béziers","Uzès",88
+"Béziers","Valencia",82
+"Brugge","Roma",91
+"Bruxelles Sainte-Gudule O.S.A.","Hénin-Liétard Notre-Dame O.S.A.",81
+"Bruxelles Sainte-Gudule O.S.A.","Mons Sainte-Waudru O.S.A.",84
+"Bruxelles Sainte-Gudule O.S.A.","Saint-Omer [1201 to 1300]",81
+"Bruxelles Sainte-Gudule O.S.A.","Thérouanne [1401 to 1500]",81
+"Bruxelles Sainte-Gudule O.S.A.","Tours [1501 to 1600]",86
+"Chartres","Josaphat Notre-Dame O.S.B.",85
+"Cluny O.S.B.","Compiègne Saint-Corneille O.S.B.",89
+"Cluny O.S.B.","Saint-Riquier",81
+"Cluny O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",81
+"Coutances","Lisieux",81
+"Coutances","Rouen",87
+"Coutances","Sarum",83
+"Coutances","Sens",81
+"Coutances","York",85
+"Dol","Sarum",85
+"Dol","Tréguier",85
+"Douai Saint-Amé","Mons Sainte-Waudru O.S.A.",81
+"Douai Saint-Amé","Thérouanne [1401 to 1500]",85
+"Douai Saint-Amé","Tours [1501 to 1600]",81
+"Durham Saint Cuthbert O.S.B.","Tours [1501 to 1600]",87
+"Évreux","Lisieux",85
+"Évreux","Sarum",81
+"Évreux","Thérouanne [1401 to 1500]",82
+"Évreux","York",83
+"Fréjus","Grasse",100
+"Fréjus","Maguelonne",94
+"Fréjus","Mende",86
+"Fréjus","Sisteron",82
+"Fréjus","Uzès",93
+"Fréjus","Valencia",85
+"Grasse","Maguelonne",96
+"Grasse","Mende",85
+"Grasse","Narbonne",82
+"Grasse","Sisteron",83
+"Grasse","Uzès",94
+"Hasnon","Saint-Quentin-en-l'Isle O.S.B.",89
+"Hasnon","Saint-Thierry Saint-Thierry O.S.B.",92
+"Hénin-Liétard Notre-Dame O.S.A.","Mons Sainte-Waudru O.S.A.",94
+"Hénin-Liétard Notre-Dame O.S.A.","Noyon",90
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1201 to 1300]",88
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Omer [1518]",81
+"Hénin-Liétard Notre-Dame O.S.A.","Saint-Quentin",86
+"Hénin-Liétard Notre-Dame O.S.A.","Thérouanne [1401 to 1500]",88
+"Hénin-Liétard Notre-Dame O.S.A.","Thérouanne [1488]",87
+"La Riche Saint-Côme O.S.A.","Loches",82
+"La Riche Saint-Côme O.S.A.","Tours Saint-Martin",83
+"Laon","Soissons",81
+"Lérida","Maguelonne",81
+"Lille Saint-Pierre","Mons Sainte-Waudru O.S.A.",83
+"Lille Saint-Pierre","Thérouanne [1401 to 1500]",81
+"Lisieux","Saint-Lô Sainte-Croix O.S.A.",82
+"Lisieux","Sarum",81
+"Lisieux","Sens",89
+"Lisieux","York",86
+"Mâcon","Tours [1501 to 1600]",85
+"Maguelonne","Mende",91
+"Maguelonne","Narbonne",85
+"Maguelonne","O.P.",81
+"Maguelonne","O.T.",81
+"Maguelonne","Sisteron",87
+"Maguelonne","Toulouse",86
+"Maguelonne","Uzès",96
+"Maguelonne","Valencia",89
+"Mende","Narbonne",82
+"Mende","Uzès",83
+"Mons Sainte-Waudru O.S.A.","Noyon",86
+"Mons Sainte-Waudru O.S.A.","Saint-Omer [1201 to 1300]",88
+"Mons Sainte-Waudru O.S.A.","Saint-Omer [1518]",85
+"Mons Sainte-Waudru O.S.A.","Thérouanne [1401 to 1500]",88
+"Mons Sainte-Waudru O.S.A.","Tours [1501 to 1600]",82
+"Nantes","Poitiers",85
+"Nantes","Tours [1501 to 1600]",85
+"Noyon","Saint-Omer [1201 to 1300]",91
+"Noyon","Saint-Omer [1518]",81
+"Noyon","Saint-Quentin",85
+"Noyon","Thérouanne [1401 to 1500]",85
+"Noyon","Thérouanne [1488]",91
+"O.Carm.","O.Hosp.",85
+"O.Carm.","Sevilla",82
+"O.Carm.","Tours [1501 to 1600]",84
+"O.Hosp.","Tours [1501 to 1600]",85
+"O.P.","O.T.",95
+"O.P.","Toulouse",82
+"O.T.","Toulouse",85
+"Paris","Saint-Pol-de-Léon",96
+"Paris Saint-Victor O.S.A.","Paris Sainte-Geneviève O.S.A.",83
+"Reims","Tours [1401 to 1600]",81
+"Rennes [1401 to 1500]","Rennes [1430]",90
+"Ronse Sint-Hermes","Tournai",85
+"Rouen","York",81
+"Saint-Brieuc","Saint-Malo",83
+"Saint-Lô Sainte-Croix O.S.A.","Sens",92
+"Saint-Lô Sainte-Croix O.S.A.","York",83
+"Saint-Omer [1201 to 1300]","Saint-Omer [1518]",90
+"Saint-Omer [1201 to 1300]","Saint-Quentin",89
+"Saint-Omer [1201 to 1300]","Senlis",84
+"Saint-Omer [1201 to 1300]","Soissons",81
+"Saint-Omer [1201 to 1300]","Thérouanne [1401 to 1500]",92
+"Saint-Omer [1201 to 1300]","Thérouanne [1488]",91
+"Saint-Omer [1518]","Saint-Quentin",81
+"Saint-Omer [1518]","Thérouanne [1401 to 1500]",90
+"Saint-Omer [1518]","Tours [1501 to 1600]",81
+"Saint-Omer Saint-Bertin O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",86
+"Saint-Paul-Trois-Châteaux","Uzès",84
+"Saint-Pierre de La Couture O.S.B.","Tréguier",87
+"Saint-Quentin","Senlis",85
+"Saint-Quentin","Thérouanne [1401 to 1500]",85
+"Saint-Quentin-en-l'Isle O.S.B.","Saint-Thierry Saint-Thierry O.S.B.",89
+"Sarum","Tréguier",89
+"Sarum","York",83
+"Sens","York",90
+"Sion-en-Valais","Tarentaise",83
+"Soissons","Tours [1401 to 1600]",81
+"Tarentaise","Uzès",85
+"Thérouanne [1401 to 1500]","Tours [1501 to 1600]",85
+"Toul","Tours [1501 to 1600]",87
+"Toul","Verdun",83
+"Tours [1501 to 1600]","Verdun",87
+"Uzès","Valencia",81

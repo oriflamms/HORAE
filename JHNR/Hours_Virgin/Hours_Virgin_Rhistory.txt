@@ -84,13 +84,20 @@ df.edges <- as.data.frame(df.edges)
 edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
 colnames(edges) <- c("from", "to", "weight")
 edges$weight <- as.integer(edges$weight)
-write.csv(edges, "edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
-# write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges, "output/edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges, "output/edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+
+
+quantile(edges$weight)  #      0%  25%  50%  75% 100% 
+						#		0   28   38   51  100
+png(file="figures/png/histogram-edges-weight.png", width=10, height=10, units="cm", res=300)
+cutoff <- hist(edges$weight, breaks = 100, xlab="Percentage of shared pieces", ylab="Number of edges", main = NULL)
+dev.off()
 
 edges.sup70 <- edges %>% filter(weight > 70)
 
-write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
-# write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup70, "output/edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges.sup70, "output/edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 #----------------------------------------------------------------------------------------------------------------------
 # Plot Network	
@@ -110,9 +117,9 @@ g <- ggplot(ggnetwork(net, layout="fruchtermanreingold", na.rm=TRUE), #layout ch
 g
 ggplotly(g)
 
-#ggsave("Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.png", plot=g, dpi=500, device="png", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
+#ggsave("figures/tif/Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/png/Hours_Virgin.sup70.png", plot=g, dpi=500, device="png", width=10, height=10) 
+ggsave("figures/svg/Hours_Virgin.sup70.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
 
 
 
@@ -137,10 +144,10 @@ h <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout c
 h
 #ggplotly(h)
 
-#ggsave("Hours_Virgin.sup70.withoutTours16.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
-#ggsave("Hours_Virgin.sup70.withoutTours16.svg", plot=h, dpi=500, device="svg", width=10, height=10) 
-#ggsave("Hours_Virgin.sup70.withoutTours16.png", plot=h, dpi=500, device="png", width=10, height=10) 
-# ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
+#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
+#ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16.svg", plot=h, dpi=500, device="svg", width=10, height=10) 
+#ggsave("figures/png/Hours_Virgin.sup70.withoutTours16.png", plot=h, dpi=500, device="png", width=10, height=10) 
+
 
 
 
@@ -242,8 +249,7 @@ dataNFrance1 <- datapoints %>%
 		)
 dataBrugge <- datapoints %>% 
 	filter(str_detect(vertex.names,"^Brugge"))
-dataBaltimore <- datapoints %>% 
-	filter(str_detect(vertex.names,"^Baltimore"))
+
 
 z <- h + 
 	geom_point(data = dataGermany, aes(x = x, y = y, label=vertex.names), alpha = 0.5, color = "blue") +
@@ -285,10 +291,9 @@ z
 
 ggplotly(z)
 
-#ggsave("Hours_Virgin.sup70.withoutTours16.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
-#ggsave("Hours_Virgin.sup70.withoutTours16.withBaltimore.focus.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
+#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
 
 
 ############################################################################################################
@@ -350,13 +355,13 @@ df.edges <- as.data.frame(df.edges)
 edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
 colnames(edges) <- c("from", "to", "weight")
 edges$weight <- as.integer(edges$weight)
-# write.csv(edges, "edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
-write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges, "output/edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges, "output/edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 edges.sup70 <- edges %>% filter(weight > 70)
 
-# write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
-write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+# write.csv(edges.sup70, "output/edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+write.csv(edges.sup70, "output/edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
 
 #----------------------------------------------------------------------------------------------------------------------
 # Plot Network	
@@ -402,7 +407,7 @@ j <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout c
 	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
 	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
 	# theme_blank()
-# j
+j
 # ggplotly(j)
  
 datapoints <- as.data.frame(j$data)
@@ -414,18 +419,91 @@ k <- j + xlim(0.12, 0.4) +
 		geom_point(data = dataBaltimore, aes(x = x, y = y), alpha = 1, color = "red", shape=2, size=6)
 k
 
-#ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
+k2 <- j + annotate("rect", xmin = 0.12, xmax = 0.4, ymin = 0.6, ymax = 0.81,  alpha = .2, fill = "blue")
 
-ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
-ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
+
+#ggsave("figures/tif/Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
+ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.svg", plot=k2, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.png", plot=k2, dpi=500, device="png", width=10, height=10) 
+ggsave("figures/svg/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/png/Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
+
+
+blob <- as.data.frame(cbind(net2 %v% "vertex.names", net2 %v% "degree", net2 %v% "betweenness"))
+colnames(blob) <- c("use", "degree", "betweenness")
+blob$degree <- as.numeric(blob$degree)
+blob$betweenness <- as.numeric(blob$betweenness)
+ggplot(blob, aes(x=degree)) +   geom_bar()
 
 
 
 ##################################################################################################################################
-#-----------------  Documentation 
-#--------------------------------------------------------------------
+##################################################################################################################################
+#-----------------  Documentation ------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------
+##################################################################################################################################
+##################################################################################################################################
+
+
+
+edges.sup75 <- edges %>% filter(weight > 75)
+write.csv(edges.sup80, "output/edgesHoursVirgin.sup75-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+
+edges.sup80 <- edges %>% filter(weight > 80)
+write.csv(edges.sup80, "output/edgesHoursVirgin.sup80-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+
+set.seed(1977)
+net75 <- network(as.data.frame(edges.sup75), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
+set.seed(1977)
+m <- ggplot(ggnetwork(net75, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "darkred") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+m
+ggplotly(m)
+
+
+set.seed(1977)
+net80 <- network(as.data.frame(edges.sup80), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
+set.seed(1977)
+n <- ggplot(ggnetwork(net80, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "darkred") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+n
+ggplotly(n)
+
+
+#####------------------
+net2 <- net 						# the delete function alters the original net, we refresh here the whole
+network.vertex.names(net2)
+net3 <- delete.vertices(net2, c(4, 16, 22, 36, 37, 48, 62, 66, 76, 90, 92, 115, 123, 130, 131, 132, 138))							
+				# delete 
+				# "Amiens", "Auxerre", Beaugency,  "Châlons-en-Champagne",
+				# "Chartres", "Évreux", "Le Mans", "Lisieux", "Nantes", "Poitiers", 
+				# "Reims", "Sarum", "Soissons", "Tours [1401 to 1600]", 
+				# "Tours Saint-Julien O.S.B.", "Tréguier", "Verdun" 
+network.vertex.names(net3)
+
+set.seed(35356)
+l <- ggplot(ggnetwork(net3, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "lightgreen") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+l
+ggplotly(l)
 
 kc<-kcores(net2)
 kc
