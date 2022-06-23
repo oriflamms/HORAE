@@ -204,6 +204,23 @@ dataParisCluster <- datapoints %>%
 		str_detect(vertex.names,"^Victorine")|
 		str_detect(vertex.names,"Genevieve")
 	)
+dataSGermany <- datapoints %>% 
+	filter(
+		str_detect(vertex.names,"^Passau")|
+		str_detect(vertex.names,"^Chiemsee")|
+		str_detect(vertex.names,"^Salzburg")|
+		str_detect(vertex.names,"^Reichenhall")|
+		str_detect(vertex.names,"^Raitenbuch")|
+		str_detect(vertex.names,"^Diessen")|
+		str_detect(vertex.names,"^Seebach")|
+		str_detect(vertex.names,"Emmeram")|
+		str_detect(vertex.names,"^Naumburg")|
+		str_detect(vertex.names,"^Heidenheim")|
+		str_detect(vertex.names,"^Neustift")|
+		str_detect(vertex.names,"Erfurt")|
+		str_detect(vertex.names,"Blaubeuren")|
+		str_detect(vertex.names,"Ratisbon")
+	)
 
 z <- g + 
 	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
@@ -214,7 +231,8 @@ z <- g +
 	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
 	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
 	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
-	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan")
+	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan") +
+	geom_point(data = dataSGermany, aes(x = x, y = y), alpha = 0.5, color = "purple")
 z
 
 zz <- z + 
@@ -228,11 +246,12 @@ zz <- z +
 		annotate("text", x=0.34, y=0.08, label="Cambrai", color="red", size=4) +
 		annotate("text", x=0.41, y=0.42, label="Tours", color="purple", size=4) +
 		annotate("text", x=0.36, y=0.6, label="Troyes", color="lightblue", size=4) +
- 		annotate("text", x=0.4, y=0.85, label="Flanders and \nScandinavia", color="yellow2", size=4) +
+ 		annotate("text", x=0.45, y=0.87, label="Flanders and \nScandinavia", color="yellow2", size=4) +
+		annotate("text", x=0.45, y=0.87, label="Southern Germany", color="purple", size=4) +
 		theme_blank()
 #zz
 
-ggplotly(z)
+ggplotly(zz)
 
 ggsave("Ottosen-SETS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
 ggsave("Ottosen-SETS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
