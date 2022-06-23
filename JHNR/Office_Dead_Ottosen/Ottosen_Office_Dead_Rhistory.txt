@@ -175,7 +175,35 @@ dataTroyes <- datapoints %>% filter(str_detect(vertex.names,"^Troyes_"))
 dataTours <- datapoints %>% filter(str_detect(vertex.names,"^Tours_"))
 #dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
 dataFlandersScandinavia <- datapoints %>% 
-	filter(x > 0.3, x < 0.385, y >= 0.86, y < 0.95)
+	filter(
+		vertex.names == "_BL30029"|
+		str_detect(vertex.names,"^Margr")|
+		str_detect(vertex.names,"^Phalempin")|
+		str_detect(vertex.names,"^Lille_DOUAI")|
+		str_detect(vertex.names,"^_CPHT542")|
+		str_detect(vertex.names,"^Henin-Lietard_")|
+		vertex.names == "Tournai_CAMBR104D"|
+		str_detect(vertex.names,"^Mont-Saint-Eloi_")|
+		str_detect(vertex.names,"^Watten")|
+		str_detect(vertex.names,"^Notre-Dame-du-Bon")|
+		str_detect(vertex.names,"BL1018A")|
+		str_detect(vertex.names,"^Nidaros_AM679")|
+		str_detect(vertex.names,"^Skalholt")|
+		str_detect(vertex.names,"^Andres")|
+		str_detect(vertex.names,"Omer")|
+		str_detect(vertex.names,"^St. Omer_")
+	)
+dataParisCluster <- datapoints %>% 
+	filter(
+		str_detect(vertex.names,"^Beauvais")|
+		str_detect(vertex.names,"^Meaux")|
+		str_detect(vertex.names,"^Compiegne")|
+		str_detect(vertex.names,"Pol-de-Leon")|
+		str_detect(vertex.names,"^Soissons")|
+		str_detect(vertex.names,"Quentin_GEN2619")|
+		str_detect(vertex.names,"^Victorine")|
+		str_detect(vertex.names,"Genevieve")
+	)
 
 z <- g + 
 	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
@@ -185,11 +213,13 @@ z <- g +
 	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
 	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
 	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
-	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow")
+	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
+	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan")
 z
 
 zz <- z + 
 		annotate("text", x=0.93, y=0.5, label="Paris", color="blue", size=4) +
+		annotate("text", x=0.93, y=0.48, label="Beauvais, Meaux, Soissons, etc.", color="cyan", size=3) +
 		annotate("text", x=0.16, y=0.65, label="Utrecht", color="green", size=4) +
 		annotate("text", x=0.17, y=0.63, label="Windesheim", color="darkgreen", size=4) +
 		annotate("text", x=0.75, y=0.73, label="Utrecht", color="green", size=4) +
@@ -202,10 +232,10 @@ zz <- z +
 		theme_blank()
 #zz
 
+ggplotly(z)
+
 ggsave("Ottosen-SETS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
 ggsave("Ottosen-SETS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
-
-ggplotly(z)
 
 
 ######################################################################################################### 
@@ -275,6 +305,11 @@ write.csv(edgesMSS.sup.8, "edgesMSS.sup.8.csv", fileEncoding="utf-8", row.names=
 #####################################
 ### 4. plot network
 
+
+# if one wishes to start from here
+# edgesMSS.sup.5 <- read.csv("edgesMSS.sup.5.csv", sep=",", header = TRUE) #import the CSV file
+
+
 set.seed(42)
 net <- network(as.data.frame(edgesMSS.sup.5), directed=FALSE)
 set.seed(42)
@@ -314,17 +349,17 @@ z <- g +
 
 zz <- z + 
 		annotate("text", x=0.70, y=0.60, label="Paris", color="blue", size=4) +
-		annotate("text", x=0.3, y=0.78, label="Utrecht", color="green", size=4) +
-		annotate("text", x=0.3, y=0.75, label="Windesheim", color="darkgreen", size=4) +
-		annotate("text", x=0.75, y=0.3, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.35, y=0.8, label="Utrecht", color="green", size=4) +
+		annotate("text", x=0.35, y=0.78, label="Windesheim", color="darkgreen", size=4) +
+		annotate("text", x=0.78, y=0.3, label="Utrecht", color="green", size=4) +
 		annotate("text", x=0.75, y=0.26, label="Windesheim", color="darkgreen", size=4) +
 		annotate("text", x=0.5, y=0.25, label="Rome", color="orange", size=4) +
 		annotate("text", x=0.16, y=0.59, label="Cambrai", color="red", size=4) +
 		annotate("text", x=0.4, y=0.1, label="Tours", color="purple", size=4) +
-		annotate("text", x=0.1, y=0.25, label="Troyes", color="lightblue", size=4) +
+		annotate("text", x=0.25, y=0.1, label="Troyes", color="lightblue", size=4) +
 		annotate("text", x=0.1, y=0.5, label="Bourges", color="yellow2", size=4)
 zz
 
 ggsave("Ottosen-MSS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
-ggsave("Ottosen-MSS-sup5-annotate2.png", plot=zz, dpi=500, device="png", width=10, height=10) 
+ggsave("Ottosen-MSS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
 
