@@ -173,7 +173,7 @@ dataRoman <- datapoints %>% filter(str_detect(vertex.names,"^Roman_"))
 dataCambrai <- datapoints %>% filter(str_detect(vertex.names,"^Cambrai_"))
 dataTroyes <- datapoints %>% filter(str_detect(vertex.names,"^Troyes_"))
 dataTours <- datapoints %>% filter(str_detect(vertex.names,"^Tours_"))
-#dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
+dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
 dataFlandersScandinavia <- datapoints %>% 
 	filter(
 		vertex.names == "_BL30029"|
@@ -229,6 +229,7 @@ z <- g +
 	geom_point(data = dataRoman, aes(x = x, y = y), alpha = 0.5, color = "orange") +
 	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
 	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
+	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
 	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
 	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
 	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan") +
@@ -246,8 +247,8 @@ zz <- z +
 		annotate("text", x=0.34, y=0.08, label="Cambrai", color="red", size=4) +
 		annotate("text", x=0.41, y=0.42, label="Tours", color="purple", size=4) +
 		annotate("text", x=0.36, y=0.6, label="Troyes", color="lightblue", size=4) +
- 		annotate("text", x=0.45, y=0.87, label="Flanders and \nScandinavia", color="yellow2", size=4) +
-		annotate("text", x=0.45, y=0.87, label="Southern Germany", color="purple", size=4) +
+ 		annotate("text", x=0.47, y=0.9, label="Flanders and \nScandinavia", color="yellow2", size=4) +
+		annotate("text", x=0.38, y=0.80, label="Southern Germany", color="purple", size=4) +
 		theme_blank()
 #zz
 
@@ -347,9 +348,54 @@ dataCambrai <- datapoints %>% filter(str_detect(vertex.names,"^Cambrai_"))
 dataTroyes <- datapoints %>% filter(str_detect(vertex.names,"^Troyes_"))
 dataTours <- datapoints %>% filter(str_detect(vertex.names,"^Tours_"))
 dataBourges <- datapoints %>% filter(str_detect(vertex.names,"^Bourges_"))
-# dataAntwerp <- datapoints %>% filter(str_detect(vertex.names,"^Antwerp_"))
-# dataBrussels <- datapoints %>% filter(str_detect(vertex.names,"^Brussels_"))
-# dataBruges <- datapoints %>% filter(str_detect(vertex.names,"^St. Donatian_"))
+dataFlandersScandinavia <- datapoints %>% 
+	filter(
+		vertex.names == "_BL30029"|
+		str_detect(vertex.names,"^Margr")|
+		str_detect(vertex.names,"^Phalempin")|
+		str_detect(vertex.names,"^Lille_DOUAI")|
+		str_detect(vertex.names,"^_CPHT542")|
+		str_detect(vertex.names,"^Henin-Lietard_")|
+		vertex.names == "Tournai_CAMBR104D"|
+		str_detect(vertex.names,"^Mont-Saint-Eloi_")|
+		str_detect(vertex.names,"^Watten")|
+		str_detect(vertex.names,"^Notre-Dame-du-Bon")|
+		str_detect(vertex.names,"BL1018A")|
+		str_detect(vertex.names,"^Nidaros_AM679")|
+		str_detect(vertex.names,"^Skalholt")|
+		str_detect(vertex.names,"^Andres")|
+		str_detect(vertex.names,"Omer")|
+		str_detect(vertex.names,"^St. Omer_")
+	)
+dataParisCluster <- datapoints %>% 
+	filter(
+		str_detect(vertex.names,"^Beauvais")|
+		str_detect(vertex.names,"^Meaux")|
+		str_detect(vertex.names,"^Compiegne")|
+		str_detect(vertex.names,"Pol-de-Leon")|
+		str_detect(vertex.names,"^Soissons")|
+		str_detect(vertex.names,"Quentin_GEN2619")|
+		str_detect(vertex.names,"^Victorine")|
+		str_detect(vertex.names,"Genevieve")
+	)
+dataSGermany <- datapoints %>% 
+	filter(
+		str_detect(vertex.names,"^Passau")|
+		str_detect(vertex.names,"^Chiemsee")|
+		str_detect(vertex.names,"^Salzburg")|
+		str_detect(vertex.names,"^Reichenhall")|
+		str_detect(vertex.names,"^Raitenbuch")|
+		str_detect(vertex.names,"^Diessen")|
+		str_detect(vertex.names,"^Seebach")|
+		str_detect(vertex.names,"Emmeram")|
+		str_detect(vertex.names,"^Naumburg")|
+		str_detect(vertex.names,"^Heidenheim")|
+		str_detect(vertex.names,"^Neustift")|
+		str_detect(vertex.names,"Erfurt")|
+		str_detect(vertex.names,"Blaubeuren")|
+		str_detect(vertex.names,"Ratisbon")
+	)
+
 
 z <- g + 
 	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
@@ -359,7 +405,12 @@ z <- g +
 	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
 	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
 	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
-	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "yellow")
+	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
+	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
+	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan") +
+	geom_point(data = dataSGermany, aes(x = x, y = y), alpha = 0.5, color = "purple")
+z
+
 #	+ 
 #	geom_point(data = dataAntwerp, aes(x = x, y = y), alpha = 0.5, color = "hotpink") + 
 #	geom_point(data = dataBrussels, aes(x = x, y = y), alpha = 0.5, color = "cyan4") +
@@ -368,6 +419,7 @@ z <- g +
 
 zz <- z + 
 		annotate("text", x=0.70, y=0.60, label="Paris", color="blue", size=4) +
+		annotate("text", x=0.69, y=0.58, label="Beauvais, Meaux, Soissons, etc.", color="cyan", size=3) +
 		annotate("text", x=0.35, y=0.8, label="Utrecht", color="green", size=4) +
 		annotate("text", x=0.35, y=0.78, label="Windesheim", color="darkgreen", size=4) +
 		annotate("text", x=0.78, y=0.3, label="Utrecht", color="green", size=4) +
@@ -376,7 +428,17 @@ zz <- z +
 		annotate("text", x=0.16, y=0.59, label="Cambrai", color="red", size=4) +
 		annotate("text", x=0.4, y=0.1, label="Tours", color="purple", size=4) +
 		annotate("text", x=0.25, y=0.1, label="Troyes", color="lightblue", size=4) +
-		annotate("text", x=0.1, y=0.5, label="Bourges", color="yellow2", size=4)
+		annotate("text", x=0.1, y=0.5, label="Bourges", color="yellow2", size=4) +
+ 		annotate("text", x=0.06, y=0.75, label="Flanders and \nScandinavia", color="yellow2", size=4) +
+		annotate("text", x=0.32, y=0.73, label="Southern Germany", color="purple", size=4) +
+		theme_blank()
+zz
+
+ggplotly(zz)
+
+ggsave("Ottosen-SETS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
+ggsave("Ottosen-SETS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
+
 zz
 
 ggsave("Ottosen-MSS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
