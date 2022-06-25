@@ -296,6 +296,9 @@ ggsave("Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device
 ggsave("Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
 
 
+
+############################################################################################################
+############################################################################################################
 ############################################################################################################
 #-----------------------------------------------------------------------------------------------------------
 #------------------------ BALTIMORE MSS --------------------------------------------------------------------
@@ -360,8 +363,8 @@ write.csv(edges, "edgesHoursVirgin-Baltimore.csv", fileEncoding="utf-8", row.nam
 
 edges.sup70 <- edges %>% filter(weight > 70)
 
-# write.csv(edges.sup70, "edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
 write.csv(edges.sup70, "edgesHoursVirgin.sup70-Baltimore.csv", fileEncoding="utf-8", row.names=FALSE)
+# edges.sup70 <- read.csv("edgesHoursVirgin.sup70-Baltimore.csv", header = TRUE, fileEncoding = "UTF-8")
 
 #----------------------------------------------------------------------------------------------------------------------
 # Plot Network	
@@ -399,30 +402,70 @@ network.vertex.names(net2)											# checking deletion complete
 net2 %v% "betweenness" <- betweenness(net2)
 net2 %v% "degree" <- degree(net2)
 
+
+blob <- as.data.frame(cbind(net2 %v% "vertex.names", net2 %v% "degree", net2 %v% "betweenness"))
+colnames(blob) <- c("use", "degree", "betweenness")
+blob$centrality <- "use"
+blob$degree <- as.numeric(blob$degree)
+blob$betweenness <- as.numeric(blob$betweenness)
+degplot <- ggplot(blob, aes(x=centrality, y=degree)) + 
+				geom_boxplot(outlier.colour="black", outlier.shape=16, outlier.size=1, notch=FALSE) + 
+				theme(axis.title.x=element_blank(),
+						axis.text.x=element_blank(),
+						axis.ticks.x=element_blank())
+betwplot <- ggplot(blob, aes(x=centrality, y=betweenness)) + 
+				geom_boxplot(outlier.colour="black", outlier.shape=16, outlier.size=1, notch=FALSE) + 
+				theme(axis.title.x=element_blank(),
+						axis.text.x=element_blank(),
+						axis.ticks.x=element_blank())
+centplot <- arrangeGrob(degplot, betwplot, ncol=2)	# Optional: add common title with "top="Number of occurrences of each responsory across the different sets /n(Responsories numbered from 1 to 99 according to K. Ottosen)"
+
+ggsave(centplot, file="Hours_Virgin.sup70.withoutTours16-Baltimore-net-centralities.svg", device=svg)
+dev.off()
+
+
+
 set.seed(35356)
 j <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
 	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
 	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
-	geom_nodes(size = 1, color = "lightgreen") +
+	geom_nodes(color="lightgreen", size=1) +
+	#scale_size(range = c(0, 10)) +
+	#scale_color_gradient2(midpoint=200, low="blue", mid="white", high="red") +												
 	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
 	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
 	# theme_blank()
 j
+
 # ggplotly(j)
- 
+
+
+
 datapoints <- as.data.frame(j$data)
 dataBaltimore <- datapoints %>% 
 	filter(str_detect(vertex.names,"^Baltimore"))
 
 k <- j + xlim(0.12, 0.4) + 
 		ylim(0.6, 0.81) + 
+		geom_nodes(aes(colour = betweenness, size = degree), alpha = 0.5) +
+		scale_size(range = c(0, 10)) +
+		scale_color_gradient2(midpoint=200, low="blue", mid="white", high="red") +												
 		geom_point(data = dataBaltimore, aes(x = x, y = y), alpha = 1, color = "red", shape=2, size=6)
 k
 
-k2 <- j + annotate("rect", xmin = 0.12, xmax = 0.4, ymin = 0.6, ymax = 0.81,  alpha = .2, fill = "blue")
+
+l <- j + xlim(0.12, 0.4) + 
+		ylim(0.5, 0.81) + 
+		geom_nodes(aes(colour = betweenness, size = degree), alpha = 0.5) +
+		scale_size(range = c(0, 8)) +
+		scale_color_gradient2(midpoint=200, low="blue", mid="white", high="red") +												
+		geom_point(data = dataBaltimore, aes(x = x, y = y), alpha = 1, color = "red", shape=2, size=6)
+l
 
 
-#ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.tif", plot=j, dpi=500, device="tiff", width=10, height=10) 
+k2 <- j + annotate("rect", xmin = 0.12, xmax = 0.4, ymin = 0.5, ymax = 0.81,  alpha = .2, fill = "blue")
+
+
 ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.svg", plot=j, dpi=500, device="svg", width=10, height=10) 
 ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore.png", plot=j, dpi=500, device="png", width=10, height=10) 
 ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.svg", plot=k2, dpi=500, device="svg", width=10, height=10) 
@@ -430,12 +473,6 @@ ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate.png", plot=k2, dpi=
 ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.svg", plot=k, dpi=500, device="svg", width=10, height=10) 
 ggsave("Hours_Virgin.sup70.withoutTours16-Baltimore-annotate-focus.png", plot=k, dpi=500, device="png", width=10, height=10) 
 
-
-blob <- as.data.frame(cbind(net2 %v% "vertex.names", net2 %v% "degree", net2 %v% "betweenness"))
-colnames(blob) <- c("use", "degree", "betweenness")
-blob$degree <- as.numeric(blob$degree)
-blob$betweenness <- as.numeric(blob$betweenness)
-ggplot(blob, aes(x=degree)) +   geom_bar()
 
 
 
