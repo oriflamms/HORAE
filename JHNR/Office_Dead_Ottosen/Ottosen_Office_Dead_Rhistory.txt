@@ -435,12 +435,6 @@ zz <- z +
 zz
 
 ggplotly(zz)
-
-ggsave("Ottosen-SETS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
-ggsave("Ottosen-SETS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
-
-zz
-
 ggsave("Ottosen-MSS-sup5-annotate.svg", plot=zz, dpi=500, device="svg", width=10, height=10) 
 ggsave("Ottosen-MSS-sup5-annotate.png", plot=zz, dpi=500, device="png", width=10, height=10) 
 
