@@ -221,7 +221,22 @@ dataSGermany <- datapoints %>%
 		str_detect(vertex.names,"Blaubeuren")|
 		str_detect(vertex.names,"Ratisbon")
 	)
-
+dataPoitiers <- datapoints %>% filter(str_detect(vertex.names,"^Poitiers_"))
+dataAurillac <- datapoints %>% filter(str_detect(vertex.names,"^Aurillac_"))
+dataRuf <- datapoints %>% 
+	filter(
+		str_detect(vertex.names,"^St. Rufus")|
+		str_detect(vertex.names,"^Evora")|
+		str_detect(vertex.names,"^Santa Cruz de Coimbra")|
+		str_detect(vertex.names,"^St. James of Compostela")|
+		str_detect(vertex.names,"^Braga")|
+		str_detect(vertex.names,"^Tortosa")|
+		str_detect(vertex.names,"^Grasse")
+		)
+	
+	
+	
+	
 z <- g + 
 	geom_point(data = dataParis, aes(x = x, y = y), alpha = 0.5, color = "blue") +
 	geom_point(data = dataUtrecht, aes(x = x, y = y), alpha = 0.5, color = "green") +
@@ -229,28 +244,35 @@ z <- g +
 	geom_point(data = dataRoman, aes(x = x, y = y), alpha = 0.5, color = "orange") +
 	geom_point(data = dataCambrai, aes(x = x, y = y), alpha = 0.5, color = "red") +
 	geom_point(data = dataTours, aes(x = x, y = y), alpha = 0.5, color = "purple") +
-	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
+	geom_point(data = dataBourges, aes(x = x, y = y), alpha = 0.5, color = "grey") +
 	geom_point(data = dataTroyes, aes(x = x, y = y), alpha = 0.5, color = "lightblue") + 
 	geom_point(data = dataFlandersScandinavia, aes(x = x, y = y), alpha = 0.5, color = "yellow") +
 	geom_point(data = dataParisCluster, aes(x = x, y = y), alpha = 0.5, color = "cyan") +
-	geom_point(data = dataSGermany, aes(x = x, y = y), alpha = 0.5, color = "purple")
-z
+	geom_point(data = dataSGermany, aes(x = x, y = y), alpha = 0.5, color = "purple") +
+	geom_point(data = dataPoitiers, aes(x = x, y = y), alpha = 0.5, color = "pink") +
+	geom_point(data = dataAurillac, aes(x = x, y = y), alpha = 0.5, color = "pink") +
+	geom_point(data = dataRuf, aes(x = x, y = y), alpha = 0.5, color = "blue")
+
+# z
 
 zz <- z + 
-		annotate("text", x=0.93, y=0.5, label="Paris", color="blue", size=4) +
-		annotate("text", x=0.93, y=0.48, label="Beauvais, Meaux, Soissons, etc.", color="cyan", size=3) +
-		annotate("text", x=0.16, y=0.65, label="Utrecht", color="green", size=4) +
-		annotate("text", x=0.17, y=0.63, label="Windesheim", color="darkgreen", size=4) +
-		annotate("text", x=0.75, y=0.73, label="Utrecht", color="green", size=4) +
-		annotate("text", x=0.77, y=0.71, label="Windesheim", color="darkgreen", size=4) +
-		annotate("text", x=0.57, y=0.42, label="Rome", color="orange", size=4) +
-		annotate("text", x=0.34, y=0.08, label="Cambrai", color="red", size=4) +
-		annotate("text", x=0.41, y=0.42, label="Tours", color="purple", size=4) +
-		annotate("text", x=0.36, y=0.6, label="Troyes", color="lightblue", size=4) +
- 		annotate("text", x=0.47, y=0.9, label="Flanders and \nScandinavia", color="yellow2", size=4) +
-		annotate("text", x=0.38, y=0.80, label="Southern Germany", color="purple", size=4) +
+		annotate("text", x=0.93, y=0.5, label="Paris", color="blue", size=6) +
+		annotate("text", x=0.93, y=0.45, label="Beauvais, Meaux, \nSoissons, etc.", color="cyan", size=4) +
+		annotate("text", x=0.2, y=0.65, label="Utrecht", color="green", size=6) +
+		annotate("text", x=0.17, y=0.61, label="Windesheim", color="darkgreen", size=6) +
+		annotate("text", x=0.75, y=0.73, label="Utrecht", color="green", size=6) +
+		annotate("text", x=0.77, y=0.69, label="Windesheim", color="darkgreen", size=6) +
+		annotate("text", x=0.57, y=0.42, label="Rome", color="orange", size=6) +
+		annotate("text", x=0.34, y=0.09, label="Cambrai", color="red", size=6) +
+		annotate("text", x=0.41, y=0.42, label="Tours", color="purple", size=6) +
+		annotate("text", x=0.38, y=0.62, label="Troyes", color="lightblue", size=6) +
+ 		annotate("text", x=0.47, y=0.9, label="Flanders and \n\tScandinavia", color="yellow2", size=6) +
+		annotate("text", x=0.38, y=0.80, label="Southern Germany", color="purple", size=6) +
+		annotate("text", x=0.77, y=0.16, label="Poitiers", color="pink", size=6) +
+		annotate("text", x=0.95, y=0.62, label="Aurillac", color="pink", size=6) +
+		annotate("text", x=0.1, y=0.32, label="St. Ruf", color="blue", size=6) +
 		theme_blank()
-#zz
+zz
 
 ggplotly(zz)
 

@@ -77,6 +77,9 @@ head(data)
 edges <- cbind(data$mssHID, data$target)
 colnames(edges) <- c("from", "to")
 write.csv(edges, "MSS-Uses.csv", fileEncoding="utf-8", row.names=FALSE)
+#edges <- read.csv("MSS-Uses.csv", encoding="UTF-8", sep=",", header = TRUE) 			#to restart from here
+# edges <- as.data.frame(edges)
+# edges$from <- as.character(edges$from)
 
 set.seed(42)
 net <- network(as.data.frame(edges), directed=FALSE, matrix.type="edgelist")
@@ -173,7 +176,7 @@ delete.vertices(net, d)
 #    betweenness degree Label Type vertex.names vertex.sizes 
 #
 # Edge attribute names not shown 
-> 
+
 
 
 set.seed(142)
@@ -228,8 +231,20 @@ m <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", 				#layout choice: ka
         
 
 m
-
+ggplotly(m)
 ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1.png", plot=m, dpi=500, device="png", width=10, height=10) 
 ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1.svg", plot=m, dpi=500, device="svg", width=10, height=10) 
 
+
+
+n <- m + annotate("text", 
+				x = c(0.1,	  0.75, 	0.35, 	0.89, 	0.5, 	0.65), 
+				y = c(0.4,	  0.7, 		0.64, 	0.41, 	0.83, 	0.37), 
+           label = c("Paris", "Rome", "Amiens", "Sarum", "Arras", "Besançon") , color="darkblue", 
+           size=8 , angle=0, fontface="bold")
+n
+
+
+ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1-annotated.png", plot=n, dpi=500, device="png", width=10, height=10) 
+ggsave("Hybrid_Virgin_Dead-fruchtermanreingold-without-degree-1-annotated.svg", plot=n, dpi=500, device="svg", width=10, height=10) 
 
