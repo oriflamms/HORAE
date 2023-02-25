@@ -4044,23 +4044,26 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                         pâle et rose, les uns et les autres agrémentés de rinceaux, de fleurs et de
                         fruits peints au naturel, d’insectes et d’oiseaux.</decoNote>
                               <decoNote>La décoration comprend ensuite vingt et une petites
-                        miniatures d’une autre main et d’une meilleure facture, presque toute sur
-                        fonds analogues : fol. 35 v°, s. Jean l’évangéliste ; 36 v°, s. Luc ; 38, s.
-                        Matthieu ; 39 v°, s. Marc ; 59 v°, la Visitation ; 70, la Nativité ; 74,
-                        l’annonce aux bergers ; 78, l’Épiphanie ; 81 v°, la présentation de l’enfant
-                        Jésus au Temple ; 85 v°, le<hi style="color:red; font-size: 14pt; font-weight:bold;" rend="ERROR">�</hi>
+                                 miniatures d’une autre main et d’une meilleure facture, presque
+                                 toute sur fonds analogues : fol. 35 v°, s. Jean l’évangéliste ; 36
+                                 v°, s. Luc ; 38, s. Matthieu ; 39 v°, s. Marc ; 59 v°, la
+                                 Visitation ; 70, la Nativité ; 74, l’annonce aux bergers ; 78,
+                                 l’Épiphanie ; 81 v°, la présentation de l’enfant Jésus au Temple ;
+                                 85 v°, le<hi style="color:red; font-size: 14pt; font-weight:bold;"
+                                    rend="ERROR">�</hi>
                                  <note place="margin" type="conversion" resp="#teitodocx">
                                     <hi rend="docxError">unable to handle picture here, no embed or
-                                link</hi>
-                                 </note> massacre des saints Innocents ; 92, la fuite en
-                        Égypte ; 97, le couronnement de la Vierge ; 168, <hi rend="italic">Pietà</hi> ; 172 v°, s. Jean-Baptiste ; 173, s. Pierre et s. Paul ; 173
-                        v°, s. Georges vainqueur du dragon ; 174 v°, s. Christophe portant l’enfant
-                        Jésus ; 175 v°. stc Catherine ; 176. ste Barbe ; 177, ste Marguerite; 177
-                        v°, ste Marie-Madeleine. Toutes ces miniatures sont accompagnées de bordures
-                        ornées de rinceaux de couleur, de fleurs, d’oiseaux et d’insectes. —
-                        Quelques grandes initiales feuillées sur fonds d'or. Petites initiales d’or
-                        sur fond azur <hi style="font-size:13pt" xml:space="preserve">et </hi>lilas
-                        relevé de blanc.</decoNote>
+                                       link</hi>
+                                 </note> massacre des saints Innocents ; 92, la fuite en Égypte ;
+                                 97, le couronnement de la Vierge ; 168, <hi rend="italic"
+                                    >Pietà</hi> ; 172 v°, s. Jean-Baptiste ; 173, s. Pierre et s.
+                                 Paul ; 173 v°, s. Georges vainqueur du dragon ; 174 v°, s.
+                                 Christophe portant l’enfant Jésus ; 175 v°. stc Catherine ; 176.
+                                 ste Barbe ; 177, ste Marguerite; 177 v°, ste Marie-Madeleine.
+                                 Toutes ces miniatures sont accompagnées de bordures ornées de
+                                 rinceaux de couleur, de fleurs, d’oiseaux et d’insectes. — Quelques
+                                 grandes initiales feuillées sur fonds d'or. Petites initiales d’or
+                                 sur fond azur et lilas relevé de blanc.</decoNote>
                            </decoDesc>
                            <bindingDesc>
                               <binding>
@@ -5199,9 +5202,9 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                            <msItem>
                               <locus>143 à 149.</locus>
                               <title>Heures de la croix. </title>
-                              <incipit><locus>143.</locus>Incipit officium sancte crucis.</incipit>
-                              <explicit>
-                                 <locus>149. </locus>Explicit officium sancte crucis. </explicit>
+                              <rubric><locus>143.</locus>Incipit officium sancte crucis.</rubric>
+                              <finalRubric>
+                                 <locus>149. </locus>Explicit officium sancte crucis. </finalRubric>
                               <note>Les fol. 150 et 151 sont restés en blanc.</note>
                            </msItem>
                         </msContents>
@@ -5334,10 +5337,10 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                                     nov.) « Prosdocimi ep. » —(16 nov.) « Eucharii [Eucheriij ep. »
                                     — (17 nov.) « Aniani ep. » — (21 nov.) « Oblatio virginis
                                     Mariae]. »» - (25 nov.) En lettres d’or : « Caterinae virg. et
-                                    mart. » — (26 nov.) « Prosperi ep. » — (14 déc.) « Nicasii ep.
-                                    &gt;» — (17 déc.) « Lazari resuscitati. » — (22 déc.) «
-                                    Theodosie virg. et niart. » — (24 déc.) « Gregorii presb. » —
-                                    (30 déc.) « Sabini ep. et inart. •</ab></note>
+                                    mart. » — (26 nov.) « Prosperi ep. » — (14 déc.) « Nicasii ep. »
+                                    — (17 déc.) « Lazari resuscitati. » — (22 déc.) « Theodosie
+                                    virg. et niart. » — (24 déc.) « Gregorii presb. » — (30 déc.) «
+                                    Sabini ep. et inart. •</ab></note>
                            </msItem>
                            <msItem>
                               <locus>Fol. 15 à 18.</locus>
@@ -5485,28 +5488,25 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                               <decoNote>Fol. 1, la fête des rois : &lt; Le roi boit ! » (janvier,
                                  pl. XXIX) ; 2, paysans se rendant au marché ; les Poissons
                                  (février, pl. XXIX) ; 3, la taille de la vigne ; le Bélier (mars) ;
-                                 4, cavalier partant pour la chasse;
-                                 <hi style="font-size:17pt" xml:space="preserve">le </hi>Taureau
-                                 (avril); 5, scènes galantes : une jeune dame tresse une couronne de
-                                 Heurs pendant qu’un seigneur lui caresse le visage ; au second
-                                 plan, un couple en promenade à
-                                 <hi style="font-size:17pt" xml:space="preserve">l’orée </hi>d’un
-                                 bois au sonde la flûte et du tambourin ; les Gémeaux (mai, pl. XXX)
-                                 ; 6, la tonte des moutons (à l’arrière-plan : un moulin à eau) ; le
-                                 Cancer (juin) ; 7, la fenaison ; deux faucheurs, l’un d’eux lance
-                                 sa faux dans l’herbe épaisse pendant que l’autre se rafraîchit à sa
-                                 gourde (juillet) ; 8, la moisson : une femme coupe le blé à la
-                                 faucille, une autre dispose deux javelles l’une sur l’autre
-                                 cependant qu’un homme lie une gerbe ; à l’arrière-plan, un moulin à
-                                 vent (août, pl. XXX) ; 9, labourages et semailles : un paysan
-                                 conduit une charrue traînée par deux chevaux pendant qu’un autre
-                                 sème le grain (septembre) ; 10, la vendange : deux femmes cueillent
-                                 le raisin ; une troisième déverse le contenu d’un panier dans la
-                                 hotte d’un vigneron ; le Scorpion (octobre) ; 11, un troupeau de
-                                 porcs et son gardien; le Sagittaire (novembre) ; 12, la saignée du
-                                 porc: une femme recueille le sang dans une bassine de cuivre; deux
-                                 autres personnages regardent la scène; paysage d’hiver
-                                 (décembre).</decoNote>
+                                 4, cavalier partant pour la chasse; le Taureau (avril); 5, scènes
+                                 galantes : une jeune dame tresse une couronne de Heurs pendant
+                                 qu’un seigneur lui caresse le visage ; au second plan, un couple en
+                                 promenade à l’orée d’un bois au sonde la flûte et du tambourin ;
+                                 les Gémeaux (mai, pl. XXX) ; 6, la tonte des moutons (à
+                                 l’arrière-plan : un moulin à eau) ; le Cancer (juin) ; 7, la
+                                 fenaison ; deux faucheurs, l’un d’eux lance sa faux dans l’herbe
+                                 épaisse pendant que l’autre se rafraîchit à sa gourde (juillet) ;
+                                 8, la moisson : une femme coupe le blé à la faucille, une autre
+                                 dispose deux javelles l’une sur l’autre cependant qu’un homme lie
+                                 une gerbe ; à l’arrière-plan, un moulin à vent (août, pl. XXX) ; 9,
+                                 labourages et semailles : un paysan conduit une charrue traînée par
+                                 deux chevaux pendant qu’un autre sème le grain (septembre) ; 10, la
+                                 vendange : deux femmes cueillent le raisin ; une troisième déverse
+                                 le contenu d’un panier dans la hotte d’un vigneron ; le Scorpion
+                                 (octobre) ; 11, un troupeau de porcs et son gardien; le Sagittaire
+                                 (novembre) ; 12, la saignée du porc: une femme recueille le sang
+                                 dans une bassine de cuivre; deux autres personnages regardent la
+                                 scène; paysage d’hiver (décembre).</decoNote>
                               <decoNote>L’illustration du volume comprend ensuite dix-sept
                                  miniatures à pleine page dont les fonds sont occupés par des
                                  paysages ou des intérieurs. Fol. 14 v°, s. Jean à Patmos ; 18 v°,
