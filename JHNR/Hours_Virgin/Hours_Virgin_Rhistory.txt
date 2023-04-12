@@ -13,8 +13,9 @@
 #-----------------------------------------------------------------------------------------------------------------------
 ### Libraries
 
+#--- uncomment install.packages if necessary
+# install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "ggforce", "sna"))
 
-install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "ggforce", "sna"))
 library(tidyverse)
 library(dplyr)
 library(MASS)
