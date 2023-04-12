@@ -83,10 +83,15 @@ ggsave(nb.recordedTexts, file="Hours_Virgin.nb.recordTexts.png", device=png)
 
 #violin/jitter boxplot
 stats$Use <- "Use"
-nb.recordedTexts2 <- ggplot(stats, aes(x=Use, y=n)) + geom_violin() + geom_jitter(color="purple", shape=3, size=0.5, alpha=0.9)
+nb.recordedTexts2 <- ggplot(stats, aes(x=Use, y=n)) + 
+	geom_violin() + geom_jitter(color="purple", shape=3, size=0.5, alpha=0.9) +
+	geom_boxplot(colour="pink", outlier.colour="pink", outlier.shape=12, outlier.size=1, notch=FALSE, alpha=0.1) +
+	xlab("") +
+	ylab("Number of recorded texts")
+nb.recordedTexts2 
+
 ggsave(nb.recordedTexts2, file="Hours_Virgin.nb.recordTexts.violin.svg", device=svg)
 ggsave(nb.recordedTexts2, file="Hours_Virgin.nb.recordTexts.violin.png", device=png)
-
 
 
 #----------------------------------------------------------------------------------------------------------------------
