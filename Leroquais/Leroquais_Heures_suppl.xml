@@ -29,6 +29,10 @@
                   <resp>Structuration et encodage</resp>
                   <name>Pata, Gwenaëlle</name>
                </respStmt>
+               <respStmt>
+                  <resp>Structuration et encodage</resp>
+                  <name>Faller, Úna</name>
+               </respStmt>
             </titleStmt>
            <editionStmt>
               <edition>
@@ -520,7 +524,7 @@
                            <idno>ms. lat. nouv. acq., 3055.</idno>
                         </msIdentifier>
                         <msContents>
-                           <summary/>
+                           <summary>HEURES A L’USAGE DE ROME OU HEURES DE JEAN SANS PEUR, DUC DE BOURGOGNE</summary>
                            <msItem>
                               <locus>Fol. 1 à 12.</locus>
                               <title> Calendrier en français indiquant un saint pour chaque jour de
@@ -4894,7 +4898,7 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                               <rubric>Oremus.</rubric>
                               <incipit>Respice, Domine sancte. Pater omnipotens, eterne Deus, de
                                  sanctuario tuo et de excelso colorum habitaculo...</incipit>
-                              <quote><locus>55</locus>  ...et in futuro gloriam eternam perfrui.
+                              <quote><locus>55</locus> ...et in futuro gloriam eternam perfrui.
                                  Domine Ihesu Christe, qui mundum proprio sanguine redemisti, exaudi
                                  me peccatorem et cotidie peccantem...</quote>
                               <explicit>
@@ -4904,12 +4908,12 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                            <msItem>
                               <incipit>Domine Ihesu Christe, Fili Dei vivi, redemptor mundi, defende
                                  me de manu inimicorum meorum...</incipit>
-                              <explicit><locus>56 v°</locus>  ...quia Deus meus es tu. Amen.
+                              <explicit><locus>56 v°</locus> ...quia Deus meus es tu. Amen.
                               </explicit>
                            </msItem>
                            <msItem>
                               <incipit>O bone Iesu, o dulcissime Iesu, o piissime Iesu...</incipit>
-                              <explicit><locus>57</locus>  ...nomen tuum quod est Ihesus. Amen.
+                              <explicit><locus>57</locus> ...nomen tuum quod est Ihesus. Amen.
                               </explicit>
                            </msItem>
                            <msItem>
@@ -4947,13 +4951,13 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                                  <ab> 61 v°. S. Salvius ep. et conf. </ab>
                               </msItem>
                               <msItem>
-                                 <ab>S. Antonius de Padua.  </ab>
+                                 <ab>S. Antonius de Padua. </ab>
                               </msItem>
                               <msItem>
                                  <ab>63. S. Ouintinus mart.</ab>
                               </msItem>
                               <msItem>
-                                 <ab>S. Fiacrius conf.  </ab>
+                                 <ab>S. Fiacrius conf. </ab>
                               </msItem>
                               <msItem>
                                  <ab>63. S. Antonius abb. </ab>
@@ -4968,13 +4972,13 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                                  <ab> S. Catherina virg. et mart. </ab>
                               </msItem>
                               <msItem>
-                                 <ab>65 v°. S. Maria Magdalena.  </ab>
+                                 <ab>65 v°. S. Maria Magdalena. </ab>
                               </msItem>
                               <msItem>
                                  <ab>S. Margarita.</ab>
                               </msItem>
                               <msItem>
-                                 <ab> 66. S. Apollonia.  </ab>
+                                 <ab> 66. S. Apollonia. </ab>
                               </msItem>
                               <msItem>
                                  <locus>66 v° à 68.</locus>
@@ -4984,7 +4988,7 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                                  <explicit> ...ab omnibus malis.</explicit>
                               </msItem>
                               <msItem>
-                                 <ab> 68 v°. S. Iohannes evang.  </ab>
+                                 <ab> 68 v°. S. Iohannes evang. </ab>
                               </msItem>
                               <msItem>
                                  <ab>S. Franciscus Assisiensis. </ab>
@@ -4997,10 +5001,10 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                               <msItem>
                                  <locus>71.</locus>
                                  <incipit>Obsecro te, domina sancta Maria, mater Dei... </incipit>
-                                 <quote><locus>71 v°</locus>  Et michi famulo tuo impetres a dilecto
+                                 <quote><locus>71 v°</locus> Et michi famulo tuo impetres a dilecto
                                     Filio tuo... </quote>
                                  <explicit>
-                                    <locus>72</locus>  ...mater Dei et misericordie. </explicit>
+                                    <locus>72</locus> ...mater Dei et misericordie. </explicit>
                               </msItem>
                            </msItem>
                         </msContents>
@@ -5011,7 +5015,8 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                                     <material>Parchemin</material>
                                  </support>
                                  <extent>
-                                    <measure type="composition" unit="leaf" quantity="73">73 ff. à longues lignes. </measure>
+                                    <measure type="composition" unit="leaf" quantity="73">73 ff. à
+                                       longues lignes. </measure>
                                     <dimensions scope="all" type="leaf" unit="mm">
                                        <height quantity="203"/>
                                        <width quantity="130"/>
@@ -5024,45 +5029,49 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                            </objectDesc>
                            <decoDesc>
                               <decoNote> La décoration de ce manuscrit se compose principalement de
-                        quinze miniatures à pleine page d’exécution assez banale. Fol. 8 la
-                        salutation angélique (Matines de la Vierge) ; 13, la Visitation (Laudes) ;
-                        18, la Nativité (Prime) ; 20, l’annonce aux bergers (Tierce; ; 22,
-                        l’Épiphanie (Sexte) ; 24, la présentation de l’enfant Jésus au Temple (Noue)
-                        ; 26, la fuite en Égypte (Vêpres) ; 29, le couronnement de la Vierge
-                        (Complics) ; 30 v°, David en prière (Psaumes de la pénitence) ; 35 v°,
-                        service funèbre (Office des morts) ; 52 v°, l’arrestation de Jésus au jardin
-                        des Oliviers ; 57 v°, la messe de saint Grégoire ; 59 v°, Vierge à l'enfant
-                        ; 62 v°, s. André ; 69, la résurrection des morts.</decoNote>
+                                 quinze miniatures à pleine page d’exécution assez banale. Fol. 8 la
+                                 salutation angélique (Matines de la Vierge) ; 13, la Visitation
+                                 (Laudes) ; 18, la Nativité (Prime) ; 20, l’annonce aux bergers
+                                 (Tierce; ; 22, l’Épiphanie (Sexte) ; 24, la présentation de
+                                 l’enfant Jésus au Temple (Noue) ; 26, la fuite en Égypte (Vêpres) ;
+                                 29, le couronnement de la Vierge (Complics) ; 30 v°, David en
+                                 prière (Psaumes de la pénitence) ; 35 v°, service funèbre (Office
+                                 des morts) ; 52 v°, l’arrestation de Jésus au jardin des Oliviers ;
+                                 57 v°, la messe de saint Grégoire ; 59 v°, Vierge à l'enfant ; 62
+                                 v°, s. André ; 69, la résurrection des morts.</decoNote>
                               <decoNote>La décoration comprend en second lieu les vingt petites
-                        miniatures qui décorent les suffrages. Fol. 60 v°, s. Michel ; s.
-                        Jean-Baptiste ; 61, s. Pierre et s. Paul ; s. Nicolas et les trois petits
-                        enfants ; 61
-                        <hi style="font-size:13pt" xml:space="preserve">v°, s. </hi>Salve, évêque
-                        d'Amiens ; s. Antoine de Padoue ; 62
-                        <hi style="font-size:13pt" xml:space="preserve">s. , </hi>Laurent ; 63, s.
-                        Quentin ; s. Fiacre ; 63 v°, s. Antoine ermite ; 64.
-                        <hi style="font-size:13pt" xml:space="preserve">s. </hi>Christophe ; 64 v°,
-                        s. Jacques le Majeur ; 65, ste Barbe ; ste Catherine d'Alexandrie ; 65 v°,
-                        ste Marie-Madeleine ; ste Marguerite d’Antioche ; 66, ste Apolline ; 66 v°,
-                        Vierge à l’Enfant ; 68 v°, s. Jean l'évangéliste ; s. François d'Assise et
-                        les stigmates. Nombreux encadrements et bordures à compartiments ; les uns
-                        et les autres sont agrémentés de rinceaux de couleurs, de fleurs et de
-                        fruits peints au naturel sur fond d'or mat, d’oiseaux et d’insectes, de
-                        monstres de tout genre et de grotesques. — Quelques initiales fleuries sur
-                        fond d’or mat. — Petites initiales d’or sur fonds unicolores. — Nombreux
-                        bouts de lignes (beaucoup de branches écotées).</decoNote>
+                                 miniatures qui décorent les suffrages. Fol. 60 v°, s. Michel ; s.
+                                 Jean-Baptiste ; 61, s. Pierre et s. Paul ; s. Nicolas et les trois
+                                 petits enfants ; 61
+                                 <hi style="font-size:13pt" xml:space="preserve">v°, s. </hi>Salve,
+                                 évêque d'Amiens ; s. Antoine de Padoue ; 62
+                                 <hi style="font-size:13pt" xml:space="preserve">s. , </hi>Laurent ;
+                                 63, s. Quentin ; s. Fiacre ; 63 v°, s. Antoine ermite ; 64.
+                                 <hi style="font-size:13pt" xml:space="preserve">s. </hi>Christophe
+                                 ; 64 v°, s. Jacques le Majeur ; 65, ste Barbe ; ste Catherine
+                                 d'Alexandrie ; 65 v°, ste Marie-Madeleine ; ste Marguerite
+                                 d’Antioche ; 66, ste Apolline ; 66 v°, Vierge à l’Enfant ; 68 v°,
+                                 s. Jean l'évangéliste ; s. François d'Assise et les stigmates.
+                                 Nombreux encadrements et bordures à compartiments ; les uns et les
+                                 autres sont agrémentés de rinceaux de couleurs, de fleurs et de
+                                 fruits peints au naturel sur fond d'or mat, d’oiseaux et
+                                 d’insectes, de monstres de tout genre et de grotesques. — Quelques
+                                 initiales fleuries sur fond d’or mat. — Petites initiales d’or sur
+                                 fonds unicolores. — Nombreux bouts de lignes (beaucoup de branches
+                                 écotées).</decoNote>
                            </decoDesc>
                            <bindingDesc>
                               <binding>
-                                 <p>Belle reliure à la fanfare maroquin brun clair (vers 1600) ;
-                        un seul fermoir ; l’autre a disparu.</p>
+                                 <p>Belle reliure à la fanfare maroquin brun clair (vers 1600) ; un
+                                    seul fermoir ; l’autre a disparu.</p>
                               </binding>
                               <binding>
                                  <p>
-                                    <hi style="color:red; font-size: 14pt; font-weight:bold;" rend="ERROR">�</hi>
+                                    <hi style="color:red; font-size: 14pt; font-weight:bold;"
+                                       rend="ERROR">�</hi>
                                     <note place="margin" type="conversion" resp="#teitodocx">
-                                       <hi rend="docxError">unable to handle picture here, no
-                                embed or link</hi>
+                                       <hi rend="docxError">unable to handle picture here, no embed
+                                          or link</hi>
                                     </note>
                                  </p>
                               </binding>
@@ -5070,12 +5079,13 @@ La bibliothèque Smith-Lesouëf a été donnée en 1913 à la Bibliothèque nati
                         </physDesc>
                         <history>
                            <origin>
-                              <p>Ce manuscrit est un livre d’heures à l’usage de Rome : l’office
-                        de la Vierge et celui des morts autorisent pleinement cette attribution.
-                        L’écriture et la décoration sont françaises. Le calendrier est celui
-                        d’Amiens, et tout porte à croire qu’il a été composé et copié pour cette
-                        région. Les prières sont rédigées au masculin. L’écriture et la décoration
-                        dénotent la fin du xv<hi rend="superscript">e</hi> siècle.</p>
+                              <p>Ce manuscrit est un livre d’heures à l’usage de Rome : l’office de
+                                 la Vierge et celui des morts autorisent pleinement cette
+                                 attribution. L’écriture et la décoration sont françaises. Le
+                                 calendrier est celui d’Amiens, et tout porte à croire qu’il a été
+                                 composé et copié pour cette région. Les prières sont rédigées au
+                                 masculin. L’écriture et la décoration dénotent la fin du xv<hi
+                                    rend="superscript">e</hi> siècle.</p>
                            </origin>
                         </history>
                      </msDesc>
