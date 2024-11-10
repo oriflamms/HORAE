@@ -1,547 +1,546 @@
-"","Location","# witnesses by Location","# sets of responsories by Location"
-"1","",141,109
-"2","A North Italian Nunnery",2,1
-"3","Aberdeen",2,1
-"4","Abo",1,1
-"5","Adge",2,1
-"6","Agen",2,1
-"7","Agram",2,2
-"8","Aix-en-Provence",2,1
-"9","Aix-la-Chapelle",1,1
-"10","Alba Julia",2,2
-"11","Ambronay",1,1
-"12","Ambrosian",5,5
-"13","Amiens",18,6
-"14","Amiens(OSB)",1,1
-"15","Anchin",1,1
-"16","Andres",1,1
-"17","Angers",13,4
-"18","Angers (?)",1,1
-"19","Angouleme",2,2
-"20","Aniane",3,2
-"21","Antonite",4,1
-"22","Antwerp",3,2
-"23","Aosta",4,2
-"24","Apt",3,1
-"25","Aquilaea Süddeutsch",1,1
-"26","Aquileia",8,5
-"27","Arezzo",1,1
-"28","Arhus",1,1
-"29","Arles",4,1
-"30","Arles-sur-Tech",1,1
-"31","Arras",11,4
-"32","Ascoli Piceno",1,1
-"33","Asti",1,1
-"34","Auch",1,1
-"35","Augsburg",3,1
-"36","Augsburg (cathedral)",1,1
-"37","Aurillac",1,1
-"38","Austin Friars",2,2
-"39","Autun",11,3
-"40","Auxerre",5,1
-"41","Aversa",1,1
-"42","Avranches",5,2
-"43","Badia Florence",1,1
-"44","Bamberg",14,6
-"45","Barcelona",1,1
-"46","Basle",8,3
-"47","Basle St. Leonhard",1,1
-"48","Bayeux",12,2
-"49","Bazas",1,1
-"50","Beaulieu-les-le-Mans",3,2
-"51","Beaulieu-les-Loches",2,2
-"52","Beaumont-les-Tours",1,1
-"53","Beauvais",10,4
-"54","Bec",2,1
-"55","Belley",1,1
-"56","Bergamo",1,1
-"57","Besancon",18,5
-"58","Beziers",1,1
-"59","Blaubeuren",3,3
-"60","Bobbio",3,3
-"61","Bodmin",1,1
-"62","Bologna",1,1
-"63","Bonne Nouvelle",1,1
-"64","Bordeaux",3,2
-"65","Bourges",10,2
-"66","Bourgueil",2,2
-"67","Braga",6,5
-"68","Brandenburg",1,1
-"69","Bremen",3,2
-"70","Breslau",1,1
-"71","Brigittine",4,1
-"72","Brigittine (Syon)",1,1
-"73","Brioude",3,1
-"74","Brixen",2,2
-"75","Brixen diocese",2,2
-"76","Brooholm",1,1
-"77","Brussels",4,3
-"78","Burgos",4,2
-"79","Bursfeld",4,1
-"80","Camaldolese",2,2
-"81","Camaldolese (Florence)",1,1
-"82","Camaldolese (Rome)",2,2
-"83","Cambrai",25,3
-"84","Canterbury",2,1
-"85","Capua",1,1
-"86","Carcassonne",2,1
-"87","Carinola",1,1
-"88","Carmelite",10,1
-"89","Carpentras",1,1
-"90","Carthusian",19,1
-"91","Carthusian (Beaune)",3,2
-"92","Carthusian (Montefusco)",1,1
-"93","Carthusian (St. Omer)",1,1
-"94","Carthusian(S. Martino)",1,1
-"95","Cavaillon",1,1
-"96","Celestine",7,2
-"97","Chaise-Dieu",3,2
-"98","Chalon-sur-Saone",5,1
-"99","Chalons-sur-Marne",14,2
-"100","Chartres",13,5
-"101","Chester",2,2
-"102","Chezal-Benoit",3,1
-"103","Chiemsee",1,1
-"104","Chur",2,1
-"105","Cismar",2,1
-"106","Cistercian",23,2
-"107","Cividale",1,1
-"108","Clermont-Ferrand",12,4
-"109","Cluny",2,1
-"110","Cologne",8,4
-"111","Como",3,3
-"112","Compostela",2,1
-"113","Constance",5,2
-"114","Cormery",1,1
-"115","Corssendonck",1,1
-"116","Couserans",1,1
-"117","Coutances",10,4
-"118","Cracow",1,1
-"119","Croix-St-Leufroy",2,1
-"120","Crowland",1,1
-"121","Cuenca",1,1
-"122","Dax",1,1
-"123","Deventer",2,2
-"124","Die",1,1
-"125","Diessen",1,1
-"126","Dijon",1,1
-"127","Dol",3,3
-"128","Dominican",30,4
-"129","Dominican Vienna",1,1
-"130","Durham",3,3
-"131","Eberhardsklausen",2,2
-"132","Eichstätt",8,3
-"133","Einsiedeln",1,1
-"134","Elne",3,2
-"135","Embrun",5,1
-"136","Erfurt",2,2
-"137","Essommes",1,1
-"138","Ettenheimmünster",1,1
-"139","Evesham",2,2
-"140","Evora",3,1
-"141","Evreux",12,5
-"142","Faremoutiers",1,1
-"143","Fecamp",4,2
-"144","Ferrara",1,1
-"145","Florence",2,2
-"146","Fontevrault",1,1
-"147","Franciscan",13,3
-"148","Freising",1,1
-"149","Freising (printed in 1516)",4,2
-"150","Frejus",3,1
-"151","French",1,1
-"152","Fritzlar",2,1
-"153","Fulda",3,3
-"154","Gap",2,2
-"155","Geneva",5,1
-"156","Genlis",1,1
-"157","German Observance",1,1
-"158","Gerona",1,1
-"159","Ghistelles",1,1
-"160","Glandeves",1,1
-"161","Gnesen",1,1
-"162","Gondekar's Pontificial",1,1
-"163","Gran",4,2
-"164","Grandmontine",5,1
-"165","Grasse",2,1
-"166","Grenoble",4,1
-"167","Grossmünster",1,1
-"168","Guisborough",2,1
-"169","Halberstadt",2,2
-"170","Halle",2,2
-"171","Hamburg",3,2
-"172","Hasnon",1,1
-"173","Hastieres",2,2
-"174","Havelberg",1,1
-"175","Heidenheim",1,1
-"176","Heiligenkreuz",1,1
-"177","Henin-Lietard",1,1
-"178","Hereford",2,1
-"179","Hermits of St. Paul",2,2
-"180","Hildesheim",6,5
-"181","Hospitaller Sisters",1,1
-"182","Hospitallers",9,3
-"183","Hours of Marie de Bohun",1,1
-"184","Huesca",1,1
-"185","Humiliati",3,1
-"186","Hyde Abbey",2,1
-"187","Interlaken",1,1
-"188","Ivrea",2,2
-"189","Jaen",1,1
-"190","Jerusalem",2,2
-"191","Josaphat-les-Chartres",1,1
-"192","Jumieges",4,2
-"193","Kitzingen",1,1
-"194","Klosterneuburg",3,3
-"195","Kremsmünster",1,1
-"196","La Couture",1,1
-"197","La Grasse",1,1
-"198","Lambach (OSB)",4,2
-"199","Lambach (OSB)?",1,1
-"200","Landgrave Psalter",1,1
-"201","Langres",6,2
-"202","Laon",6,1
-"203","Lausanne",3,1
-"204","Le Mans",15,4
-"205","Le Puy",4,3
-"206","Leopold's Psalter",2,2
-"207","Lerida",2,1
-"208","Lerins",1,1
-"209","Liege",15,3
-"210","Lille",2,1
-"211","Limoges",5,2
-"212","Lincoln",1,1
-"213","Linköping",9,3
-"214","Lisieux",7,2
-"215","Littlemore",1,1
-"216","Lobbes",1,1
-"217","Lodi",1,1
-"218","Louvain",1,1
-"219","Lübeck",3,1
-"220","Lucca",3,2
-"221","Lucon",1,1
-"222","Lund",5,3
-"223","Lyons",7,2
-"224","Lyre",2,2
-"225","Macon",5,1
-"226","Magdeburg",7,3
-"227","Maguelonne",1,1
-"228","Mainz",13,2
-"229","Mallorca",1,1
-"230","Malta",1,1
-"231","Marbach",2,2
-"232","Marchiennes",2,2
-"233","Margr. Skulesdatter",1,1
-"234","Marguerite's Hours",1,1
-"235","Maria Garten",2,2
-"236","Marmoutier",1,1
-"237","Marseilles",2,1
-"238","Maubeuge",3,2
-"239","Meaux",12,5
-"240","Mechlin",1,1
-"241","Meissen",2,2
-"242","Melk",1,1
-"243","Mende",3,2
-"244","Mercedarians",1,1
-"245","Merseburg",3,3
-"246","Metz",15,4
-"247","Minden",2,2
-"248","Moissac",2,1
-"249","Monastery of Corbie",2,1
-"250","Mondsee",2,2
-"251","Mont-Saint-Eloi",2,1
-"252","Mont-Saint-Michel",4,2
-"253","Mont-Saint-Quentin",2,2
-"254","Montecassino",4,3
-"255","Montier-la-Celle",1,1
-"256","Montieramey",3,3
-"257","Montjoux",1,1
-"258","Montmajour",1,1
-"259","Moosburg",2,2
-"260","Morienval",1,1
-"261","Moutiers-en-Tarentaise",3,2
-"262","Münster",12,5
-"263","Murbach",5,2
-"264","Nantes",12,2
-"265","Narbonne",3,3
-"266","Naumburg",1,1
-"267","Neresheim",1,1
-"268","Neustift?",3,3
-"269","Nevers",4,2
-"270","Nidaros",2,2
-"271","Niederaltaich",2,2
-"272","Nimes",1,1
-"273","Nivelles",2,2
-"274","Northern Italy",1,1
-"275","Norwich (Cathedral) OSB",1,1
-"276","Notre-Dame-des-Pres-les-Troyes",1,1
-"277","Notre-Dame-du-Bon-Conseil",2,1
-"278","Noyon",3,1
-"279","Nursia",1,1
-"280","Ochsenhausen",1,1
-"281","Odense",7,2
-"282","Old Roman",4,4
-"283","Olivetans",2,1
-"284","Olmütz",2,2
-"285","Oloron",1,1
-"286","Orense",1,1
-"287","Orleans",8,2
-"288","Otto of Riedenburg's Pontifici",4,4
-"289","Our Lady of Soisson",1,1
-"290","Oviedo",1,1
-"291","Oxford",1,1
-"292","Padua",1,1
-"293","Pamplona",1,1
-"294","Paris",52,11
-"295","Passau",8,5
-"296","Pavia",3,3
-"297","Perigueux",3,1
-"298","Peronne",1,1
-"299","Peterborough",2,1
-"300","Petersberg",1,1
-"301","Pfalzel",1,1
-"302","Phalempin",1,1
-"303","Piacenza",3,3
-"304","Plasencia",2,2
-"305","Plock",1,1
-"306","Poitiers",14,5
-"307","Pontetetto",2,2
-"308","Poor Clares",3,2
-"309","Porquerolles",1,1
-"310","Prague",9,2
-"311","Premonstratensian",18,3
-"312","Prüm",2,2
-"313","Quimper",1,1
-"314","Raitenbuch",4,2
-"315","Ratisbon",5,1
-"316","Reggio Emilia",3,3
-"317","Reichenhall",4,1
-"318","Remiremont",2,2
-"319","Renaix",1,1
-"320","Rennes",10,3
-"321","Rheims",9,2
-"322","Rheinau",1,1
-"323","Rodez",2,2
-"324","Roman",70,9
-"325","Romano-Germanic Pontificial",4,1
-"326","Roskilde",5,2
-"327","Rouen",36,7
-"328","S. Lorenzo Oulx",1,1
-"329","S. Lupo di Beneveto",3,2
-"330","Sainte-Foy of Conques",1,1
-"331","Saintes",8,2
-"332","Salamanca",1,1
-"333","Salerno",1,1
-"334","Salzburg",3,2
-"335","San Benito el Real",2,2
-"336","San Sisto",1,1
-"337","San Vito",2,2
-"338","Santa Cruz de Coimbra",1,1
-"339","Saragossa",1,1
-"340","Sarum",27,5
-"341","Schleswig",4,2
-"342","Seebach",4,2
-"343","Seez",4,1
-"344","Segovia",1,1
-"345","Seiler-Spital Berne",1,1
-"346","Senlis",8,5
-"347","Senones",1,1
-"348","Sens",12,4
-"349","Sens or Paris",1,1
-"350","Sepulchre de Cambrai",2,2
-"351","Seville",2,1
-"352","Sherborne",2,2
-"353","Siegburg",1,1
-"354","Siena",2,2
-"355","Sigüenza",1,1
-"356","Silos",2,2
-"357","Sion",4,1
-"358","Sisteron",1,1
-"359","Skalholt",1,1
-"360","Skara",1,1
-"361","Soeiro",1,1
-"362","Soignies",2,2
-"363","Soissons",7,5
-"364","Solothurn",1,1
-"365","Solsona",1,1
-"366","Speyer",5,3
-"367","St. Abondino",1,1
-"368","St. Acheul",1,1
-"369","St. Albans",1,1
-"370","St. Amand",4,3
-"371","St. Andrews Cologne",3,2
-"372","St. Arnulf",4,3
-"373","St. Aubin",2,1
-"374","St. Barnard-de-Romans",2,1
-"375","St. Bavon",1,1
-"376","St. Bees",1,1
-"377","St. Benigne-de-Dijon",2,1
-"378","St. Benoit-sur-Loire",4,2
-"379","St. Bertin",3,2
-"380","St. Brieuc",3,2
-"381","St. Corneille-de-Compiegne",2,2
-"382","St. Cugat",1,1
-"383","St. Cyran",1,1
-"384","St. Denis",6,6
-"385","St. Denis Rheims",1,1
-"386","St. Donatian of Bruges",2,2
-"387","St. Emillion",1,1
-"388","St. Emmeram",4,3
-"389","St. Etienne-de-Dijon",1,1
-"390","St. Etienne-de-Troyes",2,2
-"391","St. Eutizio",1,1
-"392","St. Fabian of Fibbia",1,1
-"393","St. Faron",1,1
-"394","St. Felicity Münsterschwarzach",2,2
-"395","St. Feliu",1,1
-"396","St. Florent-les-Saumur",1,1
-"397","St. Florinus Coblenz",1,1
-"398","St. Fredian's",1,1
-"399","St. Frideswide Oxford",1,1
-"400","St. Fuscien",2,2
-"401","St. Gallen",2,2
-"402","St. Georg Prüfening",3,3
-"403","St. George Prague",1,1
-"404","St. Germain-des-Pres",3,2
-"405","St. Gery",3,1
-"406","St. Ghislain",5,5
-"407","St. Hilaire-le-Grand",1,1
-"408","St. Irminen Trier",1,1
-"409","St. Jacut-de-la-Mer",1,1
-"410","St. James of Compostela",1,1
-"411","St. James of Melun",1,1
-"412","St. Jean-de-Maurienne",2,2
-"413","St. Jean-en-Vallee",2,2
-"414","St. Jean de Chalons",8,4
-"415","St. John's of Monza",2,2
-"416","St. Julian",1,1
-"417","St. Lambrecht",2,2
-"418","St. Laumer",1,1
-"419","St. Lo-de-Coutances",1,1
-"420","St. Lo-de-Rouen",3,2
-"421","St. Magloire-de-Lehon",1,1
-"422","St. Malo",1,1
-"423","St. Martial",6,3
-"424","St. Martin's at Tours",1,1
-"425","St. Martin-aux-Jumeaux",2,2
-"426","St. Martin-les-Bourges (?)",1,1
-"427","St. Martin Trier",1,1
-"428","St. Mary`s York",1,1
-"429","St. Matthias Trier",1,1
-"430","St. Maur-des-Fosses",3,2
-"431","St. Maur Verdun",1,1
-"432","St. Maurice-en-Valais",2,2
-"433","St. Maximin Trier",1,1
-"434","St. Melaine",1,1
-"435","St. Memmie-de-Chalons",1,1
-"436","St. Nicholas",1,1
-"437","St. Omer",3,1
-"438","St. Ouen",3,3
-"439","St. Oyan",3,1
-"440","St. Paul-Trois-Chateaux",1,1
-"441","St. Paul Verdun",1,1
-"442","St. Paulinus Trier",1,1
-"443","St. Pere de Chartres",3,3
-"444","St. Peter's Cardena",1,1
-"445","St. Peter's Perugia",1,1
-"446","St. Peter's Ravenna",1,1
-"447","St. Peter's Salzburg",1,1
-"448","St. Pierre-aux-Monts",2,1
-"449","St. Pierre-le-Vif",2,1
-"450","St. Pol-de-Leon",4,3
-"451","St. Quentin",3,3
-"452","St. Quiriace of Provins",1,1
-"453","St. Remy",1,1
-"454","St. Riquier",1,1
-"455","St. Roma",1,1
-"456","St. Rufus",8,3
-"457","St. Sauveur Evreux",1,1
-"458","St. Sauveur Toul",2,1
-"459","St. Savin-en-Lavedan",1,1
-"460","St. Serge",2,2
-"461","St. Sernin",1,1
-"462","St. Severin Cologne",2,2
-"463","St. Severus Erfurt",2,2
-"464","St. Simeon Trier",3,3
-"465","St. Stephen's Caen",2,2
-"466","St. Symphorian",1,1
-"467","St. Tierry",1,1
-"468","St. Ulrich & Afra Augsburg",2,2
-"469","St. Ursanne",1,1
-"470","St. Vanne",5,2
-"471","St. Vedast",7,6
-"472","St. Victor Marseilles",3,2
-"473","St. Vincent",1,1
-"474","St. Wandrille",6,5
-"475","Sta Maria di Albaneta",1,1
-"476","Sta Maria in Trastevere",1,1
-"477","Sta Sophia",3,3
-"478","Stavelot",1,1
-"479","Ste Catherine-du-Mont",1,1
-"480","Ste Croix-de-Poitiers",1,1
-"481","Ste Croix Paris",1,1
-"482","Ste Genevieve",4,1
-"483","Ste Godeberta",1,1
-"484","Ste Waudru Mons",5,2
-"485","Strasburg",6,1
-"486","Sts. Ulrich and Afra",1,1
-"487","Subiaco",1,1
-"488","Susa",1,1
-"489","Taranto",1,1
-"490","Templars",2,1
-"491","Teutonic Order",7,2
-"492","The Hague",2,2
-"493","Therouanne",11,4
-"494","Tiron",2,1
-"495","Todi",1,1
-"496","Toledo",3,1
-"497","Tortosa",1,1
-"498","Toul",11,4
-"499","Toulouse",3,2
-"500","Tournai",16,7
-"501","Tournus",1,1
-"502","Tours",15,2
-"503","Treguier",1,1
-"504","Treviso",1,1
-"505","Trier",3,2
-"506","Trinitarians",2,1
-"507","Troarn",2,2
-"508","Troyes",19,3
-"509","Tudela",2,1
-"510","Tulle",1,1
-"511","Tuy",1,1
-"512","Tynemouth",1,1
-"513","Uppsala",2,1
-"514","Utrecht",27,6
-"515","Uzes",1,1
-"516","Vaas",1,1
-"517","Valencia",1,1
-"518","Vallumbrosan",4,3
-"519","Vannes",1,1
-"520","Västeras",1,1
-"521","Vendome",2,2
-"522","Vercelli",1,1
-"523","Verdun",6,1
-"524","Vergy",1,1
-"525","Vezelay",1,1
-"526","Vich",3,2
-"527","Victorines",4,1
-"528","Vienne",6,3
-"529","Villeneuve-les-Avignon",2,2
-"530","Viviers",5,1
-"531","Waldkirch",1,1
-"532","Watten",1,1
-"533","Weidenbach Cologne",2,2
-"534","Weingarten",8,6
-"535","Werden",2,2
-"536","Westminster",2,2
-"537","Williamites",1,1
-"538","Winchcombe",1,1
-"539","Winchester",1,1
-"540","Windesheim",25,3
-"541","Worcester",2,2
-"542","Worms",10,2
-"543","Würzburg",9,2
-"544","York",4,1
-"545","Zamora",1,1
-"546","Zwiefalten",9,8
+Location,# witnesses by Location,# sets of responsories by Location
+Paris,11,11
+Zwiefalten,8,8
+Roman,7,7
+St. Denis,6,6
+Rouen,6,6
+St. Vedast,6,6
+Tournai,6,6
+Aquileia,5,5
+Hildesheim,5,5
+Senlis,5,5
+Chartres,5,5
+Poitiers,5,5
+Evreux,5,5
+Amiens,5,5
+Ambrosian,5,5
+St. Ghislain,5,5
+Passau,5,5
+MÃ¼nster,5,5
+Soissons,5,5
+Bamberg,5,5
+Besancon,5,5
+Clermont-Ferrand,4,4
+Meaux,4,4
+Le Mans,4,4
+Weingarten,4,4
+Cologne,4,4
+Metz,4,4
+Therouanne,4,4
+Old Roman,4,4
+Braga,4,4
+Otto of Riedenburg's Pontifici,4,4
+St. Jean de Chalons,4,4
+Sens,4,4
+Utrecht,4,4
+Sarum,4,4
+Arras,4,4
+Angers,4,4
+St. Martial,3,3
+Coutances,3,3
+Windesheim,3,3
+St. Emmeram,3,3
+St. Simeon Trier,3,3
+Neustift?,3,3
+Montieramey,3,3
+St. Arnulf,3,3
+Bobbio,3,3
+Dominican,3,3
+Blaubeuren,3,3
+Fulda,3,3
+Vallumbrosan,3,3
+St. Amand,3,3
+Montecassino,3,3
+Durham,3,3
+Lund,3,3
+Como,3,3
+Brussels,3,3
+Dol,3,3
+Troyes,3,3
+Pavia,3,3
+St. Quentin,3,3
+St. Rufus,3,3
+Speyer,3,3
+Liege,3,3
+EichstÃ¤tt,3,3
+St. Pol-de-Leon,3,3
+Basle,3,3
+Toul,3,3
+Premonstratensian,3,3
+Magdeburg,3,3
+Reggio Emilia,3,3
+Beauvais,3,3
+Klosterneuburg,3,3
+Narbonne,3,3
+St. Georg PrÃ¼fening,3,3
+Merseburg,3,3
+Rennes,3,3
+Cambrai,3,3
+Autun,3,3
+LinkÃ¶ping,3,3
+Rodez,2,2
+St. Ulrich & Afra Augsburg,2,2
+Poor Clares,2,2
+Franciscan,2,2
+Austin Friars,2,2
+St. Felicity MÃ¼nsterschwarzach,2,2
+St. Maurice-en-Valais,2,2
+Orleans,2,2
+Ivrea,2,2
+Raitenbuch,2,2
+Seebach,2,2
+Bordeaux,2,2
+Hermits of St. Paul,2,2
+Prague,2,2
+Limoges,2,2
+Marbach,2,2
+Agram,2,2
+Gran,2,2
+Mondsee,2,2
+Weidenbach Cologne,2,2
+Freising (printed in 1516),2,2
+St. John's of Monza,2,2
+Minden,2,2
+St. Donatian of Bruges,2,2
+Constance,2,2
+Sta Sophia,2,2
+Worms,2,2
+St. Gallen,2,2
+San Vito,2,2
+OlmÃ¼tz,2,2
+Moutiers-en-Tarentaise,2,2
+Halle,2,2
+Werden,2,2
+Siena,2,2
+Trier,2,2
+Fecamp,2,2
+Brixen diocese,2,2
+Odense,2,2
+Cistercian,2,2
+Carthusian (Beaune),2,2
+Plasencia,2,2
+Mende,2,2
+Deventer,2,2
+Nevers,2,2
+Tours,2,2
+Vich,2,2
+Beaulieu-les-le-Mans,2,2
+Roskilde,2,2
+Toulouse,2,2
+Schleswig,2,2
+Rheims,2,2
+Burgos,2,2
+Elne,2,2
+Nivelles,2,2
+Halberstadt,2,2
+Florence,2,2
+Ste Waudru Mons,2,2
+Chalons-sur-Marne,2,2
+Vienne,2,2
+Worcester,2,2
+St. Corneille-de-Compiegne,2,2
+St. Fuscien,2,2
+Eberhardsklausen,2,2
+Mainz,2,2
+Erfurt,2,2
+PrÃ¼m,2,2
+Langres,2,2
+Soignies,2,2
+Silos,2,2
+Westminster,2,2
+Lambach (OSB),2,2
+Jumieges,2,2
+Sherborne,2,2
+St. Maur-des-Fosses,2,2
+Marchiennes,2,2
+Sepulchre de Cambrai,2,2
+Beaulieu-les-Loches,2,2
+St. Serge,2,2
+St. Ouen,2,2
+Bourgueil,2,2
+Troarn,2,2
+St. Bertin,2,2
+Vendome,2,2
+Villeneuve-les-Avignon,2,2
+Piacenza,2,2
+Salzburg,2,2
+St. Jean-en-Vallee,2,2
+Hamburg,2,2
+Mont-Saint-Quentin,2,2
+Aniane,2,2
+Moosburg,2,2
+Maria Garten,2,2
+St. Lo-de-Rouen,2,2
+St. Lambrecht,2,2
+Teutonic Order,2,2
+Pontetetto,2,2
+Lucca,2,2
+Nidaros,2,2
+The Hague,2,2
+Hastieres,2,2
+St. Wandrille,2,2
+St. Vanne,2,2
+Murbach,2,2
+S. Lupo di Beneveto,2,2
+Chester,2,2
+Saintes,2,2
+St. Pere de Chartres,2,2
+Remiremont,2,2
+Hospitallers,2,2
+Jerusalem,2,2
+Bayeux,2,2
+Lyre,2,2
+Leopold's Psalter,2,2
+St. Brieuc,2,2
+St. Victor Marseilles,2,2
+St. Severus Erfurt,2,2
+St. Etienne-de-Troyes,2,2
+Bourges,2,2
+Chaise-Dieu,2,2
+Lyons,2,2
+Le Puy,2,2
+Gap,2,2
+Nantes,2,2
+St. Jean-de-Maurienne,2,2
+St. Benoit-sur-Loire,2,2
+Camaldolese,2,2
+Avranches,2,2
+Bremen,2,2
+Meissen,2,2
+Brixen,2,2
+Niederaltaich,2,2
+WÃ¼rzburg,2,2
+Alba Julia,2,2
+St. Stephen's Caen,2,2
+Huesca,1,1
+Seville,1,1
+Uzes,1,1
+Toledo,1,1
+Montjoux,1,1
+Lerins,1,1
+Hospitaller Sisters,1,1
+St. Cyran,1,1
+Tudela,1,1
+Saragossa,1,1
+Valencia,1,1
+Oloron,1,1
+Solothurn,1,1
+St. Roma,1,1
+Couserans,1,1
+St. Mary`s York,1,1
+Zamora,1,1
+Oviedo,1,1
+Jaen,1,1
+Salamanca,1,1
+Carcassonne,1,1
+Our Lady of Soisson,1,1
+Malta,1,1
+Marseilles,1,1
+Grasse,1,1
+Guisborough,1,1
+Carpentras,1,1
+Arles,1,1
+St. Ursanne,1,1
+Gerona,1,1
+Maguelonne,1,1
+St. Paul-Trois-Chateaux,1,1
+Beziers,1,1
+Solsona,1,1
+Carthusian (Montefusco),1,1
+Aosta,1,1
+Cuenca,1,1
+Pfalzel,1,1
+Agen,1,1
+St. Paulinus Trier,1,1
+Susa,1,1
+Aurillac,1,1
+Cavaillon,1,1
+Salerno,1,1
+Mechlin,1,1
+Siegburg,1,1
+St. Bavon,1,1
+Strasburg,1,1
+Humiliati,1,1
+Sta Maria in Trastevere,1,1
+St. Oyan,1,1
+Landgrave Psalter,1,1
+Littlemore,1,1
+Williamites,1,1
+Subiaco,1,1
+St. Severin Cologne,1,1
+Dijon,1,1
+Cracow,1,1
+S. Lorenzo Oulx,1,1
+Apt,1,1
+Nimes,1,1
+St. Malo,1,1
+Maubeuge,1,1
+Segovia,1,1
+Vaas,1,1
+Adge,1,1
+Bazas,1,1
+Dax,1,1
+SigÃ¼enza,1,1
+Auch,1,1
+St. Sernin,1,1
+Lerida,1,1
+Treviso,1,1
+KremsmÃ¼nster,1,1
+Pamplona,1,1
+Ferrara,1,1
+St. Andrews Cologne,1,1
+Sisteron,1,1
+Aix-en-Provence,1,1
+Tortosa,1,1
+Verdun,1,1
+Grenoble,1,1
+Watten,1,1
+Carthusian (St. Omer),1,1
+St. Savin-en-Lavedan,1,1
+Arhus,1,1
+St. Emillion,1,1
+Heidenheim,1,1
+Naumburg,1,1
+Chiemsee,1,1
+German Observance,1,1
+Lobbes,1,1
+St. Irminen Trier,1,1
+St. Matthias Trier,1,1
+St. Martin Trier,1,1
+Ghistelles,1,1
+Cismar,1,1
+Bursfeld,1,1
+Petersberg,1,1
+St. Peter's Salzburg,1,1
+Notre-Dame-du-Bon-Conseil,1,1
+Mont-Saint-Eloi,1,1
+Aix-la-Chapelle,1,1
+Lille,1,1
+Aquilaea SÃ¼ddeutsch,1,1
+Lucon,1,1
+Lambach (OSB)?,1,1
+Heiligenkreuz,1,1
+Dominican Vienna,1,1
+St. Cugat,1,1
+Sta Maria di Albaneta,1,1
+Cividale,1,1
+Fritzlar,1,1
+St. Sauveur Evreux,1,1
+LÃ¼beck,1,1
+St. Omer,1,1
+Andres,1,1
+Skalholt,1,1
+Henin-Lietard,1,1
+Phalempin,1,1
+Margr. Skulesdatter,1,1
+Mallorca,1,1
+St. Barnard-de-Romans,1,1
+Celestine,1,1
+Brioude,1,1
+Augsburg,1,1
+Ratisbon,1,1
+Diessen,1,1
+Carthusian,1,1
+Reichenhall,1,1
+Einsiedeln,1,1
+St. George Prague,1,1
+Grandmontine,1,1
+Havelberg,1,1
+Brandenburg,1,1
+Evora,1,1
+Santa Cruz de Coimbra,1,1
+Louvain,1,1
+Antwerp,1,1
+St. James of Compostela,1,1
+Hasnon,1,1
+Corssendonck,1,1
+Die,1,1
+Peronne,1,1
+Tournus,1,1
+Winchester,1,1
+St. Martin's at Tours,1,1
+Barcelona,1,1
+St. Acheul,1,1
+St. Martin-aux-Jumeaux,1,1
+French,1,1
+Auxerre,1,1
+Sens or Paris,1,1
+Peterborough,1,1
+St. Gery,1,1
+Seiler-Spital Berne,1,1
+Trinitarians,1,1
+Quimper,1,1
+Genlis,1,1
+Victorines,1,1
+Ste Genevieve,1,1
+Renaix,1,1
+St. Pierre-aux-Monts,1,1
+Frejus,1,1
+Essommes,1,1
+Interlaken,1,1
+St. Hilaire-le-Grand,1,1
+Perigueux,1,1
+Crowland,1,1
+Brigittine (Syon),1,1
+Ste Godeberta,1,1
+Aberdeen,1,1
+St. Maur Verdun,1,1
+Arezzo,1,1
+Carinola,1,1
+St. Martin-les-Bourges (?),1,1
+Kitzingen,1,1
+St. Fredian's,1,1
+Neresheim,1,1
+Beaumont-les-Tours,1,1
+Melk,1,1
+Freising,1,1
+Padua,1,1
+Bergamo,1,1
+Basle St. Leonhard,1,1
+Vannes,1,1
+Aversa,1,1
+St. Lo-de-Coutances,1,1
+Vergy,1,1
+Amiens(OSB),1,1
+Oxford,1,1
+Lisieux,1,1
+Noyon,1,1
+Hours of Marie de Bohun,1,1
+Seez,1,1
+St. Etienne-de-Dijon,1,1
+Laon,1,1
+Croix-St-Leufroy,1,1
+Notre-Dame-des-Pres-les-Troyes,1,1
+La Couture,1,1
+Ambronay,1,1
+St. Denis Rheims,1,1
+St. Jacut-de-la-Mer,1,1
+Carthusian(S. Martino),1,1
+St. Sauveur Toul,1,1
+Taranto,1,1
+St. Peter's Perugia,1,1
+Chezal-Benoit,1,1
+Fontevrault,1,1
+Lausanne,1,1
+Bodmin,1,1
+Embrun,1,1
+Tiron,1,1
+Angouleme,1,1
+Chur,1,1
+Gondekar's Pontificial,1,1
+Romano-Germanic Pontificial,1,1
+Geneva,1,1
+Angers (?),1,1
+Chalon-sur-Saone,1,1
+GrossmÃ¼nster,1,1
+York,1,1
+Compostela,1,1
+Rheinau,1,1
+Orense,1,1
+St. Peter's Cardena,1,1
+St. Florinus Coblenz,1,1
+Sion,1,1
+Ascoli Piceno,1,1
+Ste Croix-de-Poitiers,1,1
+Badia Florence,1,1
+Olivetans,1,1
+Sts. Ulrich and Afra,1,1
+Bologna,1,1
+Antonite,1,1
+Stavelot,1,1
+St. Bees,1,1
+Ste Catherine-du-Mont,1,1
+Senones,1,1
+St. Symphorian,1,1
+EttenheimmÃ¼nster,1,1
+San Sisto,1,1
+Capua,1,1
+Glandeves,1,1
+Tuy,1,1
+Morienval,1,1
+St. Abondino,1,1
+Templars,1,1
+Lincoln,1,1
+Hereford,1,1
+St. Feliu,1,1
+La Grasse,1,1
+Asti,1,1
+Lodi,1,1
+St. Maximin Trier,1,1
+St. Aubin,1,1
+St. Peter's Ravenna,1,1
+St. Riquier,1,1
+Todi,1,1
+Josaphat-les-Chartres,1,1
+Sainte-Foy of Conques,1,1
+Northern Italy,1,1
+Ochsenhausen,1,1
+St. Remy,1,1
+Anchin,1,1
+Arles-sur-Tech,1,1
+Cluny,1,1
+Montier-la-Celle,1,1
+Nursia,1,1
+Macon,1,1
+St. Julian,1,1
+St. Eutizio,1,1
+Viviers,1,1
+Belley,1,1
+St. Quiriace of Provins,1,1
+St. James of Melun,1,1
+A North Italian Nunnery,1,1
+Marguerite's Hours,1,1
+St. Magloire-de-Lehon,1,1
+Brigittine,1,1
+Porquerolles,1,1
+Plock,1,1
+Camaldolese (Rome),1,1
+St. Memmie-de-Chalons,1,1
+St. Paul Verdun,1,1
+Camaldolese (Florence),1,1
+St. Fabian of Fibbia,1,1
+Treguier,1,1
+Augsburg (cathedral),1,1
+Ste Croix Paris,1,1
+St. Florent-les-Saumur,1,1
+Cormery,1,1
+VÃ¤steras,1,1
+St. Albans,1,1
+Hyde Abbey,1,1
+Bec,1,1
+Vezelay,1,1
+Abo,1,1
+Marmoutier,1,1
+Mercedarians,1,1
+St. Melaine,1,1
+St. Laumer,1,1
+Gnesen,1,1
+Vercelli,1,1
+Canterbury,1,1
+Faremoutiers,1,1
+Waldkirch,1,1
+Carmelite,1,1
+St. Frideswide Oxford,1,1
+Tulle,1,1
+Tynemouth,1,1
+Bonne Nouvelle,1,1
+Soeiro,1,1
+Moissac,1,1
+St. Vincent,1,1
+St. Germain-des-Pres,1,1
+St. Faron,1,1
+Norwich (Cathedral) OSB,1,1
+St. Pierre-le-Vif,1,1
+Brooholm,1,1
+Evesham,1,1
+Monastery of Corbie,1,1
+San Benito el Real,1,1
+Montmajour,1,1
+Breslau,1,1
+Uppsala,1,1
+Skara,1,1
+St. Tierry,1,1
+St. Benigne-de-Dijon,1,1
+Mont-Saint-Michel,1,1
+Winchcombe,1,1
+St. Nicholas,1,1

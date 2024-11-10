@@ -1,0 +1,359 @@
+######################################################################################################### 
+#########################################################################################################
+#########################################################################################################
+######## 																						#########
+######## 								HOURS OF THE VIRGIN										#########
+######## 	Data preparation from CSV export of Heurist Database (entities "useItem" = t:93)	#########
+######## 																						#########
+#########################################################################################################
+######################################################################################################### 
+######################################################################################################### 
+
+
+#-----------------------------------------------------------------------------------------------------------------------
+### Libraries
+
+#--- uncomment install.packages if necessary
+# install.packages(c("tidyverse", "dplyr", "MASS", "ggplot2", "gridExtra", "stringr", "network", "ggnetwork", "plotly", "ggrepel", "ggforce", "sna"))
+
+library(tidyverse)
+library(dplyr)
+library(MASS)
+library(ggplot2)
+library(gridExtra)
+library(stringr)
+library(network)
+library(ggnetwork)
+library(plotly)
+library(ggrepel)
+library(ggforce)
+library(sna)
+library(htmlwidgets)
+
+#----------------------------------------------------------------------------------------------------------------------
+### Data preparation
+
+rm(list = ls())
+setwd("C:/Users/stutzmann/GitHub/HORAE/JHNR/Hours_Virgin") #Set the working directory
+use <- read.csv("rectype-93.csv", header = TRUE, fileEncoding = "UTF-8")
+head(use)
+colnames(use) <- c("useItem", "Position","s", "rec_Title", "Work", "Work.RecordTitle", "UseID", "Use")
+use[,8] <- substring(use[,8],24,nchar(use[,8]))
+use[,8] <- gsub(",", "", use[,8])
+use[,2] <- gsub(" ", "", use[,2])
+
+#----------------------------------------------------------------------------------------------------------------------
+### Equivalent of "NA" : rectype-93 linked to Work.H.ID 395430 (Not Identified) and to 708938 (Expected but not attested)
+
+use <- use %>% filter(Work != "395430") %>% filter(Work != "708938") %>% filter(Position !="")
+use <- use %>% filter(grepl("-", Position))
+use$position.work <- paste(use$Position, use$Work, sep="_")
+
+#------------------------------------------------------------------------------------
+### Descriptive statistics
+stats <- use %>% count(Use)
+colnames(stats)										#[1] "Use" "n"
+stats2 <- as.data.frame(stats %>% count (n))
+colnames(stats2) <- c("RecordedTexts", "Uses")
+head(stats2)
+
+#		RecordedTexts	Uses
+#	1	15    1
+#	2	21    3
+#	3	22    1
+#	4	28    1
+#	5	31    1
+#	6	32    1
+
+png(file="figures/uses-nb-recorded-texts.png", width=10, height=10, units="cm", res=300)
+cutoff <- hist(stats$n, breaks = 100, xlab="Number of recorded texts", ylab="Number of uses", main = NULL)
+dev.off()
+
+quantile(stats$n)  		#      		0%  25%  	50%  75% 	100% 
+						#		15.00  55.00  63.50  73.75 101.00
+
+nb.recordedTexts <- ggplot(stats, aes(y=n)) + 
+				geom_boxplot(outlier.colour="black", outlier.shape=16, outlier.size=1, notch=FALSE) +
+				theme(axis.title.x=element_blank(),
+						axis.text.x=element_blank(),
+						axis.ticks.x=element_blank())
+						
+# ggsave(nb.recordedTexts, file="figures/Hours_Virgin.nb.recordTexts.svg", device=svg)
+# ggsave(nb.recordedTexts, file="figures/Hours_Virgin.nb.recordTexts.png", device=png)
+
+#----- violin/jitter boxplot
+stats$Use <- "Use"
+nb.recordedTexts2 <- ggplot(stats, aes(x=Use, y=n)) + 
+	geom_violin() + geom_jitter(color="purple", shape=3, size=0.5, alpha=0.9) +
+	geom_boxplot(colour="pink", outlier.colour="pink", outlier.shape=12, outlier.size=1, notch=FALSE, alpha=0.1) +
+	xlab("") +
+	ylab("Number of recorded texts")
+nb.recordedTexts2 
+
+ggsave(nb.recordedTexts2, file="figures/Hours_Virgin.nb.recordTexts.violin.svg", device=svg)
+ggsave(nb.recordedTexts2, file="figures/Hours_Virgin.nb.recordTexts.violin.png", device=png)
+
+
+#----------------------------------------------------------------------------------------------------------------------
+### Creation of edges
+
+use.useItem1 <- use %>%
+  group_by(Use) %>%
+  summarize(positions = list(Position))
+  
+use.useItem2 <- use %>%
+  group_by(Use) %>%
+  summarize(position.work = list(position.work))
+
+use.useItem <- cbind(use.useItem1, use.useItem2)
+
+	# for the record:
+	# summarize(position.work = list(c(Position, Work)))  								#list all [Position] and then all [Work]
+	# summarize(position.work = list(mapply(list, Position, Work, SIMPLIFY=FALSE)))		#list all elements in the right order ([Position]1, [Work]1, [Position]2, [Work]2 etc.)
+	# summarize(position.work = list(mapply(c, Position, Work, SIMPLIFY=FALSE)))		#creates a list for each use containing multiple lists with two elements [Position] [Work]
+
+rownames(use.useItem) <- use.useItem$Use
+
+df <- use.useItem										# we set a short name to use the following command
+
+df.edges <- setNames(combn(1:nrow(df), 
+		2, 
+		FUN = function(i) 
+		length(intersect(unique(df[i[1],]$position.work[[1]]),unique(df[i[2],]$position.work[[1]])))			#percentage of common texts among common positions for which texts are known
+		/ 
+		length(intersect(unique(df[i[1],]$positions[[1]]),unique(df[i[2],]$positions[[1]]))) * 100
+		), 
+		combn(rownames(df), 2, toString)
+		)
+df.edges <- as.data.frame(df.edges)
+
+edges <- as.data.frame(cbind(str_split_fixed(rownames(df.edges), ", ", 2), df.edges$df.edges))				#requires library(stringr)
+colnames(edges) <- c("from", "to", "weight")
+edges$weight <- as.integer(edges$weight)
+write.csv(edges, "outputs/edgesHoursVirgin.csv", fileEncoding="utf-8", row.names=FALSE)
+# if one wishes to start from here
+# edges <- read.csv("outputs/edgesHoursVirgin.csv", sep=",", header = TRUE) #import the CSV file
+
+
+quantile(edges$weight)  #      0%  25%  50%  75% 100% 
+						#		0   28   38   51  100
+
+png(file="figures/histogram-edges-weight.png", width=10, height=10, units="cm", res=300)
+cutoff <- hist(edges$weight, breaks = 10, xlab="Percentage of shared pieces", ylab="Number of edges", main = NULL)
+dev.off()
+
+edgesplot <- ggplot(edges, aes(y=weight)) + 
+				geom_boxplot(outlier.colour="black", outlier.shape=16, outlier.size=1, notch=FALSE) + 
+				theme(axis.title.x=element_blank(),
+						axis.text.x=element_blank(),
+						axis.ticks.x=element_blank())
+
+edges.sup60 <- edges %>% filter(weight > 60)
+dim(edges.sup60)												# [1] 2177    3
+length(unique(c(edges.sup60$to, edges.sup60$from)))				# [1] 185
+
+
+edges.sup70 <- edges %>% filter(weight > 70)
+dim(edges.sup70)												# [1] 691   3
+length(unique(c(edges.sup70$to, edges.sup70$from)))				# [1] 159
+
+write.csv(edges.sup70, "outputs/edgesHoursVirgin.sup70.csv", fileEncoding="utf-8", row.names=FALSE)
+# edges.sup70 <- read.csv("outputs/edgesHoursVirgin.sup70.csv", header = TRUE, fileEncoding = "UTF-8")
+
+#----------------------------------------------------------------------------------------------------------------------
+# Plot Network	
+
+set.seed(1977)
+net <- network(as.data.frame(edges.sup70), directed=FALSE)  # vertex.attr=as.data.frame(nodes) : nodes are not declared, because the matching on rownames seems to be not working
+
+
+set.seed(1977)
+g <- ggplot(ggnetwork(net, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "darkred") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+# g
+# ggplotly(g)
+
+#ggsave("Hours_Virgin.sup70.tif", plot=g, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.png", plot=g, dpi=500, device="png", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.svg", plot=g, dpi=500, device="svg", width=10, height=10) 
+
+
+
+#----------------------------------------------------------------------------------------------------------------------
+# Plot Network	
+# Removing "Tours 1501-1600, which appears to be central but late
+
+network.vertex.names(net)											# identifying the "id" corresponding to the "vertex.name"	
+net2 <- delete.vertices(net, 129)									# deleting vertex 129  = "Tours [1501 to 1600]"
+network.vertex.names(net2)											# checking deletion complete
+
+
+set.seed(35356)
+h <- ggplot(ggnetwork(net2, layout="fruchtermanreingold", na.rm=TRUE), #layout choice: kamadakawai, fruchtermanreingold
+	aes(x, y, xend = xend, yend = yend, label = vertex.names)) + 
+	geom_edges(color = "grey50", arrow = arrow(length = unit(0, "pt"), type = "closed"), size=0.2) + 	# size=aes(size=weights)
+	geom_nodes(size = 1, color = "lightgreen") +
+	geom_nodetext(size=2, color="grey25") 															# check_overlap = TRUE
+	# geom_edgetext(aes(label = weight), color = "grey25", size=1, fill="white")
+	# theme_blank()
+h
+#ggplotly(h)
+
+#ggsave("figures/Hours_Virgin.sup70.withoutTours16.tif", plot=h, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.withoutTours16.svg", plot=h, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.withoutTours16.png", plot=h, dpi=500, device="png", width=10, height=10) 
+
+
+
+
+#----------------------------------------------------------------------------------------------------------------------
+# Plot Network	: adding annotations and ellipses
+datapoints <- as.data.frame(h$data)
+dataGermany <- datapoints %>% 
+	filter(str_detect(vertex.names,"^Konstanz")|
+		str_detect(vertex.names,"^Utrecht")|
+		str_detect(vertex.names,"^Regensburg")|
+		str_detect(vertex.names,"^Würtzburg")|
+		str_detect(vertex.names,"^Köln")|
+		str_detect(vertex.names,"^Mainz")|
+		str_detect(vertex.names,"^Bremen"))
+dataNormandie <- datapoints %>% 
+	filter(
+		vertex.names == "Rouen"|
+		str_detect(vertex.names,"^Avranches")|
+		str_detect(vertex.names,"^York")|
+		str_detect(vertex.names,"^Bayeux")|
+		str_detect(vertex.names,"^Sarum")|
+		str_detect(vertex.names,"^Lisieux")|
+		str_detect(vertex.names,"^Sainte-Croix")|
+		str_detect(vertex.names,"^Saint-Lô")|
+		str_detect(vertex.names,"^Coutances")|
+		str_detect(vertex.names,"^Dol")|
+		str_detect(vertex.names,"^Tréguier")|
+		str_detect(vertex.names,"^Nantes")|
+		str_detect(vertex.names,"^Évreux")|
+		vertex.names == "Rennes [1430]"|
+		vertex.names == "Rennes [1401 to 1500]"
+		)
+dataSFrance1 <- datapoints %>% 
+	filter(str_detect(vertex.names,"^Valence")|
+		str_detect(vertex.names,"^Marseille")|
+		str_detect(vertex.names,"^Arles")|
+		str_detect(vertex.names,"^Cavaillon")|
+		str_detect(vertex.names,"^Elne")|
+		str_detect(vertex.names,"^Agen")|
+		str_detect(vertex.names,"^Vienne")|
+		str_detect(vertex.names,"^Oulx")|
+		str_detect(vertex.names,"^Viviers")|
+		str_detect(vertex.names,"^Romans-sur-Isère")|
+		str_detect(vertex.names,"^Grenoble")|
+		str_detect(vertex.names,"^Gerona")|
+		str_detect(vertex.names,"^Dax")|
+		str_detect(vertex.names,"^Plasencia")|
+		str_detect(vertex.names,"^Saint-Paul-Trois-Châteaux")|
+		str_detect(vertex.names,"^Auch")
+		)
+dataSFrance2 <- datapoints %>% 
+	filter(str_detect(vertex.names,"^Embrun")|
+		str_detect(vertex.names,"^Maguelonne")|
+		str_detect(vertex.names,"^Sisteron")|
+		str_detect(vertex.names,"^Uzès")|
+		str_detect(vertex.names,"^Narbonne")|
+		vertex.names == "O.P."|
+		str_detect(vertex.names,"^Lérida")|
+		str_detect(vertex.names,"^Agde")|
+		str_detect(vertex.names,"^Toulouse")|
+		str_detect(vertex.names,"^Valencia")|
+		str_detect(vertex.names,"^Aix-en-Provence")|
+		str_detect(vertex.names,"^Grasse")|
+		str_detect(vertex.names,"^O.T.")|
+		str_detect(vertex.names,"^Mende")|
+		str_detect(vertex.names,"^Apt")|
+		str_detect(vertex.names,"^Fréjus")|
+		str_detect(vertex.names,"^Béziers")
+		)
+dataEFrance1 <- datapoints %>% 
+	filter(x > 0.25, x < 0.39, y > 0, y < 0.24)
+dataNFrance1 <- datapoints %>%
+	filter(vertex.names == "Arras"|
+		str_detect(vertex.names,"^Ronse Sint-Hermes")|
+		str_detect(vertex.names,"^Antwerpen")|
+		str_detect(vertex.names,"^O.Praem.")|
+		str_detect(vertex.names,"^Brugge Sint-Donaaskerk")|
+		str_detect(vertex.names,"^Lille Saint-Pierre")|
+		vertex.names == "Saint-Omer [1518]"|
+		str_detect(vertex.names,"^Bruxelles Sainte-Gudule O.S.A.")|
+		str_detect(vertex.names,"^Noyon")|
+		str_detect(vertex.names,"^Senlis")|
+		str_detect(vertex.names,"^Watten")|
+		str_detect(vertex.names,"^Tournai")|
+		vertex.names == "Saint-Quentin"|
+		str_detect(vertex.names,"^Thérouanne [1488]")|
+		str_detect(vertex.names,"^Laon")|
+		str_detect(vertex.names,"^Hénin-Liétard Notre-Dame O.S.A.")|
+		str_detect(vertex.names,"^Amiens")|
+		str_detect(vertex.names,"^Mons Sainte-Waudru O.S.A.")|
+		str_detect(vertex.names,"^Douai Saint-Amé")|
+		vertex.names == "Saint-Omer [1201 to 1300]"|
+		vertex.names == "Arras [1301 to 1400]"|
+		vertex.names == "Arras [1401 to 1500]"|
+		vertex.names == "Thérouanne [1401 to 1500]"|
+		vertex.names == "Arras [1595]"|
+		str_detect(vertex.names,"^Cambrai")|
+		vertex.names == "Arras [1501 to 1600]"
+		)
+dataBrugge <- datapoints %>% 
+	filter(str_detect(vertex.names,"^Brugge"))
+
+
+z <- h + 
+	geom_point(data = dataGermany, aes(x = x, y = y), alpha = 0.5, color = "blue") +
+	geom_mark_ellipse(data = dataGermany, aes(x = x, y = y, label="Germany"), 
+			label.buffer = unit(-7, 'mm'), label.fontsize = 16, label.colour = "blue", label.fill = FALSE,
+			con.colour = "blue", con.size = 0.5, con.linetype = 0,
+  			alpha = 0.5, color = "blue") +
+	geom_point(data = dataSFrance1, aes(x = x, y = y), alpha = 0.5, color = "pink") +
+	geom_mark_ellipse(data = dataSFrance1, aes(x = x, y = y, label="Southern France 1"), 
+			label.buffer = unit(-2, 'mm'), label.fontsize = 16, label.colour = "pink", label.fill = FALSE,
+			con.colour = "pink", con.size = 0.5, con.linetype = 0,
+ 			alpha = 1, color = "pink") +
+	geom_point(data = dataSFrance2, aes(x = x, y = y), alpha = 0.5, color = "purple") +
+	geom_mark_ellipse(data = dataSFrance2, aes(x = x, y = y, label="Southern France 2\n and Spain"), 
+			label.buffer = unit(-2, 'mm'), label.fontsize = 16, label.colour = "purple", label.fill = FALSE,
+			con.colour = "purple", con.size = 0.5, con.linetype = 0,
+ 			alpha = 0.5, color = "purple",
+			expand=unit(2, 'mm')) +
+	geom_point(data = dataNFrance1, aes(x = x, y = y), alpha = 0.5, color = "orange") +
+	geom_mark_ellipse(data = dataNFrance1, aes(x = x, y = y, label="Northern France \nand Low Countries"), 
+			label.buffer = unit(-7, 'mm'), label.fontsize = 16, label.colour = "orange", label.fill = FALSE,
+			con.colour = "orange", con.size = 0.5, con.linetype = 0,
+ 			alpha = 0.5, color = "orange") +
+	geom_point(data = dataEFrance1, aes(x = x, y = y), alpha = 0.5, color = "lightblue") +
+	geom_mark_ellipse(data = dataEFrance1, aes(x = x, y = y, label="Old Benedictine abbeys \n in Eastern and Northern France"), 
+			label.buffer = unit(-3, 'mm'), label.fontsize = 16, label.colour = "lightblue", label.fill = FALSE, 
+			con.colour = "lightblue", con.size = 0.5, con.linetype = 0,
+ 			alpha = 0.5, color = "lightblue") +
+	geom_point(data = dataNormandie, aes(x = x, y = y), alpha = 0.5, color = "darkgreen") +
+	geom_mark_ellipse(data = dataNormandie, aes(x = x, y = y, label="Normandy, England and Brittany"), 
+			label.buffer = unit(-7, 'mm'), label.fontsize = 16, label.colour = "darkgreen", label.fill = FALSE,
+			con.colour = "darkgreen", con.size = 0.5, con.linetype = 0,
+ 			alpha = 0.5, color = "darkgreen") +
+	geom_point(data = dataBrugge, aes(x = x, y = y), alpha = 1, color = "red", shape=1, size=6) +
+#	geom_point(data = dataBaltimore, aes(x = x, y = y), alpha = 1, color = "red", shape=2, size=6) + 
+#	xlim(0.196,0.35) + ylim(0.602,0.943) +
+	theme_blank()
+z
+
+#ggsave("tif/Hours_Virgin.sup70.withoutTours16.tif", plot=z, dpi=500, device="tiff", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.withoutTours16-annotate.svg", plot=z, dpi=500, device="svg", width=10, height=10) 
+ggsave("figures/Hours_Virgin.sup70.withoutTours16-annotate.png", plot=z, dpi=500, device="png", width=10, height=10) 
+
+#############------------- Save as Plotly widget
+
+zz <- ggplotly(z)
+saveWidget(zz, "figures/Hours_Virgin.sup70.withoutTours16-annotate.html", selfcontained = F, libdir = "lib")
