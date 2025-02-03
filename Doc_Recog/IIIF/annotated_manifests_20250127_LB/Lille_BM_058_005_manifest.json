@@ -89,7 +89,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863036"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863036",
+                            "imageHeightAsDownloaded": 3948,
+                            "imageWidthAsDownloaded": 5440
                         }
                     ]
                 },
@@ -115,7 +117,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863037"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863037",
+                            "imageHeightAsDownloaded": 2876,
+                            "imageWidthAsDownloaded": 2271
                         }
                     ]
                 },
@@ -141,7 +145,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863038"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863038",
+                            "imageHeightAsDownloaded": 2831,
+                            "imageWidthAsDownloaded": 2166
                         }
                     ]
                 },
@@ -167,7 +173,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863039"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863039",
+                            "imageHeightAsDownloaded": 3815,
+                            "imageWidthAsDownloaded": 3956
                         }
                     ]
                 },
@@ -193,7 +201,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863040"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863040",
+                            "imageHeightAsDownloaded": 2821,
+                            "imageWidthAsDownloaded": 3756
                         }
                     ]
                 },
@@ -219,7 +229,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863041"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863041",
+                            "imageHeightAsDownloaded": 2831,
+                            "imageWidthAsDownloaded": 3647
                         }
                     ]
                 },
@@ -245,7 +257,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863042"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863042",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3634
                         }
                     ]
                 },
@@ -271,7 +285,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863043"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863043",
+                            "imageHeightAsDownloaded": 2776,
+                            "imageWidthAsDownloaded": 3766
                         }
                     ]
                 },
@@ -297,7 +313,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863044"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863044",
+                            "imageHeightAsDownloaded": 2744,
+                            "imageWidthAsDownloaded": 3641
                         }
                     ]
                 },
@@ -323,7 +341,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863045"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863045",
+                            "imageHeightAsDownloaded": 2771,
+                            "imageWidthAsDownloaded": 3911
                         }
                     ]
                 },
@@ -349,7 +369,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863046"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863046",
+                            "imageHeightAsDownloaded": 2841,
+                            "imageWidthAsDownloaded": 3866
                         }
                     ]
                 },
@@ -375,7 +397,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863047"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863047",
+                            "imageHeightAsDownloaded": 2787,
+                            "imageWidthAsDownloaded": 3938
                         }
                     ]
                 },
@@ -401,7 +425,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863048"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863048",
+                            "imageHeightAsDownloaded": 2751,
+                            "imageWidthAsDownloaded": 3846
                         }
                     ]
                 },
@@ -427,7 +453,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863049"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863049",
+                            "imageHeightAsDownloaded": 2761,
+                            "imageWidthAsDownloaded": 3771
                         }
                     ]
                 },
@@ -453,7 +481,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863050"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863050",
+                            "imageHeightAsDownloaded": 2773,
+                            "imageWidthAsDownloaded": 3811
                         }
                     ]
                 },
@@ -479,7 +509,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863051"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863051",
+                            "imageHeightAsDownloaded": 2776,
+                            "imageWidthAsDownloaded": 3667
                         }
                     ]
                 },
@@ -505,7 +537,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863052"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863052",
+                            "imageHeightAsDownloaded": 2771,
+                            "imageWidthAsDownloaded": 3656
                         }
                     ]
                 },
@@ -531,7 +565,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863053"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863053",
+                            "imageHeightAsDownloaded": 2751,
+                            "imageWidthAsDownloaded": 3661
                         }
                     ]
                 },
@@ -557,7 +593,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863054"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863054",
+                            "imageHeightAsDownloaded": 2842,
+                            "imageWidthAsDownloaded": 3717
                         }
                     ]
                 },
@@ -583,7 +621,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863055"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863055",
+                            "imageHeightAsDownloaded": 2776,
+                            "imageWidthAsDownloaded": 3671
                         }
                     ]
                 },
@@ -609,7 +649,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863056"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863056",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3727
                         }
                     ]
                 },
@@ -635,7 +677,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863057"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863057",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3854
                         }
                     ]
                 },
@@ -661,7 +705,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863058"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863058",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3726
                         }
                     ]
                 },
@@ -687,7 +733,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863059"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863059",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 3971
                         }
                     ]
                 },
@@ -713,7 +761,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863060"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863060",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 3931
                         }
                     ]
                 },
@@ -739,7 +789,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863061"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863061",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 4001
                         }
                     ]
                 },
@@ -765,7 +817,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863062"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863062",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 3901
                         }
                     ]
                 },
@@ -791,7 +845,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863063"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863063",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 4016
                         }
                     ]
                 },
@@ -817,7 +873,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863064"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863064",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 4071
                         }
                     ]
                 },
@@ -843,7 +901,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863065"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863065",
+                            "imageHeightAsDownloaded": 2766,
+                            "imageWidthAsDownloaded": 4181
                         }
                     ]
                 },
@@ -869,7 +929,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863066"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863066",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 4071
                         }
                     ]
                 },
@@ -895,7 +957,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863067"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863067",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 4101
                         }
                     ]
                 },
@@ -921,7 +985,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863068"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863068",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 4116
                         }
                     ]
                 },
@@ -947,7 +1013,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863069"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863069",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 4046
                         }
                     ]
                 },
@@ -973,7 +1041,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863070"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863070",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 4021
                         }
                     ]
                 },
@@ -999,7 +1069,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863071"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863071",
+                            "imageHeightAsDownloaded": 2811,
+                            "imageWidthAsDownloaded": 4016
                         }
                     ]
                 },
@@ -1025,7 +1097,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863072"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863072",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 4036
                         }
                     ]
                 },
@@ -1051,7 +1125,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863073"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863073",
+                            "imageHeightAsDownloaded": 2786,
+                            "imageWidthAsDownloaded": 4126
                         }
                     ]
                 },
@@ -1077,7 +1153,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863074"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863074",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3979
                         }
                     ]
                 },
@@ -1103,7 +1181,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863075"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863075",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3976
                         }
                     ]
                 },
@@ -1129,7 +1209,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863076"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863076",
+                            "imageHeightAsDownloaded": 2811,
+                            "imageWidthAsDownloaded": 4216
                         }
                     ]
                 },
@@ -1155,7 +1237,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863077"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863077",
+                            "imageHeightAsDownloaded": 2781,
+                            "imageWidthAsDownloaded": 3876
                         }
                     ]
                 },
@@ -1181,7 +1265,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863078"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863078",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3701
                         }
                     ]
                 },
@@ -1207,7 +1293,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863079"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863079",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 3761
                         }
                     ]
                 },
@@ -1233,7 +1321,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863080"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863080",
+                            "imageHeightAsDownloaded": 2787,
+                            "imageWidthAsDownloaded": 4159
                         }
                     ]
                 },
@@ -1259,7 +1349,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863081"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863081",
+                            "imageHeightAsDownloaded": 2776,
+                            "imageWidthAsDownloaded": 3986
                         }
                     ]
                 },
@@ -1285,7 +1377,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863082"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863082",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 4031
                         }
                     ]
                 },
@@ -1311,7 +1405,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863083"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863083",
+                            "imageHeightAsDownloaded": 2776,
+                            "imageWidthAsDownloaded": 4076
                         }
                     ]
                 },
@@ -1337,7 +1433,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863084"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863084",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 4061
                         }
                     ]
                 },
@@ -1363,7 +1461,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863085"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863085",
+                            "imageHeightAsDownloaded": 2771,
+                            "imageWidthAsDownloaded": 3941
                         }
                     ]
                 },
@@ -1389,7 +1489,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863086"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863086",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3676
                         }
                     ]
                 },
@@ -1415,7 +1517,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863087"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863087",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 3741
                         }
                     ]
                 },
@@ -1441,7 +1545,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863088"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863088",
+                            "imageHeightAsDownloaded": 2836,
+                            "imageWidthAsDownloaded": 3981
                         }
                     ]
                 },
@@ -1467,7 +1573,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863089"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863089",
+                            "imageHeightAsDownloaded": 2832,
+                            "imageWidthAsDownloaded": 3768
                         }
                     ]
                 },
@@ -1493,7 +1601,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863090"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863090",
+                            "imageHeightAsDownloaded": 2849,
+                            "imageWidthAsDownloaded": 3722
                         }
                     ]
                 },
@@ -1519,7 +1629,112 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091",
+                            "imageHeightAsDownloaded": 2846,
+                            "imageWidthAsDownloaded": 3861
+                        }
+                    ],
+                    "otherContent": [
+                        {
+                            "@id": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/list/transcriptions/",
+                            "@type": "sc:AnnotationList",
+                            "label": "Transcriptions"
+                        }
+                    ],
+                    "annotations": [
+                        {
+                            "id": "https://arkindex.teklia.com/api/v1/l0",
+                            "type": "AnnotationPage",
+                            "items": [
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:808.6586479487535,519.5317964354427,263.1184407796102,205.60331964568218"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:794.3067329971383,1499.7336691648575,229.63063922584158,176.91448434628484"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2521.320498841489,1408.8856907167653,186.57489437099636,95.62945099799174"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2100.3309935941124,1738.807296659837,167.43900776884314,81.28503334829273"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2090.7630502930365,1662.3037358614438,167.43900776884314,71.72208824849355"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2085.9790786424974,1581.0187025131506,167.43900776884314,81.28503334829273"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "ornemented initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2085.9790786424974,1490.1707240650587,167.43900776884314,81.28503334829273"
+                                },
+                                {
+                                    "id": "https://arkindex.teklia.com/api/v1/l1/0",
+                                    "type": "Annotation",
+                                    "motivation": "commenting",
+                                    "body": {
+                                        "type": "TextualBody",
+                                        "value": "historiated initial",
+                                        "format": "text/plain"
+                                    },
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=pct:2033.3553904865742,1045.4937769243966,516.6689382581433,392.0807490917657"
+                                }
+                            ]
                         }
                     ]
                 },
@@ -1545,7 +1760,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863092"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863092",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 3772
                         }
                     ]
                 },
@@ -1571,7 +1788,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863093"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863093",
+                            "imageHeightAsDownloaded": 2811,
+                            "imageWidthAsDownloaded": 3788
                         }
                     ]
                 },
@@ -1597,7 +1816,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863094"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863094",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3786
                         }
                     ]
                 },
@@ -1623,7 +1844,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863095"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863095",
+                            "imageHeightAsDownloaded": 2847,
+                            "imageWidthAsDownloaded": 3917
                         }
                     ]
                 },
@@ -1649,7 +1872,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863096"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863096",
+                            "imageHeightAsDownloaded": 2867,
+                            "imageWidthAsDownloaded": 4022
                         }
                     ]
                 },
@@ -1675,7 +1900,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863097"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863097",
+                            "imageHeightAsDownloaded": 2856,
+                            "imageWidthAsDownloaded": 3852
                         }
                     ]
                 },
@@ -1701,7 +1928,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863098"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863098",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3781
                         }
                     ]
                 },
@@ -1727,7 +1956,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863099"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863099",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 3731
                         }
                     ]
                 },
@@ -1753,7 +1984,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863100"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863100",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3791
                         }
                     ]
                 },
@@ -1779,7 +2012,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863101"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863101",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3736
                         }
                     ]
                 },
@@ -1805,7 +2040,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863102"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863102",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3864
                         }
                     ]
                 },
@@ -1831,7 +2068,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863103"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863103",
+                            "imageHeightAsDownloaded": 2857,
+                            "imageWidthAsDownloaded": 3851
                         }
                     ]
                 },
@@ -1857,7 +2096,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863104"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863104",
+                            "imageHeightAsDownloaded": 2875,
+                            "imageWidthAsDownloaded": 3897
                         }
                     ]
                 },
@@ -1883,7 +2124,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863105"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863105",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3851
                         }
                     ]
                 },
@@ -1909,7 +2152,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863106"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863106",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3876
                         }
                     ]
                 },
@@ -1935,7 +2180,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107",
+                            "imageHeightAsDownloaded": 2811,
+                            "imageWidthAsDownloaded": 3886
                         }
                     ],
                     "otherContent": [
@@ -1959,7 +2206,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:22.402678064843613,27.255345570687282,4.410527244016087,4.065002068217595"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:870.5680695998227,766.1477639920196,171.39308870246515,114.2672081375966"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -1970,7 +2217,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:22.47268643379625,46.32214098589837,4.200502137158178,3.5810732505726364"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:873.2885948173223,1302.1153831136032,163.23151304996682,100.6639690735968"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -1981,7 +2228,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:32.203849718212695,38.288922612992174,4.900585826684541,3.968216304688603"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:1251.4416000497454,1076.30161465121,190.43676522496125,111.54656032479663"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -1992,7 +2239,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:33.7440338351707,54.64571664939153,3.920468661347627,3.2907159599856683"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:1311.2931548347333,1536.091095014396,152.3494121799688,92.50202563519714"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2003,7 +2250,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:62.23743999889366,20.421796104616945,4.690560719826635,4.1617878317465795"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2418.5469183570076,574.0566885007823,182.27518957246303,116.98785595039635"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2014,7 +2261,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:52.8563185592404,23.712512064602613,6.510778312595171,6.291074629384369"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2053.996539212082,666.5587141359795,253.00884522744835,176.8421078319946"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2025,7 +2272,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:53.20636040400358,32.13287349162477,4.8305774577318985,3.2907159599856683"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2067.5991652995795,903.2550738495722,187.71624000746158,92.50202563519714"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2036,7 +2283,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:64.61772454328329,36.29466132337134,4.830577457731906,3.8714305411596186"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2511.0447757519883,1020.2429297999684,187.71624000746186,108.82591251199688"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2047,7 +2294,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:54.04646083143522,44.81180851392249,4.550543981921351,3.968216304688596"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2100.2454679095727,1259.6599373263612,176.83413913746367,111.54656032479643"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2058,7 +2305,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:54.746544520961585,52.36109806918372,3.990477030300262,3.193930196456698"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2127.450720084567,1471.8704667247544,155.06993739746818,89.78137782239777"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2069,7 +2316,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:62.51747347470421,56.91002895504628,4.690560719826614,3.7746447776306056"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=pct:2429.4290192270055,1599.740913926351,182.27518957246224,106.10526469919633"
                                 }
                             ]
                         }
@@ -2097,7 +2344,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863108"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863108",
+                            "imageHeightAsDownloaded": 2821,
+                            "imageWidthAsDownloaded": 3911
                         }
                     ]
                 },
@@ -2123,7 +2372,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863109"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863109",
+                            "imageHeightAsDownloaded": 2836,
+                            "imageWidthAsDownloaded": 3956
                         }
                     ]
                 },
@@ -2149,7 +2400,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863110"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863110",
+                            "imageHeightAsDownloaded": 2828,
+                            "imageWidthAsDownloaded": 3893
                         }
                     ]
                 },
@@ -2175,7 +2428,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863111"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863111",
+                            "imageHeightAsDownloaded": 2802,
+                            "imageWidthAsDownloaded": 3906
                         }
                     ]
                 },
@@ -2201,7 +2456,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863112"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863112",
+                            "imageHeightAsDownloaded": 2797,
+                            "imageWidthAsDownloaded": 3956
                         }
                     ]
                 },
@@ -2227,7 +2484,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863113"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863113",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 3926
                         }
                     ]
                 },
@@ -2253,7 +2512,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863114"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863114",
+                            "imageHeightAsDownloaded": 2822,
+                            "imageWidthAsDownloaded": 3951
                         }
                     ]
                 },
@@ -2279,7 +2540,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863115"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863115",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3926
                         }
                     ]
                 },
@@ -2305,7 +2568,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863116"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863116",
+                            "imageHeightAsDownloaded": 2841,
+                            "imageWidthAsDownloaded": 3966
                         }
                     ]
                 },
@@ -2331,7 +2596,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863117"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863117",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3982
                         }
                     ]
                 },
@@ -2357,7 +2624,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863118"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863118",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 4002
                         }
                     ]
                 },
@@ -2383,7 +2652,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863119"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863119",
+                            "imageHeightAsDownloaded": 2856,
+                            "imageWidthAsDownloaded": 4012
                         }
                     ]
                 },
@@ -2409,7 +2680,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863120"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863120",
+                            "imageHeightAsDownloaded": 2841,
+                            "imageWidthAsDownloaded": 3999
                         }
                     ]
                 },
@@ -2435,7 +2708,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863121"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863121",
+                            "imageHeightAsDownloaded": 2857,
+                            "imageWidthAsDownloaded": 4011
                         }
                     ]
                 },
@@ -2461,7 +2736,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863122"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863122",
+                            "imageHeightAsDownloaded": 2849,
+                            "imageWidthAsDownloaded": 3982
                         }
                     ]
                 },
@@ -2487,7 +2764,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863123"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863123",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 4012
                         }
                     ]
                 },
@@ -2513,7 +2792,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863124"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863124",
+                            "imageHeightAsDownloaded": 2846,
+                            "imageWidthAsDownloaded": 3971
                         }
                     ]
                 },
@@ -2539,7 +2820,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863125"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863125",
+                            "imageHeightAsDownloaded": 2831,
+                            "imageWidthAsDownloaded": 3991
                         }
                     ]
                 },
@@ -2565,7 +2848,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863126"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863126",
+                            "imageHeightAsDownloaded": 2821,
+                            "imageWidthAsDownloaded": 4006
                         }
                     ]
                 },
@@ -2591,7 +2876,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863127"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863127",
+                            "imageHeightAsDownloaded": 2822,
+                            "imageWidthAsDownloaded": 4057
                         }
                     ]
                 },
@@ -2617,7 +2904,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863128"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863128",
+                            "imageHeightAsDownloaded": 2837,
+                            "imageWidthAsDownloaded": 3977
                         }
                     ]
                 },
@@ -2643,7 +2932,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863129"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863129",
+                            "imageHeightAsDownloaded": 2857,
+                            "imageWidthAsDownloaded": 3919
                         }
                     ]
                 },
@@ -2669,7 +2960,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863130"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863130",
+                            "imageHeightAsDownloaded": 2821,
+                            "imageWidthAsDownloaded": 3999
                         }
                     ]
                 },
@@ -2695,7 +2988,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863131"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863131",
+                            "imageHeightAsDownloaded": 2847,
+                            "imageWidthAsDownloaded": 3965
                         }
                     ]
                 },
@@ -2721,7 +3016,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863132"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863132",
+                            "imageHeightAsDownloaded": 2804,
+                            "imageWidthAsDownloaded": 3922
                         }
                     ]
                 },
@@ -2747,7 +3044,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863133"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863133",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3906
                         }
                     ]
                 },
@@ -2773,7 +3072,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863134"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863134",
+                            "imageHeightAsDownloaded": 2847,
+                            "imageWidthAsDownloaded": 3943
                         }
                     ]
                 },
@@ -2799,7 +3100,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863135"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863135",
+                            "imageHeightAsDownloaded": 2893,
+                            "imageWidthAsDownloaded": 3983
                         }
                     ]
                 },
@@ -2825,7 +3128,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863136"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863136",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 3916
                         }
                     ]
                 },
@@ -2851,7 +3156,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863137"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863137",
+                            "imageHeightAsDownloaded": 2902,
+                            "imageWidthAsDownloaded": 3937
                         }
                     ]
                 },
@@ -2877,7 +3184,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863138"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863138",
+                            "imageHeightAsDownloaded": 2872,
+                            "imageWidthAsDownloaded": 4002
                         }
                     ]
                 },
@@ -2903,7 +3212,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863139"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863139",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3929
                         }
                     ]
                 },
@@ -2929,7 +3240,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863140"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863140",
+                            "imageHeightAsDownloaded": 2888,
+                            "imageWidthAsDownloaded": 4003
                         }
                     ]
                 },
@@ -2955,7 +3268,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863141"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863141",
+                            "imageHeightAsDownloaded": 2846,
+                            "imageWidthAsDownloaded": 4031
                         }
                     ]
                 },
@@ -2981,7 +3296,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863142"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863142",
+                            "imageHeightAsDownloaded": 2781,
+                            "imageWidthAsDownloaded": 3973
                         }
                     ]
                 },
@@ -3007,7 +3324,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863143"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863143",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 4002
                         }
                     ]
                 },
@@ -3033,7 +3352,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863144"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863144",
+                            "imageHeightAsDownloaded": 2817,
+                            "imageWidthAsDownloaded": 3922
                         }
                     ]
                 },
@@ -3059,7 +3380,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863145"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863145",
+                            "imageHeightAsDownloaded": 2862,
+                            "imageWidthAsDownloaded": 3923
                         }
                     ]
                 },
@@ -3085,7 +3408,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863146"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863146",
+                            "imageHeightAsDownloaded": 2826,
+                            "imageWidthAsDownloaded": 3897
                         }
                     ]
                 },
@@ -3111,7 +3436,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863147"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863147",
+                            "imageHeightAsDownloaded": 2851,
+                            "imageWidthAsDownloaded": 3987
                         }
                     ]
                 },
@@ -3137,7 +3464,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863148"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863148",
+                            "imageHeightAsDownloaded": 2872,
+                            "imageWidthAsDownloaded": 3927
                         }
                     ]
                 },
@@ -3163,7 +3492,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863149"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863149",
+                            "imageHeightAsDownloaded": 2887,
+                            "imageWidthAsDownloaded": 4005
                         }
                     ]
                 },
@@ -3189,7 +3520,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863150"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863150",
+                            "imageHeightAsDownloaded": 2851,
+                            "imageWidthAsDownloaded": 3982
                         }
                     ]
                 },
@@ -3215,7 +3548,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863151"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863151",
+                            "imageHeightAsDownloaded": 2900,
+                            "imageWidthAsDownloaded": 4049
                         }
                     ]
                 },
@@ -3241,7 +3576,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863152"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863152",
+                            "imageHeightAsDownloaded": 2836,
+                            "imageWidthAsDownloaded": 3993
                         }
                     ]
                 },
@@ -3267,7 +3604,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863153"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863153",
+                            "imageHeightAsDownloaded": 2873,
+                            "imageWidthAsDownloaded": 4008
                         }
                     ]
                 },
@@ -3293,7 +3632,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863154"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863154",
+                            "imageHeightAsDownloaded": 2855,
+                            "imageWidthAsDownloaded": 4042
                         }
                     ]
                 },
@@ -3319,7 +3660,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863155"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863155",
+                            "imageHeightAsDownloaded": 2852,
+                            "imageWidthAsDownloaded": 3960
                         }
                     ]
                 },
@@ -3345,7 +3688,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863156"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863156",
+                            "imageHeightAsDownloaded": 2827,
+                            "imageWidthAsDownloaded": 3941
                         }
                     ]
                 },
@@ -3371,7 +3716,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863157"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863157",
+                            "imageHeightAsDownloaded": 2866,
+                            "imageWidthAsDownloaded": 3950
                         }
                     ]
                 },
@@ -3397,7 +3744,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863158"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863158",
+                            "imageHeightAsDownloaded": 2851,
+                            "imageWidthAsDownloaded": 3997
                         }
                     ]
                 },
@@ -3423,7 +3772,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863159"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863159",
+                            "imageHeightAsDownloaded": 2882,
+                            "imageWidthAsDownloaded": 4000
                         }
                     ]
                 },
@@ -3449,7 +3800,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863160"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863160",
+                            "imageHeightAsDownloaded": 2852,
+                            "imageWidthAsDownloaded": 3958
                         }
                     ]
                 },
@@ -3475,7 +3828,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863161"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863161",
+                            "imageHeightAsDownloaded": 2892,
+                            "imageWidthAsDownloaded": 4002
                         }
                     ]
                 },
@@ -3501,7 +3856,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863162"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863162",
+                            "imageHeightAsDownloaded": 2841,
+                            "imageWidthAsDownloaded": 3827
                         }
                     ]
                 },
@@ -3527,7 +3884,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863163"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863163",
+                            "imageHeightAsDownloaded": 2877,
+                            "imageWidthAsDownloaded": 3977
                         }
                     ]
                 },
@@ -3553,7 +3912,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863164"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863164",
+                            "imageHeightAsDownloaded": 2836,
+                            "imageWidthAsDownloaded": 3937
                         }
                     ]
                 },
@@ -3579,7 +3940,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863165"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863165",
+                            "imageHeightAsDownloaded": 2801,
+                            "imageWidthAsDownloaded": 3912
                         }
                     ]
                 },
@@ -3605,7 +3968,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863166"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863166",
+                            "imageHeightAsDownloaded": 2859,
+                            "imageWidthAsDownloaded": 3994
                         }
                     ]
                 },
@@ -3631,7 +3996,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863167"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863167",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 3916
                         }
                     ]
                 },
@@ -3657,7 +4024,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863168"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863168",
+                            "imageHeightAsDownloaded": 2872,
+                            "imageWidthAsDownloaded": 4003
                         }
                     ]
                 },
@@ -3683,7 +4052,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863169"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863169",
+                            "imageHeightAsDownloaded": 2885,
+                            "imageWidthAsDownloaded": 3963
                         }
                     ]
                 },
@@ -3709,7 +4080,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863170"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863170",
+                            "imageHeightAsDownloaded": 2842,
+                            "imageWidthAsDownloaded": 3978
                         }
                     ]
                 },
@@ -3735,7 +4108,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863171"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863171",
+                            "imageHeightAsDownloaded": 2841,
+                            "imageWidthAsDownloaded": 3940
                         }
                     ]
                 },
@@ -3761,7 +4136,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863172"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863172",
+                            "imageHeightAsDownloaded": 2791,
+                            "imageWidthAsDownloaded": 3821
                         }
                     ]
                 },
@@ -3787,7 +4164,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863173"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863173",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3829
                         }
                     ]
                 },
@@ -3813,7 +4192,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863174"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863174",
+                            "imageHeightAsDownloaded": 2806,
+                            "imageWidthAsDownloaded": 3839
                         }
                     ]
                 },
@@ -3839,7 +4220,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863175"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863175",
+                            "imageHeightAsDownloaded": 2817,
+                            "imageWidthAsDownloaded": 3916
                         }
                     ]
                 },
@@ -3865,7 +4248,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863176"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863176",
+                            "imageHeightAsDownloaded": 2816,
+                            "imageWidthAsDownloaded": 3926
                         }
                     ]
                 },
@@ -3891,7 +4276,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863177"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863177",
+                            "imageHeightAsDownloaded": 2847,
+                            "imageWidthAsDownloaded": 3890
                         }
                     ]
                 },
@@ -3917,7 +4304,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863178"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863178",
+                            "imageHeightAsDownloaded": 2887,
+                            "imageWidthAsDownloaded": 3873
                         }
                     ]
                 },
@@ -3943,7 +4332,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863179"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863179",
+                            "imageHeightAsDownloaded": 2872,
+                            "imageWidthAsDownloaded": 3857
                         }
                     ]
                 },
@@ -3969,7 +4360,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863180"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863180",
+                            "imageHeightAsDownloaded": 2796,
+                            "imageWidthAsDownloaded": 3828
                         }
                     ]
                 },
@@ -3995,7 +4388,9 @@
                                     "profile": "http://iiif.io/api/image/2/level2.json"
                                 }
                             },
-                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863181"
+                            "on": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863181",
+                            "imageHeightAsDownloaded": 3944,
+                            "imageWidthAsDownloaded": 5440
                         }
                     ]
                 }
