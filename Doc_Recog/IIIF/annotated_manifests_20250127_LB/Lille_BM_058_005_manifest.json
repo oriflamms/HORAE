@@ -1655,7 +1655,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=808.6586479487535,519.5317964354427,263.1184407796102,205.60331964568218"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=808,519,263,205"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1666,7 +1666,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=794.3067329971383,1499.7336691648575,229.63063922584158,176.91448434628484"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=794,1499,229,176"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1677,7 +1677,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2521.320498841489,1408.8856907167653,186.57489437099636,95.62945099799174"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2521,1408,186,95"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1688,7 +1688,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2100.3309935941124,1738.807296659837,167.43900776884314,81.28503334829273"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2100,1738,167,81"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1699,7 +1699,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2090.7630502930365,1662.3037358614438,167.43900776884314,71.72208824849355"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2090,1662,167,71"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1710,7 +1710,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2085.9790786424974,1581.0187025131506,167.43900776884314,81.28503334829273"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2085,1581,167,81"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1721,7 +1721,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2085.9790786424974,1490.1707240650587,167.43900776884314,81.28503334829273"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2085,1490,167,81"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/0",
@@ -1732,7 +1732,7 @@
                                         "value": "historiated initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2033.3553904865742,1045.4937769243966,516.6689382581433,392.0807490917657"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863091/canvas/#xywh=2033,1045,516,392"
                                 }
                             ]
                         }
@@ -2206,7 +2206,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=870.5680695998227,766.1477639920196,171.39308870246515,114.2672081375966"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=870,766,171,114"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2217,7 +2217,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=873.2885948173223,1302.1153831136032,163.23151304996682,100.6639690735968"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=873,1302,163,100"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2228,7 +2228,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=1251.4416000497454,1076.30161465121,190.43676522496125,111.54656032479663"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=1251,1076,190,111"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2239,7 +2239,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=1311.2931548347333,1536.091095014396,152.3494121799688,92.50202563519714"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=1311,1536,152,92"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2250,7 +2250,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2418.5469183570076,574.0566885007823,182.27518957246303,116.98785595039635"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2418,574,182,116"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2261,7 +2261,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2053.996539212082,666.5587141359795,253.00884522744835,176.8421078319946"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2053,666,253,176"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2272,7 +2272,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2067.5991652995795,903.2550738495722,187.71624000746158,92.50202563519714"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2067,903,187,92"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2283,7 +2283,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2511.0447757519883,1020.2429297999684,187.71624000746186,108.82591251199688"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2511,1020,187,108"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2294,7 +2294,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2100.2454679095727,1259.6599373263612,176.83413913746367,111.54656032479643"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2100,1259,176,111"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2305,7 +2305,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2127.450720084567,1471.8704667247544,155.06993739746818,89.78137782239777"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2127,1471,155,89"
                                 },
                                 {
                                     "id": "https://arkindex.teklia.com/api/v1/l1/1",
@@ -2316,7 +2316,7 @@
                                         "value": "ornemented initial",
                                         "format": "text/plain"
                                     },
-                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2429.4290192270055,1599.740913926351,182.27518957246224,106.10526469919633"
+                                    "target": "https://arca.irht.cnrs.fr/iiif/147276/canvas/canvas-1863107/canvas/#xywh=2429,1599,182,106"
                                 }
                             ]
                         }
