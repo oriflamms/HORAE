@@ -1,0 +1,104 @@
+{
+  "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/manifest.json",
+  "label" : "BnF. Département des Manuscrits. NAL 3197 (Miniature)",
+  "attribution" : "Bibliothèque nationale de France",
+  "license" : "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo" : "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "related" : "https://gallica.bnf.fr/ark:/12148/btv1b105154659",
+  "seeAlso" : [ "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b105154659" ],
+  "description" : "Horae ad usum Romanum , dites Heures de Comeau. Miniature, Adoration des mages",
+  "metadata" : [ {
+    "label" : "Repository",
+    "value" : ""
+  }, {
+    "label" : "Digitised by",
+    "value" : "Bibliothèque nationale de France"
+  }, {
+    "label" : "Source Images",
+    "value" : "https://gallica.bnf.fr/ark:/12148/btv1b105154659"
+  }, {
+    "label" : "Metadata Source",
+    "value" : "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b105154659"
+  }, {
+    "label" : "Shelfmark",
+    "value" : "Bibliothèque nationale de France. Département des Manuscrits. NAL 3197 (Miniature)"
+  }, {
+    "label" : "Title",
+    "value" : "Horae ad usum Romanum , dites Heures de Comeau. Miniature, Adoration des mages"
+  }, {
+    "label" : "Language",
+    "value" : "latin"
+  }, {
+    "label" : "Format",
+    "value" : "Parchemin. - 1 f. isolé. - 156 x 120 mm (just. 100 x 65 mm.). - Monté sous passe-partout (2021-2022, dossier BnF-ADM-2022-049772-01)"
+  }, {
+    "label" : "Relation",
+    "value" : "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc716864/cd0e754"
+  }, {
+    "label" : "Type",
+    "value" : "Manuscrit"
+  } ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/canvas/f1",
+      "label" : "NP",
+      "height" : 3178,
+      "width" : 2293,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/f1"
+          },
+          "height" : 3178,
+          "width" : 2293,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b105154659/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/canvas/f2",
+      "label" : "NP",
+      "height" : 3196,
+      "width" : 2305,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/f2"
+          },
+          "height" : 3196,
+          "width" : 2305,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b105154659/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b105154659/sequence/default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b105154659.thumbnail"
+  },
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

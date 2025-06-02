@@ -1,0 +1,113 @@
+{
+  "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/manifest.json",
+  "label" : "BnF. Département des Manuscrits. NAL 3261",
+  "attribution" : "Bibliothèque nationale de France",
+  "license" : "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo" : "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "related" : "https://gallica.bnf.fr/ark:/12148/btv1b10465071p",
+  "seeAlso" : [ "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b10465071p" ],
+  "description" : "Horae ad usum Parisiensem (fragment).",
+  "metadata" : [ {
+    "label" : "Repository",
+    "value" : ""
+  }, {
+    "label" : "Digitised by",
+    "value" : "Bibliothèque nationale de France"
+  }, {
+    "label" : "Source Images",
+    "value" : "https://gallica.bnf.fr/ark:/12148/btv1b10465071p"
+  }, {
+    "label" : "Metadata Source",
+    "value" : "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b10465071p"
+  }, {
+    "label" : "Shelfmark",
+    "value" : "Bibliothèque nationale de France. Département des Manuscrits. NAL 3261"
+  }, {
+    "label" : "Title",
+    "value" : "Horae ad usum Parisiensem (fragment)."
+  }, {
+    "label" : "Date",
+    "value" : "1400-1450"
+  }, {
+    "label" : "Language",
+    "value" : "latin"
+  }, {
+    "label" : "Format",
+    "value" : "France (Paris). - Écriture gothique : littera textualis formata. - Deux miniatures marginales attribuées au Maître de la Légende dorée de Munich (soldats jouant aux dés la tunique du Christ ; Crucifixion : coup de lance). - Bordures ornées à fines vignetures portant des fleurs peintes stylisées et des baies dorées. Initiales ornées de vignette et de motifs floraux, peintes sur fond doré. Initiales et bouts-de-ligne champis. -  . - Parchemin. - 1 feuillet. - 217 × 155 mm (justification : 105 × 70 mm). -  . - Réglure à l'encre, 17 longues lignes. - Estampille : Bibliothèque nationale de France, 2000-.."
+  }, {
+    "label" : "Creator",
+    "value" : "Maître de la Légende dorée de Munich. Enlumineur"
+  }, {
+    "label" : "Relation",
+    "value" : "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc125076q"
+  }, {
+    "label" : "Type",
+    "value" : "Manuscrit"
+  }, {
+    "label" : "Place",
+    "value" : "Lieu de copie : France (Paris)."
+  } ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/canvas/f1",
+      "label" : "NP",
+      "height" : 3584,
+      "width" : 2612,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/f1"
+          },
+          "height" : 3584,
+          "width" : 2612,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10465071p/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/canvas/f2",
+      "label" : "NP",
+      "height" : 3584,
+      "width" : 2546,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/f2"
+          },
+          "height" : 3584,
+          "width" : 2546,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10465071p/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10465071p/sequence/default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b10465071p.thumbnail"
+  },
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

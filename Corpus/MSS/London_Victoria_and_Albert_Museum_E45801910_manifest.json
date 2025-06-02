@@ -1,0 +1,114 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://iiif.vam.ac.uk/collections/O90849/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "Leaf from a Book of Hours",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Leaf from a Book of Hours"
+    },
+    {
+      "label": "Object Type",
+      "value": "Manuscript cutting"
+    },
+    {
+      "label": "Brief Description",
+      "value": "Leaf from a Book of Hours with half-page miniature showing a scenes from the life of St Stephen by the Dunois Master; French (Paris) ; ca 1440-1450"
+    },
+    {
+      "label": "Materials and Techniques",
+      "value": "Water-based pigments, gilding and ink on parchment"
+    },
+    {
+      "label": "Place",
+      "value": "Paris (illuminated)"
+    },
+    {
+      "label": "Accession Number",
+      "value": "E.4580-1910"
+    },
+    {
+      "label": "Rights Statement",
+      "value": "Image and metadata usage subject to V&A <a href=\"https://www.vam.ac.uk/info/va-websites-terms-conditions\">Terms and Conditions</a>"
+    },
+    {
+      "label": "Manifest",
+      "value": "https://iiif.vam.ac.uk/collections/O90849/manifest.json"
+    }
+  ],
+  "description": "Leaf from a Book of Hours with half-page miniature showing a scenes from the life of St Stephen by the Dunois Master; French (Paris) ; ca 1440-1450",
+  "attribution": "\u00a9Victoria and Albert Museum, London",
+  "license": "https://www.vam.ac.uk/info/va-websites-terms-conditions",
+  "logo": "https://framemark.vam.ac.uk/logos/valogo_social_2021/full/200,200/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "https://iiif.vam.ac.uk/collections/O90849/sequence/normal",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@id": "https://iiif.vam.ac.uk/collections/O90849/canvas/c0",
+          "@type": "sc:Canvas",
+          "label": "Image 0",
+          "thumbnail": "https://framemark.vam.ac.uk/collections/2009CD9566/full/!100,100/0/default.jpg",
+          "height": 2500,
+          "width": 1805,
+          "images": [
+            {
+              "@id": "https://iiif.vam.ac.uk/collections/O90849/canvas/c0/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://framemark.vam.ac.uk/collections/2009CD9566/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2500,
+                "width": 1805,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://framemark.vam.ac.uk/collections/2009CD9566",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.vam.ac.uk/collections/O90849/canvas/c0"
+            }
+          ]
+        },
+        {
+          "@id": "https://iiif.vam.ac.uk/collections/O90849/canvas/c1",
+          "@type": "sc:Canvas",
+          "label": "Image 1",
+          "thumbnail": "https://framemark.vam.ac.uk/collections/2006AK7937/full/!100,100/0/default.jpg",
+          "height": 2500,
+          "width": 1815,
+          "images": [
+            {
+              "@id": "https://iiif.vam.ac.uk/collections/O90849/canvas/c1/annotation/a0",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://framemark.vam.ac.uk/collections/2006AK7937/full/full/0/default.jpg",
+                "@type": "dctypes:Image",
+                "format": "image/jpeg",
+                "height": 2500,
+                "width": 1815,
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "https://framemark.vam.ac.uk/collections/2006AK7937",
+                  "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+              },
+              "on": "https://iiif.vam.ac.uk/collections/O90849/canvas/c1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "related": {
+    "@id": "http://collections.vam.ac.uk/item/O90849",
+    "@format": "text/html"
+  }
+}

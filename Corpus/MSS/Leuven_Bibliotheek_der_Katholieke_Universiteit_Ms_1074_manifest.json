@@ -1,0 +1,831 @@
+{
+    "metadata": [
+        {
+            "label": "Terms and conditions",
+            "value": "This object is available as open data  - <span><a href=https://bib.kuleuven.be/BD/digitalisering-en-document-delivery/digitalisering/gebruiksvoorwaarden>terms and conditions<\/a><\/span>"
+        },
+        {
+            "label": "Title",
+            "value": "Getijdenboek (fragment)"
+        },
+        {
+            "label": "Location",
+            "value": "KU Leuven Libraries Special Collections, Ms. 1074"
+        },
+        {
+            "label": "Full description",
+            "value": "<span><a href=https://resolver.libis.be/alma9977149320101488><img src=\"https://assets.libis.be/limo/logo_limo.png\" height=\"14\" style=\"margin-left:5px\"><\/a><\/span>"
+        },
+        {
+            "label": "Material type",
+            "value": "Parchment"
+        },
+        {
+            "label": "Genre",
+            "value": "Manuscripts"
+        }
+    ],
+    "@type": "sc:Manifest",
+    "structures": [
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236552.json"],
+            "@type": "sc:Range",
+            "label": "MS1074-000FrCover",
+            "@id": "https://lib.is/IE2236523/range/range-0-0.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236553.json"],
+            "@type": "sc:Range",
+            "label": "MS1074-000FrCoverInside",
+            "@id": "https://lib.is/IE2236523/range/range-0-1.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236554.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000003",
+            "@id": "https://lib.is/IE2236523/range/range-0-2.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236555.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000004",
+            "@id": "https://lib.is/IE2236523/range/range-0-3.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236556.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000005",
+            "@id": "https://lib.is/IE2236523/range/range-0-4.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236557.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000006",
+            "@id": "https://lib.is/IE2236523/range/range-0-5.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236558.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000007",
+            "@id": "https://lib.is/IE2236523/range/range-0-6.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236559.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000008",
+            "@id": "https://lib.is/IE2236523/range/range-0-7.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236560.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000009",
+            "@id": "https://lib.is/IE2236523/range/range-0-8.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236561.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000010",
+            "@id": "https://lib.is/IE2236523/range/range-0-9.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236562.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000011",
+            "@id": "https://lib.is/IE2236523/range/range-0-10.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236563.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000012",
+            "@id": "https://lib.is/IE2236523/range/range-0-11.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236564.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000013",
+            "@id": "https://lib.is/IE2236523/range/range-0-12.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236565.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000014",
+            "@id": "https://lib.is/IE2236523/range/range-0-13.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236566.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000015",
+            "@id": "https://lib.is/IE2236523/range/range-0-14.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236567.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000016",
+            "@id": "https://lib.is/IE2236523/range/range-0-15.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236568.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000017",
+            "@id": "https://lib.is/IE2236523/range/range-0-16.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236569.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000018",
+            "@id": "https://lib.is/IE2236523/range/range-0-17.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236570.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000019",
+            "@id": "https://lib.is/IE2236523/range/range-0-18.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236571.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000020",
+            "@id": "https://lib.is/IE2236523/range/range-0-19.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236572.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000021",
+            "@id": "https://lib.is/IE2236523/range/range-0-20.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236573.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000022",
+            "@id": "https://lib.is/IE2236523/range/range-0-21.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236574.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000023",
+            "@id": "https://lib.is/IE2236523/range/range-0-22.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236575.json"],
+            "@type": "sc:Range",
+            "label": "DIGI_0012_0166_000024",
+            "@id": "https://lib.is/IE2236523/range/range-0-23.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236576.json"],
+            "@type": "sc:Range",
+            "label": "MS1074-ABackCoverInside",
+            "@id": "https://lib.is/IE2236523/range/range-0-24.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236523/canvas/canvas-FL2236577.json"],
+            "@type": "sc:Range",
+            "label": "MS1074-BackCover",
+            "@id": "https://lib.is/IE2236523/range/range-0-25.json"
+        },
+        {
+            "viewingHint": "top",
+            "ranges": [
+                "https://lib.is/IE2236523/range/range-0-0.json",
+                "https://lib.is/IE2236523/range/range-0-1.json",
+                "https://lib.is/IE2236523/range/range-0-2.json",
+                "https://lib.is/IE2236523/range/range-0-3.json",
+                "https://lib.is/IE2236523/range/range-0-4.json",
+                "https://lib.is/IE2236523/range/range-0-5.json",
+                "https://lib.is/IE2236523/range/range-0-6.json",
+                "https://lib.is/IE2236523/range/range-0-7.json",
+                "https://lib.is/IE2236523/range/range-0-8.json",
+                "https://lib.is/IE2236523/range/range-0-9.json",
+                "https://lib.is/IE2236523/range/range-0-10.json",
+                "https://lib.is/IE2236523/range/range-0-11.json",
+                "https://lib.is/IE2236523/range/range-0-12.json",
+                "https://lib.is/IE2236523/range/range-0-13.json",
+                "https://lib.is/IE2236523/range/range-0-14.json",
+                "https://lib.is/IE2236523/range/range-0-15.json",
+                "https://lib.is/IE2236523/range/range-0-16.json",
+                "https://lib.is/IE2236523/range/range-0-17.json",
+                "https://lib.is/IE2236523/range/range-0-18.json",
+                "https://lib.is/IE2236523/range/range-0-19.json",
+                "https://lib.is/IE2236523/range/range-0-20.json",
+                "https://lib.is/IE2236523/range/range-0-21.json",
+                "https://lib.is/IE2236523/range/range-0-22.json",
+                "https://lib.is/IE2236523/range/range-0-23.json",
+                "https://lib.is/IE2236523/range/range-0-24.json",
+                "https://lib.is/IE2236523/range/range-0-25.json"
+            ],
+            "@type": "sc:Range",
+            "@id": "https://lib.is/IE2236523/range/range-0.json",
+            "label": "Table of Contents"
+        }
+    ],
+    "@id": "https://lib.is/IE2236523/manifest",
+    "label": "Getijdenboek (fragment)",
+    "sequences": [{
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "canvases": [
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236552",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236552/full/full/0/default.jpg",
+                        "label": "MS1074-000FrCover"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236552.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236552.json",
+                "label": "MS1074-000FrCover",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236553",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236553/full/full/0/default.jpg",
+                        "label": "MS1074-000FrCoverInside"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236553.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236553.json",
+                "label": "MS1074-000FrCoverInside",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236554",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236554/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000003"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236554.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236554.json",
+                "label": "DIGI_0012_0166_000003",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236555",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236555/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000004"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236555.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236555.json",
+                "label": "DIGI_0012_0166_000004",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236556",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236556/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000005"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236556.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236556.json",
+                "label": "DIGI_0012_0166_000005",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236557",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236557/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000006"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236557.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236557.json",
+                "label": "DIGI_0012_0166_000006",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236558",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236558/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000007"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236558.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236558.json",
+                "label": "DIGI_0012_0166_000007",
+                "height": 5381
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236559",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236559/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000008"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236559.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236559.json",
+                "label": "DIGI_0012_0166_000008",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236560",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236560/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000009"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236560.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236560.json",
+                "label": "DIGI_0012_0166_000009",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236561",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236561/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000010"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236561.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236561.json",
+                "label": "DIGI_0012_0166_000010",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236562",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236562/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000011"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236562.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236562.json",
+                "label": "DIGI_0012_0166_000011",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236563",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236563/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000012"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236563.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236563.json",
+                "label": "DIGI_0012_0166_000012",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236564",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236564/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000013"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236564.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236564.json",
+                "label": "DIGI_0012_0166_000013",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236565",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236565/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000014"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236565.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236565.json",
+                "label": "DIGI_0012_0166_000014",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236566",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236566/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000015"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236566.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236566.json",
+                "label": "DIGI_0012_0166_000015",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236567",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236567/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000016"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236567.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236567.json",
+                "label": "DIGI_0012_0166_000016",
+                "height": 5381
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236568",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236568/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000017"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236568.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3702,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236568.json",
+                "label": "DIGI_0012_0166_000017",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236569",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236569/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000018"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236569.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3702,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236569.json",
+                "label": "DIGI_0012_0166_000018",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236570",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236570/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000019"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236570.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236570.json",
+                "label": "DIGI_0012_0166_000019",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236571",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236571/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000020"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236571.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236571.json",
+                "label": "DIGI_0012_0166_000020",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236572",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236572/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000021"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236572.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236572.json",
+                "label": "DIGI_0012_0166_000021",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236573",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236573/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000022"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236573.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236573.json",
+                "label": "DIGI_0012_0166_000022",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236574",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236574/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000023"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236574.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3702,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236574.json",
+                "label": "DIGI_0012_0166_000023",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236575",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236575/full/full/0/default.jpg",
+                        "label": "DIGI_0012_0166_000024"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236575.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236575.json",
+                "label": "DIGI_0012_0166_000024",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236576",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236576/full/full/0/default.jpg",
+                        "label": "MS1074-ABackCoverInside"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236576.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236576.json",
+                "label": "MS1074-ABackCoverInside",
+                "height": 5380
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236523/iiif/2/FL2236577",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236523/iiif/2/FL2236577/full/full/0/default.jpg",
+                        "label": "MS1074-BackCover"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236523/canvas/canvas-FL2236577.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3703,
+                "@id": "https://lib.is/IE2236523/canvas/canvas-FL2236577.json",
+                "label": "MS1074-BackCover",
+                "height": 5380
+            }
+        ],
+        "@type": "sc:Sequence",
+        "@id": "https://lib.is/data/Pauls/rosetta/sequences/normal",
+        "label": "Current page order"
+    }],
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}

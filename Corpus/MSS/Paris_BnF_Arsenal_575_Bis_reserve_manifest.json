@@ -1,0 +1,110 @@
+{
+  "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/manifest.json",
+  "label" : "BnF. Bibliothèque de l'Arsenal. Ms-575 Bis réserve",
+  "attribution" : "Bibliothèque nationale de France",
+  "license" : "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+  "logo" : "https://gallica.bnf.fr/mbImage/logos/logo-bnf.png",
+  "related" : "https://gallica.bnf.fr/ark:/12148/btv1b55009272b",
+  "seeAlso" : [ "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b55009272b" ],
+  "description" : "Miniature de l'Annonciation, tirée du Livre d'heures à l'usage de Rome conservé sous la cote Ms-575 de l'Arsenal .",
+  "metadata" : [ {
+    "label" : "Repository",
+    "value" : ""
+  }, {
+    "label" : "Digitised by",
+    "value" : "Bibliothèque nationale de France"
+  }, {
+    "label" : "Source Images",
+    "value" : "https://gallica.bnf.fr/ark:/12148/btv1b55009272b"
+  }, {
+    "label" : "Metadata Source",
+    "value" : "http://oai.bnf.fr/oai2/OAIHandler?verb=GetRecord&metadataPrefix=oai_dc&identifier=oai:bnf.fr:gallica/ark:/12148/btv1b55009272b"
+  }, {
+    "label" : "Shelfmark",
+    "value" : "Bibliothèque nationale de France. Bibliothèque de l'Arsenal. Ms-575 Bis réserve"
+  }, {
+    "label" : "Title",
+    "value" : "Miniature de l'Annonciation, tirée du Livre d'heures à l'usage de Rome conservé sous la cote Ms-575 de l'Arsenal ."
+  }, {
+    "label" : "Date",
+    "value" : "1450-1455"
+  }, {
+    "label" : "Language",
+    "value" : "français"
+  }, {
+    "label" : "Format",
+    "value" : "Parchemin. - 1 f. - 148 x 110. - , sous cadre"
+  }, {
+    "label" : "Creator",
+    "value" : "Vrelant, Willem (1410?-1481). Enlumineur"
+  }, {
+    "label" : "Relation",
+    "value" : "Notice du catalogue : http://archivesetmanuscrits.bnf.fr/ark:/12148/cc95384w"
+  }, {
+    "label" : "Type",
+    "value" : "Manuscrit"
+  } ],
+  "sequences" : [ {
+    "canvases" : [ {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/canvas/f1",
+      "label" : "NP",
+      "height" : 3731,
+      "width" : 2975,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/canvas/f1",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/f1"
+          },
+          "height" : 3731,
+          "width" : 2975,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/f1/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b55009272b/f1.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    }, {
+      "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/canvas/f2",
+      "label" : "NP",
+      "height" : 3754,
+      "width" : 2982,
+      "images" : [ {
+        "motivation" : "sc:painting",
+        "on" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/canvas/f2",
+        "resource" : {
+          "format" : "image/jpeg",
+          "service" : {
+            "profile" : "http://library.stanford.edu/iiif/image-api/1.1/compliance.html#level2",
+            "@context" : "http://iiif.io/api/image/1/context.json",
+            "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/f2"
+          },
+          "height" : 3754,
+          "width" : 2982,
+          "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/f2/full/full/0/native.jpg",
+          "@type" : "dctypes:Image"
+        },
+        "@type" : "oa:Annotation"
+      } ],
+      "thumbnail" : {
+        "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b55009272b/f2.thumbnail"
+      },
+      "@type" : "sc:Canvas"
+    } ],
+    "label" : "Current Page Order",
+    "@type" : "sc:Sequence",
+    "@id" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b55009272b/sequence/default"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://gallica.bnf.fr/ark:/12148/btv1b55009272b.thumbnail"
+  },
+  "@type" : "sc:Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

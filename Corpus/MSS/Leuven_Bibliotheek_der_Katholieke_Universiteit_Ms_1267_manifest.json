@@ -1,0 +1,111 @@
+{
+    "metadata": [
+        {
+            "label": "Terms and conditions",
+            "value": "This object is available as open data  - <span><a href=https://bib.kuleuven.be/BD/digitalisering-en-document-delivery/digitalisering/gebruiksvoorwaarden>terms and conditions<\/a><\/span>"
+        },
+        {
+            "label": "Title",
+            "value": "Getijdenboek (fragment)"
+        },
+        {
+            "label": "Location",
+            "value": "KU Leuven Libraries Special Collections, Ms. 1267"
+        },
+        {
+            "label": "Full description",
+            "value": "<span><a href=https://resolver.libis.be/alma9992342699001488><img src=\"https://assets.libis.be/limo/logo_limo.png\" height=\"14\" style=\"margin-left:5px\"><\/a><\/span>"
+        },
+        {
+            "label": "Material type",
+            "value": "Parchment"
+        },
+        {
+            "label": "Genre",
+            "value": "Manuscripts"
+        }
+    ],
+    "@type": "sc:Manifest",
+    "structures": [
+        {
+            "canvases": ["https://lib.is/IE2236615/canvas/canvas-FL2236620.json"],
+            "@type": "sc:Range",
+            "label": "MS1267-001",
+            "@id": "https://lib.is/IE2236615/range/range-0-0.json"
+        },
+        {
+            "canvases": ["https://lib.is/IE2236615/canvas/canvas-FL2236621.json"],
+            "@type": "sc:Range",
+            "label": "MS1267-001V",
+            "@id": "https://lib.is/IE2236615/range/range-0-1.json"
+        },
+        {
+            "viewingHint": "top",
+            "ranges": [
+                "https://lib.is/IE2236615/range/range-0-0.json",
+                "https://lib.is/IE2236615/range/range-0-1.json"
+            ],
+            "@type": "sc:Range",
+            "@id": "https://lib.is/IE2236615/range/range-0.json",
+            "label": "Table of Contents"
+        }
+    ],
+    "@id": "https://lib.is/IE2236615/manifest",
+    "label": "Getijdenboek (fragment)",
+    "sequences": [{
+        "viewingDirection": "left-to-right",
+        "viewingHint": "paged",
+        "canvases": [
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236615/iiif/2/FL2236620",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236615/iiif/2/FL2236620/full/full/0/default.jpg",
+                        "label": "MS1267-001"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236615/canvas/canvas-FL2236620.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3333,
+                "@id": "https://lib.is/IE2236615/canvas/canvas-FL2236620.json",
+                "label": "MS1267-001",
+                "height": 4712
+            },
+            {
+                "images": [{
+                    "resource": {
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "profile": "http://iiif.io/api/image/2/level1.json",
+                            "@id": "https://lib.is/IE2236615/iiif/2/FL2236621",
+                            "@context": "http://iiif.io/api/image/2/context.json"
+                        },
+                        "@id": "https://lib.is/IE2236615/iiif/2/FL2236621/full/full/0/default.jpg",
+                        "label": "MS1267-001V"
+                    },
+                    "@type": "oa:Annotation",
+                    "motivation": "sc:painting",
+                    "@id": "https://lib.is/resources/anno-1.json",
+                    "on": "https://lib.is/IE2236615/canvas/canvas-FL2236621.json"
+                }],
+                "@type": "sc:Canvas",
+                "width": 3334,
+                "@id": "https://lib.is/IE2236615/canvas/canvas-FL2236621.json",
+                "label": "MS1267-001V",
+                "height": 4711
+            }
+        ],
+        "@type": "sc:Sequence",
+        "@id": "https://lib.is/data/Pauls/rosetta/sequences/normal",
+        "label": "Current page order"
+    }],
+    "@context": "http://iiif.io/api/presentation/2/context.json"
+}
