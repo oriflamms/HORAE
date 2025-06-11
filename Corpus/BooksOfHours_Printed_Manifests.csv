@@ -1,46 +1,46 @@
-﻿"Printed text H-ID","Country ID",settlement,repository,idno,"iiif manifest",Digitization-type
-778,DEU,Fulda,"Hessische Landesbibliothek Fulda","100 Aa 145a",https://fuldig.hs-fulda.de/viewer/rest/iiif/manifests/PPN438001117/manifest,
-848,DEU,München,"Bayerische Staatsbibliothek","4 Inc.c.a. 756 g",https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00070331/manifest,single
-894,DEU,München,"Bayerische Staatsbibliothek","Inc.s.a. 77",https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036126/manifest,single
-1188,FRA,Albi,"Bibliothèque municipale","inc. Roch. 12429",https://bvmm.irht.cnrs.fr/iiif/2853/manifest,double
-1237,FRA,Angers,"Bibliothèque municipale","impr. Rés. T 1343",https://bvmm.irht.cnrs.fr/iiif/1147/manifest,double
-1251,FRA,Angers,"Musée des Beaux-Arts","impr. 2003.1.078",https://bvmm.irht.cnrs.fr/iiif/1372/manifest,double
-1312,FRA,Auch,"Bibliothèque municipale","impr. 1064",https://bvmm.irht.cnrs.fr/iiif/1188/manifest,double
-1315,FRA,Autun,"Bibliothèque de la Société Eduenne","Album Bulliot, n° 31",https://bvmm.irht.cnrs.fr/iiif/22909/manifest,double
-1318,FRA,Autun,"Bibliothèque municipale","impr. SR 347",https://bvmm.irht.cnrs.fr/iiif/22744/manifest,double
-1389,FRA,Beaune,"Archives hospitalières","impr. Layette 123, 07",https://bvmm.irht.cnrs.fr/iiif/23169/manifest,double
-1390,FRA,Beaune,"Archives hospitalières","impr. Layette 123, 08",https://bvmm.irht.cnrs.fr/iiif/23173/manifest,double
-1443,FRA,Blois,"Musée diocésain d'Art religieux","impr. 84.1.1054",https://bvmm.irht.cnrs.fr/iiif/32137/manifest,
-1565,FRA,Chalon-sur-Saône,"Musée Denon","inv. 2005.0.3.16",https://bvmm.irht.cnrs.fr/iiif/19844/manifest,single
-1566,FRA,Chalon-sur-Saône,"Musée Denon","inv. 2005.0.3.17",https://bvmm.irht.cnrs.fr/iiif/19845/manifest,single
-1567,FRA,Chalon-sur-Saône,"Musée Denon","inv. 2005.0.3.18",https://bvmm.irht.cnrs.fr/iiif/19846/manifest,single
-1639,FRA,Chartres,"Bibliothèque municipale","impr. 8°, GR 045",https://bvmm.irht.cnrs.fr/iiif/103/manifest,
-1762,FRA,Fécamp,"Musée du Palais Bénédictine",A.10.004,https://bvmm.irht.cnrs.fr/iiif/20259/manifest,double
-1835,FRA,"Le Mans","Bibliothèque municipale","inc. R.I.A. 063",https://bvmm.irht.cnrs.fr/iiif/3320/manifest,double
-2066,FRA,Nantes,"Musée Dobrée","impr. 0690.2776",https://bvmm.irht.cnrs.fr/iiif/4308/manifest,double
-2171,FRA,Paris,"Bibliothèque Historique de la Ville de Paris","impr. 8-RES-0105",https://bvmm.irht.cnrs.fr/iiif/5725/manifest,double
-2172,FRA,Paris,"Bibliothèque Historique de la Ville de Paris","impr. 8-RES-0106",https://bvmm.irht.cnrs.fr/iiif/5726/manifest,double
-2173,FRA,Paris,"Bibliothèque Historique de la Ville de Paris","impr. 8-RES-0107",https://bvmm.irht.cnrs.fr/iiif/5727/manifest,double
-3092,FRA,Poitiers,"Bibliothèque municipale","Impr. CR046",https://horae-pictavenses.fr/iiif/9598/manifest,single
-3094,FRA,Poitiers,"Bibliothèque municipale","Impr. CR048 bis",https://horae-pictavenses.fr/iiif/9599/manifest,single
-3095,FRA,Poitiers,"Bibliothèque municipale","Impr. CR049",https://horae-pictavenses.fr/iiif/9600/manifest,single
-3098,FRA,Poitiers,"Bibliothèque municipale","Impr. DP 558",https://horae-pictavenses.fr/iiif/4832/manifest,single
-3099,FRA,Poitiers,"Bibliothèque municipale","Impr. DR 69",https://horae-pictavenses.fr/iiif/3893/manifest,single
-3100,FRA,Poitiers,"Bibliothèque municipale","Impr. DR014",https://horae-pictavenses.fr/iiif/4811/manifest,single
-3101,FRA,Poitiers,"Bibliothèque municipale","Impr. DR025",https://horae-pictavenses.fr/iiif/4690/manifest,single
-3104,FRA,Poitiers,"Bibliothèque municipale","Impr. DR038",https://horae-pictavenses.fr/iiif/6033/manifest,single
-3105,FRA,Poitiers,"Bibliothèque municipale","Impr. DR246",https://horae-pictavenses.fr/iiif/3892/manifest,single
-3106,FRA,Poitiers,"Bibliothèque municipale","Impr. DR524",https://horae-pictavenses.fr/iiif/3623/manifest,single
-3109,FRA,Poitiers,"Bibliothèque municipale","Inc. D04",https://horae-pictavenses.fr/iiif/5764/manifest,single
-3110,FRA,Poitiers,"Bibliothèque municipale","Inc. D27",https://horae-pictavenses.fr/iiif/6254/manifest,single
-3111,FRA,Poitiers,"Bibliothèque municipale","Inc. D53",https://horae-pictavenses.fr/iiif/216/manifest,single
-3112,FRA,Poitiers,"Bibliothèque municipale","Inc. D54",https://horae-pictavenses.fr/iiif/5583/manifest,single
-3122,FRA,Provins,"Bibliothèque municipale","inc. 010",https://bvmm.irht.cnrs.fr/iiif/4265/manifest,double
-3273,FRA,Saumur,Château-Musée,"inc. 0040",https://bvmm.irht.cnrs.fr/iiif/1373/manifest,double
-3331,FRA,Toulouse,"Bibliothèque municipale","inc. Paris 0149",https://bvmm.irht.cnrs.fr/iiif/1193/manifest,double
-6709,USA,"New Haven","Yale University Library, Beinecke Rare Book and Manuscript Library","Beinecke MS 0664",https://collections.library.yale.edu/manifests/9998938,
-723877,FRA,Sens,"Société Archéologique","boite 2/1",https://bvmm.irht.cnrs.fr/iiif/25481/manifest,
-725244,FRA,Annecy,"Bibliothèque municipale","Inc. 9",https://bvmm.irht.cnrs.fr/iiif/32548/manifest,
-725372,USA,"Collegeville (Minn.)","Saint John's University. Hill Museum & Manuscript Library. Special Collections","BX2080.C37 1518",https://www.vhmml.org/image/manifest/533818,
-725388,USA,"Saint Benedict (Oregon)","Mount Angel Abbey. Library","MS 78",https://www.vhmml.org/image/manifest/519228,
-733321,USA,Philadelphia,"University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts","Oversize Ms. Codex 1531",https://colenda.library.upenn.edu/phalt/iiif/2/81431-p3vd6p604/manifest,single
+﻿"Printed text H-ID";rec_Title;"Country ID";settlement;repository;idno;"iiif manifest";Digitization-type
+778;"Fulda, Hessische Landesbibliothek Fulda, 100 Aa 145a";DEU;Fulda;"Hessische Landesbibliothek Fulda";"100 Aa 145a";https://fuldig.hs-fulda.de/viewer/api/v1/records/PPN438001117/manifest/;
+848;"München, Bayerische Staatsbibliothek, 4 Inc.c.a. 756 g";DEU;München;"Bayerische Staatsbibliothek";"4 Inc.c.a. 756 g";https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00070331/manifest;single
+894;"München, Bayerische Staatsbibliothek, Inc.s.a. 77";DEU;München;"Bayerische Staatsbibliothek";"Inc.s.a. 77";https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036126/manifest;single
+1188;"Albi, Bibliothèque municipale, inc. Roch. 12429";FRA;Albi;"Bibliothèque municipale";"inc. Roch. 12429";https://bvmm.irht.cnrs.fr/iiif/2853/manifest;double
+1237;"Angers, Bibliothèque municipale, impr. Rés. T 1343";FRA;Angers;"Bibliothèque municipale";"impr. Rés. T 1343";https://bvmm.irht.cnrs.fr/iiif/1147/manifest;double
+1251;"Angers, Musée des Beaux-Arts, impr. 2003.1.078";FRA;Angers;"Musée des Beaux-Arts";"impr. 2003.1.078";https://bvmm.irht.cnrs.fr/iiif/1372/manifest;double
+1276;"Arras, Bibliothèque municipale, Impr. 0786";FRA;Arras;"Bibliothèque municipale";"Impr. 0786";https://api.irht.cnrs.fr/ark:/63955/f91gi2234u0f/manifest.json;
+1312;"Auch, Bibliothèque municipale, impr. 1064";FRA;Auch;"Bibliothèque municipale";"impr. 1064";https://bvmm.irht.cnrs.fr/iiif/1188/manifest;double
+1315;"Autun, Bibliothèque de la Société Eduenne, Album Bulliot, n° 31";FRA;Autun;"Bibliothèque de la Société Eduenne";"Album Bulliot, n° 31";https://bvmm.irht.cnrs.fr/iiif/22909/manifest;double
+1318;"Autun, Bibliothèque municipale, impr. SR 347";FRA;Autun;"Bibliothèque municipale";"impr. SR 347";https://bvmm.irht.cnrs.fr/iiif/22744/manifest;double
+1389;"Beaune, Archives hospitalières, impr. Layette 123, 07";FRA;Beaune;"Archives hospitalières";"impr. Layette 123, 07";https://bvmm.irht.cnrs.fr/iiif/23169/manifest;double
+1390;"Beaune, Archives hospitalières, impr. Layette 123, 08";FRA;Beaune;"Archives hospitalières";"impr. Layette 123, 08";https://bvmm.irht.cnrs.fr/iiif/23173/manifest;double
+1443;"Blois, Musée diocésain d'Art religieux, impr. 84.1.1054";FRA;Blois;"Musée diocésain d'Art religieux";"impr. 84.1.1054";https://bvmm.irht.cnrs.fr/iiif/32137/manifest;
+1456;"Bordeaux, Bibliothèque municipale, Inc. 319";FRA;Bordeaux;"Bibliothèque municipale";"Inc. 319";https://bvmm.irht.cnrs.fr/iiif/3039/manifest;"double page"
+1565;"Chalon-sur-Saône, Musée Denon, inv. 2005.0.3.16";FRA;Chalon-sur-Saône;"Musée Denon";"inv. 2005.0.3.16";https://bvmm.irht.cnrs.fr/iiif/19844/manifest;single
+1566;"Chalon-sur-Saône, Musée Denon, inv. 2005.0.3.17";FRA;Chalon-sur-Saône;"Musée Denon";"inv. 2005.0.3.17";https://bvmm.irht.cnrs.fr/iiif/19845/manifest;single
+1567;"Chalon-sur-Saône, Musée Denon, inv. 2005.0.3.18";FRA;Chalon-sur-Saône;"Musée Denon";"inv. 2005.0.3.18";https://bvmm.irht.cnrs.fr/iiif/19846/manifest;single
+1639;"Chartres, Bibliothèque municipale, impr. 8°, GR 045";FRA;Chartres;"Bibliothèque municipale";"impr. 8°, GR 045";https://bvmm.irht.cnrs.fr/iiif/103/manifest;
+1762;"Fécamp, Musée du Palais Bénédictine, A.10.004";FRA;Fécamp;"Musée du Palais Bénédictine";A.10.004;https://bvmm.irht.cnrs.fr/iiif/20259/manifest;double
+1835;"Le Mans, Bibliothèque municipale, inc. R.I.A. 063";FRA;"Le Mans";"Bibliothèque municipale";"inc. R.I.A. 063";https://bvmm.irht.cnrs.fr/iiif/3320/manifest;double
+2066;"Nantes, Musée Dobrée, impr. 0690.2776";FRA;Nantes;"Musée Dobrée";"impr. 0690.2776";https://bvmm.irht.cnrs.fr/iiif/4308/manifest;double
+2171;"Paris, Bibliothèque Historique de la Ville de Paris, impr. 8-RES-0105";FRA;Paris;"Bibliothèque Historique de la Ville de Paris";"impr. 8-RES-0105";https://bvmm.irht.cnrs.fr/iiif/5725/manifest;double
+2172;"Paris, Bibliothèque Historique de la Ville de Paris, impr. 8-RES-0106";FRA;Paris;"Bibliothèque Historique de la Ville de Paris";"impr. 8-RES-0106";https://bvmm.irht.cnrs.fr/iiif/5726/manifest;double
+2173;"Paris, Bibliothèque Historique de la Ville de Paris, impr. 8-RES-0107";FRA;Paris;"Bibliothèque Historique de la Ville de Paris";"impr. 8-RES-0107";https://bvmm.irht.cnrs.fr/iiif/5727/manifest;double
+3092;"Poitiers, Bibliothèque municipale, Impr. CR046";FRA;Poitiers;"Bibliothèque municipale";"Impr. CR046";https://horae-pictavenses.fr/iiif/9598/manifest;single
+3094;"Poitiers, Bibliothèque municipale, Impr. CR048 bis";FRA;Poitiers;"Bibliothèque municipale";"Impr. CR048 bis";https://horae-pictavenses.fr/iiif/9599/manifest;single
+3095;"Poitiers, Bibliothèque municipale, Impr. CR049";FRA;Poitiers;"Bibliothèque municipale";"Impr. CR049";https://horae-pictavenses.fr/iiif/9600/manifest;single
+3098;"Poitiers, Bibliothèque municipale, Impr. DP 558";FRA;Poitiers;"Bibliothèque municipale";"Impr. DP 558";https://horae-pictavenses.fr/iiif/4832/manifest;single
+3099;"Poitiers, Bibliothèque municipale, Impr. DR 69";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR 69";https://horae-pictavenses.fr/iiif/3893/manifest;single
+3100;"Poitiers, Bibliothèque municipale, Impr. DR014";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR014";https://horae-pictavenses.fr/iiif/4811/manifest;single
+3101;"Poitiers, Bibliothèque municipale, Impr. DR025";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR025";https://horae-pictavenses.fr/iiif/4690/manifest;single
+3104;"Poitiers, Bibliothèque municipale, Impr. DR038";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR038";https://horae-pictavenses.fr/iiif/6033/manifest;single
+3105;"Poitiers, Bibliothèque municipale, Impr. DR246";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR246";https://horae-pictavenses.fr/iiif/3892/manifest;single
+3106;"Poitiers, Bibliothèque municipale, Impr. DR524";FRA;Poitiers;"Bibliothèque municipale";"Impr. DR524";https://horae-pictavenses.fr/iiif/3623/manifest;single
+3109;"Poitiers, Bibliothèque municipale, Inc. D04";FRA;Poitiers;"Bibliothèque municipale";"Inc. D04";https://horae-pictavenses.fr/iiif/5764/manifest;single
+3110;"Poitiers, Bibliothèque municipale, Inc. D27";FRA;Poitiers;"Bibliothèque municipale";"Inc. D27";https://horae-pictavenses.fr/iiif/6254/manifest;single
+3111;"Poitiers, Bibliothèque municipale, Inc. D53";FRA;Poitiers;"Bibliothèque municipale";"Inc. D53";https://horae-pictavenses.fr/iiif/216/manifest;single
+3112;"Poitiers, Bibliothèque municipale, Inc. D54";FRA;Poitiers;"Bibliothèque municipale";"Inc. D54";https://horae-pictavenses.fr/iiif/5583/manifest;single
+3122;"Provins, Bibliothèque municipale, inc. 010";FRA;Provins;"Bibliothèque municipale";"inc. 010";https://bvmm.irht.cnrs.fr/iiif/4265/manifest;double
+3273;"Saumur, Château-Musée, inc. 0040";FRA;Saumur;Château-Musée;"inc. 0040";https://bvmm.irht.cnrs.fr/iiif/1373/manifest;double
+3331;"Toulouse, Bibliothèque municipale, inc. Paris 0149";FRA;Toulouse;"Bibliothèque municipale";"inc. Paris 0149";https://api.irht.cnrs.fr/ark:/63955/fhn6trtxp2vl/manifest.json;double
+723877;"Sens, Société Archéologique, boite 2/1";FRA;Sens;"Société Archéologique";"boite 2/1";https://bvmm.irht.cnrs.fr/iiif/25481/manifest;
+725244;"Annecy, Bibliothèque municipale, Inc. 9";FRA;Annecy;"Bibliothèque municipale";"Inc. 9";https://bvmm.irht.cnrs.fr/iiif/32548/manifest;
+733321;"Philadelphia, University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts, Oversize Ms. Codex 1531";USA;Philadelphia;"University of Pennsylvania, Kislak Center for Special Collections, Rare Books and Manuscripts";"Oversize Ms. Codex 1531";https://colenda.library.upenn.edu/items/ark:/81431/p30863c06/manifest;single
+740528;"București, Biblioteca Naţională a României, XVI/I 143";Romania;București;"Biblioteca Naţională a României";"XVI/I 143";https://collectiones.manuscriptorium.com/assorted/NLROAI/NLR___/E/NLROAI-NLR___XVI_I_143___2GQAXZE-xx/;
