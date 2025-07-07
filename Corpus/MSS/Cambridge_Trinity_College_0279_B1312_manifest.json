@@ -1,0 +1,1937 @@
+
+     {
+     "@context": "http://iiif.io/api/presentation/2/context.json",
+     "@type": "sc:Manifest",
+     "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/B.13.12.json",
+     "label": "B.13.12",
+     "description": "14 lines to a page. Initials of fluid gold on red or blue.",
+     "thumbnail": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F007_B.13.12_f002r.jp2/full/,500/0/default.jpg",
+
+      "metadata": [
+
+{"label": "Title","value": "Book of Hours (Fragments)"},
+{"label": "Language","value": "Latin"},
+{"label": "Folios","value": "29 ff."},
+{"label":  "Size (cm)","value": "14.5 x 10.5"},
+{"label": "Catalogue","value": "<a href='https://mss-cat.trin.cam.ac.uk/viewpage.php?index=116'>View Record</a>"}
+                    ],
+        "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "attribution": "Trinity College, Cambridge",
+        "logo": "https://mss-cat.trin.cam.ac.uk/manuscripts/files/logo.png",
+        "sequences": [
+                      {
+                        "@type": "sc:Sequence",
+                        "viewingHint": "paged",
+                        "viewingDirection": "left-to-right",
+                        "canvases": [
+
+
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/001_B.13.12_front-cover.jp2/canvas/front-cover",
+                   "label": "front-cover",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/001_B.13.12_front-cover.jp2/canvas/front-cover",
+                       "resource": {
+                         "label": "front-cover",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F001_B.13.12_front-cover.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F001_B.13.12_front-cover.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/002_B.13.12_inside-front-cover.jp2/canvas/inside-front-cover",
+                   "label": "inside-front-cover",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/002_B.13.12_inside-front-cover.jp2/canvas/inside-front-cover",
+                       "resource": {
+                         "label": "inside-front-cover",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F002_B.13.12_inside-front-cover.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F002_B.13.12_inside-front-cover.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/003_B.13.12_front-flyleafr.jp2/canvas/front-flyleafr",
+                   "label": "front-flyleafr",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/003_B.13.12_front-flyleafr.jp2/canvas/front-flyleafr",
+                       "resource": {
+                         "label": "front-flyleafr",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F003_B.13.12_front-flyleafr.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F003_B.13.12_front-flyleafr.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/004_B.13.12_front-flyleafv.jp2/canvas/front-flyleafv",
+                   "label": "front-flyleafv",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/004_B.13.12_front-flyleafv.jp2/canvas/front-flyleafv",
+                       "resource": {
+                         "label": "front-flyleafv",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F004_B.13.12_front-flyleafv.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F004_B.13.12_front-flyleafv.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/005_B.13.12_f001r.jp2/canvas/f001r",
+                   "label": "f001r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/005_B.13.12_f001r.jp2/canvas/f001r",
+                       "resource": {
+                         "label": "f001r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F005_B.13.12_f001r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F005_B.13.12_f001r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/006_B.13.12_f001v.jp2/canvas/f001v",
+                   "label": "f001v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/006_B.13.12_f001v.jp2/canvas/f001v",
+                       "resource": {
+                         "label": "f001v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F006_B.13.12_f001v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F006_B.13.12_f001v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/007_B.13.12_f002r.jp2/canvas/f002r",
+                   "label": "f002r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/007_B.13.12_f002r.jp2/canvas/f002r",
+                       "resource": {
+                         "label": "f002r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F007_B.13.12_f002r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F007_B.13.12_f002r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/008_B.13.12_f002v.jp2/canvas/f002v",
+                   "label": "f002v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/008_B.13.12_f002v.jp2/canvas/f002v",
+                       "resource": {
+                         "label": "f002v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F008_B.13.12_f002v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F008_B.13.12_f002v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/009_B.13.12_f003r.jp2/canvas/f003r",
+                   "label": "f003r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/009_B.13.12_f003r.jp2/canvas/f003r",
+                       "resource": {
+                         "label": "f003r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F009_B.13.12_f003r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F009_B.13.12_f003r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/010_B.13.12_f003v.jp2/canvas/f003v",
+                   "label": "f003v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/010_B.13.12_f003v.jp2/canvas/f003v",
+                       "resource": {
+                         "label": "f003v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F010_B.13.12_f003v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F010_B.13.12_f003v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/011_B.13.12_f004r.jp2/canvas/f004r",
+                   "label": "f004r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/011_B.13.12_f004r.jp2/canvas/f004r",
+                       "resource": {
+                         "label": "f004r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F011_B.13.12_f004r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F011_B.13.12_f004r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/012_B.13.12_f004v.jp2/canvas/f004v",
+                   "label": "f004v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/012_B.13.12_f004v.jp2/canvas/f004v",
+                       "resource": {
+                         "label": "f004v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F012_B.13.12_f004v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F012_B.13.12_f004v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/013_B.13.12_f005r.jp2/canvas/f005r",
+                   "label": "f005r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/013_B.13.12_f005r.jp2/canvas/f005r",
+                       "resource": {
+                         "label": "f005r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F013_B.13.12_f005r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F013_B.13.12_f005r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/014_B.13.12_f005v.jp2/canvas/f005v",
+                   "label": "f005v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/014_B.13.12_f005v.jp2/canvas/f005v",
+                       "resource": {
+                         "label": "f005v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F014_B.13.12_f005v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F014_B.13.12_f005v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/015_B.13.12_f006r.jp2/canvas/f006r",
+                   "label": "f006r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/015_B.13.12_f006r.jp2/canvas/f006r",
+                       "resource": {
+                         "label": "f006r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F015_B.13.12_f006r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F015_B.13.12_f006r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/016_B.13.12_f006v.jp2/canvas/f006v",
+                   "label": "f006v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/016_B.13.12_f006v.jp2/canvas/f006v",
+                       "resource": {
+                         "label": "f006v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F016_B.13.12_f006v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F016_B.13.12_f006v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/017_B.13.12_f007r.jp2/canvas/f007r",
+                   "label": "f007r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/017_B.13.12_f007r.jp2/canvas/f007r",
+                       "resource": {
+                         "label": "f007r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F017_B.13.12_f007r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F017_B.13.12_f007r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/018_B.13.12_f007v.jp2/canvas/f007v",
+                   "label": "f007v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/018_B.13.12_f007v.jp2/canvas/f007v",
+                       "resource": {
+                         "label": "f007v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F018_B.13.12_f007v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F018_B.13.12_f007v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/019_B.13.12_f008r.jp2/canvas/f008r",
+                   "label": "f008r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/019_B.13.12_f008r.jp2/canvas/f008r",
+                       "resource": {
+                         "label": "f008r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F019_B.13.12_f008r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F019_B.13.12_f008r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/020_B.13.12_f008v.jp2/canvas/f008v",
+                   "label": "f008v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/020_B.13.12_f008v.jp2/canvas/f008v",
+                       "resource": {
+                         "label": "f008v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F020_B.13.12_f008v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F020_B.13.12_f008v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/021_B.13.12_f009r.jp2/canvas/f009r",
+                   "label": "f009r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/021_B.13.12_f009r.jp2/canvas/f009r",
+                       "resource": {
+                         "label": "f009r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F021_B.13.12_f009r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F021_B.13.12_f009r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/022_B.13.12_f009v.jp2/canvas/f009v",
+                   "label": "f009v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/022_B.13.12_f009v.jp2/canvas/f009v",
+                       "resource": {
+                         "label": "f009v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F022_B.13.12_f009v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F022_B.13.12_f009v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/023_B.13.12_f010r.jp2/canvas/f010r",
+                   "label": "f010r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/023_B.13.12_f010r.jp2/canvas/f010r",
+                       "resource": {
+                         "label": "f010r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F023_B.13.12_f010r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F023_B.13.12_f010r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/024_B.13.12_f010v.jp2/canvas/f010v",
+                   "label": "f010v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/024_B.13.12_f010v.jp2/canvas/f010v",
+                       "resource": {
+                         "label": "f010v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F024_B.13.12_f010v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F024_B.13.12_f010v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/025_B.13.12_f011r.jp2/canvas/f011r",
+                   "label": "f011r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/025_B.13.12_f011r.jp2/canvas/f011r",
+                       "resource": {
+                         "label": "f011r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F025_B.13.12_f011r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F025_B.13.12_f011r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/026_B.13.12_f011v.jp2/canvas/f011v",
+                   "label": "f011v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/026_B.13.12_f011v.jp2/canvas/f011v",
+                       "resource": {
+                         "label": "f011v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F026_B.13.12_f011v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F026_B.13.12_f011v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/027_B.13.12_f012r.jp2/canvas/f012r",
+                   "label": "f012r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/027_B.13.12_f012r.jp2/canvas/f012r",
+                       "resource": {
+                         "label": "f012r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F027_B.13.12_f012r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F027_B.13.12_f012r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/028_B.13.12_f012v.jp2/canvas/f012v",
+                   "label": "f012v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/028_B.13.12_f012v.jp2/canvas/f012v",
+                       "resource": {
+                         "label": "f012v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F028_B.13.12_f012v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F028_B.13.12_f012v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/029_B.13.12_f013r.jp2/canvas/f013r",
+                   "label": "f013r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/029_B.13.12_f013r.jp2/canvas/f013r",
+                       "resource": {
+                         "label": "f013r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F029_B.13.12_f013r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F029_B.13.12_f013r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/030_B.13.12_f013v.jp2/canvas/f013v",
+                   "label": "f013v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/030_B.13.12_f013v.jp2/canvas/f013v",
+                       "resource": {
+                         "label": "f013v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F030_B.13.12_f013v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F030_B.13.12_f013v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/031_B.13.12_f014r.jp2/canvas/f014r",
+                   "label": "f014r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/031_B.13.12_f014r.jp2/canvas/f014r",
+                       "resource": {
+                         "label": "f014r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F031_B.13.12_f014r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F031_B.13.12_f014r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/032_B.13.12_f014v.jp2/canvas/f014v",
+                   "label": "f014v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/032_B.13.12_f014v.jp2/canvas/f014v",
+                       "resource": {
+                         "label": "f014v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F032_B.13.12_f014v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F032_B.13.12_f014v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/033_B.13.12_f015r.jp2/canvas/f015r",
+                   "label": "f015r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/033_B.13.12_f015r.jp2/canvas/f015r",
+                       "resource": {
+                         "label": "f015r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F033_B.13.12_f015r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F033_B.13.12_f015r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/034_B.13.12_f015v.jp2/canvas/f015v",
+                   "label": "f015v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/034_B.13.12_f015v.jp2/canvas/f015v",
+                       "resource": {
+                         "label": "f015v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F034_B.13.12_f015v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F034_B.13.12_f015v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/035_B.13.12_f016r.jp2/canvas/f016r",
+                   "label": "f016r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/035_B.13.12_f016r.jp2/canvas/f016r",
+                       "resource": {
+                         "label": "f016r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F035_B.13.12_f016r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F035_B.13.12_f016r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/036_B.13.12_f016v.jp2/canvas/f016v",
+                   "label": "f016v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/036_B.13.12_f016v.jp2/canvas/f016v",
+                       "resource": {
+                         "label": "f016v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F036_B.13.12_f016v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F036_B.13.12_f016v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/037_B.13.12_f017r.jp2/canvas/f017r",
+                   "label": "f017r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/037_B.13.12_f017r.jp2/canvas/f017r",
+                       "resource": {
+                         "label": "f017r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F037_B.13.12_f017r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F037_B.13.12_f017r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/038_B.13.12_f017v.jp2/canvas/f017v",
+                   "label": "f017v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/038_B.13.12_f017v.jp2/canvas/f017v",
+                       "resource": {
+                         "label": "f017v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F038_B.13.12_f017v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F038_B.13.12_f017v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/039_B.13.12_f018r.jp2/canvas/f018r",
+                   "label": "f018r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/039_B.13.12_f018r.jp2/canvas/f018r",
+                       "resource": {
+                         "label": "f018r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F039_B.13.12_f018r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F039_B.13.12_f018r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/040_B.13.12_f018v.jp2/canvas/f018v",
+                   "label": "f018v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/040_B.13.12_f018v.jp2/canvas/f018v",
+                       "resource": {
+                         "label": "f018v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F040_B.13.12_f018v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F040_B.13.12_f018v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/041_B.13.12_f019r.jp2/canvas/f019r",
+                   "label": "f019r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/041_B.13.12_f019r.jp2/canvas/f019r",
+                       "resource": {
+                         "label": "f019r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F041_B.13.12_f019r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F041_B.13.12_f019r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/042_B.13.12_f019v.jp2/canvas/f019v",
+                   "label": "f019v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/042_B.13.12_f019v.jp2/canvas/f019v",
+                       "resource": {
+                         "label": "f019v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F042_B.13.12_f019v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F042_B.13.12_f019v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/043_B.13.12_f020r.jp2/canvas/f020r",
+                   "label": "f020r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/043_B.13.12_f020r.jp2/canvas/f020r",
+                       "resource": {
+                         "label": "f020r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F043_B.13.12_f020r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F043_B.13.12_f020r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/044_B.13.12_f020v.jp2/canvas/f020v",
+                   "label": "f020v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/044_B.13.12_f020v.jp2/canvas/f020v",
+                       "resource": {
+                         "label": "f020v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F044_B.13.12_f020v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F044_B.13.12_f020v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/045_B.13.12_f021r.jp2/canvas/f021r",
+                   "label": "f021r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/045_B.13.12_f021r.jp2/canvas/f021r",
+                       "resource": {
+                         "label": "f021r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F045_B.13.12_f021r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F045_B.13.12_f021r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/046_B.13.12_f021v.jp2/canvas/f021v",
+                   "label": "f021v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/046_B.13.12_f021v.jp2/canvas/f021v",
+                       "resource": {
+                         "label": "f021v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F046_B.13.12_f021v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F046_B.13.12_f021v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/047_B.13.12_f022r.jp2/canvas/f022r",
+                   "label": "f022r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/047_B.13.12_f022r.jp2/canvas/f022r",
+                       "resource": {
+                         "label": "f022r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F047_B.13.12_f022r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F047_B.13.12_f022r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/048_B.13.12_f022v.jp2/canvas/f022v",
+                   "label": "f022v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/048_B.13.12_f022v.jp2/canvas/f022v",
+                       "resource": {
+                         "label": "f022v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F048_B.13.12_f022v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F048_B.13.12_f022v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/049_B.13.12_f023r.jp2/canvas/f023r",
+                   "label": "f023r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/049_B.13.12_f023r.jp2/canvas/f023r",
+                       "resource": {
+                         "label": "f023r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F049_B.13.12_f023r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F049_B.13.12_f023r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/050_B.13.12_f023v.jp2/canvas/f023v",
+                   "label": "f023v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/050_B.13.12_f023v.jp2/canvas/f023v",
+                       "resource": {
+                         "label": "f023v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F050_B.13.12_f023v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F050_B.13.12_f023v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/051_B.13.12_f024r.jp2/canvas/f024r",
+                   "label": "f024r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/051_B.13.12_f024r.jp2/canvas/f024r",
+                       "resource": {
+                         "label": "f024r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F051_B.13.12_f024r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F051_B.13.12_f024r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/052_B.13.12_f024v.jp2/canvas/f024v",
+                   "label": "f024v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/052_B.13.12_f024v.jp2/canvas/f024v",
+                       "resource": {
+                         "label": "f024v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F052_B.13.12_f024v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F052_B.13.12_f024v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/053_B.13.12_f025r.jp2/canvas/f025r",
+                   "label": "f025r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/053_B.13.12_f025r.jp2/canvas/f025r",
+                       "resource": {
+                         "label": "f025r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F053_B.13.12_f025r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F053_B.13.12_f025r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/054_B.13.12_f025v.jp2/canvas/f025v",
+                   "label": "f025v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/054_B.13.12_f025v.jp2/canvas/f025v",
+                       "resource": {
+                         "label": "f025v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F054_B.13.12_f025v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F054_B.13.12_f025v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/055_B.13.12_f026r.jp2/canvas/f026r",
+                   "label": "f026r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/055_B.13.12_f026r.jp2/canvas/f026r",
+                       "resource": {
+                         "label": "f026r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F055_B.13.12_f026r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F055_B.13.12_f026r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/056_B.13.12_f026v.jp2/canvas/f026v",
+                   "label": "f026v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/056_B.13.12_f026v.jp2/canvas/f026v",
+                       "resource": {
+                         "label": "f026v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F056_B.13.12_f026v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F056_B.13.12_f026v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/057_B.13.12_f027r.jp2/canvas/f027r",
+                   "label": "f027r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/057_B.13.12_f027r.jp2/canvas/f027r",
+                       "resource": {
+                         "label": "f027r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F057_B.13.12_f027r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F057_B.13.12_f027r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/058_B.13.12_f027v.jp2/canvas/f027v",
+                   "label": "f027v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/058_B.13.12_f027v.jp2/canvas/f027v",
+                       "resource": {
+                         "label": "f027v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F058_B.13.12_f027v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F058_B.13.12_f027v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/059_B.13.12_f028r.jp2/canvas/f028r",
+                   "label": "f028r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/059_B.13.12_f028r.jp2/canvas/f028r",
+                       "resource": {
+                         "label": "f028r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F059_B.13.12_f028r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F059_B.13.12_f028r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/060_B.13.12_f028v.jp2/canvas/f028v",
+                   "label": "f028v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/060_B.13.12_f028v.jp2/canvas/f028v",
+                       "resource": {
+                         "label": "f028v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F060_B.13.12_f028v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F060_B.13.12_f028v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/061_B.13.12_f029r.jp2/canvas/f029r",
+                   "label": "f029r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/061_B.13.12_f029r.jp2/canvas/f029r",
+                       "resource": {
+                         "label": "f029r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F061_B.13.12_f029r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F061_B.13.12_f029r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/062_B.13.12_f029v.jp2/canvas/f029v",
+                   "label": "f029v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/062_B.13.12_f029v.jp2/canvas/f029v",
+                       "resource": {
+                         "label": "f029v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F062_B.13.12_f029v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F062_B.13.12_f029v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/063_B.13.12_f030r.jp2/canvas/f030r",
+                   "label": "f030r",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/063_B.13.12_f030r.jp2/canvas/f030r",
+                       "resource": {
+                         "label": "f030r",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F063_B.13.12_f030r.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F063_B.13.12_f030r.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/064_B.13.12_f030v.jp2/canvas/f030v",
+                   "label": "f030v",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/064_B.13.12_f030v.jp2/canvas/f030v",
+                       "resource": {
+                         "label": "f030v",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F064_B.13.12_f030v.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F064_B.13.12_f030v.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/065_B.13.12_back-flyleafr.jp2/canvas/back-flyleafr",
+                   "label": "back-flyleafr",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/065_B.13.12_back-flyleafr.jp2/canvas/back-flyleafr",
+                       "resource": {
+                         "label": "back-flyleafr",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F065_B.13.12_back-flyleafr.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F065_B.13.12_back-flyleafr.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/066_B.13.12_back-flyleafv.jp2/canvas/back-flyleafv",
+                   "label": "back-flyleafv",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/066_B.13.12_back-flyleafv.jp2/canvas/back-flyleafv",
+                       "resource": {
+                         "label": "back-flyleafv",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F066_B.13.12_back-flyleafv.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F066_B.13.12_back-flyleafv.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/067_B.13.12_inside-back.jp2/canvas/inside-back",
+                   "label": "inside-back",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/067_B.13.12_inside-back.jp2/canvas/inside-back",
+                       "resource": {
+                         "label": "inside-back",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F067_B.13.12_inside-back.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F067_B.13.12_inside-back.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 },
+{
+                   "@type": "sc:Canvas",
+                   "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/068_B.13.12_back-cover.jp2/canvas/back-cover",
+                   "label": "back-cover",
+                   "width": 2202,
+                   "height": 2866,
+                   "images": [
+                     {
+                       "@type": "oa:Annotation",
+                       "motivation": "sc:painting",
+                       "on": "https://mss-cat.trin.cam.ac.uk/manuscripts/068_B.13.12_back-cover.jp2/canvas/back-cover",
+                       "resource": {
+                         "label": "back-cover",
+                         "@type": "dctypes:Image",
+                         "format": "image/jpeg",
+                         "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F068_B.13.12_back-cover.jp2/full/full/0/default.jpg",
+                         "service": {
+                           "@context":  "http://iiif.io/api/image/2/context.json",
+                           "@id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/B.13.12%2F068_B.13.12_back-cover.jp2",
+                           "profile": "http://iiif.io/api/image/2/level2.json"
+
+                         },
+                         "width": 2202,
+                         "height": 2866
+                       }
+                     }
+                   ]
+                 }
+
+        ]
+      }
+    ]
+  }

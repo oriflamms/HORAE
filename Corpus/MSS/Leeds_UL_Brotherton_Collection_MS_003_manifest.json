@@ -1,0 +1,3564 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://iiif.library.leeds.ac.uk/presentation/cc/wq3h77nj",
+  "type": "Manifest",
+  "label": {"en":["[Horae Beatae Mariae Virginis]"]},
+  "homepage": [
+    {
+      "id": "https://explore.library.leeds.ac.uk/special-collections-explore/372685",
+      "type": "Text",
+      "label": {
+        "en": [
+          "Homepage for [Horae Beatae Mariae Virginis]"
+        ]
+      },
+      "format": "text/html",
+      "language": ["en"]
+    }
+  ],
+  "metadata": [
+    {
+      "label": {"en":["Identifier"]},
+      "value": {"none":["wq3h77nj"]}
+    },
+    {
+      "label": {"en":["Shelfmark"]},
+      "value": {"none":["BC MS 3"]}
+    },
+    {
+      "label": {"en":["Date"]},
+      "value": {"none":["[ca. 1440-1460]"]}
+    },
+    {
+      "label": {"en":["Description"]},
+      "value": {
+        "en": [
+          "Decoration: 22 full-page miniatures within arched compartments surrounded by full floral borders, and 22 historiated initials. The illuminations are probably by a French artist.\n\n\nWritten in textualis.\n\n\nPrincipal contents: ff. 3r-14v Calendar; ff. 16r-27r The Fifteen Oes of St Bridget; ff. 29r-31v Prayers to the Holy Trinity; ff. 33r-52r Suffrages; ff. 53r-115r Hours of the Virgin; ff. 115v-126v Devotions to the Virgin; ff. 126v-129r O intemerata; ff. 129r-133v Obsecro te; ff. 133v-155v Prayers; ff. 157r-183r Penitential Psalms and Litany; ff. 184r-235v Office of the dead; ff. 237r-244v Psalms of the Passion; ff. 244v-265v Psalter of St Jerome. Prayers were added presumably in England for a female owner on f. 266r-v. Further prayers were added at the beginning of the 16th century in blank spaces on ff. 1v-2r, 31v-32r and 52r.\n\n\nFrom the library of Lord Brotherton. He had purchased the manuscript from the London book seller Chas. J. Sawyer in the 1920s.\n\n\nSee for a fuller description: N. R. Ker, Medieval Manuscripts in British Libraries, vol. 3 (Oxford: Clarendon Press, 1983) pp. 27-30. See also: J. A. Symington, The Brotherton Collection: a Catalogue of Ancient Manuscripts and Early Printed Books Collected by Edward Allen Baron Brotherton of Wakefield (Leeds, 1931), p. 19."
+        ]
+      }
+    },
+    {
+      "label": {"en":["Collections"]},
+      "value": {"en":["Medieval Manuscripts"]}
+    },
+    {
+      "label": {"en":["Attribution"]},
+      "value": {
+        "en": [
+          "Image Credit : University of Leeds Libraries"
+        ]
+      }
+    },
+    {
+      "label": {"en":["Extent"]},
+      "value": {
+        "en": [
+          "1 v. (ii, 266, ii leaves) (1 column, 16 lines)"
+        ]
+      }
+    }
+  ],
+  "rights": "http://rightsstatements.org/vocab/InC/1.0/",
+  "provider": [
+    {
+      "id": "https://library.leeds.ac.uk/info/1600/about",
+      "type": "Agent",
+      "label": {"en":["University of Leeds"]},
+      "homepage": [
+        {
+          "id": "https://library.leeds.ac.uk/",
+          "type": "Text",
+          "label": {"en":["Leeds University Library Homepage"]},
+          "format": "text/html"
+        }
+      ],
+      "logo": [
+        {
+          "id": "https://resources.library.leeds.ac.uk/logo/black.png",
+          "type": "Image",
+          "width": 300,
+          "height": 61,
+          "format": "image/png"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-1_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-1_001.tif"]},
+      "width": 1656,
+      "height": 2458,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-1_001.tif/full/135,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-1_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":690,"height":1024},
+                {"width":270,"height":400},
+                {"width":135,"height":200},
+                {"width":68,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-1_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":690,"height":1024},
+                {"width":270,"height":400},
+                {"width":135,"height":200},
+                {"width":68,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-1_001.tif/annopages/0",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-1_001.tif/annotations/0",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-1_001.tif/full/690,1024/0/default.jpg",
+                "type": "Image",
+                "width": 690,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-1_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1656,
+                    "height": 2458
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-1_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1656,
+                    "height": 2458
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-1_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-10_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-10_001.tif"]},
+      "width": 1628,
+      "height": 2477,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-10_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-10_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":673,"height":1024},
+                {"width":263,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-10_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":673,"height":1024},
+                {"width":263,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-10_001.tif/annopages/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-10_001.tif/annotations/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-10_001.tif/full/673,1024/0/default.jpg",
+                "type": "Image",
+                "width": 673,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-10_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1628,
+                    "height": 2477
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-10_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1628,
+                    "height": 2477
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-10_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-11_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-11_001.tif"]},
+      "width": 1639,
+      "height": 2445,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-11_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-11_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":687,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":68,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-11_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":687,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":68,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-11_001.tif/annopages/2",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-11_001.tif/annotations/2",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-11_001.tif/full/687,1024/0/default.jpg",
+                "type": "Image",
+                "width": 687,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-11_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1639,
+                    "height": 2445
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-11_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1639,
+                    "height": 2445
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-11_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-12_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-12_001.tif"]},
+      "width": 1579,
+      "height": 2457,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-12_001.tif/full/129,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-12_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":659,"height":1024},
+                {"width":257,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-12_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":659,"height":1024},
+                {"width":257,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-12_001.tif/annopages/3",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-12_001.tif/annotations/3",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-12_001.tif/full/659,1024/0/default.jpg",
+                "type": "Image",
+                "width": 659,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-12_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1579,
+                    "height": 2457
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-12_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1579,
+                    "height": 2457
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-12_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-13_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-13_001.tif"]},
+      "width": 1642,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-13_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-13_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":686,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-13_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":686,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-13_001.tif/annopages/4",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-13_001.tif/annotations/4",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-13_001.tif/full/686,1024/0/default.jpg",
+                "type": "Image",
+                "width": 686,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-13_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1642,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-13_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1642,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-13_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-14_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-14_001.tif"]},
+      "width": 1648,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-14_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-14_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":689,"height":1024},
+                {"width":269,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-14_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":689,"height":1024},
+                {"width":269,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-14_001.tif/annopages/5",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-14_001.tif/annotations/5",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-14_001.tif/full/689,1024/0/default.jpg",
+                "type": "Image",
+                "width": 689,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-14_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1648,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-14_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1648,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-14_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-15_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-15_001.tif"]},
+      "width": 1585,
+      "height": 2460,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-15_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-15_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-15_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-15_001.tif/annopages/6",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-15_001.tif/annotations/6",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-15_001.tif/full/660,1024/0/default.jpg",
+                "type": "Image",
+                "width": 660,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-15_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1585,
+                    "height": 2460
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-15_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1585,
+                    "height": 2460
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-15_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-16_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-16_001.tif"]},
+      "width": 1594,
+      "height": 2469,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-16_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-16_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-16_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-16_001.tif/annopages/7",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-16_001.tif/annotations/7",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-16_001.tif/full/661,1024/0/default.jpg",
+                "type": "Image",
+                "width": 661,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-16_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1594,
+                    "height": 2469
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-16_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1594,
+                    "height": 2469
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-16_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-17_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-17_001.tif"]},
+      "width": 1576,
+      "height": 2445,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-17_001.tif/full/129,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-17_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-17_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-17_001.tif/annopages/8",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-17_001.tif/annotations/8",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-17_001.tif/full/660,1024/0/default.jpg",
+                "type": "Image",
+                "width": 660,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-17_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1576,
+                    "height": 2445
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-17_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1576,
+                    "height": 2445
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-17_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-18_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-18_001.tif"]},
+      "width": 1606,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-18_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-18_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":671,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-18_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":671,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-18_001.tif/annopages/9",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-18_001.tif/annotations/9",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-18_001.tif/full/671,1024/0/default.jpg",
+                "type": "Image",
+                "width": 671,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-18_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1606,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-18_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1606,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-18_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-19_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-19_001.tif"]},
+      "width": 1612,
+      "height": 2439,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-19_001.tif/full/133,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-19_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-19_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-19_001.tif/annopages/10",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-19_001.tif/annotations/10",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-19_001.tif/full/677,1024/0/default.jpg",
+                "type": "Image",
+                "width": 677,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-19_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1612,
+                    "height": 2439
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-19_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1612,
+                    "height": 2439
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-19_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-2_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-2_001.tif"]},
+      "width": 1624,
+      "height": 2457,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-2_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-2_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":264,"height":400},
+                {"width":132,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-2_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":264,"height":400},
+                {"width":132,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-2_001.tif/annopages/11",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-2_001.tif/annotations/11",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-2_001.tif/full/677,1024/0/default.jpg",
+                "type": "Image",
+                "width": 677,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-2_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1624,
+                    "height": 2457
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-2_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1624,
+                    "height": 2457
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-2_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-20_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-20_001.tif"]},
+      "width": 1560,
+      "height": 2454,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-20_001.tif/full/127,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-20_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":254,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-20_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":254,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-20_001.tif/annopages/12",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-20_001.tif/annotations/12",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-20_001.tif/full/651,1024/0/default.jpg",
+                "type": "Image",
+                "width": 651,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-20_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1560,
+                    "height": 2454
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-20_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1560,
+                    "height": 2454
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-20_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-21_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-21_001.tif"]},
+      "width": 1588,
+      "height": 2454,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-21_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-21_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":663,"height":1024},
+                {"width":259,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-21_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":663,"height":1024},
+                {"width":259,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-21_001.tif/annopages/13",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-21_001.tif/annotations/13",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-21_001.tif/full/663,1024/0/default.jpg",
+                "type": "Image",
+                "width": 663,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-21_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1588,
+                    "height": 2454
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-21_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1588,
+                    "height": 2454
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-21_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-22_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-22_001.tif"]},
+      "width": 1594,
+      "height": 2436,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-22_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-22_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":670,"height":1024},
+                {"width":262,"height":400},
+                {"width":132,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-22_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":670,"height":1024},
+                {"width":262,"height":400},
+                {"width":132,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-22_001.tif/annopages/14",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-22_001.tif/annotations/14",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-22_001.tif/full/670,1024/0/default.jpg",
+                "type": "Image",
+                "width": 670,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-22_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1594,
+                    "height": 2436
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-22_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1594,
+                    "height": 2436
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-22_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-23_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-23_001.tif"]},
+      "width": 1576,
+      "height": 2430,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-23_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-23_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":664,"height":1024},
+                {"width":260,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-23_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":664,"height":1024},
+                {"width":260,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-23_001.tif/annopages/15",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-23_001.tif/annotations/15",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-23_001.tif/full/664,1024/0/default.jpg",
+                "type": "Image",
+                "width": 664,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-23_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1576,
+                    "height": 2430
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-23_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1576,
+                    "height": 2430
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-23_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-24_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-24_001.tif"]},
+      "width": 1618,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-24_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-24_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":676,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-24_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":676,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-24_001.tif/annopages/16",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-24_001.tif/annotations/16",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-24_001.tif/full/676,1024/0/default.jpg",
+                "type": "Image",
+                "width": 676,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-24_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1618,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-24_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1618,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-24_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-25_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-25_001.tif"]},
+      "width": 1597,
+      "height": 2454,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-25_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-25_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":667,"height":1024},
+                {"width":261,"height":400},
+                {"width":131,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-25_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":667,"height":1024},
+                {"width":261,"height":400},
+                {"width":131,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-25_001.tif/annopages/17",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-25_001.tif/annotations/17",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-25_001.tif/full/667,1024/0/default.jpg",
+                "type": "Image",
+                "width": 667,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-25_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1597,
+                    "height": 2454
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-25_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1597,
+                    "height": 2454
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-25_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-26_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-26_001.tif"]},
+      "width": 1654,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-26_001.tif/full/135,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-26_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":691,"height":1024},
+                {"width":270,"height":400},
+                {"width":135,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-26_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":691,"height":1024},
+                {"width":270,"height":400},
+                {"width":135,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-26_001.tif/annopages/18",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-26_001.tif/annotations/18",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-26_001.tif/full/691,1024/0/default.jpg",
+                "type": "Image",
+                "width": 691,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-26_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1654,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-26_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1654,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-26_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-27_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-27_001.tif"]},
+      "width": 1615,
+      "height": 2457,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-27_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-27_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":674,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-27_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":674,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-27_001.tif/annopages/19",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-27_001.tif/annotations/19",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-27_001.tif/full/674,1024/0/default.jpg",
+                "type": "Image",
+                "width": 674,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-27_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1615,
+                    "height": 2457
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-27_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1615,
+                    "height": 2457
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-27_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-28_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-28_001.tif"]},
+      "width": 1624,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-28_001.tif/full/133,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-28_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-28_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-28_001.tif/annopages/20",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-28_001.tif/annotations/20",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-28_001.tif/full/679,1024/0/default.jpg",
+                "type": "Image",
+                "width": 679,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-28_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1624,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-28_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1624,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-28_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-29_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-29_001.tif"]},
+      "width": 1606,
+      "height": 2430,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-29_001.tif/full/133,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-29_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-29_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":677,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-29_001.tif/annopages/21",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-29_001.tif/annotations/21",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-29_001.tif/full/677,1024/0/default.jpg",
+                "type": "Image",
+                "width": 677,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-29_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1606,
+                    "height": 2430
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-29_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1606,
+                    "height": 2430
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-29_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-3_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-3_001.tif"]},
+      "width": 1612,
+      "height": 2456,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-3_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-3_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":672,"height":1024},
+                {"width":263,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-3_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":672,"height":1024},
+                {"width":263,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-3_001.tif/annopages/22",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-3_001.tif/annotations/22",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-3_001.tif/full/672,1024/0/default.jpg",
+                "type": "Image",
+                "width": 672,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-3_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1612,
+                    "height": 2456
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-3_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1612,
+                    "height": 2456
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-3_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-30_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-30_001.tif"]},
+      "width": 1623,
+      "height": 2451,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-30_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-30_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-30_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-30_001.tif/annopages/23",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-30_001.tif/annotations/23",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-30_001.tif/full/679,1024/0/default.jpg",
+                "type": "Image",
+                "width": 679,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-30_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1623,
+                    "height": 2451
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-30_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1623,
+                    "height": 2451
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-30_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-31_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-31_001.tif"]},
+      "width": 1600,
+      "height": 2478,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-31_001.tif/full/129,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-31_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-31_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-31_001.tif/annopages/24",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-31_001.tif/annotations/24",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-31_001.tif/full/661,1024/0/default.jpg",
+                "type": "Image",
+                "width": 661,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-31_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1600,
+                    "height": 2478
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-31_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1600,
+                    "height": 2478
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-31_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-32_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-32_001.tif"]},
+      "width": 1576,
+      "height": 2478,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-32_001.tif/full/127,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-32_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":255,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-32_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":255,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-32_001.tif/annopages/25",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-32_001.tif/annotations/25",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-32_001.tif/full/651,1024/0/default.jpg",
+                "type": "Image",
+                "width": 651,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-32_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1576,
+                    "height": 2478
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-32_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1576,
+                    "height": 2478
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-32_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-33_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-33_001.tif"]},
+      "width": 1639,
+      "height": 2478,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-33_001.tif/full/133,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-33_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":678,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-33_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":678,"height":1024},
+                {"width":265,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-33_001.tif/annopages/26",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-33_001.tif/annotations/26",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-33_001.tif/full/678,1024/0/default.jpg",
+                "type": "Image",
+                "width": 678,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-33_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1639,
+                    "height": 2478
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-33_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1639,
+                    "height": 2478
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-33_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-34_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-34_001.tif"]},
+      "width": 1624,
+      "height": 2448,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-34_001.tif/full/133,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-34_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":266,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-34_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":679,"height":1024},
+                {"width":266,"height":400},
+                {"width":133,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-34_001.tif/annopages/27",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-34_001.tif/annotations/27",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-34_001.tif/full/679,1024/0/default.jpg",
+                "type": "Image",
+                "width": 679,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-34_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1624,
+                    "height": 2448
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-34_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1624,
+                    "height": 2448
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-34_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-35_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-35_001.tif"]},
+      "width": 1567,
+      "height": 2463,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-35_001.tif/full/127,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-35_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":255,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-35_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":651,"height":1024},
+                {"width":255,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-35_001.tif/annopages/28",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-35_001.tif/annotations/28",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-35_001.tif/full/651,1024/0/default.jpg",
+                "type": "Image",
+                "width": 651,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-35_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1567,
+                    "height": 2463
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-35_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1567,
+                    "height": 2463
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-35_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-36_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-36_001.tif"]},
+      "width": 1564,
+      "height": 2469,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-36_001.tif/full/127,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-36_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":649,"height":1024},
+                {"width":253,"height":400},
+                {"width":127,"height":200},
+                {"width":63,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-36_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":649,"height":1024},
+                {"width":253,"height":400},
+                {"width":127,"height":200},
+                {"width":63,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-36_001.tif/annopages/29",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-36_001.tif/annotations/29",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-36_001.tif/full/649,1024/0/default.jpg",
+                "type": "Image",
+                "width": 649,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-36_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1564,
+                    "height": 2469
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-36_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1564,
+                    "height": 2469
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-36_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-37_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-37_001.tif"]},
+      "width": 1636,
+      "height": 2445,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-37_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-37_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":685,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":68,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-37_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":685,"height":1024},
+                {"width":268,"height":400},
+                {"width":134,"height":200},
+                {"width":68,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-37_001.tif/annopages/30",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-37_001.tif/annotations/30",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-37_001.tif/full/685,1024/0/default.jpg",
+                "type": "Image",
+                "width": 685,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-37_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1636,
+                    "height": 2445
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-37_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1636,
+                    "height": 2445
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-37_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-38_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-38_001.tif"]},
+      "width": 1627,
+      "height": 2439,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-38_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-38_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":683,"height":1024},
+                {"width":267,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-38_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":683,"height":1024},
+                {"width":267,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-38_001.tif/annopages/31",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-38_001.tif/annotations/31",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-38_001.tif/full/683,1024/0/default.jpg",
+                "type": "Image",
+                "width": 683,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-38_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1627,
+                    "height": 2439
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-38_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1627,
+                    "height": 2439
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-38_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-39_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-39_001.tif"]},
+      "width": 1612,
+      "height": 2445,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-39_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-39_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":675,"height":1024},
+                {"width":264,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-39_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":675,"height":1024},
+                {"width":264,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-39_001.tif/annopages/32",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-39_001.tif/annotations/32",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-39_001.tif/full/675,1024/0/default.jpg",
+                "type": "Image",
+                "width": 675,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-39_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1612,
+                    "height": 2445
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-39_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1612,
+                    "height": 2445
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-39_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-4_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-4_001.tif"]},
+      "width": 1597,
+      "height": 2473,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-4_001.tif/full/129,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-4_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-4_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":661,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-4_001.tif/annopages/33",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-4_001.tif/annotations/33",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-4_001.tif/full/661,1024/0/default.jpg",
+                "type": "Image",
+                "width": 661,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-4_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1597,
+                    "height": 2473
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-4_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1597,
+                    "height": 2473
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-4_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-40_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-40_001.tif"]},
+      "width": 1609,
+      "height": 2457,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-40_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-40_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":671,"height":1024},
+                {"width":262,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-40_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":671,"height":1024},
+                {"width":262,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-40_001.tif/annopages/34",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-40_001.tif/annotations/34",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-40_001.tif/full/671,1024/0/default.jpg",
+                "type": "Image",
+                "width": 671,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-40_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1609,
+                    "height": 2457
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-40_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1609,
+                    "height": 2457
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-40_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-41_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-41_001.tif"]},
+      "width": 1546,
+      "height": 2442,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-41_001.tif/full/127,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-41_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":648,"height":1024},
+                {"width":253,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-41_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":648,"height":1024},
+                {"width":253,"height":400},
+                {"width":127,"height":200},
+                {"width":64,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-41_001.tif/annopages/35",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-41_001.tif/annotations/35",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-41_001.tif/full/648,1024/0/default.jpg",
+                "type": "Image",
+                "width": 648,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-41_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1546,
+                    "height": 2442
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-41_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1546,
+                    "height": 2442
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-41_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-42_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-42_001.tif"]},
+      "width": 1594,
+      "height": 2472,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-42_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-42_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":64,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-42_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":64,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-42_001.tif/annopages/36",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-42_001.tif/annotations/36",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-42_001.tif/full/660,1024/0/default.jpg",
+                "type": "Image",
+                "width": 660,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-42_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1594,
+                    "height": 2472
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-42_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1594,
+                    "height": 2472
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-42_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-43_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-43_001.tif"]},
+      "width": 1618,
+      "height": 2466,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-43_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-43_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":672,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-43_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":672,"height":1024},
+                {"width":263,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-43_001.tif/annopages/37",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-43_001.tif/annotations/37",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-43_001.tif/full/672,1024/0/default.jpg",
+                "type": "Image",
+                "width": 672,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-43_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1618,
+                    "height": 2466
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-43_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1618,
+                    "height": 2466
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-43_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-44_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-44_001.tif"]},
+      "width": 1585,
+      "height": 2460,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-44_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-44_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-44_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":660,"height":1024},
+                {"width":258,"height":400},
+                {"width":130,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-44_001.tif/annopages/38",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-44_001.tif/annotations/38",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-44_001.tif/full/660,1024/0/default.jpg",
+                "type": "Image",
+                "width": 660,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-44_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1585,
+                    "height": 2460
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-44_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1585,
+                    "height": 2460
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-44_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-5_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-5_001.tif"]},
+      "width": 1596,
+      "height": 2480,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-5_001.tif/full/129,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-5_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":659,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-5_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":659,"height":1024},
+                {"width":258,"height":400},
+                {"width":129,"height":200},
+                {"width":65,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-5_001.tif/annopages/39",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-5_001.tif/annotations/39",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-5_001.tif/full/659,1024/0/default.jpg",
+                "type": "Image",
+                "width": 659,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-5_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1596,
+                    "height": 2480
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-5_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1596,
+                    "height": 2480
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-5_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-6_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-6_001.tif"]},
+      "width": 1634,
+      "height": 2452,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-6_001.tif/full/134,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-6_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":682,"height":1024},
+                {"width":267,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-6_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":682,"height":1024},
+                {"width":267,"height":400},
+                {"width":134,"height":200},
+                {"width":67,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-6_001.tif/annopages/40",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-6_001.tif/annotations/40",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-6_001.tif/full/682,1024/0/default.jpg",
+                "type": "Image",
+                "width": 682,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-6_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1634,
+                    "height": 2452
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-6_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1634,
+                    "height": 2452
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-6_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-7_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-7_001.tif"]},
+      "width": 1605,
+      "height": 2473,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-7_001.tif/full/130,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-7_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":665,"height":1024},
+                {"width":260,"height":400},
+                {"width":130,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-7_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":665,"height":1024},
+                {"width":260,"height":400},
+                {"width":130,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-7_001.tif/annopages/41",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-7_001.tif/annotations/41",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-7_001.tif/full/665,1024/0/default.jpg",
+                "type": "Image",
+                "width": 665,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-7_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1605,
+                    "height": 2473
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-7_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1605,
+                    "height": 2473
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-7_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-8_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-8_001.tif"]},
+      "width": 1655,
+      "height": 2500,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-8_001.tif/full/132,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-8_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":678,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-8_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":678,"height":1024},
+                {"width":265,"height":400},
+                {"width":132,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-8_001.tif/annopages/42",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-8_001.tif/annotations/42",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-8_001.tif/full/678,1024/0/default.jpg",
+                "type": "Image",
+                "width": 678,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-8_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1655,
+                    "height": 2500
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-8_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1655,
+                    "height": 2500
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-8_001.tif"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-9_001.tif",
+      "type": "Canvas",
+      "label": {"en":["BC_MS_3-9_001.tif"]},
+      "width": 1602,
+      "height": 2464,
+      "thumbnail": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-9_001.tif/full/131,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg",
+          "service": [
+            {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://iiif.library.leeds.ac.uk/thumbs/v2/wq3h77nj_objects_BC_MS_3-9_001.tif",
+              "@type": "ImageService2",
+              "profile": "http://iiif.io/api/image/2/level0.json",
+              "sizes": [
+                {"width":666,"height":1024},
+                {"width":261,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            },
+            {
+              "@context": "http://iiif.io/api/image/3/context.json",
+              "id": "https://iiif.library.leeds.ac.uk/thumbs/wq3h77nj_objects_BC_MS_3-9_001.tif",
+              "type": "ImageService3",
+              "profile": "level0",
+              "sizes": [
+                {"width":666,"height":1024},
+                {"width":261,"height":400},
+                {"width":131,"height":200},
+                {"width":66,"height":100}
+              ]
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-9_001.tif/annopages/43",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-9_001.tif/annotations/43",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-9_001.tif/full/666,1024/0/default.jpg",
+                "type": "Image",
+                "width": 666,
+                "height": 1024,
+                "format": "image/jpeg",
+                "service": [
+                  {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif.library.leeds.ac.uk/image/v2/wq3h77nj_objects_BC_MS_3-9_001.tif",
+                    "@type": "ImageService2",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "width": 1602,
+                    "height": 2464
+                  },
+                  {
+                    "@context": "http://iiif.io/api/image/3/context.json",
+                    "id": "https://iiif.library.leeds.ac.uk/image/wq3h77nj_objects_BC_MS_3-9_001.tif",
+                    "type": "ImageService3",
+                    "profile": "level2",
+                    "width": 1602,
+                    "height": 2464
+                  }
+                ]
+              },
+              "target": "https://iiif.library.leeds.ac.uk/canvases/wq3h77nj_objects_BC_MS_3-9_001.tif"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

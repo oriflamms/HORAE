@@ -1,0 +1,251 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718320/manifest",
+    "@type": "sc:Manifest",
+    "label": "Fragment (miniature): Christ for Pilate / Masters of Otto van Moerdrecht, BPL 3026",
+    "logo": "https://iiifviewer.universiteitleiden.nl/logo/",
+    "metadata": [
+        {
+            "label": "Title",
+            "value": "Fragment (miniature)"
+        },
+        {
+            "label": "Subtitle",
+            "value": "Christ for Pilate / Masters of Otto van Moerdrecht, BPL 3026"
+        },
+        {
+            "label": "Title",
+            "value": "Book of hours"
+        },
+        {
+            "label": "Title",
+            "value": "Getijdenboek"
+        },
+        {
+            "label": "Title",
+            "value": "Horarium"
+        },
+        {
+            "label": "Author/creator",
+            "value": "Masters of Otto van Moerdrecht (fl. 1427-1436)"
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "Manuscripts (documents)"
+        },
+        {
+            "label": "Country",
+            "value": {
+                "@value": "Belgium",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Language",
+            "value": {
+                "@value": "French",
+                "@language": "eng"
+            }
+        },
+        {
+            "label": "Extent",
+            "value": "3 scans"
+        },
+        {
+            "label": "Content",
+            "value": "Miniature from a book of hours, depicting Christ for Pilate by the Master of Otto van Moerdrecht."
+        },
+        {
+            "label": "Note",
+            "value": [
+                "'Christ for Pilate' was taken from the same codex as two other loose miniatures: 'Burial of Christ (kept in Cambridge, Fitzwilliam Museum under shelfmark 27-1991) and 'Virgin with Child' (kept in Cleveland Museum of Art, under shelfmark 12828/10). Similar style of miniatures in ms. The Hague, Royal Library, 135 K 45). Cf. Van Bergen 2007. - With a contemporary stamp of letter 'b' in the upper right corner (hidden in the decoration). - Early use as devotional image, in view of the passion prayer in French on the verso (c.1500?), written in an untrained hand.",
+                "Origin and date: According to Van Bergen 2007.",
+                "Description (Bouwman 2023): http://hdl.handle.net/1887.1/item:3619870",
+                "Description (Gumbert 2009): http://hdl.handle.net/1887.1/item:3161419",
+                "Also described by A.W. Byvanckgenootschap (database RKD, The Hague)."
+            ]
+        },
+        {
+            "label": "Subject (temporal)",
+            "value": "Middle Ages"
+        },
+        {
+            "label": "Subject (temporal)",
+            "value": "15th century"
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "Reading culture"
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "Reading culture (devotional)"
+        },
+        {
+            "label": "Subject (topical)",
+            "value": "religious texts (MMDC)"
+        },
+        {
+            "label": "Reference",
+            "value": "Bouwman 2023 = A. Bouwman, Inventory of western medieval manuscripts held by Leiden University Libraries. Leiden 2023"
+        },
+        {
+            "label": "Reference",
+            "value": "Farquhar 1980 = J.D. Farquhar, \"Identity in an anonymous age: Breger manuscript illuminators and their signs\". In: Viator 11 (1980), p. 371-384"
+        },
+        {
+            "label": "Reference",
+            "value": "Gumbert 2009 = J.P. Gumbert, Illustrated Inventory of Medieval Manuscripts. Vol. 2. Leiden, Universiteitsbibliotheek BPL (Hilversum 2009),"
+        },
+        {
+            "label": "Reference",
+            "value": "Van Bergen 2002 = S. van Bergen, 'De Moerdrecht-meesters Noord en Zuid. Het evangelistarium in het Koninklijk Huisarchief te Den Haag en he Vlaamse oeuvre van de Meesters van Otto van Moerdrecht. In: B. Cardon & al. (eds.), \"Als ich can\". Liber amicorum in memory of professor dr. Maurits Smeyers. Paris [etc.] 2002, p. 1357-1376,"
+        },
+        {
+            "label": "Reference",
+            "value": "Van Bergen 2007 = W. van Bergen, De meesters van Otto van Moerdrecht. Een onderzoek naar de stijl en iconografie van een groep miniaturisten, in relatie tot de productie van getijdenboeken in Brugge rond 1430. [PhD Universiteit van Amstercam] Amsterdam 2007,"
+        },
+        {
+            "label": "Reference",
+            "value": "Van Bergen 2008 = S. van Bergen, 'A matter of collaboration? Manuscript-production practices as revealed in Flemish manuscripts with miniatures by the Masters of Otto van Moerdrecht'. In: A.M.W. As-Vijvers & al. (eds.), Manuscript studies in the Low Countries. Proceedings of the 'Groninger Codicologendagen' in Friesland, 2002. Groningen [etc.] 2008, p. 105-126,"
+        },
+        {
+            "label": "Reference",
+            "value": "Van Bergen 2013 = S. van Bergen, 'The Use of Stamps in Bruges Book Production'. In: S. Hindman & J.H. Marrow (eds.), Books of Hours Reconsidered, London-Turnhout 2013, p. 323-337"
+        },
+        {
+            "label": "Part of",
+            "value": "Bibliotheca Publica Latina"
+        },
+        {
+            "label": "Published",
+            "value": "Low Countries, southern part ; Bruges, 15th century, c. 1427-1436"
+        },
+        {
+            "label": "Form",
+            "value": "1 leaf : miniature with pen-flourishing ; 175x120 mm"
+        },
+        {
+            "label": "Shelfmark",
+            "value": "BPL 3026"
+        },
+        {
+            "label": "Persistent URL",
+            "value": "http://hdl.handle.net/1887.1/item:3718320"
+        }
+    ],
+    "license": "Full access. <a href='https://creativecommons.org/publicdomain/mark/1.0/'>The rights status of this resource is public domain</a>",
+    "attribution": "Leiden University Libraries",
+    "viewingDirection": "left-to-right",
+    "viewingHint": "paged",
+    "sequences": [
+        {
+            "@type": "sc:Sequence",
+            "label": "Fragment (miniature): Christ for Pilate / Masters of Otto van Moerdrecht, BPL 3026",
+            "canvases": [
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718323/canvas/default",
+                    "label": "omslag",
+                    "height": 2922,
+                    "width": 2560,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718323/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718323",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718323",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718323/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2922,
+                                "width": 2560,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718323",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718323/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718322/canvas/default",
+                    "label": "f001r",
+                    "height": 2135,
+                    "width": 1483,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718322/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718322",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718322",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718322/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2135,
+                                "width": 1483,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718322",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718322/canvas/default"
+                        }
+                    ]
+                },
+                {
+                    "@type": "sc:Canvas",
+                    "@id": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718321/canvas/default",
+                    "label": "f001v",
+                    "height": 2121,
+                    "width": 1528,
+                    "thumbnail": {
+                        "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718321/full/80,/0/default.jpg",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718321",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    },
+                    "images": [
+                        {
+                            "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718321",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "resource": {
+                                "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718321/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2121,
+                                "width": 1528,
+                                "service": {
+                                    "@context": "http://iiif.io/api/image/2/context.json",
+                                    "@id": "https://iiif.universiteitleiden.nl/iiif/2/hdl:1887.1%252Fitem:3718321",
+                                    "profile": "http://iiif.io/api/image/2/level2.json"
+                                }
+                            },
+                            "on": "https://digitalcollections.universiteitleiden.nl/iiif_manifest/item:3718321/canvas/default"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
