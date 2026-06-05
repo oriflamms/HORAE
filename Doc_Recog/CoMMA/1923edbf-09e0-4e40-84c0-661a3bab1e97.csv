@@ -1,252 +1,3858 @@
-page_id,folio,text,page_ordering,arkindex_page_id
-f0-plat-superieur.xml,,,1,41ca20e5-786b-4968-8a79-c8cd353cef69
-f1-contreplat-sup.xml,,,2,7fda6df8-7215-46b6-8af4-211d9434468f
-f2-page-de-garde-recto.xml,,,3,5b0006d1-69ba-4b2f-87fa-84b2bc90c693
-f3-page-de-garde-verso.xml,,,4,89f68995-661e-49cc-9a8e-32c052ed04de
-f4-1r.xml,1r,Trocuncisio Cit sti stepham Cit̾ sancti ihoĩe Cit sc̃oꝵ innocencium symeonis mocichi Epi phania dñi. luciam ꝓbr̃ĩ Selicis epĩ nanneten iulicim mris Ouilli epĩ briocen Salin mris Satur mr̃is hylarn epĩ Felicis conf mauri abbĩe,5,af7d2d4f-8c49-4bed-96cc-d86f6905e271
-f5-1v.xml,1v,in Mcircelli pape Cathedra sci petri rome lcmnnomari cõs stabiam ⁊ sebastiam Agnetis uirgimie Uincẽtii confes Eineretiane uiii Sabili epĩ Comisio siñ pauli. Pollicurpi epĩ iulicm epi Agnetis scdõ Depositio sc̃ci gũdri. ypoliti mr uitoꝵ soc̃ ⁊ cius,6,a7a5acd6-3fae-44a4-9819-f3a18aa49d92
-f6-2r.xml,2r,purifica ͦ bẽ m ͤ ugĩs ulasn epi g auentim ep̃i a agathe uirgunis b uedastis amiadi Anguli epĩ D Auberti epĩ xiii Cappolonie ui Fssco lastice uirit n desidern epi a Eulalie uicginis blicuimn epĩ Dilentim ep̃i,7,b63674de-05f7-49f6-90a8-31eb8bb4f689
-f7-2v.xml,2v,Cractonie nix Iulianc uirii Polocronn epĩ Symonis ep̃i Gabim cons Galli confessoꝵ Derosi mr̃ Cathedra sitĩ petri Polliccrpi ꝓbr̃i Mathee apłi sercipionis soc zeius Alercindri epĩ fuliam mr Romam mr̃,8,57f37835-3e77-4cbd-8c7e-baaf14ad3f68
-f8-3r.xml,3r,Albim cpi lucii epĩ Giñgalori abb lucii ppe ⁊ m̃z Eusebii sot̾ ⁊ eius uictoris ⁊ uictorim inr̃ꝵ Thome de aquino Arricm nir̃ deposicio sci gregorii ep̃i Alemndri ⁊ gan mĩr Candidi mĩ Oregorii p̃pe. Eufrcisie uirit̾ Petri m̃r Matrone uirginie,9,e2cd78d2-d085-47e1-b8b2-9d3316838da4
-f9-3v.xml,3v,Patrici epi Alexindri epĩ leoncii ep̃i Cuberti col Tnͣsitus sc̃ benediti Affrodn ep̃i Theodorii ep̾i romuli ep̾i Annũtiacio diũca. Castoli mr Iohannnis hemite Pristi sot zenis Sustasn abbĩs reguli epĩ Rabbine uirirunt,10,3acdbc47-6103-4a3f-88de-fae389356804
-f10-4r.xml,4r,denanch epĩ marie egipcicite Caucericu mr̃ Ambrosii epi. Uincentii confess Sirti pp̃e Donciti epĩ dyomln epi Protom mr appolim soc zeius leoins pape zenioiis epi Eufenne uirit Tiburai soi ⁊ eus,11,ccd50d7a-43df-4b99-99cf-8bb6e1c9f23a
-f11-4v.xml,4v,Olmmipiadit sõc zeius Deposicio s. patͬm ysidori mr Eleuthem epĩ Can martras uictoris ppͣr symeonis ep̃t Panen m̃r Deorgii m̃ꝵ Alemñdri mr̃ ¶Hayci ennͣgliste. Cleti pape ancista sn epĩ ditalis mr Tecle unginis Eutropii ep̃,12,164d70d7-aee2-44e4-a2ae-968d074ad35d
-f12-5r.xml,5r,Inuencio scc̃e cyncis Ciricici epi hylarii ep̃i Ihoĩs añ portã latinã Iuuenulis mr̃ Dictoris m̃z Tnͣsla ͦ scti incolai Cordicim mr̃ Gilde abbĩs Nerei dachilei m̃z seruacii epĩ Dictoris ⁊ corone niz ysidorii mr̃,13,18181ed8-4454-4c0a-b8c7-57504e450cdb
-f13-5v.xml,5v,Carcũdt abbis Macuti epĩ felicis epi Yuonis cõfess Iustergisilim epĩ Ordina ͦ sc̃ti pr̃m helene uirg desiderni epĩ donaciam ⁊rogatiam ffrancisti abbĩs. Angustini . epĩ raginphi mr̃ Ceriam epĩ Maximi epĩ felicis pp̃e Petronille uirg̾,14,c41e2897-1c15-49fd-8e4e-cc5a33958325
-f14-6r.xml,6r,Richomedis mr Marcellim ꝑ peta m̃ liphardi mr Cunim epĩ Domfacii ppͣe Tugducili epi axrecidori epĩ Primi ⁊feliciam landerici ep̃i Mẽcurdi ep̃i Barnabe aplĩ dasilidis m̃r anton ꝯf amam epõ diti ⁊ mõdesti m̃ꝵ,15,3d89edb0-812c-403a-9abf-762a76ad9c8e
-f15-6v.xml,6v,Tra ⁊ Iulite mr̃ĩs eius Ainti confessor axirci⁊ marcelliam m̃ Geruasi e ꝓthasii mĩr Sẽnulphi epi Meuenm abb Albam mr̃ Silii epi ⁊ gf uigilia Natiuitas s. ihoĩs hapͭ. Eligii epĩ Iohanis ꝯpauli nr Florencii epi leonis conf uigilia Petri et pauli apłoꝵ Comeoracio sci pauli,16,4e5b0a5b-5748-4f77-8076-64eea2d188d4
-f16-7r.xml,7r,ulius. Theobaldi conf Pcessi z martimam Tñslaciosai thomie ai ͥ Tnͣslacio sã martim e̾ donnen mr Noyale uirginis Richostrati mr Procobi mr̃ Crali episcopi septem sum mx Senedicti abb hermanore ep̃i Thuriam ep̃i. Eypriam mñs Iacobi ep̃i,17,bcb1e761-bf79-4364-8e65-4f9ddda54b2a
-f17-7v.xml,7v,Eustachii epĩ sperati soc̾ zeius Arnulphi epĩ arsenn conf Margarete u̾ginis Prcardis uing Iacobi apłi Dame mrͣis mͤ septẽ dormmiẽcium Sansoins epĩ Guilli̾ cõf. abdon ssennes Germam epi,18,5eab71c6-8a29-44d3-b56b-b3a1f6791d46
-f18-8r.xml,8r,Petri aduincula stepham pp̃e inuẽtio sca stepham Terculim mr donninei cõf Tnͣsfiguracio dñ. donati epĩ Ciriaci soi̾ zeius romam mr̃ Tiburtii m̃r Gracilic mr̃ ypoliti soc̾ z eius uigilici Assumꝑco bẽ m᷑. Ugĩs,19,4e91101d-2884-4f62-accf-e87def664d3d
-f19-8v.xml,8v,Armagili conf Oct̾ sancti laurencu Agapiti mris Magni mris philiberti abbĩs legnardi conf̾ Themoter ⁊ simphoriani. Thimotei ⁊ appolinaris Bartholomei apłi. Ludoinci regit Elenther epĩ Ruffi mrĩs Augustim exĩ. Decola ͦ.s. ihoĩs bap ͭ ͤ ficicin confessoꝵ Paulim epĩ,20,15af1dbe-0f5d-48c1-bc2b-f25e51a2ba9e
-f20-9r.xml,9r,Seꝑtember Egidii abbis. autonim mr̃ Oromaꝰ scĩ gregorii maircelli mr̃ dictorim nir Eleuthern epĩ Euurci ep̃i. uig Nat̃ĩtas bẽ m ͤ u̾ginis Gorgom mr Deme sii mir Mthi ⁊ icicirti uin conf Mauuili epĩ Exaltaͦ sitẽ trucis. Richomẽdis mr,21,498b54e4-3335-4d7e-8a77-b6942757c2bb
-f21-9v.xml,9v,Eufenne ongiis lamberti epĩ fereoli m̃r Eustrichii ep̃i Sauste uirg̾ Mathei aplĩ ⁊ enigli ͭ ͤ Mauricii soc̾ zenis Tetle uirginis andochii m̃ꝵ firmim epĩ Iustine uirginis Cosme damiam m̃r Exupii epi Michaclis ĩ mõte gr̃ga ͦ hero miu ꝓibr̃.,22,f0066d2e-a28b-4222-9f75-b487ee402e76
-f22-10r.xml,10r,E October Remigii epi leodegari epĩ dromin epi sranscici cõf appolinaris epi sidis uirginis Marci pape Symeonis cõf Dyomsii socqz eius Pauli epi lionen Melamn exĩ Eypriam mr Geraldi conf Calirti ppͣe Basoli conf,23,fc3aa3cc-6b96-4b91-aa91-b3f3fbbbdd5b
-f23-10v.xml,10v,Michaeł. ĩ mõte tuba. lupi epĩ Luce enngliste. deraim epĩ Caprasn mr̃x undecĩ milia uirgiz marti epĩ seuerim epi Martim abbit Crspin ⁊ cͥ̾spinic rustici epĩ florencii epĩ. uig̾ Symonis ⁊ iide apłor yuonis confessoꝵ. Saturim ms Quintim m̃r,24,33f8adc4-447c-4e53-ac02-94edacc0298c
-f24-11r.xml,11r,stestiuitas om̃i scõꝵ. Cominẽora ͦ deffunctoꝵ Dobriam episcopi. Clari mitiz leti confessor Melanẽ. ⁊ confessoꝵ herculicm epĩ Quictuor coronactoꝵ Theodorii mr̃ hartim pͣe Martim ep̃i et cõfess leoms confessor Bricii epĩ ⁊ cõf sercpioins m̃r Macloui ep̃i.,25,ce67ae55-a4d4-4f14-aba1-5a0a76ded015
-f25-11v.xml,11v,Sleuthern cõs auiam epĩ Maudeti abb faustim mr̃ Ponciam pp̃e Columbam abbĩt Cecilie uirginis Clementis p̃pe Grisogomi mr katherine u̾gĩs. lun pape Ditalis mr ruffi mr̃ uinlia dandree. apłi,26,8a8f02a3-3ac2-4bb9-86d7-d71650b98814
-f26-12r.xml,12r,Slign epĩ fortunati mr̃ Calsiam mir̃ Melecii epĩ Cuspine unai Nicolai ep̃i Cit sancti andree Cõcepcõ hẽ m ͤ u̾g sir epĩ ⁊uir̃ Eulalie uirg Damasn rape Lucie uirit̾ Sumern mr Dalericim epĩ,27,de3ebb35-89c0-40c0-ba3e-5140a0c63bf2
-f27-12v.xml,12v,Barbare uiriinis Ignacii ep̃i zenome mr̃ zephirim ep̃i Thome aplĩ. Chirionis mr Dictorie unii Diccilia Natiuitas dñ. Stepl in pthomĩꝵ. Ihõis aplĩ ⁊ͥ eun ͭ ͤ Stoꝵ innocentium. Thome arthiepi. ꝑetin epĩ Siluestri pp̃e,28,5b538660-0eec-4809-a0aa-8e78bd0d9c08
-f28-13r.xml,13r,,29,73a2a8ec-3657-479a-a3e6-3a0670579e0d
-f29-13v.xml,13v,ciabit lãudem tuam.  eus in adiutorium meũ intende Qñe ad adinuandum me festina ¶Oloria patri ⁊filio ⁊ spiritui sancto Sicut erat in principio ⁊ minc et semper ⁊in secula seculorum amen antiphoͬ gratia plena dñs tecum. Enite exultemus do mino iubilemus deo salutari nro p̾ocupemus facie enis in gfessione ⁊in psalmis iubilemus ei aue maria . Quomain deus magnus dñt ⁊ rex magnus super ois,30,3a95f070-b0c7-4331-82da-4433d21187cc
-f30-14r.xml,14r,deos quomam nõ repellet doꝰ plebem suam qz in manu eiꝰ sunt ommes fines terre ⁊ alti tudines mõcium ĩpe ꝯspiat. Quomam ip̃ius e mare ĩpe fecit illud ⁊ aridumfuit dauerunt manus cius uenite doremus ⁊paidamus ante deum ploremus coram dño qͥ fecit nos quia ip̃e est dñs deꝰ iir nos autem pplus aus et oues pascue enis. Auemaria ¶Codie si uocem ens audie ritis nolite obdurcre corda uestra sicut in eracerbatione secundum diem temptacioĩs,31,c8dd70c9-0c9c-4cf3-bc7d-29fe2722efdd
-f31-14v.xml,14v,in ascrto ubi femptauenins me patrẽt uestri plauerunt ⁊ uiderunt operti mea doꝰ tecũ Oucidraginta annns poi mũt fui generatiom huic et dixi semper hii errant corde ip̃i uero nõ cognouerũt uias meas quilz iuraui in irci meũ si introibut in requiem mecim . Auemcria. Gloria patei. Sicut erat. Doꝰ tecum auemaria. Hyumꝰ deii terra ponchus eche ra colunt adorant predicant trincim regaitẽ machinam clauslrum icrrae bmilat.,32,9e907511-0b55-4076-a4b7-efa0469d1bc5
-f32-15r.xml,15r,Qui luna solr omma descr unnt per tempora ꝑfusa celi gratia gestant puelle uiscera ¶Secita matex mim̾e cuius superus artitex mundum pugillo ꝯtinens uentas sub archa clausus est. ¶eata celi nuncio fecumda sco spintu desideratus gentibz cunus per aliun fusus e ¶aria ple na gratie mater mie tu nõs ab hosle ꝓtege ⁊ hora mortis uccure dei genitur nobis benigna miseriis ⁊ tuis sacriis p̾cibz adiuua nos in omnibz¶ El loria tibi domine,33,32a52c44-945c-49ff-ba31-f760e6770d65
-f33-15v.xml,15v,qui natus es de uixgine cum patre ⁊ sancto spũ in sempi terna scla a. A. Bndicta tu omine dñs ur ꝙͣnd- mirabile est nomen tumii in umu̾sa t̾ra. Smñ eleuata e magnificecia tua super celos Erore infan cum ⁊ lactãciũ ꝑsecisti laude ꝓpter immicos tuo ut destru agiuinitũ ⁊ ultorẽ.¶ Q in Uidebo celos tuos opa digitoꝵ tuoz luncm ⁊stellas que tu fundasti uid est homo ꝙ meniores eius aut filius hominis qui uisitas eum,34,ec08f079-6e95-49a5-87b0-b6f4aa410a96
-f34-16r.xml,16r,muisti eum paulommꝰ ab angelis glia ⁊ honore co- ronasti eum ⁊ constitinsti eum super oꝑa manuũ tuoz Omina subiecisti sub pe dibz enis oues ⁊ bouc̃s uin uersas insuper ⁊ peccora cam pi olucres celi ⁊ pisces maris qui ꝑambulant se mictas maris. Somine diis ir ꝙͣadimribile est no men tium in umu̾la terra Eli encirtint gliam dei ⁊opera manuum eius annuciat firmamẽtu ¶Mies diei enictãt uerbum,35,59e04bce-8a27-4678-ae3c-faa181772603
-f35-16v.xml,16v,⁊ nor nocti indicat scienciam ¶on sunt lequele neqz ser mones quor non audicitur uoces eor  En omem tram exunt somus eoꝵ rin fines or bis terre uerba eor ¶En sole posint tabernaculum suum ⁊ ipe tanquã spõsus ꝓcedent de thalamo suo Eyultaint ut grggas ad currendam uiam asumino celo egressio eius S occursus ens usqz ad sũum eius nec est qui se auscondat accilore eis¶ Ner domini inmaculata ꝯu̾tans ammas testimonium domini sidele sa,36,eee14e9c-815d-413c-a5ee-ac7c9b43f235
-f36-17r.xml,17r,pienciam p̾stans paruulis Tusticie domini recte letisi cantes corda p̾ceptum̃ dm̃ luci dum Illuminas ocłoe ¶mior din sanctus ꝑmanet in sclin scli gudiciã din uera iuuflificata in semetipa ¶ Sesi derabilia suꝑ aurum ⁊ lapidem p̾ciosũ multũ ⁊ dulciora super mel ⁊ fauum temin seruus tuus custo dit ea in custodiendis illis re- tribucio multa ꝯ Melicta- quis intelligit ab occultis mais inunda me domine ⁊ ab aliens parce seruo tuo Si mei non fucunt dominãti tũc Innacu,37,3e28bc60-6c09-4d51-8b3e-3d48ec8a4ced
-f37-17v.xml,17v,latus ero ⁊emundabor ãde licto maximo Et erut ut ꝯplaceant eloquia oris mei ⁊ meditacio cordis mei in conspectu tuo semper. Qo ͤ adiutor meus sredemptor omini .imeus. est terrri ⁊ plenitudo enis terpx ⁊ umũsi qui ha bitant in eo ¶Sr ipe super maria fundaint eũ esuper flimima p̾pciraunt eu ascendet in montẽ domini aut quis stabit in loco sc̃o ens ¶Emierens manibz ⁊ mundo corde qui nõ accepͭ,38,1df97bd7-6d55-4b1a-a168-29665a1e9c45
-f38-18r.xml,18r,in uano giam suam net ni ominus uirtutum ip̃e est runt in delo primo suo¶ Si accipiet benedictione adno. rimiam adeo salutari suo ¶ Ses e generatis qrentium eum qrenciũ faciẽ dei iacob Atolite portas principes uras releuannim porte eter nales ⁊ introibit rex glorie Dius ẽ iste rex glie diis fortis ⁊ potens dñs potens in plio¶ Attolite portas prin cipẽs uesliris ⁊ eleucinni porte etarnales ⁊ introibit rex glie Ous est iste rex nlie,39,1ac102db-1bf6-484d-acba-3683eb291a7b
-f39-18v.xml,18v,rexglorie. U Benẽdicta fu in mulienb ⁊ beccedictus fric ctus uentris tui u Siffusa ẽ graciq in labiis tuis R ꝓpte̾ti benedixit te deus Inet̾num pr᷑ nii Et ne nos ss libem. Qr̃o recib ⁊ meritis beci lissime głiose uirgi nis marie ⁊ oin sanctor z sanctaꝵ ad gaudia etema ꝑducrit nos omps pr᷑ puit ⁊ misericors dñs amen. Iube dompne benedicere ⁊ Alinci uniio uͥginũ int̾cedat ꝓnobit ad dñm .L. pͣ. muta maria ungo,40,eef5aa9a-5e90-4e85-bcc0-de67d8c5b3a9
-f40-19r.xml,19r,uirginum mater ⁊ filia regis regum oni tuũ nobis ĩpande solacium ut celestis regni per te merecimur habe̾ p̾mium zcum electis dei regiare imꝑ petuum Tu autem R sca ⁊ inunciculata uirginitas qͥb te laudibz resferai nescio Qz quem celi capere non poterant trio gremio contulisti. U Se nedicta tu in mulieribz ⁊ bene dictus fructus uentas tui Quia quem. ꝟ iube dompne. R Oret boce pia ꝓnobis uirgo ma ria amen. Lectio 2ͣ aucta marici piaꝵ,41,008c7c73-e795-44a5-b244-f9630d82189f
-f41-19v.xml,19v,pussima intcede pro nobis sanctaz sanctissina ut per te uirgo sumat ura pͥcamĩa qui ꝓnobie ex te natus re- gnat super ethera ut sua ca- ritate nra deleatur peccami na Tu autem  Beata es uirgo marici que dum por tasti creatorem mũdi uenui sti qui te fecit Qneternum ꝑmanes uirago R aue ma- ria gra plena dñs tecum. Seninsti. U Iubx. Sancta dei getuy fit nobis auxi liaruay a. lectio ⁊ a ancla dei gentuy,42,9c1852f7-9724-45b2-8df6-be730b40ae37
-f42-20r.xml,20r,que dique meruisti cocipere quem totus orbis nequut ꝯphendere tuo pio int̾uetu culpas nũs ablue ut per hempni sedem glie perte re dempti ualeamus scandere ubi manes ⁊ regnas cum filio tuo sine tempore Tu autem. B ffeliy namqz es sacrã uirgo muria rom̃i laude diginissia Qr exte ortus est sel iusliuie xpus deus nr u Orappopulo int̾uem pelero int̾orde pro deuoto femineo sexu senciait omnes luum leuamen qui,43,40be4bed-e8e7-439a-83c1-aa221761687b
-f43-20v.xml,20v,cunqz celebrant tuant que moracionem. Qz exte. Gliã patri. Or ex te. Selir iantqz. Edeum laiudamus te diñ confitemur e et̾num pr̾em omĩt t̾ii ueneratur ¶sibi omnes angeli tibi celi ⁊ umuerse potestates. ibi cherubin ⁊ seraphin incessabili uoce ꝓclamant E anctus ctus S anctus dñs deut sabbaoth. Olent sũt celi ⁊ tera maieslatis qlie tue Te gliosus applõr chorus e pphetuum laudabilis,44,0a53145c-6fb9-4f44-9354-03303415f9e2
-f44-21r.xml,21r,m̃te ¶ TIe marhium candi Auus laudat ercitus EIe per orbem terairum sancta cõ fitetur ecclesia. W atrem- immeuse incurestatis ¶ lene randum linimuerũ ⁊ unicũ filium San quoqz para clitum sp̃m Au reyiiliẽ xpriste ¶u fatris sempi ternus es silius Su ad li berañdum suscepturut hoĩez non horruilli ungnus uter Iu deucto mortis ucules aperinsli credentib iriina celor ¶u addextercum dei sedes in głia patus  Lãdex,45,8c22a4d4-b417-4e4d-9507-23b178a26dd8
-f45-21v.xml,21v,credens esse dentunut Te ergo qͥs famulis tine subue in quos p̾cioso sangune ye demisti St̾na fac cũ scis line in glĩa nuimĩar Sal uum fac cũ sci ppłm tuum die ⁊ benedit hereditati tue Et rege eos ⁊ extolle illos usq inct̾num Dex sin gulos diet bened iomius te St luudamꝰ nomie tuu̾ in seculum ⁊ in sclm seculi Dignare dñe die istosme peecato not custidire ¶i sercre nũ domine miserere rat misericordia,46,a873ff7c-97eb-470c-9bfa-e679be0a15d2
-f46-22r.xml,22r,tua domine super nos ꝙͣat modum speraumnus in le ¶ Tn te domine speram nõ ꝯfundar incternum. Ora ꝓnobis sancta dei gem tux ⁊ Dt digni efficiamꝰ ꝓmissiombus xpi.,47,9160508b-9bbb-4ad2-b8ab-7d2912de04ed
-f47-22v.xml,22v,,48,7980c037-58bf-4ebc-aa46-908a85597070
-f48-23r.xml,23r,Ommus regnauit decorem indutus est indutus ẽ dñs fortitudinem ⁊ p̾emxit se Stemm finci int orbemlre qui non ꝯuio uebitur Carata sedes tuci deus extunc aseculo tu es Elcuciuerunt sliñci die eleuauerũt flumina uocem suam Eleuauerut slu nima fluctus suoe arocib aꝯucnum multaꝵ.¶dira biles elciciones maris mi rabilis in altis dominut ¶I eslimonit luo credibi lic facta sunt uie domũ,49,3c7df6af-2a6a-4d73-8ddd-9cbdc6d2ef5d
-f49-23v.xml,23v,tuam decet sc̃itudo domine in longitudinem dier obilate deo oinr tra seriite domino in leti citi . Entroite in cõspectu enis in exultacione Sci tote qm̃ dñs ipe e deus ue fecit nos dnon ip̃i noes Q pulus enis ⁊ oues pascue enis introite portas enis in confessione atria ens in hympins cõfitenu Illi Eaud̾ nomen cius ꝯin sucuns et dñs inet̾num nia eius ⁊ usqz in gn̾acioe Sgnacionem ueritas eius.,50,02a5ef90-6a41-4380-bd5e-58360509bbd8
-f50-24r.xml,24r,Eut deus meus cd te de luoc uigilo E tunt in te aĩa mea ꝙͣ multi pliciter ti bi caromend En terra desertã in uia ⁊ in aquo sasit in sancto aporin tibi ut uiderem uixtutem luã ꝑ gliam tua Ein meliore nia tua supẽr uitas labia mea laudabũt te Sl benedicam te in uita meaꝑ in nomme tuo leuabo ma ns meas. Sieut adppe ⁊ pinguedine repleatur aĩa mec⁊ labiis exultaciome saudabit ot nieum E it,51,6c836459-6467-4c04-b04a-da87e4c26f85
-f51-24v.xml,24v,ienor fi tui super̃ stratum nicum in matutiis medita borin te qz fuisli adiutor meꝰ ⁊ in uelamẽto alaz tuaz erultabo ad hesit aĩci mea post te me suscepit deytatua E uero iñ uanum ꝯ̃sieuit aiam meam introibũt in inferiora tere trudentur in manus g la dii ꝑtẽt uulpii ernt I Se uero setaibitur in deo laudabũ tur omnes qui iurant in eo qz obstrutum e o loquentium misereatur ma⁊ bene ¶inqua . dicat nobis illimmimẽt uultũ,52,a4c1ec74-3df5-4087-ac1c-7659f00e38c6
-f52-25r.xml,25r,suum super noc ⁊ misereatur nieẽ. it cognoscamus in t̾ra uiam tucm in omib getibus salutare tur ¶onfitean tur tibi ppli deus cõfiteãtur tibi ppli omnet ¶ etentur derultent gentes qͣm iudicas popules mequitate ⁊ gentes in tera dirgis. Gonfiteã tur tibi ppli deus cõfitecitur tibi ppli omnes terra dedit fructum suum ¶Senediccit nos deus deus nir benediccit nos deus rinetuat eũ ot lines t̾re Suediccte omĩa oꝑa domini dno laudatez,53,3066c10a-0056-4f19-8d52-9b77c6e0d851
-f53-25v.xml,25v,superailtate eum in sccula Seued̾ angeli dm̃n dño lenidꝰ celi dño. Si enedicite aque omitet q̃ suꝑ celos lũt domino benedꝰ om̃e uirtutes din dño ¶ eued̾ solz lu- na dns bened̾ stelle celi dno ¶ened̾ ymber rus dño bened̾ omie spus dei dño ¶Saied igins ⁊ estus doͭ bened̾ frgus pestas dño ¶Seued rores ⁊ prunia dio bened̾ gelu ⁊ fruut domino. S eued̾ glacies ⁊ mues dno benod̃ nates ⁊ dies domino  Sieuedicit,54,26a0f2b3-e5b7-4cd9-b75f-c3f53532cc66
-f54-26r.xml,26r,suy Stenehie dommntobñdꝰ fulgura ⁊ mibet dno . Si nedicat terra dimmi laudes ⁊ superaltet cum in secula S ened̾ mõtet ⁊ collet do mino beried̾ uinusa guu nãciq in t̾ra dño. Qñd̾ fontes domimo benod̃ ma na ⁊fluminadño.¶S nedicite cete ⁊ oñra q mo uentur in aquis domino bened õs uolucret ccli dño S ened omnes leslies pectora dno bened̾ filii ho minum dño. Senedicat ifiriel diii laudet ⁊ sup,55,f71139fb-331e-4b1a-86a1-2286bed101e8
-f55-26v.xml,26v,emleet cum in sccula ̃ Sud acerdoter dñt dño benedicite serui dindno. S ened̾ spũs ⁊ amme iustoꝵ dito bened sg̃ humiles corde dĩo S ercd̾ anama azaria missael dño luud̃ ⁊ supexaltate cum in secula . Senẽdicamꝰ prem filum cum sc̃ospu laudemꝰ ⁊ superaltemus eum in sclã encdictus es dominte in franamẽto celi laudribi lie ⁊ głĩosus ⁊superultatus in secula. audate dñm de celis laudꝰ eum in excelsis,56,eac11e1b-9cb5-4495-887c-9f8c24a3ef3c
-f56-27r.xml,27r,¶T audate eum ꝯ̾e autgeli enĩs laudͤ cum om̃s untutes enis. ¶aud̾ cum solz linta laiud̃ cum stelle ⁊ lumel Aau date eum celi celorui ⁊ aq ẽs que super celos sunt laude̾t nomen din O ⁊ ipedixite facta sunt ipe mandauit ⁊ crecita sunt Etatins cu inetermum ⁊ in seculum scli p̾ceptum pofint ⁊ nõ p̾terbit ¶audate dini de tergci dirichones ⁊õs abrssi l gnis grando uey glacies spyatus ꝓcellarum que facĩt uerbũ eius ¶¶ontes Romnes col,57,eb7d7b84-a37f-40dd-a92c-9c9969c1a4f0
-f57-27v.xml,27v,ses lupue fnittistera Somines ccdri ¶ Sestie ⁊ biũs a pr̃ora serpentet ⁊omot uolucres pe nate. Seges tere ronmet ppłi principet ⁊ oms iudices terre ¶ Suuenes ⁊ uimes senes cum iumorib laudet nomen dinqz exaltatum est nomie ens soluit Q õfes sio enis super celum dcii exultanit cornu ppli sui Symius omibz sãctis enit filiis iomel pplo appin quanti sibi cantiꝯ antate dñꝯ cãticum nouim laus eius in ecclia,58,69482101-9df1-404d-b2a2-dfd091dfd618
-f58-28r.xml,28r,sanctorum¶ Sletetur ifrl in eo qui fecit cum ⁊filie syo exultent in regesuo. Tlau- dent nomen enis in choro in tympano ⁊ psalterio psallãt ei z beneplacitum e dno In pplo suo rerultauit mansuetye in salute Sx ultaibunt sancti iniiloriu letaibuntur in cubilibus sins. ¶E rultriciones dei in guture eoꝵ ⁊gladii anci pites in manibz coꝵ ld faciendam uidicta in na ciomibz increpaciones in populis ¶ Słd allurandos,59,a5462944-86e3-4216-bfbc-288da2acf8f0
-f59-28v.xml,28v,reget eorum in cõredib⁊ nobiles cor in maniciis fer reis Et faciant in eis in dicium ꝯscriptũ ilia hec est omnibz sanctis eius cant aud̾ dñi in sanctis eius laud̾ eũ in sir manieto uirtutis eiꝰ ¶ar dite eimi in uirtutibz enis laud̃ cum scdm multitũdi nem maginitũdinie cius Laud: eum ĩ sono tube laud̾ cum in psalteno ⁊ cy thara ¶Aaud̃ eum i tyin pano ⁊ choro laud̾ euii in cordit ⁊ organo ¶ El aũde,60,49562b4e-d363-45c8-9476-577c11aacb85
-f60-29r.xml,29r,cum in crmhasit honesonsitib cum in crnbalis bene s onãtib laiudate eum in cynibalis iu bilacionis omis spũs laudet dnñi. anͣ. Post ꝑtum uigo immolata pmalisti dei nem tumy int̾cede ꝓnobis. capm. Eneduta ⁊ uenerabi lis es uirgo marici q̃ smne taictu pudoris iuenici e mater saluatoris. hymisꝰ Glorios a dñci excella supra sidera qui te crecunt puide lactasti sucro ubere¶Quod euci triflis abstulit tu reidis almo ger mine intrant ut allrasle,61,36686fe8-64ea-490d-a46b-f77ec38e2eb3
-f61-29v.xml,29v,biles celi feneitin faita es Tiu regis altĩ ianua ⁊ porta lucis fulgida uitam datam per uir ginem gentes redempte ple dite ¶anqi plena. lĩã tibi. B Elegit eam deue ⁊ p̾elegit eam R Et habitare eã facit in tab̾n̾aculo suo. psal Enedictus. Ogloriosa. dñs deus Ismel quia uisitauit ⁊ fecit redempcionem plebis sue. E hercoit cormu salutis nobis in domo dauid pueri si Sicut locutus ẽ per os sanctor qͥ aseculo sunt ꝓphetarum eis Salutem,62,42804605-c282-4bc4-bca8-9b753a28b474
-f62-30r.xml,30r,ex immieis nr̃is d de manu onn qui oderũt nos .¶ d facie dam mĩam cum pribz nris ꝑ memorari testanieti sui sc̃ ¶ Eusiurandi qd̾ mrcunit ad abraham prem urm datu rum se nobis. t sme timo re de incinũi minicoꝵ nroꝵ li herriti sermamus ilłi.En scinctitate ⁊ iusticia corã ip̃o omib dieb mĩs. Et tu puer ꝓpheta altissini uocale ris preibit enim ante faciẽ domini paire uias eiꝰ A danidam scĩcim saluus plebi enie in remissionẽ ntõꝵ ioꝵ,63,f2b9012d-2f4e-49c0-b022-6696930cf234
-f63-30v.xml,30v,Ter uiscera une den nr̾i in quibz uisitauit nos oriens cy alto  E llummar hiis qui in tenebris ⁊ in umbra mortis sedent ad dingendos podes nr̃os in uiam pacis Reiloriosa dei genitrix uirgo sẽper maria qͥ dnm omi menuisti portare et regem angelox sola ungo la tare nrĩs p̾cibz pia memorare ⁊ ꝓ nobis up̃m semꝑ dep̾ccire ut t̾uis sulti paerocinis ad celestici rarnia mereamur penemre. Domine enuidi Et clamor dr̃o sus qui de becitemcirie uignus utat uerbum,64,515c8e44-af47-4aaf-ae73-f5c45942e461
-f64-31r.xml,31r,tuum angelo mĩciãte camiẽ suscipẽre uoluisti pr̃a supplicib tuis ut qui uere ea dei genitri cem credimus enus apud te int̾cessionib adiuuem ꝑ ani Demi sanncte pu̾s reple tioꝵ corda fidelium ⁊tui amo ris inneis innem accende. R Enuite spin tuũ ecreabunt᷑ R Et renouabis faciẽ t̾re. Eus qui corda fidelium scinctispũs ilustracio ne docinsti da nobis in eodem spinitu recta sape ⁊ de eius seꝑ consolacione gaudere Per aiĩ Te inuocanius te adoramꝰ,65,1d4d8a8a-eaab-476a-9dc5-bc624e683b6e
-f65-31v.xml,31v,semper aduersis Per euara uimaus o te glifignus Obeata tam tas R sit nomen din baie dictum ꝵ Ex honuis Pusq in ninpotes. ⁊ scłm . oͦ sẽpiteme deus qui deyi sti famulis tins in confessio ne uere fidei et̾ne trmitatis gliam agnosce ⁊ in potetia marestatis adorcirẽ umitãte qs ut enisdem fide summitta te ab omib miemannibu,66,d1e2fabd-4660-4892-b2c7-9a9d9753ffb6
-f66-32r.xml,32r,omme labia mea aperies.,67,131181a1-7117-4768-b0b0-72e0251c3e41
-f67-32v.xml,32v,atris sapiẽcia ueritas diuina Deus hõ captus est hora maitutina Asins disci pulis cito derelictus Anideis traditus uenditus afflitus. UAdoramus te xp̃e ⁊ benedi xius tibi ⁊ Q perscãm arice tuam redemiflimũdum. Qro omme ihũ yp̾e silii dei uiui pone passionem crucem ⁊ morte tuaim int̾ in dicium tuum ⁊crĩam meam nuc ⁊ in hora mortis mee et semper larini digm̾s unis miam ⁊ gĩam deffunctis ye quiem ⁊ uemiam ecclesie trie,68,82eab20a-7d8e-414e-a4d3-012c725e827b
-f68-33r.xml,33r,pacem Aleram concordicum ⁊ nobis mileriis pecratori bus uitam ⁊ leticiam scmpi temam Quiunus ⁊ regnas deus per xp̃m diminr̃m a.,69,ce46d1aa-75a6-4db8-a580-0cae702e8f22
-f69-33v.xml,33v,Ommne labia meci aperies t os meu,70,4ecb9f0e-40ea-4c6b-8475-fb91fce4d232
-f70-34r.xml,34r,Obis sc̃i spũs qracici sit datu de quã uir gõ uirginũ fint obubrata Cum per sc̃m aingelũ finit salutata Perbũ caro factũ est ungo fecundata. ã rem sanctesprratus uts. nimpotẽs s. deus da nobis Illam sc̃i spũs gram quãtins discipulis in die sancto penthecofles tramsmisifli Qui unus.,71,709b7da4-0cea-4d2a-b4b0-10ef82280451
-f71-34v.xml,34v,,72,414a68cc-8d00-4fbd-8c06-c93844039e1b
-f72-35r.xml,35r,mentes tuor bisita iꝑle supua uygtia que tu crecisle petorai ¶emẽto salutis ad itor ꝙ nri quondã corporit cxil libata uigine nascendo for mam sumpseris ¶aric plena Oloria tidi. año Ent in. admirabile. nomne iuosaluum me fac rm uirtute tua mor ca me ĩ Seus erciudi orõne mecim auribz pcipe uerla oris mei Quontã aliem inlur rererunt aduersum merfor tes queliernt aicim mecm ⁊ non ꝓposuenint deu ante,73,b3cf934a-26d2-4e2f-9ce3-373eedc043cd
-f73-35v.xml,35v,conspectum suũ. Eax emii deus adiucit me ⁊ dominus susceptor est amine meel Au̾ te mala iminicis meit xin ue- ritate tuci disperde illos ¶ Io- luntarie sacrficalo tibi ⁊con- fitebor nomint tuo dñe quoniã bonum est. ¶Qii ex ommi tri bulacione expuisti me ⁊super immnicos meos desperit oculus audate dnn .i mens. omnes gentes laud eum omiter populi. Quonic ꝯsumicita e̾ supernos miti eiꝰ ⁊ ueritas dorini manet me lernumii.,74,a9796d86-99d9-4db9-8c1e-84de4113eb1e
-f74-36r.xml,36r,onfitemini dño qm bonus qni in seculum mĩa eis Dicat mino ismel qm bonus qm̃i in seculũ mĩa cuus i Micat nũc domꝰ acirõ qm bonus qm in scłm mĩti eiꝰ ¶Dicant m̃c qui timent diñ qm̃ bonus qm in seculum mĩa eius I Ne tribulacioe mea inuocaui dñm ⁊ciaiudiuꝰ me in latitudine dñs. Ons michi aduitor non timebo quid faciat michi ho ĩ Qñs michi adiutor rego desꝑiciam ommes immicos meg ¶o num est confidere in domino,75,191de2ed-cae1-4e4e-ab56-185cc42ceb32
-f75-36v.xml,36v,ꝙͣ confidere in homie ¶ Si o num est spercire in dño ꝙͣ spera re in principibz ẽ gentes cntinerunt me rm nõie domini quĩa ultus sum in eoe Onrũ dentet crecundederũt mermno mine din qz ultue sum in eor Ircundederunt me ficut apes demisernt me sicut ig̾e in spinis di noĩe dominu qz ultus sum in eos  Ampulsꝰ euersus sum ut cciderem et dñs suscepitime ¶Nortitudo med ⁊ laus mea dñs factus e michi in salutem ¶Tor ou exustacionis ⁊ saluris in ta,76,b6850a21-ce5a-4fe8-b05b-de83b934c83a
-f76-37r.xml,37r,bemaculie nissor ¶  cotem domini fecit uirtutem dertera din eraltainit me dexteradin fecĩt uirtutem i Con moriar z unam ⁊ narrabo opati dm̃ Mastigant caftigaut me diis ⁊ morti non tradidit me l pente michi portas iusti cie ⁊ ingressus in eris confite bor domnio hec portã dm̃m iusti intrabunt in eam onfi tebor tibi domine qm exuidi. sti me d factus es michi in la lutem ¶¶apĩdem quem re plruerunt edificantes hic factus est in caput anguli,77,99178abd-ec3c-4216-89bf-3a44d5c68c68
-f77-37v.xml,37v,S dommo fuctum e istud Dest murribile in oculis mũis ¶et est dies ꝙͣ fecit dñs exultemus ⁊ letemur in eai O domme saluũ me fac domine benepspenire bene ꝓsperare benedictus qui ue int in noiedin ¶ Senedioi mus uobis de domo dm̃n deus dus ⁊ illurit nobis.¶So stitinte diem sollennem in ꝯdempsis usqz ad cormi al taris. ¶eus deus meus es tu ⁊confitebor tibi deus meus es tu rexaltaiby te onfitebor tibi domine,78,e37f27e1-967c-41f1-98c7-fcd449f50799
-f78-38r.xml,38r,quomam exaudisti me et factus es michi in salutem ¶onfitemuduo qm bo nus qui in sclm mĩa euit. AM Cadmrabile ꝯm̾cium creator gm̾is hũam aictum corpus sumens de uirgine na sc̃i dignatus ẽ ⁊ ꝓcedens ho sine semmne largitus ẽ nobꝰ suam deitatem. aude mariauirao cũ ctas hes es sola intere mifli inuinu̾so mudo. R I hũ xpe filii dei uiui miserẽ nobis Ro. Quide uirgine dignatus et nasci miserere.,79,73f1884f-0bfe-4fcb-ad11-0e3b970ada25
-f79-38v.xml,38v,Ssoria pa. Ihũrpe. U Post ꝑtum uiro minolata ꝑmainsi sti R dei genitax int̾rede ꝓ nobis diuuet nos q̃s domine uirginis marie int̾cessiõ uene becite ⁊ gliose semper qz randa acuctis reatibz absolu tos in tua fuciat pace gaudere Per. GEus qui applis tins sc̃in dedisti sp̃m concede plebi tuc pie petitionis effe ctum ut quibz dedisli fidẽ lar giaris ⁊ pace ꝑ Eux in ora. aditoꝵ utrͣ. prima ductus e̾ ihus ad pylatum falsis testimo,80,fbd7cfab-f729-444d-90f0-d9c15505c9b7
-f80-39r.xml,39r,mis multum accusatum In colo ꝑcutiunt manibz lifatũ Uultum dei ꝯspuñt lumen celi gratum . A Adoramus te Domme chũ.¶ G euem ad. dungine. intor. maria xpue fuit natꝰ Crucifixus mortuus atque tumulatus Resurgens disci pulis fuit demonstiaitus Et ip̃is cernãtib celis eleuat ꝰ a Dem sancte. Omps.,81,509d5a5e-47aa-4460-b7e0-bf55c4f6b92c
-f81-39v.xml,39v,Eus in adinte rium.¶Iem,82,36cd3fbb-077c-4637-a338-74adaac85106
-f82-40r.xml,40r,¶ater dei sc̃issmia atqz uirgo ꝑpetua offer nos tus filio in celesti palacio. Aa rici plena. rici plena. añ. Qñnatus. d dimi cum tribula ixx clamain rercudi uit me. Qne libeitiaiam meam alabis mniquis⁊ alingua dolosa¶Quid detur tibi aut quid appor tur tibi ad linguã dolose Eagitte potrntis acute cum carbombz desolatoris eu michi qz icolatus meus plongatus e̾ habitu in cum habitantib cedar,83,73c1e118-0632-4978-9215-7e60524de381
-f83-40v.xml,40v,multum icola fuit qia mes Eum hiis qui oderũt pacei eram pacificus cum loquebar illis impugnabũt me gratis Euaui oculos meos in montẽs unde uemet au uilium michi / Slurilium neum adno qui fecit celum ⁊ terramꝯ ¶ondet in cõmo cionem pedei tuum neqz dor miet qui custodit te Ecce non dormitaibit neqz dorimet qui custodit ifrl. Oñs cu stodit te dnis ꝓtectio tuci super manum dexteram tuci Mer diem sol non uret te neqz lu,84,98f95d26-c9e2-4ae5-a4b1-dd0bd7672616
-f84-41r.xml,41r,na per noctem ẽ Sommus custodit te ab omm̃ mało cu stodiat aĩam tuã dñs Oñẽ custodiat introitũ tuũ pexitũ tuu ex hoc nũc ⁊ usqz in sclm. Etatus sum in hiis qͥ dicta sunt michi in do mum din ibuue  Stãtes erant podes nũa in atriis tins Ihrłm  Thrłm que edifita turut cintas cunis ꝑticipa cio eis in id ip̃m ¶lluc enm ascenderut trib tab donuni testimoniũ ifrl̃ ad confitendum noi dmn ¶ illic sederunt sedes in iudicio,85,935efda4-ded8-4612-8869-b76dd26c7fba
-f85-41v.xml,41v,sedes supẽr domum dauĩd S mate que ad pace sut ihrłm ⁊ habundãcia dilige tib te¶Nuit par in dir tute tua ⁊ habudancia in turribz tine. O ropter fintres meos ⁊ priios mecs loquelar pacrm de tei Mro pter domum din dei mi quesin bonatibi. antip Quando natus es ineffabi- liter ex uirgine tunc implete sunt scripture ficut pluina in uellus descendisti ut saluũ faceres genus hũanũ telau damus deus iir.,86,71981ac7-063d-43bb-9095-d15657810a5c
-f86-42r.xml,42r,Er te dei genitux no data que de celo suscepisti bis est uita perdita ꝓlem ⁊ mũdo geninsti sal uatorem. R post ꝑtum uirgo immnolata ꝑmansisti b dei geitrix intercere ꝓ nobis. Inuolata. Gliã. Post ꝑtum. U sancta dei ne intaix uirgo semper maria Int̾cede ꝓ nobis ad dnũ ¶ ihin xp̃m. tege domine famu Los tuos subsidiis pacis et becite marie semperq̃z uir guns patrociniis cõfidetes,87,c7ad8f7b-89c0-4b40-8623-6f73d9b8cdba
-f87-42v.xml,42v,acunctis hostibz nos reide le curos per. ¶cclĩam tua. dsit nobis ꝯs domine corda nra clementer ex purget uirtus spũs sancti q̃ ⁊ab omibz semper tuecitur aduersis Per ¶Scus in nici. adnutorium. terciaz. Illusus indintur fige clamitant hora ueste purpuraz. Caput enis pongitur corona spinaru Euicem portat humeris ad locum penar . A. Idoranius te ypriste oͦ domine ihũ. ¶Geur iñ adiutoꝵ.,88,25e71c9a-7265-43fc-9c8a-9bfc31fe7895
-f88-43r.xml,43r,num sc̃in spideus de legaiit. In die sancto penthe costes applos consorta int Itqz linguis igncis ipos inflãmauit . Relinquere or phanos eos denegauit. ã Uem sancte . oͦ Omp̃s.,89,2413339a-f294-4070-b229-3a589af17d06
-f89-43v.xml,43v,,90,9b4d950f-8cc7-4fb3-8204-ab254cff89cf
-f90-44r.xml,44r,omns pudici pectoris templum repente fit dei in tricta nescient uirum uerlo concepit filium ¶Iara plenci lia. anͣ rubum dte leuam oculos meo̾s qui habitas in cce sicut oculiser uoꝵ in manibz dnoꝵ suoꝵ ieut oculi ancille in manibz dñe sue ita oculi nrũ ad dnm deum nͣm donet misereaturnri Miserere nri domine miserere nm qz multum repleti sumus de spectione ¶multum,91,3d7be255-8500-42d3-b177-195d20bcfe63
-f91-44v.xml,44v,repletum ess aici nixi olipbri um habũdatibz ⁊ despectio su Isi quin perbis. Isi quin perbis. dommus erat in nob dicat mine ifrciel insi quia dus erat in nobis Osum exuterent hores in nos for te uiuos deglutissent nos ¶mn iurisceretur furor eoꝵ in nos forsitan aqua ab sorbuisset nos Tlorrente ꝑtirinsunt aĩa nra forsitan ꝑtransiss et cĩa nra aquam intollerabilem ¶Senẽdictꝰ dominus qui no dedit nos ĩ capcione dentibz cor ia,92,aeea9666-03b1-4245-a30b-8dcc15fdc10b
-f92-45r.xml,45r,nr̃a sicut passer erepta est ie laqueo uencicium ¶aq̃us contritus e̾ znos liberti su mus¶Idiutoriũ nr̃in i nomine din qui fecit celũ ui confi i ⁊berrcu. dunt in dño ficut mos sron non ꝯmouebitur me ternum qui habitat in che rusalem ¶ontes in curin tu eius dns in arantu ppłi sui ex hoc nũs ⁊ usqz in scłm ⁊ non relinquet dñs uiriam pctõr super sortem iustorum ut nõ extendant nifli ad iniquitatẽ manus,93,7ad7a699-fa32-4d0b-99ec-a92668f7407a
-f93-45v.xml,45v,fuas. Seneftic comie bome ⁊ rectis corde ¶Gecli ncntes aute in obligacioes adducet dnis cum operãtibz imquitate pax suꝑ ismel an rubum quẽm uiderat moyses in ꝯbustum ꝯsemuatã agnouimus tua laudabilẽ ungiitatem da genitrx int̾ ara i tede ꝑnobis. cp̃ disi porta per euam cunictis clausa e ⁊ per btam inciricim uimine tterum patefacta eunt sancta dei genitrr uirgo semꝑ maria A. Intrede ꝓnobis ad dimmi,94,9460e072-3fe2-4ccd-8a6c-8133026e225e
-f94-46r.xml,46r,iħm xp̃m. birgo. Oliã pri. Sancta dei. Ro Ora pronobꝰ sancta dei gantax u Ut di gnn efficiamur ꝓmissionib Sate et. xp̃i. or̃o gliose semperqz uir gunie marie gemtacis dei q̃s intcessio gliosa nos ꝓte gat ⁊ ad uitam eterni uoꝵ ꝑduccit P. ¶Sccliam. or̃o eutes nrns qͥe domine spus paclitus qui ate proce dit semper lluminet ⁊ in duccit in omem sicut tuus ꝓmisit filius ueritatem ꝑ tus in ãyatorium.,95,0887e7aa-f5e0-432b-b815-9e1cd94ed16f
-f95-46v.xml,46v,Ora serta ihũs ẽ cruci conclauatus Et est cũ latronibz pẽdens deputatus Pretormietis saciens felle sa turatus. Agnus cimie dilint sic ludificatus. A Adoranius te. Dñc ihũ. ¶GEus in. Eptiformem gram tunc acceptauerunt Quare ydiomata cũcta conno uerunt Ad diu̾sa chimata mundi recesserũt. Et fidem catholicã tuo pdicauerunt R Demisancte oͦ. Omps.,96,dbca4c16-32ec-4210-9d9e-41b2cf3ed9e4
-f96-47r.xml,47r,Eus in adiuto rium Dem creator spũs.,97,bb8f3bc1-a385-4f1d-8bf0-2a2dc7061b17
-f97-47v.xml,47v,mra est puerpera qua gabriel p̾direrit quẽ matris aluo gestiens clausus ildes senserat. ¶ Laria plenci. G lici tibi .ã. Etcemaria ⁊ conu̾tando dñs capti intatem sron facti su mus sicut consolati. Ne repletum e gaudio oe nm ⁊ lingua nra ultucione Tl une dicent int̾gentes maginfictunt dns frite cũ eis ¶¶Laginfictunt dns facere nobilcum facti sumꝰ letrintes. Esonũte dne captuntatem nr̃am ficut,98,64e9c08d-1866-4812-b576-f83ec9273282
-f98-48r.xml,48r,torrens in custro ¶Aui semmenit in lacrimis in exul tacione mettent. Suntes ibant ⁊ flebant mictantes semma fua Gl ementes aute rement cũ exultatione portutes mampulos suos. isi dñs edisicra̾it do mu in uanu la bora uerunt qui edificant eum ¶Sisi dũs custodierit am iatem fiuslia uigilcit qui custodit eam O lanu est uobut ante lucem surgere surinte poslquã sederitie ꝯͥ man ueatis pane doloris,99,1d0f0d05-de26-4d70-b3f8-eadf641a871d
-f99-48v.xml,48v,Sam dodnt o ilatis fui sompnum eto hereditat᷑ dĩ filii merces fuictus uentris Sieut sagitte in manni po- tentis itafilii excussoz¶Sea tus uir qui implant deside rium suum ex ip̃is nõ co̾u̾ detur cum loquetur iminicis Eati. luis importa omnes qui timent doͫ qui ambulat in uiis eius ¶Ela bores mai tuarum qz maducabis beatus et et bene tibi ent. Siror tuci si cũt uitis habudans in late ribz domus fue.¶Sili tui,100,4d66729c-0d28-4fca-ab0e-94f1a7299e8a
-f100-49r.xml,49r,ficut nonelle osniar in artin tu mense tue. ¶Scre sis bene dicetur homo qui tumet doͫ Seuedicat tibi dñs ex sion ⁊uideas lona ihr̃lm omnibz diebz uite tue Et uidcas filios filioꝵ tuorum pacem super Isiel. a. Ecoe meraa genint nobis salucito rem quem ihõẽs uidens excla uincans dicens ecce tignus dei ecce qui bollit pta mũdi. ieut cynamoniu⁊ hal samũ aromatizans õtereas de di quasi mielecta n dedisuguntutem adoris.,101,6f6d422d-73d9-4703-ac33-e1157834c368
-f101-49v.xml,49v,Ora ꝓnobis sc̃a u̾ea genitur ꝵ xt digni efficicuur ꝓmis sionib xp̃t. Sancta. ulia prĩ orapnobis. u̾ specrosa facta e̾ ssirauis ꝵ in delicns tins scincta dei genitrir. oratio amuloꝵr tuoꝵ qͥs dn̾e delutis ignosce ut ꝯͥ tibi placerede actib nrĩs noñ ualemus gemtriciis filni tui din nũ ihũ xp̃t intertes sione saluemur Per ore ¶entib mĩs q̾s dire sp̃m sc̃m beniqu ainsunde ut auꝰ ⁊ sapiẽtia cõnditi sum d⁊ puidenciti gubrmnĩa,102,90a4389a-ed37-4e0b-97ab-03206be605e9
-f102-50r.xml,50r,ccłiam tua. tus madiutoꝵ Orci nonci dni̾s ihũs expiranit heliclamaĩs aĩam patri ꝯmedait latus eius lanceci miles plorauit Tiri tunc ꝯtremunit ⁊ sol obscura int a int A Adoramus. Sne ihũ. Eus in adiutor pus pacłitus finit ap pellatus Donu dei cratas fons uinficatus spratalis unctio ignis inflãmatus septiformis gra carisma beaitus ã Demscẽ. Omp̾s,103,ea3cfcb6-ccb2-489f-8b3c-8a22a69c5364
-f103-50v.xml,50v,Eus in ad into num ues᷑. aͣ. Beata mater.,104,69badde8-0568-4684-8ddc-f3667fdd4416
-f104-51r.xml,51r,Etatus sum in hiis. dte leuam oculor. Isi quia dñs utͣ. ui ꝯfidunt ute᷑. N conuertando dñs. añ Becita mater ⁊ inupta uirgo głiosa regina mundi intercede ꝓnobis addiiiii. Ihesum ypristum. Sata es uirgo marici q̃ dnm portasti creaio rem mundi gemnsti qui te fecit ⁊ incternũ ꝑuigner uirgo. deo graticis. hymu ue maris stella dei. mater alma atque,105,6e03b9ec-35bc-4d4a-911e-4f5a9a81f95b
-f105-51v.xml,51v,seiuyer uiuro felry celi portti Suntens nłud aue ga brielis ore funda nos in pace mutans nome eue. Sol uẽ unicla reis ꝓfer lumen crcis malu nn pelle bona cucta poscel ¶onstra te esse matrem sumat per te p̾ces qui ꝓnobis ncitus tu lit else tuus ¶ Iirgosin gularis inter omnes mittis nos culpis solutos mictes fac scastos ¶Iita presta purum iter parci tutum ut uidentes ihm̃ semper col lectemur. Sit laus deo,106,f2e4f984-41e8-4f2d-95a9-8a286c86040c
-f106-52r.xml,52r,patri sumo xpo decus spin sanctotrinus honõr unus amen u Diffula est gin in labiis tuns Re pterra benedixit te deuz inet̾num NI sancta mana aginficat aĩci met dum Et exultaiit spũs meus in deosalutari meo ⁊ respexit humilitate ancille sue ecce enm ex hai bectam me dicent omnes generaciones. ¶⁊ fert michi mnagna qui potens e ⁊ sanctum nomẽ cius Slt mĩa enis aꝑgenie in ꝓgemes,107,571e1b01-75e6-4bb5-ad41-b975b6b0bedd
-f107-52v.xml,52v,timentibz cum ¶ecit po tenciam in brachio suõ disꝑ sit superbos mente cordis lui ¶ Seposuit potente de sedes eltunt humiles. ¶fu rientes impleuit bois et diuites dimisit inaines Suscepit ismel puerum suum recordatus nie fue Sicut locutus ẽ ad pres nr̃os abraham ⁊ sennm aue in secula aii. Sc̃a maria fuccure miseriis nuapufilla nimes reffoue flebiles ora pro populo int̾uem ꝓclero int̾cede ꝓ deuoto femmeoseyu. Dñe,108,f1dcfdc6-5d90-499e-bb6b-8854c8bdb03c
-f108-53r.xml,53r,emudi Eo damor. oncede nos faiulos tros q̃s dñc deus ppetua mentis ⁊ corporis saintate gaudere ⁊ głiosa becite marie semper uirguns int̾cessione ap̾senti liberar tristicia et cterna ꝑfri leticia ꝑ ã Dem sancte uts ¶sus qui corda fidelium. Te inuocamnus utsͣ. ¶mp̾s mp̾s sempitere deus. añ Ifle añ ifle est iohannes. ¶ccłiam tuam qy domine uis. eus in adiutoꝵ. Ecruce. Decruce.,109,554e83fc-954a-483c-9c53-251b467f4dad
-f109-53v.xml,53v,deponitur hora uespertina. Fortitudo latint in mente diuina Talem morte subut uite medicina Heu corona głie iacint suppina ã Ad minus o ue ihuxpe. Øͦ eus in siduitoꝵ. Extrẽ dei digitus uir tus spuitalis Ros deffendat reruat ab om̃ib malis. Dt nobis non noceat denio infernalis. s ꝓtegat nu triat foueat sub alis Demn sancte. Ø ͦ Onps,110,9fb7b308-5a28-4669-8372-b0afd7d6df98
+page_id,CoMMA_folio_name,text,page_ordering,arkindex_page_id
+f0-plat-superieur.xml,plat-superieur,,1,41ca20e5-786b-4968-8a79-c8cd353cef69
+f1-contreplat-sup.xml,contreplat-sup,"x uuos.
+LAI.
+NOUU. ACO
+32OI",2,7fda6df8-7215-46b6-8af4-211d9434468f
+f2-page-de-garde-recto.xml,page-de-garde-recto,,3,5b0006d1-69ba-4b2f-87fa-84b2bc90c693
+f3-page-de-garde-verso.xml,page-de-garde-verso,30coo,4,89f68995-661e-49cc-9a8e-32c052ed04de
+f4-1r.xml,1r,"in
+in
+6
+.xii.
+uIIi F
+i
+xui
+8
+5
+xiii
+D
+ni
+Lamiaoiuis.
+Trocuncisio
+Cit sti stepham
+Cit̾ sancti ihoĩe
+Cit sc̃oꝵ innocencium
+symeonis mocichi
+Epi phania dñi.
+luciam ꝓbr̃ĩ
+Selicis epĩ nanneten
+iulicim mris
+Ouilli epĩ briocen
+Salin mris
+Satur mr̃is
+hylarn epĩ
+Felicis conf
+mauri abbĩe",5,af7d2d4f-8c49-4bed-96cc-d86f6905e271
+f5-1v.xml,1v,"ubin
+xii
+xuii
+uI
+xiiii
+in
+un
+iI
+b
+6
+C
+n
+a
+b
+5
+C
+Mcircelli pape
+Anthoi albĩs
+Cathedra sci petri rome
+lcmnnomari cõs
+stabiam ⁊ sebastiam
+Agnetis uirgimie
+Uincẽtii confes
+Eineretiane uiii
+Sabili epĩ
+Comisio siñ pauli.
+Pollicurpi epĩ
+iulicm epi
+Agnetis scdõ
+Depositio sc̃ci gũdri.
+ypoliti mr
+uitoꝵ soc̃ ⁊ cius",6,a7a5acd6-3fae-44a4-9819-f3a18aa49d92
+f6-2r.xml,2r,"¶¶Itebruarius.
+purifica ͦ bẽ m ͤ ugĩs
+xix
+ulasn epi
+uiii
+g auentim ep̃i
+a agathe uirgunis
+ubi
+b uedastis amiadi
+Anguli epĩ
+D Auberti epĩ
+xiii
+Cappolonie ui
+Fssco lastice uirit
+n desidern epi
+a Eulalie uicginis
+blicuimn epĩ
+Dilentim ep̃i
+.ui
+ni
+xuiii",7,b63674de-05f7-49f6-90a8-31eb8bb4f689
+f7-2v.xml,2v,"un
+e
+xu
+mi
+ii
+a
+xni
+B
+d
+e
+F
+xbn
+g
+ui
+7
+B
+xiiii
+Cractonie nix
+Iulianc uirii
+Polocronn epĩ
+Symonis ep̃i
+Gabim cons
+Galli confessoꝵ
+Derosi mr̃
+Cathedra sitĩ petri
+Polliccrpi ꝓbr̃i
+Mathee apłi
+sercipionis soc zeius
+Alercindri epĩ
+fuliam mr
+Romam mr̃",8,57f37835-3e77-4cbd-8c7e-baaf14ad3f68
+f8-3r.xml,3r,"Mlareius
+Albim cpi
+lucii epĩ
+Giñgalori abb
+lucii ppe ⁊ m̃z
+Eusebii sot̾ ⁊ eius
+uictoris ⁊ uictorim inr̃ꝵ
+Thome de aquino
+Arricm nir̃
+deposicio sci gregorii ep̃i
+Alemndri ⁊ gan mĩr
+Candidi mĩ
+Oregorii p̃pe.
+Eufrcisie uirit̾
+Petri m̃r
+Matrone uirginie
+in
+xi
+i
+xix
+6
+uIII
+xbi
+U
+xiii
+n1
+a
+B",9,e2cd78d2-d085-47e1-b8b2-9d3316838da4
+f9-3v.xml,3v,"Patrici epi
+Alexindri epĩ
+leoncii ep̃i
+Cuberti col
+Tnͣsitus sc̃ benediti
+Affrodn ep̃i
+Theodorii ep̾i
+romuli ep̾i
+Annũtiacio diũca.
+Castoli mr
+Iohannnis hemite
+Pristi sot zenis
+Sustasn abbĩs
+reguli epĩ
+Rabbine uirirunt
+un
+om
+ui",10,3acdbc47-6103-4a3f-88de-fae389356804
+f10-4r.xml,4r,"Aprilis
+denanch epĩ
+marie egipcicite
+Caucericu mr̃
+Ambrosii epi.
+Uincentii confess
+Sirti pp̃e
+Donciti epĩ
+dyomln epi
+Protom mr
+appolim soc zeius
+leoins pape
+zenioiis epi
+Eufenne uirit
+Tiburai soi ⁊ eus
+i9
+ui
+a
+B
+xix
+5
+uin
+.xui e
+.xui
+u
+xiii
+a
+5
+d
+ouins
+me",11,ccd50d7a-43df-4b99-99cf-8bb6e1c9f23a
+f11-4v.xml,4v,"unI
+i
+ub
+a
+B
+II
+5
+uii
+ii
+5
+B
+ubu
+6
+ui
+d
+‸E
+uiiii
+in
+Olmmipiadit sõc zeius
+Deposicio s. patͬm
+ysidori mr
+Eleuthem epĩ
+Can martras
+uictoris ppͣr
+symeonis ep̃t
+Panen m̃r
+Deorgii m̃ꝵ
+Alemñdri mr̃
+¶Hayci ennͣgliste.
+Cleti pape
+ancista sn epĩ
+ditalis mr
+Tecle unginis
+Eutropii ep̃",12,164d70d7-aee2-44e4-a2ae-968d074ad35d
+f12-5r.xml,5r,"ui
+¶
+e
+F
+¶
+9
+b
+ii
+xix
+uIII
+ubi
+uiii
+n1
+xuiiiii
+uni
+Phil ꝓpi ⁊ iacobi apłoꝵ
+mastasn epi
+Inuencio scc̃e cyncis
+Ciricici epi
+hylarii ep̃i
+Ihoĩs añ portã latinã
+Iuuenulis mr̃
+Dictoris m̃z
+Tnͣsla ͦ scti incolai
+Cordicim mr̃
+Gilde abbĩs
+Nerei dachilei m̃z
+seruacii epĩ
+Dictoris ⁊ corone niz
+ysidorii mr̃",13,18181ed8-4454-4c0a-b8c7-57504e450cdb
+f13-5v.xml,5v,"mI
+uii
+ii
+e
+b
+i
+¶.
+xuii
+E
+ui
+¶
+uIIII
+s
+in
+.ui
+Carcũdt abbis
+Macuti epĩ
+felicis epi
+Yuonis cõfess
+Iustergisilim epĩ
+Ordina ͦ sc̃ti pr̃m
+helene uirg
+desiderni epĩ
+donaciam ⁊rogatiam
+ffrancisti abbĩs.
+Angustini . epĩ
+raginphi mr̃
+Ceriam epĩ
+Maximi epĩ
+felicis pp̃e
+Petronille uirg̾",14,c41e2897-1c15-49fd-8e4e-cc5a33958325
+f14-6r.xml,6r,"xix.
+uiii
+5
+unẽ
+n
+uta
+n
+umus
+Richomedis mr
+Marcellim ꝑ peta m̃
+liphardi mr
+Cunim epĩ
+Domfacii ppͣe
+Tugducili epi
+axrecidori epĩ
+Primi ⁊feliciam
+landerici ep̃i
+Mẽcurdi ep̃i
+Barnabe aplĩ
+dasilidis m̃r
+anton ꝯf
+amam epõ
+diti ⁊ mõdesti m̃ꝵ",15,3d89edb0-812c-403a-9abf-762a76ad9c8e
+f15-6v.xml,6v,"mI
+xni
+.5
+i
+Tra ⁊ Iulite mr̃ĩs eius
+Ainti confessor
+axirci⁊ marcelliam m̃
+Geruasi e ꝓthasii mĩr
+Sẽnulphi epi
+Meuenm abb
+Albam mr̃
+Silii epi ⁊ gf uigilia
+Natiuitas s. ihoĩs hapͭ.
+Eligii epĩ
+Iohanis ꝯpauli nr
+Florencii epi
+leonis conf uigilia
+Petri et pauli apłoꝵ
+Comeoracio sci pauli
+uuii
+ui
+uiIiI
+in",16,4e5b0a5b-5748-4f77-8076-64eea2d188d4
+f16-7r.xml,7r,"xix
+uini
+B
+xbi
+¶
+d
+e
+.uiii
+f
+ii
+a
+B
+ulius.
+Theobaldi conf
+Pcessi z martimam
+Tñslaciosai thomie ai ͥ
+Tnͣslacio sã martim e̾
+donnen mr
+Noyale uirginis
+Richostrati mr
+Procobi mr̃
+Crali episcopi
+septem sum mx
+Senedicti abb
+hermanore ep̃i
+Thuriam ep̃i.
+Eypriam mñs
+Iacobi ep̃i
+6
+ruin
+un
+F",17,bcb1e761-bf79-4364-8e65-4f9ddda54b2a
+f17-7v.xml,7v,"II
+5
+B
+4
+uni
+1
+ix
+ii
+xbii
+5
+ui
+b
+6
+uiiii
+d
+Ii
+F
+ui
+.xix
+Eustachii epĩ
+sperati soc̾ zeius
+Arnulphi epĩ
+arsenn conf
+Margarete u̾ginis
+Prcardis uing
+Mayie magdalene.
+appolinaris epĩ
+Cristine uirit̾
+Iacobi apłi
+Dame mrͣis mͤ
+septẽ dormmiẽcium
+Sansoins epĩ
+Guilli̾ cõf.
+abdon ssennes
+Germam epi",18,5eab71c6-8a29-44d3-b56b-b3a1f6791d46
+f18-8r.xml,8r,"DUN Angustus
+Petri aduincula
+stepham pp̃e
+inuẽtio sca stepham
+Terculim mr
+donninei cõf
+Tnͣsfiguracio dñ.
+donati epĩ
+Ciriaci soi̾ zeius
+romam mr̃
+Laupẽtii mͣꝵ.
+Tiburtii m̃r
+Gracilic mr̃
+ypoliti soc̾ z eius
+uigilici
+Assumꝑco bẽ m᷑. Ugĩs
+uin
+4o
+ubi
+u
+xini
+ii
+a
+b
+u
+6
+d
+xuiii
+uit F
+i
+8
+r6
+mi
+F",19,4e91101d-2884-4f62-accf-e87def664d3d
+f19-8v.xml,8v,"xii
+e
+9i
+A
+.xuii b
+b
+ui
+ui
+d
+uiiii
+iii
+ii
+ui
+i
+B
+uix
+UIII
+Armagili conf
+Oct̾ sancti laurencu
+Agapiti mris
+Magni mris
+philiberti abbĩs
+legnardi conf̾
+Themoter ⁊ simphoriani.
+Thimotei ⁊ appolinaris
+Bartholomei apłi.
+Ludoinci regit
+Elenther epĩ
+Ruffi mrĩs
+Augustim exĩ.
+Decola ͦ.s. ihoĩs bap ͭ ͤ
+ficicin confessoꝵ
+Paulim epĩ",20,15af1dbe-0f5d-48c1-bc2b-f25e51a2ba9e
+f20-9r.xml,9r,"xui
+u
+1
+A
+xiii
+b
+6
+d
+x
+e
+xuiii
+.ii
+uII
+xu.
+5
+ii
+d
+uii
+Seꝑtember
+Egidii abbis.
+autonim mr̃
+Oromaꝰ scĩ gregorii
+maircelli mr̃
+dictorim nir
+Eleuthern epĩ
+Euurci ep̃i. uig
+Nat̃ĩtas bẽ m ͤ u̾ginis
+Gorgom mr
+Deme sii mir
+Mthi ⁊ icicirti
+uin conf
+Mauuili epĩ
+Exaltaͦ sitẽ trucis.
+Richomẽdis mr",21,498b54e4-3335-4d7e-8a77-b6942757c2bb
+f21-9v.xml,9v,"a
+ix
+b
+5
+d
+f
+9
+s
+b
+5
+d
+e
+ii
+ubii
+ui
+uim
+in
+xi
+xix
+Eufenne ongiis
+lamberti epĩ
+fereoli m̃r
+Eustrichii ep̃i
+Sauste uirg̾
+Mathei aplĩ ⁊ enigli ͭ ͤ
+Mauricii soc̾ zenis
+Tetle uirginis
+andochii m̃ꝵ
+firmim epĩ
+Iustine uirginis
+Cosme damiam m̃r
+Exupii epi
+Michaclis ĩ mõte gr̃ga ͦ
+hero miu ꝓibr̃.
+uiii",22,f0066d2e-a28b-4222-9f75-b487ee402e76
+f22-10r.xml,10r,"xui
+xni
+1
+E October
+Remigii epi
+leodegari epĩ
+dromin epi
+sranscici cõf
+appolinaris epi
+sidis uirginis
+Marci pape
+Symeonis cõf
+Dyomsii socqz eius
+Pauli epi lionen
+Melamn exĩ
+Eypriam mr
+Geraldi conf
+Calirti ppͣe
+Basoli conf
+u
+b
+6
+n
+C
+F
+ii
+uuin a
+un
+b
+¶
+xiii
+xb
+d
+mi
+e
+ii
+a",23,fc3aa3cc-6b96-4b91-aa91-b3f3fbbbdd5b
+f23-10v.xml,10v,"xuii
+ui
+xiiii
+in
+.ui
+.xix
+uIII
+ubi
+Michaeł. ĩ mõte tuba.
+lupi epĩ
+Luce enngliste.
+deraim epĩ
+Caprasn mr̃x
+undecĩ milia uirgiz
+marti epĩ
+seuerim epi
+Martim abbit
+Crspin ⁊ cͥ̾spinic
+rustici epĩ
+florencii epĩ. uig̾
+Symonis ⁊ iide apłor
+yuonis confessoꝵ.
+Saturim ms
+Quintim m̃r",24,33f8adc4-447c-4e53-ac02-94edacc0298c
+f24-11r.xml,11r,"uin
+n
+¶
+A
+B
+xuiii
+uni
+E
+F
+ii
+5
+uii
+b
+stestiuitas om̃i scõꝵ.
+Cominẽora ͦ deffunctoꝵ
+Dobriam episcopi.
+Clari mitiz
+leti confessor
+Melanẽ. ⁊ confessoꝵ
+herculicm epĩ
+Quictuor coronactoꝵ
+Theodorii mr̃
+hartim pͣe
+Martim ep̃i et cõfess
+leoms confessor
+Bricii epĩ ⁊ cõf
+sercpioins m̃r
+Macloui ep̃i.
+xu.
+iI
+11",25,ce67ae55-a4d4-4f14-aba1-5a0a76ded015
+f25-11v.xml,11v,"i
+C
+F
+xuii
+ii
+ui
+a
+6
+uiiii
+In
+E
+ui
+F
+n
+xix
+a
+UIII
+xbi
+u
+Sleuthern cõs
+auiam epĩ
+Maudeti abb
+faustim mr̃
+Ponciam pp̃e
+Columbam abbĩt
+Cecilie uirginis
+Clementis p̃pe
+Grisogomi mr
+katherine u̾gĩs.
+lun pape
+Ditalis mr
+ruffi mr̃
+uinlia
+dandree. apłi",26,8a8f02a3-3ac2-4bb9-86d7-d71650b98814
+f26-12r.xml,12r,"uini
+n
+ci
+8
+5
+xuiii d
+unI
+mI
+uii
+Detember.
+Slign epĩ
+fortunati mr̃
+Calsiam mir̃
+Melecii epĩ
+Cuspine unai
+Nicolai ep̃i
+Cit sancti andree
+Cõcepcõ hẽ m ͤ u̾g
+sir epĩ ⁊uir̃
+Eulalie uirg
+Damasn rape
+Corentim eͥ
+Lucie uirit̾
+Sumern mr
+Dalericim epĩ",27,de3ebb35-89c0-40c0-ba3e-5140a0c63bf2
+f27-12v.xml,12v,"xuii
+ui
+g
+.xiiii
+in
+xi
+11
+9
+.xiu
+B
+uin
+xui
+uiii
+Barbare uiriinis
+Ignacii ep̃i
+Caciam ep̃i
+zenome mr̃
+zephirim ep̃i
+Thome aplĩ.
+Chirionis mr
+Dictorie unii
+Diccilia
+Natiuitas dñ.
+Stepl in pthomĩꝵ.
+Ihõis aplĩ ⁊ͥ eun ͭ ͤ
+Stoꝵ innocentium.
+Thome arthiepi.
+ꝑetin epĩ
+Siluestri pp̃e",28,5b538660-0eec-4809-a0aa-8e78bd0d9c08
+f28-13r.xml,13r,"Omine labic
+mea aperiet E
+o meum ami",29,73a2a8ec-3657-479a-a3e6-3a0670579e0d
+f29-13v.xml,13v,"ciabit lãudem tuam.  eus
+in adiutorium meũ intende
+Qñe ad adinuandum me
+festina ¶Oloria patri ⁊filio
+⁊ spiritui sancto Sicut
+erat in principio ⁊ minc et
+semper ⁊in secula seculorum
+amen antiphoͬ
+gratia plena dñs tecum.
+Enite exultemus do
+mino iubilemus deo
+salutari nro p̾ocupemus facie
+enis in gfessione ⁊in psalmis
+iubilemus ei aue maria .
+Quomain deus magnus
+dñt ⁊ rex magnus super ois",30,3a95f070-b0c7-4331-82da-4433d21187cc
+f30-14r.xml,14r,"deos quomam nõ repellet doꝰ
+plebem suam qz in manu eiꝰ
+sunt ommes fines terre ⁊ alti
+tudines mõcium ĩpe ꝯspiat.
+Quomam ip̃ius e mare
+ĩpe fecit illud ⁊ aridumfuit
+dauerunt manus cius uenite
+doremus ⁊paidamus ante
+deum ploremus coram dño qͥ
+fecit nos quia ip̃e est dñs deꝰ
+iir nos autem pplus aus et
+oues pascue enis. Auemaria
+¶Codie si uocem ens audie
+ritis nolite obdurcre corda
+uestra sicut in eracerbatione
+secundum diem temptacioĩs
+14",31,c8dd70c9-0c9c-4cf3-bc7d-29fe2722efdd
+f31-14v.xml,14v,"in ascrto ubi femptauenins
+me patrẽt uestri plauerunt
+⁊ uiderunt operti mea doꝰ tecũ
+Oucidraginta annns poi
+mũt fui generatiom huic et
+dixi semper hii errant corde
+ip̃i uero nõ cognouerũt uias
+meas quilz iuraui in irci
+meũ si introibut in requiem
+mecim . Auemcria. Gloria
+patei. Sicut erat. Doꝰ tecum
+auemaria. Hyumꝰ
+deii terra ponchus eche
+ra colunt adorant predicant
+trincim regaitẽ machinam
+clauslrum icrrae bmilat.",32,9e907511-0b55-4076-a4b7-efa0469d1bc5
+f32-15r.xml,15r,"Qui luna solr omma descr
+unnt per tempora ꝑfusa celi
+gratia gestant puelle uiscera
+¶Secita matex mim̾e cuius
+superus artitex mundum
+pugillo ꝯtinens uentas sub
+archa clausus est. ¶eata
+celi nuncio fecumda sco spintu
+desideratus gentibz cunus per
+aliun fusus e ¶aria ple
+na gratie mater mie tu nõs
+ab hosle ꝓtege ⁊ hora mortis
+uccure dei genitur
+nobis benigna miseriis ⁊ tuis
+sacriis p̾cibz adiuua nos in
+omnibz¶ El loria tibi domine",33,32a52c44-945c-49ff-ba31-f760e6770d65
+f33-15v.xml,15v,"qui natus es de uixgine cum
+patre ⁊ sancto spũ in sempi
+terna scla a. A. Bndicta tu
+omine dñs ur ꝙͣnd-
+mirabile est nomen
+tumii in umu̾sa t̾ra. Smñ
+eleuata e magnificecia tua
+super celos Erore infan
+cum ⁊ lactãciũ ꝑsecisti laude
+ꝓpter immicos tuo ut destru
+agiuinitũ ⁊ ultorẽ.¶ Q in
+Uidebo celos tuos opa digitoꝵ
+tuoz luncm ⁊stellas que tu
+fundasti uid est homo
+ꝙ meniores eius aut filius
+hominis qui uisitas eum",34,ec08f079-6e95-49a5-87b0-b6f4aa410a96
+f34-16r.xml,16r,"muisti eum paulommꝰ
+ab angelis glia ⁊ honore co-
+ronasti eum ⁊ constitinsti
+eum super oꝑa manuũ tuoz
+Omina subiecisti sub pe
+dibz enis oues ⁊ bouc̃s uin
+uersas insuper ⁊ peccora cam
+pi olucres celi ⁊ pisces
+maris qui ꝑambulant se
+mictas maris. Somine
+diis ir ꝙͣadimribile est no
+men tium in umu̾la terra
+Eli encirtint gliam
+dei ⁊opera manuum
+eius annuciat firmamẽtu
+¶Mies diei enictãt uerbum
+16",35,59e04bce-8a27-4678-ae3c-faa181772603
+f35-16v.xml,16v,"⁊ nor nocti indicat scienciam
+¶on sunt lequele neqz ser
+mones quor non audicitur
+uoces eor  En omem tram
+exunt somus eoꝵ rin fines or
+bis terre uerba eor ¶En sole
+posint tabernaculum suum ⁊
+ipe tanquã spõsus ꝓcedent de
+thalamo suo Eyultaint
+ut grggas ad currendam uiam
+asumino celo egressio eius S
+occursus ens usqz ad sũum
+eius nec est qui se auscondat
+accilore eis¶ Ner domini
+inmaculata ꝯu̾tans ammas
+testimonium domini sidele sa",36,eee14e9c-815d-413c-a5ee-ac7c9b43f235
+f36-17r.xml,17r,"pienciam p̾stans paruulis
+Tusticie domini recte letisi
+cantes corda p̾ceptum̃ dm̃ luci
+dum Illuminas ocłoe ¶mior
+din sanctus ꝑmanet in sclin scli
+gudiciã din uera iuuflificata in
+semetipa ¶ Sesi derabilia suꝑ
+aurum ⁊ lapidem p̾ciosũ multũ
+⁊ dulciora super mel ⁊ fauum
+temin seruus tuus custo
+dit ea in custodiendis illis re-
+tribucio multa ꝯ Melicta-
+quis intelligit ab occultis mais
+inunda me domine ⁊ ab aliens
+parce seruo tuo Si mei non
+fucunt dominãti tũc Innacu",37,3e28bc60-6c09-4d51-8b3e-3d48ec8a4ced
+f37-17v.xml,17v,"latus ero ⁊emundabor ãde
+licto maximo Et erut ut
+ꝯplaceant eloquia oris mei
+⁊ meditacio cordis mei in
+conspectu tuo semper. Qo ͤ
+adiutor meus sredemptor
+omini .imeus.
+est terrri ⁊ plenitudo
+enis terpx ⁊ umũsi qui ha
+bitant in eo ¶Sr ipe super
+maria fundaint eũ esuper
+flimima p̾pciraunt eu
+ascendet in montẽ domini
+aut quis stabit in loco sc̃o
+ens ¶Emierens manibz
+⁊ mundo corde qui nõ accepͭ",38,1df97bd7-6d55-4b1a-a168-29665a1e9c45
+f38-18r.xml,18r,"in uano giam suam net ni
+ominus uirtutum ip̃e est
+runt in delo primo suo¶ Si
+accipiet benedictione adno.
+rimiam adeo salutari suo
+¶ Ses e generatis qrentium
+eum qrenciũ faciẽ dei iacob
+Atolite portas principes
+uras releuannim porte eter
+nales ⁊ introibit rex glorie
+Dius ẽ iste rex glie diis
+fortis ⁊ potens dñs potens in
+plio¶ Attolite portas prin
+cipẽs uesliris ⁊ eleucinni porte
+etarnales ⁊ introibit rex
+glie Ous est iste rex nlie",39,1ac102db-1bf6-484d-acba-3683eb291a7b
+f39-18v.xml,18v,"rexglorie. U Benẽdicta fu
+in mulienb ⁊ beccedictus fric
+ctus uentris tui u Siffusa ẽ
+graciq in labiis tuis R ꝓpte̾ti
+benedixit te deus Inet̾num pr᷑
+nii Et ne nos ss libem. Qr̃o
+recib ⁊ meritis beci
+lissime głiose uirgi
+nis marie ⁊ oin sanctor z
+sanctaꝵ ad gaudia etema
+ꝑducrit nos omps pr᷑ puit ⁊
+misericors dñs amen.
+Iube dompne benedicere ⁊
+Alinci uniio uͥginũ int̾cedat
+ꝓnobit ad dñm .L. pͣ.
+muta maria ungo",40,eef5aa9a-5e90-4e85-bcc0-de67d8c5b3a9
+f40-19r.xml,19r,"uirginum mater ⁊ filia regis
+regum oni tuũ nobis ĩpande
+solacium ut celestis regni per
+te merecimur habe̾ p̾mium
+zcum electis dei regiare imꝑ
+petuum Tu autem R sca
+⁊ inunciculata uirginitas qͥb
+te laudibz resferai nescio Qz
+quem celi capere non poterant
+trio gremio contulisti. U Se
+nedicta tu in mulieribz ⁊ bene
+dictus fructus uentas tui Quia
+quem. ꝟ iube dompne. R
+Oret boce pia ꝓnobis uirgo ma
+ria amen. Lectio 2ͣ
+aucta marici piaꝵ
+19",41,008c7c73-e795-44a5-b244-f9630d82189f
+f41-19v.xml,19v,"pussima intcede pro nobis
+sanctaz sanctissina ut per
+te uirgo sumat ura pͥcamĩa
+qui ꝓnobie ex te natus re-
+gnat super ethera ut sua ca-
+ritate nra deleatur peccami
+na Tu autem  Beata
+es uirgo marici que dum por
+tasti creatorem mũdi uenui
+sti qui te fecit Qneternum
+ꝑmanes uirago R aue ma-
+ria gra plena dñs tecum.
+Seninsti. U Iubx. Sancta
+dei getuy fit nobis auxi
+liaruay a. lectio ⁊ a
+ancla dei gentuy",42,9c1852f7-9724-45b2-8df6-be730b40ae37
+f42-20r.xml,20r,"que dique meruisti cocipere
+quem totus orbis nequut
+ꝯphendere tuo pio int̾uetu
+culpas nũs ablue ut per
+hempni sedem glie perte re
+dempti ualeamus scandere
+ubi manes ⁊ regnas cum
+filio tuo sine tempore Tu
+autem. B ffeliy namqz
+es sacrã uirgo muria rom̃i
+laude diginissia Qr exte
+ortus est sel iusliuie xpus
+deus nr u Orappopulo
+int̾uem pelero int̾orde pro
+deuoto femineo sexu senciait
+omnes luum leuamen qui
+20",43,40be4bed-e8e7-439a-83c1-aa221761687b
+f43-20v.xml,20v,"cunqz celebrant tuant que
+moracionem. Qz exte. Gliã
+patri. Or ex te. Selir iantqz.
+Edeum laiudamus
+te diñ confitemur
+e et̾num pr̾em omĩt t̾ii
+ueneratur ¶sibi omnes
+angeli tibi celi ⁊ umuerse
+potestates. ibi cherubin
+⁊ seraphin incessabili uoce
+ꝓclamant E anctus
+ctus S anctus dñs deut
+sabbaoth. Olent sũt celi
+⁊ tera maieslatis qlie tue
+Te gliosus applõr chorus
+e pphetuum laudabilis",44,0a53145c-6fb9-4f44-9354-03303415f9e2
+f44-21r.xml,21r,"m̃te ¶ TIe marhium candi
+Auus laudat ercitus EIe
+per orbem terairum sancta cõ
+fitetur ecclesia. W atrem-
+immeuse incurestatis ¶ lene
+randum linimuerũ ⁊ unicũ
+filium San quoqz para
+clitum sp̃m Au reyiiliẽ
+xpriste ¶u fatris sempi
+ternus es silius Su ad li
+berañdum suscepturut hoĩez
+non horruilli ungnus uter
+Iu deucto mortis ucules
+aperinsli credentib iriina
+celor ¶u addextercum dei
+sedes in głia patus  Lãdex
+21",45,8c22a4d4-b417-4e4d-9507-23b178a26dd8
+f45-21v.xml,21v,"credens esse dentunut Te
+ergo qͥs famulis tine subue
+in quos p̾cioso sangune ye
+demisti St̾na fac cũ scis
+line in glĩa nuimĩar Sal
+uum fac cũ sci ppłm tuum
+die ⁊ benedit hereditati tue
+Et rege eos ⁊ extolle illos
+usq inct̾num Dex sin
+gulos diet bened iomius te
+St luudamꝰ nomie tuu̾
+in seculum ⁊ in sclm seculi
+Dignare dñe die istosme
+peecato not custidire ¶i
+sercre nũ domine miserere
+rat misericordia",46,a873ff7c-97eb-470c-9bfa-e679be0a15d2
+f46-22r.xml,22r,"tua domine super nos ꝙͣat
+modum speraumnus in le
+¶ Tn te domine speram nõ
+ꝯfundar incternum.
+Ora ꝓnobis sancta dei gem
+tux ⁊ Dt digni efficiamꝰ
+ꝓmissiombus xpi.",47,9160508b-9bbb-4ad2-b8ab-7d2912de04ed
+f47-22v.xml,22v,"Eus in adurto
+rium. Antip̃.
+Post partum.",48,7980c037-58bf-4ebc-aa46-908a85597070
+f48-23r.xml,23r,"Ommus regnauit
+decorem indutus est
+indutus ẽ dñs fortitudinem
+⁊ p̾emxit se Stemm finci
+int orbemlre qui non ꝯuio
+uebitur Carata sedes tuci
+deus extunc aseculo tu es
+Elcuciuerunt sliñci die
+eleuauerũt flumina uocem
+suam Eleuauerut slu
+nima fluctus suoe arocib
+aꝯucnum multaꝵ.¶dira
+biles elciciones maris mi
+rabilis in altis dominut
+¶I eslimonit luo credibi
+lic facta sunt uie domũ",49,3c7df6af-2a6a-4d73-8ddd-9cbdc6d2ef5d
+f49-23v.xml,23v,"tuam decet sc̃itudo domine
+in longitudinem dier
+obilate deo oinr tra
+seriite domino in leti
+citi . Entroite in cõspectu
+enis in exultacione Sci
+tote qm̃ dñs ipe e deus ue
+fecit nos dnon ip̃i noes Q
+pulus enis ⁊ oues pascue
+enis introite portas enis in
+confessione atria ens in
+hympins cõfitenu Illi
+Eaud̾ nomen cius ꝯin
+sucuns et dñs inet̾num
+nia eius ⁊ usqz in gn̾acioe
+Sgnacionem ueritas eius.",50,02a5ef90-6a41-4380-bd5e-58360509bbd8
+f50-24r.xml,24r,"Eut deus meus cd
+te de luoc uigilo E
+tunt in te aĩa mea ꝙͣ multi
+pliciter ti bi caromend En
+terra desertã in uia ⁊ in aquo
+sasit in sancto aporin tibi
+ut uiderem uixtutem luã ꝑ
+gliam tua Ein meliore
+nia tua supẽr uitas labia
+mea laudabũt te Sl
+benedicam te in uita meaꝑ
+in nomme tuo leuabo ma
+ns meas. Sieut adppe
+⁊ pinguedine repleatur aĩa
+mec⁊ labiis exultaciome
+saudabit ot nieum E it
+24",51,6c836459-6467-4c04-b04a-da87e4c26f85
+f51-24v.xml,24v,"ienor fi tui super̃ stratum
+nicum in matutiis medita
+borin te qz fuisli adiutor meꝰ
+⁊ in uelamẽto alaz tuaz
+erultabo ad hesit aĩci mea post
+te me suscepit deytatua E
+uero iñ uanum ꝯ̃sieuit aiam
+meam introibũt in inferiora
+tere trudentur in manus g la
+dii ꝑtẽt uulpii ernt I Se
+uero setaibitur in deo laudabũ
+tur omnes qui iurant in eo
+qz obstrutum e o loquentium
+misereatur ma⁊ bene
+¶inqua .
+dicat nobis illimmimẽt uultũ",52,a4c1ec74-3df5-4087-ac1c-7659f00e38c6
+f52-25r.xml,25r,"suum super noc ⁊ misereatur
+nieẽ. it cognoscamus in t̾ra
+uiam tucm in omib getibus
+salutare tur ¶onfitean
+tur tibi ppli deus cõfiteãtur
+tibi ppli omnet ¶ etentur
+derultent gentes qͣm iudicas
+popules mequitate ⁊ gentes
+in tera dirgis. Gonfiteã
+tur tibi ppli deus cõfitecitur
+tibi ppli omnes terra dedit
+fructum suum ¶Senediccit
+nos deus deus nir benediccit nos
+deus rinetuat eũ ot lines t̾re
+Suediccte omĩa oꝑa
+domini dno laudatez",53,3066c10a-0056-4f19-8d52-9b77c6e0d851
+f53-25v.xml,25v,"superailtate eum in sccula
+Seued̾ angeli dm̃n dño
+lenidꝰ celi dño. Si enedicite
+aque omitet q̃ suꝑ celos lũt
+domino benedꝰ om̃e uirtutes
+din dño ¶ eued̾ solz lu-
+na dns bened̾ stelle celi dno
+¶ened̾ ymber rus dño
+bened̾ omie spus dei dño
+¶Saied igins ⁊ estus doͭ
+bened̾ frgus pestas dño
+¶Seued rores ⁊ prunia
+dio bened̾ gelu ⁊ fruut
+domino. S eued̾ glacies
+⁊ mues dno benod̃ nates ⁊
+dies domino  Sieuedicit",54,26a0f2b3-e5b7-4cd9-b75f-c3f53532cc66
+f54-26r.xml,26r,"suy Stenehie dommntobñdꝰ
+fulgura ⁊ mibet dno . Si
+nedicat terra dimmi laudes
+⁊ superaltet cum in secula
+S ened̾ mõtet ⁊ collet do
+mino beried̾ uinusa guu
+nãciq in t̾ra dño. Qñd̾
+fontes domimo benod̃ ma
+na ⁊fluminadño.¶S
+nedicite cete ⁊ oñra q mo
+uentur in aquis domino
+bened õs uolucret ccli dño
+S ened omnes leslies
+pectora dno bened̾ filii ho
+minum dño. Senedicat
+ifiriel diii laudet ⁊ sup
+26",55,f71139fb-331e-4b1a-86a1-2286bed101e8
+f55-26v.xml,26v,"emleet cum in sccula ̃ Sud
+acerdoter dñt dño benedicite
+serui dindno. S ened̾ spũs
+⁊ amme iustoꝵ dito bened sg̃
+humiles corde dĩo S ercd̾
+anama azaria missael dño
+luud̃ ⁊ supexaltate cum in
+secula . Senẽdicamꝰ prem
+filum cum sc̃ospu laudemꝰ
+⁊ superaltemus eum in sclã
+encdictus es dominte
+in franamẽto celi laudribi
+lie ⁊ głĩosus ⁊superultatus
+in secula.
+audate dñm de celis
+I
+laudꝰ eum in excelsis",56,eac11e1b-9cb5-4495-887c-9f8c24a3ef3c
+f56-27r.xml,27r,"¶T audate eum ꝯ̾e autgeli
+enĩs laudͤ cum om̃s untutes
+enis. ¶aud̾ cum solz linta
+laiud̃ cum stelle ⁊ lumel Aau
+date eum celi celorui ⁊ aq ẽs
+que super celos sunt laude̾t
+nomen din O ⁊ ipedixite
+facta sunt ipe mandauit ⁊
+crecita sunt Etatins cu
+inetermum ⁊ in seculum scli
+p̾ceptum pofint ⁊ nõ p̾terbit
+¶audate dini de tergci
+dirichones ⁊õs abrssi l gnis
+grando uey glacies spyatus
+ꝓcellarum que facĩt uerbũ
+eius ¶¶ontes Romnes col
+24",57,eb7d7b84-a37f-40dd-a92c-9c9969c1a4f0
+f57-27v.xml,27v,"ses lupue fnittistera Somines
+ccdri ¶ Sestie ⁊ biũs a pr̃ora
+serpentet ⁊omot uolucres pe
+nate. Seges tere ronmet
+ppłi principet ⁊ oms iudices
+terre ¶ Suuenes ⁊ uimes
+senes cum iumorib laudet
+nomen dinqz exaltatum est
+nomie ens soluit Q õfes
+sio enis super celum dcii
+exultanit cornu ppli sui
+Symius omibz sãctis
+enit filiis iomel pplo appin
+quanti sibi cantiꝯ
+antate dñꝯ cãticum
+nouim laus eius in ecclia",58,69482101-9df1-404d-b2a2-dfd091dfd618
+f58-28r.xml,28r,"sanctorum¶ Sletetur ifrl
+in eo qui fecit cum ⁊filie syo
+exultent in regesuo. Tlau-
+dent nomen enis in choro in
+tympano ⁊ psalterio psallãt
+ei z beneplacitum e
+dno In pplo suo rerultauit
+mansuetye in salute Sx
+ultaibunt sancti iniiloriu
+letaibuntur in cubilibus
+sins. ¶E rultriciones dei
+in guture eoꝵ ⁊gladii anci
+pites in manibz coꝵ ld
+faciendam uidicta in na
+ciomibz increpaciones in
+populis ¶ Słd allurandos
+28",59,a5462944-86e3-4216-bfbc-288da2acf8f0
+f59-28v.xml,28v,"reget eorum in cõredib⁊
+nobiles cor in maniciis fer
+reis Et faciant in eis in
+dicium ꝯscriptũ ilia hec est
+omnibz sanctis eius cant
+aud̾ dñi in sanctis
+eius laud̾ eũ in sir
+manieto uirtutis eiꝰ ¶ar
+dite eimi in uirtutibz enis
+laud̃ cum scdm multitũdi
+nem maginitũdinie cius
+Laud: eum ĩ sono tube
+laud̾ cum in psalteno ⁊ cy
+thara ¶Aaud̃ eum i tyin
+pano ⁊ choro laud̾ euii in
+cordit ⁊ organo ¶ El aũde",60,49562b4e-d363-45c8-9476-577c11aacb85
+f60-29r.xml,29r,"cum in crmhasit honesonsitib
+cum in crnbalis bene s onãtib
+laiudate eum in cynibalis iu
+bilacionis omis spũs laudet
+dnñi. anͣ. Post ꝑtum uigo
+immolata pmalisti dei nem
+tumy int̾cede ꝓnobis. capm.
+cap̃m.
+Eneduta ⁊ uenerabi
+lis es uirgo marici q̃
+smne taictu pudoris iuenici e
+mater saluatoris. hymisꝰ
+hpmuiꝰ
+Glorios a dñci excella
+supra sidera qui te
+crecunt puide lactasti sucro
+ubere¶Quod euci triflis
+abstulit tu reidis almo ger
+mine intrant ut allrasle
+29",61,36686fe8-64ea-490d-a46b-f77ec38e2eb3
+f61-29v.xml,29v,"biles celi feneitin faita es Tiu
+regis altĩ ianua ⁊ porta lucis
+fulgida uitam datam per uir
+ginem gentes redempte ple
+dite ¶anqi plena. lĩã
+tibi. B Elegit eam deue ⁊
+p̾elegit eam R Et habitare eã
+facit in tab̾n̾aculo suo. psal
+Enedictus. Ogloriosa.
+dñs deus Ismel quia
+uisitauit ⁊ fecit redempcionem
+plebis sue. E hercoit cormu
+salutis nobis in domo dauid
+pueri si Sicut locutus ẽ
+per os sanctor qͥ aseculo sunt
+ꝓphetarum eis Salutem",62,42804605-c282-4bc4-bca8-9b753a28b474
+f62-30r.xml,30r,"ex immieis nr̃is d de manu
+onn qui oderũt nos .¶ d facie
+dam mĩam cum pribz nris ꝑ
+memorari testanieti sui sc̃
+¶ Eusiurandi qd̾ mrcunit
+ad abraham prem urm datu
+rum se nobis. t sme timo
+re de incinũi minicoꝵ nroꝵ li
+herriti sermamus ilłi.En
+scinctitate ⁊ iusticia corã ip̃o
+omib dieb mĩs. Et tu
+puer ꝓpheta altissini uocale
+ris preibit enim ante faciẽ
+domini paire uias eiꝰ A
+danidam scĩcim saluus plebi
+enie in remissionẽ ntõꝵ ioꝵ",63,f2b9012d-2f4e-49c0-b022-6696930cf234
+f63-30v.xml,30v,"Ter uiscera une den nr̾i in
+quibz uisitauit nos oriens cy
+alto  E llummar hiis qui
+in tenebris ⁊ in umbra mortis
+sedent ad dingendos podes nr̃os
+in uiam pacis Reiloriosa
+dei genitrix uirgo sẽper maria
+qͥ dnm omi menuisti portare et
+regem angelox sola ungo la
+tare nrĩs p̾cibz pia memorare
+⁊ ꝓ nobis up̃m semꝑ dep̾ccire ut
+t̾uis sulti paerocinis ad celestici
+rarnia mereamur penemre.
+Domine enuidi Et clamor dr̃o
+sus qui de becitemcirie
+uignus utat uerbum",64,515c8e44-af47-4aaf-ae73-f5c45942e461
+f64-31r.xml,31r,"tuum angelo mĩciãte camiẽ
+suscipẽre uoluisti pr̃a supplicib
+tuis ut qui uere ea dei genitri
+cem credimus enus apud te
+int̾cessionib adiuuem ꝑ
+ani Demi sanncte pu̾s reple
+tioꝵ corda fidelium ⁊tui amo
+ris inneis innem accende. R
+Enuite spin tuũ ecreabunt᷑
+R Et renouabis faciẽ t̾re.
+Eus qui corda fidelium
+scinctispũs ilustracio
+ne docinsti da nobis in eodem
+spinitu recta sape ⁊ de eius seꝑ
+consolacione gaudere Per
+aiĩ Te inuocanius te adoramꝰ",65,1d4d8a8a-eaab-476a-9dc5-bc624e683b6e
+f65-31v.xml,31v,"semper aduersis Per
+euara uimaus o
+te glifignus Obeata tam
+tas R sit nomen din baie
+dictum ꝵ Ex honuis Pusq in
+ninpotes. ⁊ scłm . oͦ
+sẽpiteme deus qui deyi
+sti famulis tins in confessio
+ne uere fidei et̾ne trmitatis
+gliam agnosce ⁊ in potetia
+marestatis adorcirẽ umitãte
+qs ut enisdem fide summitta
+te ab omib miemannibu",66,d1e2fabd-4660-4892-b2c7-9a9d9753ffb6
+f66-32r.xml,32r,"omme labia
+mea aperies.",67,131181a1-7117-4768-b0b0-72e0251c3e41
+f67-32v.xml,32v,"atris sapiẽcia ueritas
+diuina Deus hõ captus
+est hora maitutina Asins disci
+pulis cito derelictus Anideis
+traditus uenditus afflitus.
+UAdoramus te xp̃e ⁊ benedi
+xius tibi ⁊ Q perscãm arice
+tuam redemiflimũdum. Qro
+omme ihũ yp̾e silii dei
+uiui pone passionem
+crucem ⁊ morte tuaim int̾ in
+dicium tuum ⁊crĩam meam
+nuc ⁊ in hora mortis mee et
+semper larini digm̾s unis
+miam ⁊ gĩam deffunctis ye
+quiem ⁊ uemiam ecclesie trie",68,82eab20a-7d8e-414e-a4d3-012c725e827b
+f68-33r.xml,33r,"pacem Aleram concordicum
+⁊ nobis mileriis pecratori
+bus uitam ⁊ leticiam scmpi
+temam Quiunus ⁊ regnas
+deus per xp̃m diminr̃m a.",69,ce46d1aa-75a6-4db8-a580-0cae702e8f22
+f69-33v.xml,33v,"Ommne labia
+meci aperies
+t os meu",70,4ecb9f0e-40ea-4c6b-8475-fb91fce4d232
+f70-34r.xml,34r,"Obis sc̃i spũs qracici
+sit datu de quã uir
+gõ uirginũ fint obubrata
+Cum per sc̃m aingelũ finit
+salutata Perbũ caro factũ
+est ungo fecundata. ã rem
+sanctesprratus uts.
+or̃o
+nimpotẽs s. deus da
+nobis Illam sc̃i spũs
+gram quãtins discipulis
+in die sancto penthecofles
+tramsmisifli Qui unus.
+341",71,709b7da4-0cea-4d2a-b4b0-10ef82280451
+f71-34v.xml,34v,"Eus in aditor
+meum.¶em",72,414a68cc-8d00-4fbd-8c06-c93844039e1b
+f72-35r.xml,35r,"mentes tuor bisita iꝑle
+supua uygtia que tu crecisle
+petorai ¶emẽto salutis ad
+itor ꝙ nri quondã corporit cxil
+libata uigine nascendo for
+mam sumpseris ¶aric
+plena Oloria tidi. año
+Ent in. admirabile.
+nomne iuosaluum
+me fac rm uirtute tua mor
+ca me ĩ Seus erciudi orõne
+mecim auribz pcipe uerla oris
+mei Quontã aliem inlur
+rererunt aduersum merfor
+tes queliernt aicim mecm
+⁊ non ꝓposuenint deu ante
+35",73,b3cf934a-26d2-4e2f-9ce3-373eedc043cd
+f73-35v.xml,35v,"conspectum suũ. Eax emii
+deus adiucit me ⁊ dominus
+susceptor est amine meel Au̾
+te mala iminicis meit xin ue-
+ritate tuci disperde illos ¶ Io-
+luntarie sacrficalo tibi ⁊con-
+fitebor nomint tuo dñe quoniã
+bonum est. ¶Qii ex ommi tri
+bulacione expuisti me ⁊super
+immnicos meos desperit oculus
+audate dnn .i mens.
+omnes gentes laud
+eum omiter populi. Quonic
+ꝯsumicita e̾ supernos miti eiꝰ
+⁊ ueritas dorini manet me
+lernumii.
+num. psalimu",74,a9796d86-99d9-4db9-8c1e-84de4113eb1e
+f74-36r.xml,36r,"onfitemini dño qm
+bonus qni in seculum
+mĩa eis Dicat mino ismel
+qm bonus qm̃i in seculũ mĩa
+cuus i Micat nũc domꝰ acirõ
+qm bonus qm in scłm mĩti eiꝰ
+¶Dicant m̃c qui timent
+diñ qm̃ bonus qm in seculum
+mĩa eius I Ne tribulacioe
+mea inuocaui dñm ⁊ciaiudiuꝰ
+me in latitudine dñs. Ons
+michi aduitor non timebo
+quid faciat michi ho ĩ Qñs
+michi adiutor rego desꝑiciam
+ommes immicos meg ¶o
+num est confidere in domino
+36",75,191de2ed-cae1-4e4e-ab56-185cc42ceb32
+f75-36v.xml,36v,"ꝙͣ confidere in homie ¶ Si o
+num est spercire in dño ꝙͣ spera
+re in principibz ẽ gentes
+cntinerunt me rm nõie domini
+quĩa ultus sum in eoe Onrũ
+dentet crecundederũt mermno
+mine din qz ultue sum in eor
+Ircundederunt me ficut
+apes demisernt me sicut ig̾e
+in spinis di noĩe dominu qz
+ultus sum in eos  Ampulsꝰ
+euersus sum ut cciderem et
+dñs suscepitime ¶Nortitudo
+med ⁊ laus mea dñs factus
+e michi in salutem ¶Tor
+ou
+exustacionis ⁊ saluris in ta
+uemacles",76,b6850a21-ce5a-4fe8-b05b-de83b934c83a
+f76-37r.xml,37r,"bemaculie nissor ¶  cotem
+domini fecit uirtutem dertera
+din eraltainit me dexteradin
+fecĩt uirtutem i Con moriar
+z unam ⁊ narrabo opati dm̃
+Mastigant caftigaut me
+diis ⁊ morti non tradidit me
+l pente michi portas iusti
+cie ⁊ ingressus in eris confite
+bor domnio hec portã dm̃m iusti
+intrabunt in eam onfi
+tebor tibi domine qm exuidi.
+sti me d factus es michi in la
+lutem ¶¶apĩdem quem re
+plruerunt edificantes hic
+factus est in caput anguli
+37",77,99178abd-ec3c-4216-89bf-3a44d5c68c68
+f77-37v.xml,37v,"S dommo fuctum e istud
+Dest murribile in oculis mũis
+¶et est dies ꝙͣ fecit dñs
+exultemus ⁊ letemur in eai
+O domme saluũ me fac
+domine benepspenire bene
+ꝓsperare benedictus qui ue
+int in noiedin ¶ Senedioi
+mus uobis de domo dm̃n deus
+dus ⁊ illurit nobis.¶So
+stitinte diem sollennem in
+ꝯdempsis usqz ad cormi al
+taris. ¶eus deus meus
+es tu ⁊confitebor tibi deus
+meus es tu rexaltaiby te
+onfitebor tibi domine",78,e37f27e1-967c-41f1-98c7-fcd449f50799
+f78-38r.xml,38r,"quomam exaudisti me et
+factus es michi in salutem
+¶onfitemuduo qm bo
+nus qui in sclm mĩa euit.
+AM Cadmrabile ꝯm̾cium
+creator gm̾is hũam aictum
+corpus sumens de uirgine na
+sc̃i dignatus ẽ ⁊ ꝓcedens ho
+sine semmne largitus ẽ nobꝰ
+suam deitatem.
+capitulũ.
+aude mariauirao cũ
+ctas hes es sola intere
+mifli inuinu̾so mudo. R
+I hũ xpe filii dei uiui miserẽ
+nobis Ro. Quide uirgine
+dignatus et nasci miserere.
+38",79,73f1884f-0bfe-4fcb-ad11-0e3b970ada25
+f79-38v.xml,38v,"Ssoria pa. Ihũrpe. U Post
+ꝑtum uiro minolata ꝑmainsi
+sti R dei genitax int̾rede ꝓ nobis
+diuuet nos q̃s domine
+uirginis marie int̾cessiõ uene
+becite ⁊ gliose semper qz
+randa acuctis reatibz absolu
+tos in tua fuciat pace gaudere
+Per. GEus qui applis
+tins sc̃in dedisti sp̃m concede
+plebi tuc pie petitionis effe
+ctum ut quibz dedisli fidẽ lar
+giaris ⁊ pace ꝑ Eux in
+ora. aditoꝵ utrͣ.
+prima ductus e̾ ihus
+ad pylatum falsis testimo",80,fbd7cfab-f729-444d-90f0-d9c15505c9b7
+f80-39r.xml,39r,"mis multum accusatum In
+colo ꝑcutiunt manibz lifatũ
+Uultum dei ꝯspuñt lumen
+celi gratum . A Adoramus te
+Domme chũ.¶ G euem ad.
+dungine. intor.
+maria xpue fuit natꝰ
+Crucifixus mortuus atque
+tumulatus Resurgens disci
+pulis fuit demonstiaitus Et
+ip̃is cernãtib celis eleuat ꝰ
+a Dem sancte. Omps.",81,509d5a5e-47aa-4460-b7e0-bf55c4f6b92c
+f81-39v.xml,39v,"Eus in adinte
+rium.¶Iem
+creator spus.",82,36cd3fbb-077c-4637-a338-74adaac85106
+f82-40r.xml,40r,"¶ater dei sc̃issmia atqz
+uirgo ꝑpetua offer nos tus
+filio in celesti palacio. Aa
+rici plena.
+rici plena. añ. Qñnatus.
+d dimi cum tribula
+ixx clamain rercudi
+uit me. Qne libeitiaiam
+meam alabis mniquis⁊
+alingua dolosa¶Quid
+detur tibi aut quid appor
+tur tibi ad linguã dolose
+Eagitte potrntis acute
+cum carbombz desolatoris
+eu michi qz icolatus
+meus plongatus e̾ habitu
+in cum habitantib cedar
+2IO
+XX",83,73c1e118-0632-4978-9215-7e60524de381
+f83-40v.xml,40v,"multum icola fuit qia mes
+Eum hiis qui oderũt pacei
+eram pacificus cum loquebar
+illis impugnabũt me gratis
+Euaui oculos meos in
+montẽs unde uemet au
+uilium michi / Slurilium
+neum adno qui fecit celum
+⁊ terramꝯ ¶ondet in cõmo
+cionem pedei tuum neqz dor
+miet qui custodit te Ecce
+non dormitaibit neqz dorimet
+qui custodit ifrl. Oñs cu
+stodit te dnis ꝓtectio tuci super
+manum dexteram tuci Mer
+diem sol non uret te neqz lu",84,98f95d26-c9e2-4ae5-a4b1-dd0bd7672616
+f84-41r.xml,41r,"na per noctem ẽ Sommus
+custodit te ab omm̃ mało cu
+stodiat aĩam tuã dñs Oñẽ
+custodiat introitũ tuũ pexitũ
+tuu ex hoc nũc ⁊ usqz in sclm.
+Etatus sum in hiis qͥ
+dicta sunt michi in do
+mum din ibuue  Stãtes
+erant podes nũa in atriis tins
+Ihrłm  Thrłm que edifita
+turut cintas cunis ꝑticipa
+cio eis in id ip̃m ¶lluc
+enm ascenderut trib tab
+donuni testimoniũ ifrl̃ ad
+confitendum noi dmn ¶
+illic sederunt sedes in iudicio
+li5",85,935efda4-ded8-4612-8869-b76dd26c7fba
+f85-41v.xml,41v,"sedes supẽr domum dauĩd
+S mate que ad pace sut
+ihrłm ⁊ habundãcia dilige
+tib te¶Nuit par in dir
+tute tua ⁊ habudancia in
+turribz tine. O ropter
+fintres meos ⁊ priios mecs
+loquelar pacrm de tei Mro
+pter domum din dei mi
+anciy
+quesin bonatibi. antip
+Quando natus es ineffabi-
+liter ex uirgine tunc implete
+sunt scripture ficut pluina
+in uellus descendisti ut saluũ
+faceres genus hũanũ telau
+damus deus iir.",86,71981ac7-063d-43bb-9095-d15657810a5c
+f86-42r.xml,42r,"Er te dei genitux no
+data que de celo suscepisti
+bis est uita perdita
+ꝓlem ⁊ mũdo geninsti sal
+uatorem. R post ꝑtum
+uirgo immnolata ꝑmansisti
+b dei geitrix intercere
+ꝓ nobis. Inuolata. Gliã.
+Post ꝑtum. U sancta dei ne
+intaix uirgo semper maria
+Int̾cede ꝓ nobis ad dnũ
+¶ ihin xp̃m.
+tege domine famu
+Los tuos subsidiis pacis et
+becite marie semperq̃z uir
+guns patrociniis cõfidetes
+414",87,c7ad8f7b-89c0-4b40-8623-6f73d9b8cdba
+f87-42v.xml,42v,"acunctis hostibz nos reide le
+curos per. ¶cclĩam tua.
+dsit nobis ꝯs domine
+corda nra clementer ex purget
+uirtus spũs sancti q̃
+⁊ab omibz semper tuecitur
+aduersis Per ¶Scus in
+nici. adnutorium.
+terciaz. Illusus indintur
+fige clamitant hora
+ueste purpuraz. Caput enis
+pongitur corona spinaru
+Euicem portat humeris ad
+locum penar . A. Idoranius
+te ypriste oͦ domine ihũ.
+¶Geur iñ adiutoꝵ.",88,25e71c9a-7265-43fc-9c8a-9bfc31fe7895
+f88-43r.xml,43r,"num sc̃in spideus de
+legaiit. In die sancto
+penthe costes applos consorta
+int Itqz linguis igncis ipos
+inflãmauit . Relinquere or
+phanos eos denegauit. ã
+Uem sancte . oͦ Omp̃s.",89,2413339a-f294-4070-b229-3a589af17d06
+f89-43v.xml,43v,Eus in adinte,90,9b4d950f-8cc7-4fb3-8204-ab254cff89cf
+f90-44r.xml,44r,"omns pudici pectoris
+templum repente fit dei in
+tricta nescient uirum uerlo
+concepit filium ¶Iara
+plenci lia. anͣ rubum
+dte leuam oculos
+meo̾s qui habitas in
+cce sicut oculiser
+uoꝵ in manibz dnoꝵ suoꝵ
+ieut oculi ancille in
+manibz dñe sue ita oculi
+nrũ ad dnm deum nͣm donet
+misereaturnri Miserere
+nri domine miserere nm qz
+multum repleti sumus de
+spectione ¶multum
+114",91,3d7be255-8500-42d3-b177-195d20bcfe63
+f91-44v.xml,44v,"repletum ess aici nixi olipbri
+um habũdatibz ⁊ despectio su
+Isi quin perbis.
+Isi quin
+perbis.
+dommus erat in nob
+dicat mine ifrciel insi quia
+dus erat in nobis Osum
+exuterent hores in nos for
+te uiuos deglutissent nos
+¶mn iurisceretur furor
+eoꝵ in nos forsitan aqua ab
+sorbuisset nos Tlorrente
+ꝑtirinsunt aĩa nra forsitan
+ꝑtransiss et cĩa nra aquam
+intollerabilem ¶Senẽdictꝰ
+dominus qui no dedit nos ĩ
+capcione dentibz cor ia",92,aeea9666-03b1-4245-a30b-8dcc15fdc10b
+f92-45r.xml,45r,"nr̃a sicut passer erepta est ie
+laqueo uencicium ¶aq̃us
+contritus e̾ znos liberti su
+mus¶Idiutoriũ nr̃in i
+nomine din qui fecit celũ
+ui confi i ⁊berrcu.
+dunt in dño ficut mos
+sron non ꝯmouebitur me
+ternum qui habitat in che
+rusalem ¶ontes in curin
+tu eius dns in arantu ppłi
+sui ex hoc nũs ⁊ usqz in scłm
+⁊ non relinquet dñs
+uiriam pctõr super sortem
+iustorum ut nõ extendant
+nifli ad iniquitatẽ manus",93,7ad7a699-fa32-4d0b-99ec-a92668f7407a
+f93-45v.xml,45v,"fuas. Seneftic comie
+bome ⁊ rectis corde ¶Gecli
+ncntes aute in obligacioes
+adducet dnis cum operãtibz
+imquitate pax suꝑ ismel
+an rubum quẽm uiderat
+moyses in ꝯbustum ꝯsemuatã
+agnouimus tua laudabilẽ
+ungiitatem da genitrx int̾
+ara i tede ꝑnobis. cp̃
+disi porta per euam
+cunictis clausa e ⁊ per btam
+inciricim uimine tterum
+patefacta eunt sancta
+dei genitrr uirgo semꝑ maria
+A. Intrede ꝓnobis ad dimmi",94,9460e072-3fe2-4ccd-8a6c-8133026e225e
+f94-46r.xml,46r,"iħm xp̃m. birgo. Oliã pri.
+Sancta dei. Ro Ora pronobꝰ
+sancta dei gantax u Ut di
+gnn efficiamur ꝓmissionib
+Sate et. xp̃i. or̃o
+gliose semperqz uir
+gunie marie gemtacis dei
+q̃s intcessio gliosa nos ꝓte
+gat ⁊ ad uitam eterni uoꝵ
+ꝑduccit P. ¶Sccliam. or̃o
+eutes nrns qͥe domine
+spus paclitus qui ate proce
+dit semper lluminet ⁊ in
+duccit in omem sicut tuus
+ꝓmisit filius ueritatem ꝑ
+tus in ãyatorium.
+46",95,0887e7aa-f5e0-432b-b815-9e1cd94ed16f
+f95-46v.xml,46v,"Ora serta ihũs ẽ cruci
+conclauatus Et est cũ
+latronibz pẽdens deputatus
+Pretormietis saciens felle sa
+turatus. Agnus cimie dilint
+sic ludificatus. A Adoranius
+te. Dñc ihũ. ¶GEus in.
+Eptiformem gram
+tunc acceptauerunt
+Quare ydiomata cũcta conno
+uerunt Ad diu̾sa chimata
+mundi recesserũt. Et fidem
+catholicã tuo pdicauerunt
+R Demisancte oͦ. Omps.",96,dbca4c16-32ec-4210-9d9e-41b2cf3ed9e4
+f96-47r.xml,47r,"Eus in adiuto
+rium Dem
+creator spũs.",97,bb8f3bc1-a385-4f1d-8bf0-2a2dc7061b17
+f97-47v.xml,47v,"mra est puerpera qua
+gabriel p̾direrit quẽ matris
+aluo gestiens clausus ildes
+senserat. ¶ Laria plenci.
+G lici tibi .ã. Etcemaria
+⁊ conu̾tando dñs capti
+intatem sron facti su
+mus sicut consolati. Ne
+repletum e gaudio oe nm ⁊
+lingua nra ultucione
+Tl une dicent int̾gentes
+maginfictunt dns frite cũ
+eis ¶¶Laginfictunt dns
+facere nobilcum facti sumꝰ
+letrintes. Esonũte dne
+captuntatem nr̃am ficut",98,64e9c08d-1866-4812-b576-f83ec9273282
+f98-48r.xml,48r,"torrens in custro ¶Aui
+semmenit in lacrimis in exul
+tacione mettent. Suntes
+ibant ⁊ flebant mictantes
+semma fua Gl ementes
+aute rement cũ exultatione
+portutes mampulos suos.
+isi dñs edisicra̾it do
+mu in uanu la bora
+uerunt qui edificant eum
+¶Sisi dũs custodierit am
+iatem fiuslia uigilcit qui
+custodit eam O lanu est
+uobut ante lucem surgere
+surinte poslquã sederitie ꝯͥ
+man ueatis pane doloris",99,1d0f0d05-de26-4d70-b3f8-eadf641a871d
+f99-48v.xml,48v,"Sam dodnt o ilatis fui
+sompnum eto hereditat᷑ dĩ
+filii merces fuictus uentris
+Sieut sagitte in manni po-
+tentis itafilii excussoz¶Sea
+tus uir qui implant deside
+rium suum ex ip̃is nõ co̾u̾
+detur cum loquetur iminicis
+Eati. luis importa
+omnes qui timent doͫ
+qui ambulat in uiis eius
+¶Ela bores mai tuarum
+qz maducabis beatus et et
+bene tibi ent. Siror tuci si
+cũt uitis habudans in late
+ribz domus fue.¶Sili tui",100,4d66729c-0d28-4fca-ab0e-94f1a7299e8a
+f100-49r.xml,49r,"ficut nonelle osniar in artin
+tu mense tue. ¶Scre sis bene
+dicetur homo qui tumet doͫ
+Seuedicat tibi dñs ex
+sion ⁊uideas lona ihr̃lm
+omnibz diebz uite tue Et
+uidcas filios filioꝵ tuorum
+pacem super Isiel. a. Ecoe
+meraa genint nobis salucito
+rem quem ihõẽs uidens excla
+uincans dicens ecce tignus dei
+ecce qui bollit pta mũdi.
+ieut cynamoniu⁊ hal
+samũ aromatizans
+õtereas de di quasi mielecta
+n dedisuguntutem adoris.
+419",101,6f6d422d-73d9-4703-ac33-e1157834c368
+f101-49v.xml,49v,"Ora ꝓnobis sc̃a u̾ea genitur
+ꝵ xt digni efficicuur ꝓmis
+sionib xp̃t. Sancta. ulia prĩ
+orapnobis. u̾ specrosa facta
+e̾ ssirauis ꝵ in delicns tins
+scincta dei genitrir. oratio
+orutro
+amuloꝵr tuoꝵ qͥs dn̾e
+delutis ignosce ut ꝯͥ
+tibi placerede actib nrĩs
+noñ ualemus gemtriciis filni
+tui din nũ ihũ xp̃t intertes
+sione saluemur Per ore
+¶entib mĩs q̾s dire
+sp̃m sc̃m beniqu ainsunde
+ut auꝰ ⁊ sapiẽtia cõnditi
+sum d⁊ puidenciti gubrmnĩa",102,90a4389a-ed37-4e0b-97ab-03206be605e9
+f102-50r.xml,50r,"ccłiam tua.
+tus madiutoꝵ
+Orci nonci dni̾s ihũs
+expiranit heliclamaĩs aĩam
+patri ꝯmedait latus eius
+lanceci miles plorauit Tiri
+tunc ꝯtremunit ⁊ sol obscura
+int a
+int A Adoramus. Sne ihũ.
+Eus in adiutor
+pus pacłitus finit ap
+pellatus Donu dei cratas
+fons uinficatus spratalis
+unctio ignis inflãmatus
+septiformis gra carisma
+beaitus ã Demscẽ. Omp̾s",103,ea3cfcb6-ccb2-489f-8b3c-8a22a69c5364
+f103-50v.xml,50v,"Eus in ad into
+num ues᷑. aͣ.
+Beata mater.",104,69badde8-0568-4684-8ddc-f3667fdd4416
+f104-51r.xml,51r,"Etatus sum in hiis.
+dte leuam oculor.
+Isi quia dñs utͣ.
+ui ꝯfidunt ute᷑.
+N conuertando dñs.
+añ Becita mater ⁊ inupta
+uirgo głiosa regina mundi
+intercede ꝓnobis addiiiii.
+Ihesum ypristum.
+capitu
+Sata es uirgo marici
+q̃ dnm portasti creaio
+rem mundi gemnsti qui te
+fecit ⁊ incternũ ꝑuigner
+uirgo. deo graticis. hymu
+hyme
+ue maris stella dei.
+mater alma atque",105,6e03b9ec-35bc-4d4a-911e-4f5a9a81f95b
+f105-51v.xml,51v,"seiuyer uiuro felry celi portti
+Suntens nłud aue ga
+brielis ore funda nos in pace
+mutans nome eue. Sol
+uẽ unicla reis ꝓfer lumen
+crcis malu nn pelle bona
+cucta poscel ¶onstra te
+esse matrem sumat per te
+p̾ces qui ꝓnobis ncitus tu
+lit else tuus ¶ Iirgosin
+gularis inter omnes mittis
+nos culpis solutos mictes
+fac scastos ¶Iita presta
+purum iter parci tutum
+ut uidentes ihm̃ semper col
+lectemur. Sit laus deo",106,f2e4f984-41e8-4f2d-95a9-8a286c86040c
+f106-52r.xml,52r,"patri sumo xpo decus spin
+sanctotrinus honõr unus
+amen u Diffula est gin
+in labiis tuns Re pterra
+benedixit te deuz inet̾num
+NI sancta mana
+aginficat aĩci met
+dum Et exultaiit spũs
+meus in deosalutari meo
+⁊ respexit humilitate
+ancille sue ecce enm ex hai
+bectam me dicent omnes
+generaciones. ¶⁊ fert
+michi mnagna qui potens e
+⁊ sanctum nomẽ cius Slt
+mĩa enis aꝑgenie in ꝓgemes
+52",107,571e1b01-75e6-4bb5-ad41-b975b6b0bedd
+f107-52v.xml,52v,"timentibz cum ¶ecit po
+tenciam in brachio suõ disꝑ
+sit superbos mente cordis lui
+¶ Seposuit potente de sedes
+eltunt humiles. ¶fu
+rientes impleuit bois et
+diuites dimisit inaines
+Suscepit ismel puerum
+suum recordatus nie fue
+Sicut locutus ẽ ad pres
+nr̃os abraham ⁊ sennm aue
+in secula aii. Sc̃a maria
+fuccure miseriis nuapufilla
+nimes reffoue flebiles ora pro
+populo int̾uem ꝓclero int̾cede
+ꝓ deuoto femmeoseyu. Dñe",108,f1dcfdc6-5d90-499e-bb6b-8854c8bdb03c
+f108-53r.xml,53r,"emudi Eo damor.
+oratio
+oncede nos faiulos
+tros q̃s dñc deus ppetua
+mentis ⁊ corporis saintate
+gaudere ⁊ głiosa becite marie
+semper uirguns int̾cessione
+ap̾senti liberar tristicia et
+cterna ꝑfri leticia ꝑ ã
+Dem sancte uts ¶sus
+qui corda fidelium.
+usus
+Te inuocamnus utsͣ. ¶mp̾s
+mp̾s
+sempitere deus. añ Ifle
+añ ifle
+est iohannes. ¶ccłiam
+tuam qy domine uis.
+eus in adiutoꝵ.
+Ecruce. Decruce.
+43",109,554e83fc-954a-483c-9c53-251b467f4dad
+f109-53v.xml,53v,"deponitur hora uespertina.
+Fortitudo latint in mente
+diuina Talem morte subut
+uite medicina Heu corona
+głie iacint suppina ã Ad
+minus o ue ihuxpe. Øͦ
+eus in siduitoꝵ.
+Extrẽ dei digitus uir
+tus spuitalis Ros deffendat
+reruat ab om̃ib malis.
+Dt nobis non noceat denio
+infernalis. s ꝓtegat nu
+triat foueat sub alis
+Demn sancte. Ø ͦ Onps",110,9fb7b308-5a28-4669-8372-b0afd7d6df98
 f110-54r.xml,54r,Onuerte nos,111,95ee0969-f015-4eaf-8827-3fdee230221b
-f111-54v.xml,54v,aite nam tuam anobis eus in aditor meũ intẽ anͣ Cumi iocumn squequo a domine obliuis ceris me ini finem usquequo au̾tis faciẽ triam ame. ¶Om̃diu ponti consilia in aĩci meu dolorem in corde meo ꝑdiem ¶saz̾ emltribitur imiicus meus super me respite ⁊ erciuidi me dne deus meus T Tllimmima oculos meos neumꝙͣ obdormici in morte nequ dicat innicus meus p̾ucilm adu̾sus eum Oui tribulãt me exulta,112,63c80bb7-1bfb-4f76-bf25-125ee6747017
-f112-55r.xml,55r,bunt si motus fuero ego autẽ in m̃ia tua speram Ssxulta int cor meu̾ in salutari tuo ca tabo dño qui bona tribint in ⁊psallam nõi dm̃ altissum. udicci me deus disc̾ne causam meci degente non sancta ab homine im quo ⁊ doloso erue me¶ Or tu es deus fortitudo meci quareme repulisti ⁊ quare tristis incẽdo dum affligit me iminicus Emicte luce tuair ueritcitẽ tuam ipa me deduxerunt. ⁊ad durerunt in mõte scm̃ tuum ⁊in tabernaicula tua E,113,869bfb4e-8895-4c33-812d-ec7ad27248bc
-f113-55v.xml,55v,introibo ad altcire dei ad̾ deu qui letificnt iuuentutẽ nrec̃ onfitebortibi in eytha deus deus meus quare tristis es amina mea⁊ quare con turbas.¶ perai in deo qm̃ ad huc confitebor illi sulu tare uultus meiddeꝯmeus Epe expugnauerũt me annuẽtute meu Diccit nine ifrl. ¶Sepe expriqutiuenĩt me aluue tute mea zenim nõ potuert michi Si upra dorsũ meu̾ fabricauerũt ptõres ꝓ loniia ueruut inquitatem suam,114,5a16b83e-4e54-4911-80ca-85b4d4c1146c
-f114-56r.xml,56r,omius instus cõcũet ceriices pctor ꝯfundantur cõu̾tãtur retrorsum omnes qui ederunt sron ¶ Siant sicut fenũ tector ꝙ priusꝙͣ euellatur eraruit e qs non impleuit manũ sua qui mettet ⁊ sinũ suu qui mampulos colliiet E non dixerũt qui p̾terilrat benedictio din super uos be nediximꝰ uobie in noĩe dm̃ omme non est exal tutum cor meu ieqz clatisunt oculi mei  ai ambulau in magins nĩz,115,eda75260-b0bc-41f5-8718-8410bc792aa7
-f115-56v.xml,56v,i ientabilib furer me Si non humiliter sencie lrim s craltam aiam mea̾ ¶Sicut ablatatus e super matre fuci ita retribucio in amina mec. El peret Isrel in domino ex hoci nine ⁊ usq in seculum. anͣ Cum iocun ditate memoriam beate marie celebremus ut ip̃a ꝓnobis in tercẽdat ad dilg ihin xp̃m aua uiito semper leta re que merusti yp̃m portare celi ⁊ terre conditorem quia de tuo utero protulisti mundi saluatorem.,116,1e2573cf-9b6d-4234-91c3-8850014c70f3
-f116-57r.xml,57r,Ieo dei genitar quẽ totus non crpit orbis in tũci se clausit uiscera factꝰ homo. ¶ era fides geniti pꝰ gauit crimia mudi ⁊ tibi uirginitas inmolata manet ematrem pietatis opan te clamitat orbis subuemes famulis obenedicta tins. Ele ria magna patr compar ti bi glic nate flamine cu sc̃o gliã mugnã deo amen. anͣ. Ecce ancilla domuini u̾ suit in scdin uerbũ tuũ. añ Tota i ꝓulem. dimictis seruñ tuum,117,4469d9f9-c033-4ae0-ad46-65456e43bad1
-f117-57v.xml,57v,domme scdin derbum tiii in pace¶Or uiderũt oculi mei salutare tuum Qucd parasti ante faciem oĩm po pulor¶ A unen ad reuela cionem genciũ diilicm ple bis iue ifruel añ Tota pul in es amica mea ⁊ macula non est in te oratio Oncede qͥs omps et misericors deus fingilitatis nr̃e p̾sidum ut qui sancte dei gentricis ⁊ uirginis marie memoriam aginus Int̾cessioms eius auyilio a nr̃it inquitatib resurga,118,03cd7f87-e229-48b1-93df-7d357453d3be
-f118-58r.xml,58r,mur Per.¶Sancti spus domine corda nr̃a mun det infusio ⁊ sui rorit itima asꝑsione fecundet Per. omĩte nos. Ora complectorii da tur sepulture Corpus xp̃i nobile spes uite future Con ditur aromate conplentur scripture fugis sit menis ria mors hec michi cure. Has horas canonicas cum deuocione ꝓp̾e tibi recolo pia racione Ut qui ꝓ me passus es amoris arore sis michi solcicium in mortis,119,e2575923-0b98-4be3-b9f7-b5c37d25fcd0
-f119-58v.xml,58v,domine ihu. ¶ o̾ute. pũs paclitus nos uelit adiuuare Gresss nrõs regere ⁊ illumare Ut cũ deꝰ uenerit os iudicare. Nos ad derterã sua uelit appellai Has horas canomeas cum de uocione Cibi sc̃e spũs pie racione dixi ut nos uisites inspiracione Et uicnnius iugiter celi regione. aͣ. Dem scincte. qr̃o Ompes.,120,c06c4b0a-81da-4360-afc5-d50cd61e8a03
-f120-59r.xml,59r,,121,9a6d05d8-b63a-4e36-84a3-079d73b87771
-f121-59v.xml,59v,atq morte deitatis amore pro missio xp̃i qr qd petis obtinut sli da pplo tristi bonciq morie do petisti confer solame dmẽtis tolle grauamen. u. ora ꝓno bis beate rpofore. Nͣ ut digmi. oncede q̃s omps deus ut qui beaiti xpõfori martiris tui memoria aganꝰ ens piis mitis ⁊ itcessionib amorte subitanea peste fa me pauꝑtute tsticia pudore opressione ⁊ ab insidiis mnm coꝵ uisibiliũ ⁊ imisibiliũ libe rem  ꝑte ihũ que merint sb hu meris suns portare P.,122,8d3fcd28-e8f8-4c1c-ae7e-3548bde4e14b
-f122-60r.xml,60r,Omartine opie ꝙͣ puim est gaudere de te omartine ꝓphis,123,95f82e66-0aed-46bb-aae8-272acab767e3
-f123-60v.xml,60v,compar appłis ꝯsextus p̾sulu genra fide et meatis egregie pretate mĩa caritate ineffabi lis Iuccure nobis m̾s et ante deum U Ora ꝓnobis brate martine 2 martine ꝵ ut digni. orõ N. Uii digni. Eus qui cospicis quia ex nussa nu uirtute subsistimus concede ꝓpiaus ut int̾cessione beati martim confessoris tun atqz põtificis contra omia adusa munics mur Per.,124,d9f2b118-aac4-42fe-93fc-0fd4ab6bf8aa
-f124-61r.xml,61r,De scc̃o Iohanne bapͭͣ Inter natos multerum non surrerit maioz Iohanne bap,125,d114e55d-7910-413f-9299-15b5185a4ae2
-f125-61v.xml,61v,,126,d69a8d01-b072-4960-ab5b-8b38a0e6a25b
-f126-62r.xml,62r,cali decoratus insula omnib,127,ed3bb075-98f2-4e23-a3ec-eb7eb1c04312
-f127-62v.xml,62v,se amabilem eribiliti. Ora ꝓ nobis beate incolae. U dt digni efficiamur. 3 Cus qui beatum meo laum pontificem tuũ in nimeris decorafli imiracu lis tribue qͥs ut enis p̾cibus ⁊ mentis agehenne inc̾e diis liberemur Per,128,4ea10c15-78c6-4cb8-b6e3-7c7f761c09ba
-f128-63r.xml,63r,Desancto iuliano. anͣ. Secctus uir qui suffert tem ptacionem qui cum ꝓbatus,129,020598da-f79b-41f8-88ad-51330ffefe94
-f129-63v.xml,63v,fuerit accipiet coronam uite quam repinisit deus diligẽtib se. U iustus ut palina flore bl ꝵ siant cedrus libam multi Ens i ꝑlicabit ᷑ qui beatum iulianum martirem tuu uirtute con slanicie in passione roborasti ex eius mutacione tribue ꝓ amore tuo ꝓspera mundi despicere snulla eius adu̾se sormidare Por. si lus enmq,130,6f627180-5463-4eb2-8f67-81e82b4b676d
-f130-64r.xml,64r,,131,d940a935-2bf7-43c5-9c9b-4582bd81adca
-f131-64v.xml,64v,nobilit᷑ instituta aue papa insignissime romanoꝵ decus angloꝵ glia suessoꝵ leticia sce gregorii int̾cede qͥs ꝓ uroꝵ omi qz salute. U̾ Orapnob̾ btẽ gregorii D ugi digm. oro Sus qui aie famula tini gregorn eterne becititudinis p̾mici contuli sti concede ꝓpreuis ut qui peecatoꝵ nroꝵ ponde̾ p̾mun enis apud te precibus sub leuemur Per.,132,5c2ae599-4003-4510-977c-c00245e6b2bc
-f132-65r.xml,65r,,133,03173661-0f88-45d8-ac91-05a3f0314fee
-f133-65v.xml,65v,quinqz fratres a deo corona ti sunt u̾ fustor amine m manu dei sunt ꝵ Et non taiget illos tormetũ malicie. anificet te domnre scõr tuoꝵ cosine et dumiant beata sollentas quia et illis gliam sempi ternam ⁊ opem nobis inef sabili ꝓuidẽcia ꝯtulisti,134,bf853bca-c80a-47b7-9518-2aa62b50afb3
-f134-66r.xml,66r,,135,c242d76a-c688-4faf-bd78-a8bf596ddb07
-f135-66v.xml,66v,signum crucis cecos illuia pit ⁊ chesauros ecclesie dedit suuperib. d dispersit de dit rauperibz R Iusticia eius manet in sclin seli. a nobit qt domme omps deus uicior uroꝵ flamas extinguere qui beccto laurecio marti tuo tribuisti tormẽtoꝵ fuor incendia superre. Per,136,eb5dcbac-bfad-4183-83f3-3ebe4d0ee98d
-f136-67r.xml,67r,De sccã barbara. ã nam quam tibi dus p̃paraint,137,026a4abe-dbb1-4b92-b571-9143f800a13a
-f137-67v.xml,67v,Ineternum u diffusa e̾ gr̾a in labiis eins. R. Mtereu benedixit te des re. Oracu tercessio qͥs domine becite barbare u̾ginis ⁊ martiris tue ab omi adũ sitate nos ꝓtegat ut ꝑ eius int̾uentum głiosissmũ sacroscm corporit ⁊ sãguinis din na ihũ rp̃i sacramentu ante diem exitus mz per ueram penitenciam percipe meresimur Pex.,138,635fe51b-ddf2-4d0e-87de-9a4fcf842ce8
-f138-68r.xml,68r,De sancta katerina ã Dirgo sancta katherina grecie gẽma urbe alexan,139,47f34e3c-1f51-486d-92ea-2416b0b446ff
-f139-68v.xml,68v,drmna costi regis erat filia. U̾ diffusa ẽ gratiain la biis tins. ꝵ ꝓptra bene dixit te deus inet̾num .o ͦ Sus qui dedisti lege moysi in simntate montis srnayrin eddem loco per sanctos angelos tuos corpus beate u̾ginis katherme ⁊ martins tue mirabiliter collocasti tbue qs ut eius meritis rinter cessiomib ad motem qui ypus est ualeamus parue ire Per;,140,411da610-ae63-40ac-80b7-1e993a4f11f9
-f140-69r.xml,69r,,141,9ce6cf84-97ad-4111-937f-593edd69c61a
-f141-69v.xml,69v,ira tua corripias me ¶ise iere mei dne qm inframis sum sana me die qin cõtur batu funt om̃ia ossa mea S aminai mea turbatci ẽ ualde sz tu domine usqͦ onũ tere die zerpe aiam meam saluu me fac ꝓpter miam tuam Gin non ẽ in mor te qui memor fit tui in in ferno autem quis confitebi tur tibi ¶aborau in ge mitu meo lauabo per singu las noctes lectum meum la crimis meis stratum incũ rigalo. urbatus est a,142,c54edd6a-683c-4009-96a5-d511de9f4e94
-f142-70r.xml,70r,furore oculus meut Inuete rau inter om̃s iminicos meos . Giscedite ame oñis qui operannim Iniquitatem qm exaudunt dñs uoce fletꝰ mei Exciudunt dĩis dep̾ca cionem mea dñs oronem meam suscepit rubescãt ꝑꝯturbentur uchementer c̃e gimimci mei ꝯu̾tãtur peru bescant ualde uelociter. sati quor remissesũt imquitates ⁊quoꝵ tecta funt peccata.¶ Seatus uir cui noñ imputaiit doꝰ pctm nec emn spũ euit dolus,143,e54702d9-7c81-4227-8315-6775877388dd
-f143-70v.xml,70v,Suomam tricu inuetera uerunt ossa mea du clamare totadie. Din die ac nocte gͫ uata est super me mcinus tuci quersus sum in crũpna meci dum gfigitur spinci . Seli ctum nicum cognitutibi feci Dmusticiam meu nõ abscodi ¶roi confitebor aduersum me imusticiam mecĩ dño ⁊tu reiis isti impietatem peccati mei Gro hac orabit ad te omnit sanctus in tempore op portuno.¶ Ti erumtamen in dilumo aquaz multaꝵ ad eũ non appyimabintt. u cs,144,ef8794fe-a2f8-4209-b841-62295cb01b00
-f144-71r.xml,71r,reffugrium meum atribulaicis ne que circundedit me exulta cio mea erueme acircundan tib me E. Entellectum tibi dabo ⁊ instruam te m̃ uia hac qua gradiens firmabo super te oculos meos i Qolite fien ficut equus ⁊ mulus quibus non est intellectus  An cha mo ⁊ freno maxillas eorum ꝯftringe qui non appriant ad te¶¶ulta tlagella pctorit sperantem autem in domino mia arrũdabit ¶ Al eccumu in dño ⁊ erultate iusli ⁊ glicum in onmes recti corde. ꝑ,145,bff009d3-9c95-4ed7-8726-8f194be0a4c6
-f145-71v.xml,71v,Omme ne in furore tuo arguas me neqz in ii tua corripias me Qn sagitte tue infire sunt m̃i chi ⁊ ꝯfimasti super me ma num tua . Qon est santas in carne mea afaciene tue non est par ossibz meis cifa cie pctorum meor. Quoncã fiquitates mee fuꝑgresse sunt caput meum ⁊ sicut o nus graue grauate sũt suꝑ me. Sutiuerũt ⁊ cormpte sunt circituces mee afacie in sipienciemee ¶ tser factus sum rcuruatus sum usqz in,146,780d4afb-4c84-4252-9761-b710b1e4e608
-f146-72r.xml,72r,finem tõtadie contastatus Ingrẽdiebar.¶ Dm lumibi mẽs impleti sunt illusionib dnon est saintas in carne meci ꝭ S ifflitus sum ⁊ hu miliatũs sum iuis iugie lam agemitu cordis mei Domme ante te omme de fiderium meum ⁊ gemitus meus adte non est abscon ditus. ¶ or meũ ꝯturbatu est inmre derelinquit mẽ uir tus meci ⁊ lumen oculox meoꝵ zip̃m non ẽ mecui¶ Elmnci mei ⁊ pyum mei aducersum me appiquauerit ⁊ sletext,147,291edd0e-eb41-4c28-8790-a111c046c8f0
-f147-72v.xml,72v,At qui iurta me erant de longe steterunt ⁊ uim facieltit qui querelunt aiam meã. St qui inquirebant mala michi locuti sunt uanitates ⁊ dolos totadie meditalant᷑ S ge autem tanquã surdus non audiebam ⁊ ficut mutus non apiens os luui¶ Sit sactus sum sicut homo nõ audiens s non habens inore suoredar guciones. Qin in te domine speraui tu eraudies me dne deus nreue. Er dixinequado suꝑgaudecnt michi immici mei edum ꝯnoueãtur pedes,148,fc28f1dc-df18-4aec-802d-9406ab5321af
-f148-73r.xml,73r,mei super me magna locute sunt ¶m̃ ego in flagella patus sum ⁊ dolor meus in con spectu tuo semper. Quoma Inquitatem meã annuciabo ⁊cogitaibo pro pectato meo Eimici autem inci uiuũt ⁊ confirati sũt supexine et multiplicati sut qui dderunt me inique. Qui retabuut mala ꝓlomis delrahebant im chi qui sequelur bonitate i le derelinquas me domine deus mcus ne discesscris ame tende in adiutorium meu dñe deus saluitit ice. psalmus,149,6d94741f-7ab3-47a7-b4b2-b6fbb09291b3
-f149-73v.xml,73v,yserere mei deus scdin magna mĩam tuam St scdmn multitudine mile incionũ tuciz dele imquita tem¶ Simplius laua me domine ab imquitate meu Dapeccato meo munda me Sin imquitate mea ego egnosco ⁊ pctin meu contra me est semper  ibi soli peccami ⁊ malum coram te fec ut iustificeris in sermo nib tuns ⁊ unicas cum iudi caris. Ecce enim in iniqui tatibz ꝯceptus sum ⁊ in ꝑctis concepit me nir mec,150,b1066d19-3f02-4101-a44b-6ac8388520eb
-f150-74r.xml,74r,emim̃ uentatem dileoisti in certa ⁊occulta sapiencie tue mainsestasti michi ¶ Asper ges me domme ys opõriun dabor lauabis me ⁊ super in uem de albabor E Iuditii meo dabis gaudium ⁊ leticiti ⁊ exultabunt ossa humiliata uerte facie tua apetratis meis zomnes iinquitares meas dele. lor mundum cream me deus 2spi rectum inoua in uisceribz meis ¶e proi cias me a facie tua ⁊ sp̃m sa ctum tim ne aufferus a mei ¶edde michi leticiam,151,4346da20-5418-495b-883b-43c14a461796
-f151-74v.xml,74v,salutaris tui ⁊ spũ princi pali confinia me. Docelo imquõs uias tucis ꝑ inpi ad te ꝯu̾tantur¶ Ul iberame de sangumibz deus deus sulu tis mee derultabit liuguci mea iusliciã tuci. Comi ne labia mea aperres et os neum amnũciabit laudem tuti ¶Oin si uoluisses sacri ficium dedilsem̃ utiqz holtrau flis non delectaberis. Sa crificium deo spũs contabula tus cor contritum ⁊ humilia tum deus non despicies. Se ingne fac domine in bona,152,1f74dbc8-07a1-40b3-926f-3a365d7d680e
-f152-75r.xml,75r,boluntate tua sron ut edificẽ tur muri ihrlm ¶unc ac ceptabis lacrificium iusticie oblaciones ⁊ holocausta tũc imponet super altare tuum uitulos. psalmue. Omie erciudi orõnem meam ⁊clamor meus ad te ue mat ¶ Non au̾tas faciem tuam ame inquacũqz die tri bulor mnclina ame aure tua ¶En quacũqz die muocaiuero te uelociter exaudi me Euia deffecerums licuc sumus dies mei rosla mecsicut crennium aruerunt .. Dercussus sum,153,3777d49b-32ee-49e4-b808-8b715f1d45f7
-f153-75v.xml,75v,ut fenum rarunt cormeum qz oblitus sum cõmede̾ pane meum¶ Hace gemit ꝰ inci adhesit ot meum ecum mee S mulis factus sũ ficut pellicano sollitũdinis ⁊ factꝰ sum sicut inticorax in domi cillio T milam ⁊ factus sum sicũt passer sollitanus in tecto ¶otadie explabũt michi iminci mei ⁊ qui lau dabant me adu̾sum me nra bant ¶r cinerem taiquai panem maducalam ⁊ potu neum cũ flẽtu miscelam- Ifacie ire indignacionis,154,93ed5c39-c037-4343-9a4b-943e86b35157
-f154-76r.xml,76r,fue quia eleutis alirisfime Dies mei sicũt umbra de chinciuent rego sicut fenu arui ¶iu autem dñe meter num ꝑmanes ⁊memoricile tuum in generacione ⁊ genera cionem ¶u exurges dire misereberit sron quiu tepus miserandi eius quici uemit te pus. ¶Oin placuerũt scrns tins lapides eius ⁊terre enis miserebintur Et tunebt gentes nomen tuu domine ⁊ omines reges terre gloriam tucni. ¶E ⁊ edificcunt dñs ex sron ⁊ uidebitur in gloria,155,d824e497-fa68-44b7-9810-235f980aee1b
-f155-76v.xml,76v,fuai ỹ S esparit in oronem humilium dnõ spreunt p̾ce eorum E crabentur hec in generacione alt̾a ⁊populus qui creabitur laudabit domͫ Or ꝓsporit de ercelso sc̃õ suo dns de celo in terri aspe uit S¶t audiret genritus ꝯpeditorim ut soluet filios int̾emptoꝵ t annũciait in sron nomen din ⁊ laude eius in ihrlm Encõueniẽ do pplos in unum ⁊reges ut sermunt dño ¶ Sespondit et in uia uirtutis sue pauci tatem̃ diex meoꝵ nuncia.,156,078e9e2e-a288-45c0-8c1f-c991098c84a6
-f156-77r.xml,77r,michi q̃ Qie reuocos me ii diũoiodier meoꝵ in ieuera cione ziienerationẽ anni lui incio tu dire tram fun dasli zopera manuum tucx sunt celi  E pĩ poribũt tu autem dne pmanet domites sicũt ueslimetum ueteras dẽt Stsicut optorium muta bis eos ⁊ mutabũtur tu au tem idem ipe es zam tuino defficient ¶ S ilni seruor tuor habitabũt ⁊ semẽ eoꝵ in seculum dixigetur. ꝓsał. Eꝓfundis clamaut adte dominie domme,157,2796e272-2493-4789-b27e-a57881d6b6b3
-f157-77v.xml,77v,domine ertindi decm ucei S iant aures tuc intẽden tes in uoceĩ dep̾cacionis mce Si imquitatee obscma ueris domnte dite quie susti nebit. O⁊ apud te ꝓpicia cis est ꝓpter ligem tuam sustimins tẽ dite ¶Luflum- it ma meci iñ uerdo eius spera- int aĩa in dno ¶ Slaistodia matutina usq ad noctem sperẽt ismel in domino. O apũd dñm mia ⁊ coꝑiosa ap̃d̾ eum redempcio Et ipse redmmiet ismel ex ommibus inquitatibz eius. ꝑsalm,158,860796ce-8ace-44af-b165-6281f938e79d
-f158-78r.xml,78r,Omme exiudi oro nem meam auribz ꝑcipe obsecracione meci in ueritate tuci exaudi me in tua iusticia Sit non intrer in Iudicumi cum feruo luo dñe qz non iustificaibitur in co spectu luo omis unies. O⁊ ꝑsecutus ẽ iminicus aicim meam hũiliait in terra uitam meci ¶ ¶ollocaiit me in obscuris ficut mor tuot seculi ⁊ auxiatus est super me spus meus in me turbatum ẽ cormeũ ¶e mor fui dier antiquorum,159,eae6e172-2f0c-446e-88c5-5e2605bfbfed
-f159-78v.xml,78v,meditatus sum in omnib operib tins ⁊ in factis inanuu̾ tuciz meditabar. ¶lypandi manus meas adte amma meti sicut trasmne aqua tibi lclociter erandi me dñe deffecit spũs meus. on autas faciem tuam ame ⁊si milis cro descendentibz in la cum¶ Tuditam fac michi mane miam tuam quici ĩ le speram ĩ Sotam fac michi uiam in qua ambulem qz ad te leuaui aicm mecim Enpe mẽde iminicis meie domme ad te confugi doce mre,160,74dac19e-3fb6-4172-a638-7e94cefb507c
-f160-79r.xml,79r,facat do limfatentuamqr deus meus es tu Spiritus tuns bonus deducet me in fiti rectam ꝓpter nomen luũ dñe umisiccibis me mequitate fuci. S ducet de tribulacio ne ciam meciz in mia tua disperdes õs iminicos uiecs Et perdes onmes qui tri bulant aiam mea qmi eno seruus luus sum . anͣ. Ne eeminiscaris domine delicta mti uel pentum nr̃oꝵ ncque uiudictam sumait de ptis nrĩs ꝑce domine ꝑce pplo tuo quam redemifli p̾cioso sanguie luo,161,dc8260c8-dccb-4738-a007-42a047eb7ee7
-f161-79v.xml,79v,nẽ inct̾num irmscarie nobiẽ priclerson. ¶. Spristeleyson orieleyson s peanidi not  pe erũdi noc. p adiuua nos. Gat̾ de celis deus miserere nobis ¶A ilii iddemptor mudi deus m Si sancte deus m Sl ancta tri intas unus deus M Sacta marici ora pronobit S dei genituyor cci uniio ungnũ Sor ancte michael or ancte gabriel oꝵ ancte mphael or,162,99a46764-60e8-4dc9-adab-b8f00b5347ff
-f162-80r.xml,80r,Qunes saniti angeli archangeli deie yrie Oumes sancti beatorum Ipium ordinet deie orte ce ihoẽs laptistaRuor Oumes saicti patuiarche ⁊ ꝓphetẽ de orte ancte petre ancte pauleor ancte Incobe ancte andrea dez oꝵ ancte iohannet Uor ancte uuoleor ancte philippe ⁊ uor ancte bartholonire or S ancte mathee S Noꝵ,163,7983d430-602a-49e2-82b1-b126fc92ea57
-f163-80v.xml,80v,ancte symon ancte ido ancte mathic oꝵ aucte larnalunor ancte marce or ancte lucao⁊ or nnee sancti appostoli ⁊ cuuangeliste dei Noꝵ ͭ ͤ Sines lãcti discipuli do mnes sc̃i mocẽtet dei ort ancte stephane Hor ancte line Nor aincte clete or ancte clemens tzor ancte sixte  ⁊or Ssancte cornelis Nor,164,9be4a290-4843-4dae-8db5-d0787a8e5e31
-f164-81r.xml,81r,ancte cypricne noꝵ ancte alerander or ancte laurenti Nor ancte uincenti oꝵ ancte dronisn ꝯ.s.t. or ce mauricii ꝯ.s. .c.Ꝙ de ypolite ꝯ.s.l. or ancte fabicine Nor antte selrisliceꝵ aoꝵ. aucte xp̾osore Soꝵ ancte doncicicine  oꝵ encti rogacieꝵ ⁊oꝵ ancte geori ex ⁊ sci martires dei soꝵ ͭ ancte martine  oꝵ ancte leoo3,165,46534614-ba32-4b6b-820c-41ab5badc679
-f165-81v.xml,81v,ancte si lueflers nor ancte hylar or ancte ambrosis Ior ancte ihymine Szoꝵ ancte auqusline Noꝵ ancte gregori¶oꝵ ancte nncholae Soꝵ ancte albineNoꝵ ancte maudete: Toꝵ anicte gobricine or ancte franciste Noꝵ ancte patere cez on ancte benauteoz ancte nermane oꝵ ancte corentine e ⁊oꝵ ancte tugduale Soꝵ,166,3547e12e-011f-4a94-b620-0d2011f6927c
-f166-82r.xml,82r,ancte pabuteeor ancte romaneoz aucte antome. oꝵ aucte yuo ainte floreuti oꝵ mnes sc̃i ꝯfessoret dei. acta maria magdalene acta incia egipcicica. anta ama oꝵ ancta felicitns e dor ancta ppetua oꝵ cuicta anathare o ancta agnes Noꝵ anitu cccilicẽ oꝵ ancta luciaoꝵ Sancta brigida rez oꝵ,167,559beb3f-bcca-429a-b597-08623a5425fd
-f167-82v.xml,82v,ancta ancstasiae oꝵ ẽa scolaflica oꝵ cã katheana oꝵ ca margareta  2oꝵ ca iulicna ca barbera anta iulita ca genouefauor ca elizabeth oz ca rndegundis oꝵ ca praredis Nos ci fides oy ancta spes ancta caritas Nor s̾ sce uirgniet dei ort̾ As sancti ⁊ sc̃e daort,168,2fe58ed9-a498-4134-9d8b-f0b64da55cac
-f168-83r.xml,83r,¶ ¶ropicius esto pce nobis domine El bomm malo li lera nos domine ¶Si binsi diis draboli l Si dãpna cione ppetua l ¶Albommi Iuiudicia mẽtis ⁊ corporis li Ab urti rodio ⁊ omimala uoluntate .l. Sl cecitate cor die l. Ei sulgure ⁊ tempe state ¶ ¶Acamalibz desi deriis ł ¶Spaccito mortali l. Ei penis inferml Ser mistenum sc̃e incarnacionis tucl Ser aduentum tuu Mernatinitatẽ tuc̾i lo Der cirruncisionẽ tua l,169,993bf884-790b-47db-883e-9336d7719171
-f169-83v.xml,83v,ertaptisimum tini er iemium tuum l Ier passionem crucem⁊ mortem tua  ¶ Der gliosã resurrectionem tuci  Ser ad mirabilem ascensionem tuamł ISex gram sc̃icto sp̃us pacliti lEn hora mortis succure nobis dñe ¶En dic iudicn l. i G ecca tores te roganius audinos It pacem nobis donet tr It mĩa ⁊ pietas tucnos custodiat tr It ecclesia̾ tuam scam regere ⁊ deffen scux digins tz t epoe ⁊,170,9601a0e4-6ec9-4309-b86c-069900e81fd2
-f170-84r.xml,84r,"abbẽs nros rounes ꝯgrena ciones illis ꝯmilsas in sc̃a religione ꝯseruare dignũs eꝵ t ciictũ ppłm x̾cinu pcioso languine tuo rẽdem ꝑtum ꝯlerucure digins t ¶i n donum applicun⁊ oñs gradus ecclie in sc̃a re lurione ꝯseruare dig ex Ts, ais m̃ris ⁊ ammas pentum nr̃oꝵ ab et̾ira dam puacione eripicie trt fructus terre dare ꝯẜuare ⁊ multiplicare dig̃ tz Os cunctis fidelib dei deffun- ctis requiem et̾ncim donos t̾",171,472e1f52-7dc3-4dcd-b44d-42827cb2ec83
-f171-84v.xml,84v,nos emudire dig s iliida. TrlA gii. dei qui tollis pc̃ta mudi ꝑce nobis domine ¶ guus dei ⁊c eraudi nos domine. A guus dei re dona nobis pacem. Kyrielerson xpelerlo konelerson. Pr nr Et ne nos Usaluos fac semos tuos ancillas tuas R deꝰmeus sperantes in te ꝟ micte cis iomine auxilium de sio R Et de syon tuere cos u. Esto nobis dne turas fortitudinis ꝵ l faciẽ iniici ꝟ domine enudi R. Eh clamor. or̃o,172,1e54cab0-e4e5-47fd-936b-bd2eeb4308a2
-f172-85r.xml,85r,Eus cui ꝓprium e mile scipe dep̾cuicionem nr̃am ut reri lemper ⁊ partere su quos delictoꝵ cathena cõstrm git mmiseracio tue pietatis absolucit ꝑ orõ. retende dũ mĩam lucim famulis ⁊ famulubz lius dexteramqz celestis auxilii ut qui te toto corde ꝑꝯuirtint ⁊ que digne poslu lant assequantur ꝑ oͦ delium deus omi co ditor ⁊ redemptor aĩc bus famulorum famula rumqz tuax remissionem,173,d0d6c073-42ce-4784-80b7-b7dfb7389c78
-f173-85v.xml,85v,cunctorum bribue pctorum ut indulgenciam quam sp optaucant piis supplica cionibz ꝯsequantur Qui unus dregnas. ppta e maausi m oiuuma sa,174,fd283e9d-a3cc-4816-8966-36647b1e8ce9
-f174-86r.xml,86r,,175,3d4fb223-9e9c-4c1f-8621-a4da955f0e1c
-f175-86v.xml,86v,uocem oronis mee ¶ G ⁊ mali ncunt aurem suam michi ⁊in dieb meit inuoccibo Gircũ dederunt me doloret mortis et pcricula inferm inuenerũt me ¶nbulacione ⁊ dolore mue in ⁊nomẽ dm̃ inuocami ¶ doꝰ libem aiam meã miscricors doꝰ z influs ⁊deus iir miscretur Oustodiens puulos dñt hu milicitus sum ⁊ liberquit me ouuertere aicimea in re quiem tram qz dñs benefecit tibi z cripuit mñciz nccĩ de morte oculos meos ałcicu mis pedet meos alapsi Sl,176,2c5e6911-e33e-45b2-8b88-9dc671db35b4
-f176-87r.xml,87r,cebo domino in regione unioꝵ ¶Scquiem. anͣ placebo dño in regione uiuorum. añ Beu me quici incolatus meus ꝓlongatus est pło dñm cum tribularer. añ dominus cu stodit te ab omi malo custo dicit aĩam tuam dnis p̃ Ie uam oculos meos. anͣt si imquitates obseruauens dñe dñe quis fustinebit p̃ depro fundis clamcm . A. operri onfitebor tibi dne in toto corde meo quoniã audi si uerbu oris mei s En conspectu angeloꝵ psallam,177,3ce23bf7-b7d8-4b89-8dc1-4c06a3d96fdb
-f177-87v.xml,87v,tibi adorabo ad templũ sam tuum ⁊ confitelyr nomini tuo Duper mia tua⁊ ueritate tuci qm magnificasti super ome none scin tuuEn quacimqz die iuocauero te craidi me multiplicabis in aĩa mẽa uirtute. S on fitrantur tibi dñe oe reges terre qz audiem̃t oĩc uecla oris tui t cantẽt mn uns domini qui magna e głia din. Qm̃ excelsus dñs et humilia respicit ⁊ alta a longe cognoscit Er am bulauero in mẽdio tribu,178,9bc92e80-4040-4d2c-8064-57f46f03ebab
-f178-88r.xml,88r,laciome unnficabis me s super iram iminicoꝵ meoꝵ extendisti manũ tuam ⁊ sal num me fecit dexteui tua ommus retribuet pro me dñe mĩa tua in seculum oꝑa manuum tuaꝵ nede sp̃icias. anͣ oꝑa manuum tuaꝵ dommne ne despicias. U Requiem et̾uam dona eis die z Et luy ppetua lu crat eit. ant̾ Audim uocẽ de celo dicentem michi beciti mortui qui in dno moriu̾tͤ ͦ Mxgnificat. Prir . Et ne nos. s lilera. psalux,179,276b9621-e031-4e52-9cfa-202300d811f2
-f179-88v.xml,88v,auda amma mea dõ laudabo deu meumin uita mea pssallam deo meo qͣdiu fuero ¶ Qolite confide in principib nec in filiis ho minũ in quib nõ est salus Sxibit spus enis ⁊ reu̾te tur in terram suam in illa die peribunt o̾s cogitticiones eoꝵ. Sectus cunus deut ic cob adiutor eius spes enis in domino deo ip̃ius qui fecit ce lum ꝑ terrtim mare comiai que in eis sunt ¶un csto dit ueritatem in scłm facit iudicium̃ imuricim pacien,180,752f623a-dd81-4c85-9054-6d761e47eb9f
-f180-89r.xml,89r,tib dat escam esucientibus ¶Gñs soluit cõpeditos dñs illuminat crcos. Qñt crunt elisos dñs diligit nistoe. S minus custodit aduenas pu pilum ⁊uiduam suscipiet ⁊ uias prtor disperdet ¶ Si cnna bit dñs in secula deus tuus sron in gencracione ⁊ genem cionem. U̾ requiem et̾nam Ro En lux ppetuai u Aporta inferi ꝑ Erue domme Le Cox douidere. E interiri uiuenaiũ u̾ domme exiudi ꝵ Eacła. o ͦ Ncłma domine aure tuam ad p̾ces noflras,181,d67f182b-7a10-4f13-ae8c-2f0198b0aee6
-f181-89v.xml,89v,quib micm tuã supplices depcamur at aĩam famuli tut i de hoc seculo migrare iussifli in pcis ac lucis re gione conftituas ⁊ sc̃orum tuor iubeas ee cõsortes ꝑ ¶idelium deue omi . uesumut domine ꝓ tua pietate misere re aiefamule et acotagiis morttlitatis exutam in et̾ ne salucicionis partem re stitue Per. imutatoriũ stitue Per Regem an omina uniu̾t De inte adoremus p̃. Denite ex ultenus. añt Dinge.,182,1f2c87d5-3729-4949-8ab9-b55bd50ee4df
-f182-90r.xml,90r,Silii mea anib pa pe domine intellige clamorem meu ¶Antende uoi orõnis mee rex meus ⁊ deus nicus. Qm̃ ad te orcibo domine mane enuidice uoxe meam. ¶ane astabo tibi ⁊ uidelo qmi non deus uolẽs imiquitatem tu es ieq habitabit iurta tr mali gnus neqz ꝑmanebunt nnisti ante aulos tuos disti õe qui ꝯperĩtur miquitatem perdes omnes qui locuntur mendacium Dirum sãgumũ ⁊ dolosũ,183,b98a8d54-350f-42da-97b1-895d6b7a9204
-f183-90v.xml,90v,abhominabitur dñs ego au tem in multitudinem̃ie tue ntroilo in domũ tuam adoralo ad templũ scm̃ tuum in timiore tuo. Lomnte de duc mem iufticia tua ꝓpter immnicos incos dinige in con spectu tuo uicim inca.in Oiii non est in ore eoꝵ ueritas cor coꝵuanum e S epulciũ patens e̾ qutur coꝵ lingins sins dolose agebant iudicui illos deut.¶ Secidant a co iucicionibz suns secundum multitudinciñ impietatu cor expelle eos qͣm irataue,184,1369409e-c1c5-49af-96e5-6851d440c320
-f184-91r.xml,91r,runt te domine. Et letẽtur omnes qui lporent in tẽ meter num exultabũt ⁊ habitabis in eit¶St glicibutur in te omnes qui diligũt nomen tuum qii tu benedicet iusto Domine ut scuto bonẽ uo luntatis tue coronafli not. anͣ dinge dommne deus mes in conspectu tuo uiam meam a. Comu̾tere dñe⁊ crpe aĩcun meam qmi nõ est in morte qui menior sit tui . p̃. domine ne infurore. A Requãdo Omme deus meus in te speraui saluũ me,185,5c97cc50-5ecf-4d2f-9749-074b659df284
-f185-91v.xml,91v,fac ex omnibz psequentibus me ⁊ libera me . Sequando rapicit ut leo aicim meu̾dum non est qui redinicit neqz qui saluum friciat Gñe deus neus si feciꝰ flud si est imiqui tris in manibz meis E ued didi rerabuẽtib michi mala decidam merito ab imnicis meis mnauns.¶ Dersequat imimmicus aiam meti ꝯp̾hedat ⁊conculcet in terra uitã meam ⁊ głiam meã in puluercm de ducat Sxurge due in nai tua ⁊ exltare in sinib Imumi coꝵ meoꝵ Et erurge dne,186,836afc2c-4547-419e-a2f2-c94ec093b4f4
-f186-92r.xml,92r,deus meus in pceptõ qd incui dasti s sinagoga pploꝵ crani dabit te E t ꝓpter hancn altum regredere dnc iudicat pplõs ¶ udica me dñe scem pplõr A infliciam meci ⁊ sodm̃ iuocen ciam meam superme. Son- sumetur nequiaci ptoꝵ ꝑdiri ges iustum scrutãs corda ꝵ re ines deus ¶Tustu adito num meum adno qui saluos facis rectos corde . Seut in dex iustus fortis ⁊ pacient num quid iraiscitur per sin gulos diet i Lisi conuersi fueritis gladrum suum ui,187,8d04d76b-7adc-43a3-a6b6-7f804f0b4aeb
-f187-92v.xml,92v,brauit arcum suum tetendit ⁊ parunt illum St in co pa- rrit insamortie sagittas lucis ardentibz effecit Scce par turiit musticiã concepit do lorem ⁊ peperit iiquitatem acum aperuit ⁊ essodit eum ⁊ incidit in foueci quam fecit. Domũtetur dolor eis in caput eius ⁊in uextican ip̃ius inquitas eius descedet Gou fitebor domino scdi iusticiam eius ⁊ psallam nõi domini altissumi. Anͣ Leqñ rapiat ut leo aĩcim mẽadum non est que redimat neqz qui,188,3b80e20a-aec7-4bb2-9b1b-0dce5763dcf1
-f188-93r.xml,93r,saluum faciat u Requiem etuam dona eis dñe R Et lux ppetua luceat eis Prmr .ł. ꝑꝰ arte michidue nichil emi sunt dies mei Quid e̾ homo qz magnificas eum aut quid apponis ergai eum cor tuum Uisitas eum diluculo ⁊subito ꝓbas illũ ds quequo non parcis michi neo dimictis me ut gluciam saliuam meam. Peccam. Quid faciam tibi ocustos honi. Quare posuisti me ꝯtrarium tibi ⁊ factus sum michiet ipi grauis Cur,189,7afec987-88d6-4b6a-b673-9c6b48704384
-f189-93v.xml,93v,non lollie ptin meum ⁊quare non auffers imquitatẽ meai Eccr minc in pulu̾e doriio ⁊ si manc me quesieris non subfistam R. Credo ꝙ re demptor meus unnt pm nouis simo die de terra surrectinus sum Et in carne mea uidelo deum saluatorem meum Quem uisinus sum ego ipez non alius roculi mei cospetu ii. Et in camne. lectio. ⁊ 7 Edet aiam meti uite mee dimicta adusũ me eloqunim meu Lequar in amantudine a ie mee,190,e4b5297c-e60e-46c2-9913-30eeffe5a9d7
-f190-94r.xml,94r,dicam deo Roli me cõdapna re indica michi curme ita iudices Nũquid bonũ tibi uidetur si calupineris doppri mas me opus manuũ tuaꝵ ⁊ cofiluu impioꝵ adiuues. Runquid oculi carei tibi sunt aut sicũt uidet homo ⁊ tu uides Nunquid sicut dies hominis dies tui ranm tui sicut humana sũt tempora Ut queras imquitatẽ meci ⁊ pctin meum scruteris Et scias quia nichil impiũ fecerim an sit nemo qui de manu tua possit erure . Qui,191,4c3b820a-e410-4a5a-b3ef-1fed2e611a4a
-f191-94v.xml,94v,lazarum resuscitasti anconuniẽ to fetidum. Cu eis domine dona requiem ⁊ locum indulgecie Requiem etera donaeis dñe⁊ lux ppetuai luceat cis Tu eis. anus tue due fecerũt me ⁊ plasmauerunt me lotum incucuitu ⁊ sic re pente p̾cipitas me mxmẽto queso ꝙ sicut lutũ feceris me ⁊ in puluerem reduces me Ronne sicut lac mulsi sli me ⁊ sicut caseum me coai gulasti. Pelle ⁊ camibus be stisti me ossibus ⁊ nerins compegisti me. Uitam ⁊ mi,192,2b5e425a-5f3a-4656-a7c1-29a22ec730a0
-f192-95r.xml,95r,scaicordiam tribuisti michi uisitacio tua custodiunt sym meum Re Domine quando ueneris iudicare liam ubi me abscondam a uultu ire tue Qz peccaui minis in uitamea Cõmissa mea pauesce rante tr erubesco dum uen̾i̾s indicare noli me ꝯdempnare. Quia pec aui. Autiͣ In loco . p̃. ominus regit meꝵ nichil miclui deerit in loco pascue ibi me colloca int Sluper aquai refe ctionis educaunit me aĩam meam ꝯu̾tit ¶ Meduxit,193,45076817-f9de-4b97-9232-947182050b3c
-f193-95v.xml,95v,me super semictas iusticie ꝓ pter nomen suum i Dam ⁊ si ambulauero in medio umbre mortis non tumelx mala qm tu mecũ& ¶lir ga tua ꝑ luculus tuus ipi me consolata fut.¶S am sti in conspectu meo mẽsam aduerfus eos qui tribulãt me ¶Empingasti moleo cuput meum ⁊ calix meus Inebricins ꝙͣ preclarus es tmĩa tua subsequet ͦ me omibz diebz uite mee tut inhabite in domo dm̃ in lag̃itudinẽm dierum,194,bb91ae01-4a06-405c-b1d6-aa04f397157d
-f194-96r.xml,96r,AIn lor pascue ibi me col locauit. ã Delicta. psalꝰ dte domine leuaui niam mea deus mes in te confido nõ exubescam ¶Seqz iidecit me iminici mei remm uniu̾si qui susti nent le nõ confundantur ofundãtur om̃e iniqua agenter suꝑuacue.SI ias tucr dne demõstra michi ⁊ semictas tuas edoce me Onigeme in uepitate tua Aoce me quia tu es deus sal uator meus ⁊te sustimu totadie y Semmnisce mise,195,b7046ebd-d1da-47ba-a432-c3c786b8c07a
-f195-96v.xml,96v,yacionum tua dñe ⁊ miaz tuaz q̃ ascculo sunt¶ licta imiẽtutis mer ⁊ iiio xicias incris ne meminens Sddin m̃a tuam me mento meitu ꝓpt̾ bonitate tuam dne . Sulcs ⁊ reitꝰ dominus ꝓpt̾ hoc legẽ dabit delmꝙͣtib in uici . O mget mansuetos in iudicio docebͭ mites uias suas ¶mu̾se uie domimi mĩci ⁊ ueritas re quirentib testamẽtu eie ⁊ teslimonia enis. Sropter nomen tuum dñc ꝓpiciabens pecrato meo multũ ẽ enim,196,532dceb0-5ebe-4dfb-abe1-cca1bf30e959
-f196-97r.xml,97r,Tuie ẽ homo qui hunet dini legem slatuit eiin uia quam elegit. A mina eius in bonis demorabitur ⁊senie enis hereditubit suril N ir mamentũ esl uns timẽtib eum ⁊ beslamẽtu ip̃ius ut ma infestetur Illis Sculi mei semper ad dñm qm ipe euellet de laqueo pedes mror.¶S spice in mer miserere mci qz unicus ⁊ paupersum ego- ¶nbulaciones cordit mei mułtiplicate sunt de neccessi tatibz meis erueme. E ide humilitatẽ mecni ⁊ la borem,197,b0f21269-d75c-4f1b-bff6-b23da9269b70
-f197-97v.xml,97v,meum romucte uniuersa delicta mea ¶S espice iui cos meos qͣm multipliccit sunt rodio iniquo dderunt me. OIustodi aĩam mec̃ zerue me non eru besca qui speraut inte  Ennocẽtes zrecti adheserunt micħi qz sustimin te l Aibera deus ffrael ex omnib tribulacio nbus suis . anͣt delicta fuuentutis mees Ignoracias meas ne memieris iomine. ominus. añ. Tredo. Illuminacio mea ssa lus mea ꝙͣ tinebo¶ Qũs,198,ae90a3e3-0899-496e-bda1-dc2155bae290
-f198-98r.xml,98r,ꝓtector uite mee a quo trepi dalo ꝯ Quin appriant fuꝑ me nocentes ut edit cames mecis. Qui tribulãt me Immici ip̃i infranati sunt ⁊ ceciderunt ¶Sli ꝯsiftant adusum me castra non ti mebit cormeu Si exur gat adu̾sum me plium in hoc egosperribo ¶ nam pecii a domino has requira ut inhabitem in domo din omnibz diebz uite mee ¶¶tuideam uoluntatem din ⁊ uisitem templum eius in absconditi me in ta,199,7896cbf9-71fc-46c6-9e44-88bd88bd26c0
-f199-98v.xml,98v,bemaculo suo in dicmaloꝵ ꝓterit me in abscondito ta bernaculism ¶ En petra ex altiunit me dmint exaltauit cciput meu̾ super minicos meos. EIrcirm ⁊ imola in in triberciculo eius ho- sticim uociteracionis camta bo ⁊ psalnum dicaͣ domino mudi dñe uoce incam quei clamain ad temiserere mei recaudi me ¶ ibi dixit cor meum exquisunt te facies mea faciem tuam domine requiram autas faciem tuam ame.,200,9f9906a0-cbce-485c-97f8-20c35ce0b6cc
-f200-99r.xml,99r,ne declines in ia aẜuo tuo diutor meus esto dne ne derelinquas me neqz despi ciais me deus salutans mes Din pr meus ⁊ nirmea depelinquerũt me doꝰ aute assumpsit med̃ Negem pone michi due inuia tuaz dirige me in semicta recta ꝓpter imimico tuos I. trudideris me in aĩcis tribu lancium me qm infuirere runt in me testes iniqui⁊ montita est imiquitas sibi Ol redo uidere boncidin in terrauiuenciu ¶ ypeta,201,500e62c0-9477-4781-9865-1b9905a99ba0
-f201-99v.xml,99v,din biriliter agre ⁊ confor tetur cor tuum ⁊ sustine do- minum. ã. Credo uidere hona dĩ in terra uiuẽcum. S. Imme eoꝵ in bouis de morentur E Et semeneoꝵ hereditet tr̾am. P̾rim̃ .l. qrͣta. Esponde michi Quã tas habro uquita tes ⁊pecccita scla mea atqz delicta oftende michi Cur faciem tucun abscondis ⁊ arbitcaris me imintami tuum Contra folium qd̾ uento rapitur ostendis potenciam tuã ⁊ flipulam,202,bc625b4a-a473-48ec-929d-2e4d9bbd9991
-f202-100r.xml,100r,ficcam ꝑsequeris saibis enm contra me amaritud nes ⁊ ꝯsumere me uis pctĩs adolescentie mee posinsti in neruo podem meum ⁊ ob scruasti omnes semictas mecis ⁊ uestigia pedũ meoꝵ ꝯsiderasti Qui quasi putre do ꝯsumendus sum ⁊ quasi ueflimetu ꝯd̾ comeditur a tineu.I heu michi dñe quia peecam ninis in uita mea quid faciam misex ubi fugiam insi ad te deus meꝰ miserere mei Dum ueneris in nouissimo die u. Aĩa,203,5b905cef-3ba9-4695-835d-e77d04602ac9
-f203-100v.xml,100v,mea furbata est uelde sed fu domme fucture et. Sum uente. Omo natus de mulie re breu unies tepore repletur multis miseriis. Qui quasi flos egreditur ⁊ ꝯteritur ⁊ fugit uelud unib᷑ ⁊ numꝙͣ in eodem flatu per manet Et dignum ducis suꝑ huniscemodi aperire oculos tuos ⁊ adduce̾ eum tecum in udiciũ Quis pt sacere mudu de minundo ꝯceptum semine Ronne tu qui solus es Breuẽs dies hominis sut nũs mẽsrum,204,4a1968cd-c1e9-4658-9348-35c1663fa484
-f204-101r.xml,101r,cius apud trest conftitinsti temimos eius qui p̾teuri nõ poterunt Recede paululum ab eo ut qurescat donee optu ta uenict ⁊ sicut merceuna in dies euis. U Rerecorde ns peccrata mea domine dum uenit iudicare scli ꝑ Ignem R Non intres in indiciũcum seruo tuo domie dũ uenis. is michi hoc lectio tribuat ut in inferno ptegas meꝰ abscondas me do nec ꝑtranseuit suror tuus ⁊ conslitucis michi tempus in quo retorderis mei Putas,205,eaba0164-8b20-4ce6-8776-4ae7b41df28f
-f205-101v.xml,101v,ne mortuus homo rinsũ ui uat. Cunctis diebus quibus nuno milito expecto donet uennat in mutacio mea Bu cbis me ⁊ ego repondebo ti bi Operi manuum tuaꝵ pornges dextera Cu quĩdem gressus meos diminierasti sz parre pecratis meis. R demine secundũ aclũmeum noli me iudicare nichil di gnum in cospectu tuo egi ddes de pror meneflate tui us tu dous de leas iniquitatos nieris Uꝰimplius lauaine due nab inufticia mea ⁊ adelicto,206,f92f3d3c-e530-492f-a7d3-f325c4873bcd
-f206-102r.xml,102r,iuanitatete insamas sal mes munda me. Neo deptor Complaceat ypectans expectaui do miũ ⁊intendit mi chi.¶l ermidunt preccs meae ⁊ edurit me delacumi scrie de lutofecis E ⁊sta tuit supra petinĩ pedes ipeds edurerit greslus meoc Elt minisit in ormeu cantiea nouum cramen deo noflro Sl i debut multir lune bunt aperaibunt in uno ¶Seatut uir anꝰ e nomẽ din spes oius snen respexit,207,2829222a-82d3-417e-a6b2-236820503dc5
-f207-102v.xml,102v,sus ¶ Mulia fecisti en dñt deur meus mirabilis tũci cogitacionib tins nõe qui similis sit tibi / A iiuciti in ⁊ loquutus sum mulcipli catisunt suꝑ ñm Sa crficium roblacionem no liusti aures antem ꝑficicli michiꝰ Solocaustum ⁊ ꝓ peccato nõ postulafli tunc diri ecce uemo en capite libri scriptum ẽ demeut facerem uoluntatem tuam deus meus uolins legem tuam in medio cordis mei ¶Slmniciain Iusticiutuã,208,ed2e5278-2910-481d-a26d-7d350c83a6e7
-f208-103r.xml,103r,in ecclia magna ecte labiai mea non phibelo domine tu scifti.. Aufliciam tuã non abscondi in corde meo peritai tem tuã ⁊ salutare tuu̾ dixi ¶ Non abscondi mĩam tu cĩ ⁊ ueritatem tua acensilio multo ¶lu aute dũe ne longe facias miseraciones tuas amemĩa tuas ueritas tua semper sus ceperunt me Min cirundederũt mema la quor non est nũs ꝯp̾hende runt me iniquitates mee⁊ non potin ut uiderẽ ¶ul tiplicati funt sup capillox.,209,62ac6b9c-68ba-455a-9ff0-94fe3560ec7b
-f209-103v.xml,103v,capitis meis cor meum dere linquit me. Gomplaceat tibi due ut cruais mẽ diie ai adiuutidum me respice lontudantur ⁊ reuereri tur simul qui querũt aĩa meti ut aufferãt en Sũ tantur retrorsum ⁊ reuere antur qui uolunt michi malci ¶ Aerãt ꝯfeltim confusione suõ qui dicũt michi eugeenge. El ue tent ⁊ letentur super te q̾ querentes te ⁊icunt sẽpa manificetur dñs qui dili gunt salutare turi Si,210,694b15ce-dde4-40f9-8125-c366e0365b3a
-f210-104r.xml,104r,autem mendicus sum⁊ pauper dũs sollicitus es mei.¶E diutor meus et ꝓtector meus tu es deꝰ mes ne tardaueris. añ. Com placeat tibi due ut erucis domine ad adiuuandume respice. añ. sanadnie. Satus qui intellui super egenũ ⁊ prupe yem in die mala liberrunt em dñs ; Qns ꝯseruet enmi ⁊ uiuificet eum ⁊ becitu fuciet eum in terrai riton trãdut eum in aici iin corum eius . Gomnnus,211,9c53b97e-815a-4ceb-bbf8-c7271b6a0efd
-f211-104v.xml,104v,opem feratilli super lectum do loris eis uinu̾sum strritum euis uersallim infirmmitate eiꝰ E godixidne misere mei sana aiam meam qz pecccum tibi  Emimamei duerũt malaimichi quado morietur dperibit nome eius. Et si Ingrediebatur ut bideret ua na loquebatur cor eis ccure gabit iniquitatẽ sibi ¶Sgre diebatur foras ⁊ laquebatur in id ip̃mł Ss duersum me susuralant os suminci mei adurisum me cogitabant mala michi erbum,212,544bea04-76de-4bd2-b2f1-073de29103ff
-f212-105r.xml,105r,iniquin cõflituerũt adu̾sum me m̃quid qui dorunt non adiciet ut resireat. S tem homo pacis mee in quo spera in qui ẽdelrit panos meos ma gnificauit suꝑer mesupplan tacionem  Iu autem dñe miserere mei rreluscitame ⁊ retribuam eisEn hoc camo in qm uoliusti me quomam non gaudebit inmicus meꝰ super me ¶e aitem ꝓpter innocencia mea̾ suscepisli s confirmafli me inconspectu tuo ineternuim.¶ Senedictus dñs deus isiuel a seculo et in,213,65d0d1fc-b48a-4c69-a411-0273a00d6982
-f213-105v.xml,105v,seculum fiat fiat ã. Sana domine aiam meã qz peccram tibi. anͣ. sitiuit. ꝓsalmꝰ remad modũ defide rat ceruus ad fontes aquaꝵ ita defiderat amic mea ad te deur. Sitiuit aia mea ad deuni fontem uiuum qu uenia ⁊ apparebo ante faciem dei ¶Aurrũt michi lacume mee panes die ac nocte dum dicitur mͣ quotidie ubi e de ꝯtuus ¶ recordatus sum reffudi in me aĩam meam quonicu transibo in locũ taberncicli,214,1c6b1b1b-aea8-480b-9213-5356656b123d
-f214-106r.xml,106r,admirabilis usq ad domũ dei ¶ En uoce exultacionis ⁊ confessioms sonus epu- lantis. Ouare triftis es aĩa mea ⁊ quare cõturlus me S perr in deo quonia ad huc confitebor illi salu- tare uultus mei ddeꝰ meus SAd ine ip̃m aĩamea conturluta e ꝓpt̾ecimemor ero tui de teriti iordanis et hermonii amonte modico Al byssus abyssum io cat in uoce catharattrum tuciz¶Smma excelsa tua ⁊sluitus tuni luꝑ me,215,e613265d-1ab5-4894-b88d-ade8f89c775b
-f215-106v.xml,106v,tranficrunt e En die main deunt diis miam suci ⁊ nocte ciniticũ enus ¶S pudine oro deouitemee dicam deo susce ptor mens et Oucire oblitꝰ et mei ⁊quare contultatus nicedo dui affluit mem̾m um cõsiguntur osla mea eyplauenĩt michi qui tribulant me imima men Gum dicũt michi ꝑ singulos dies ubi e deus tuus ¶Quare taistis es aĩamea ⁊ quare ꝯturbus me ¶pari in dex qũi ad huc consitebor illi saluture uultus meixdes,216,52bf6048-8357-49cd-9ebe-02e636174fab
-f216-107r.xml,107r,meus. ã situnt cĩamea ad deum fontem unum qͣn ueniam ꝑ apparebo ante faciem̃ domini. R Retirũns bestiis ains con fitencium libi ꝵ Et aĩcis ptiu poꝵ ne obluyscaris in finem Pr nr̃ Et ne nos. pus meus attenicibi tur dies mei breuiabuntur ⁊ solum michi supest sepłcrũ Non peccaui z in amaritudi nibz moratur oculus mneus Liberci me dñe ⁊ pone me nixta te ⁊cuuis uis mcinꝰ pugnet contrame dies mei turmsie runt cogitaciones mee dis,217,08f3ebae-ae3b-4298-a156-baff03e554dd
-f217-107v.xml,107v,sipate sunt torquentes cor meum Roctem uerterut in die s ruisum post tenebras spero lucem si suslimero ĩfernus domus meaz est ⁊in tenebris flrciui lectulum meu Putre dini dixi Pater meus et mr̃ meus soror mea uermnibur Ubi est ergo nunt p̾slolacio meu s paciencia meu tu es domine deus meus. Uersus Requiem eternam donci eis do mine ⁊ lur ppetuc luceat eis Aa. Qui laz arum resuscitasti amonuniero setidũ tu eis dona requit. Et sur. sectio oitas,218,177b805e-2ac7-4a2e-8092-50607dd36261
-f218-108r.xml,108r,Elli me ꝯsumptis car nib adhesit oe meu Aerelicta sunt tantumõdo labia circa dentes mecs mi seremim meimisereni mei saltem uos anna mei quia manus din tetigit me Qua re ꝑlequimini me sicut deus ꝑ carnibz meis saturamim Quis michi tribuat ut scri bentur sermones mei Quis michi det ut exarentur in libro stillo ferreo aut plũbi lamina uel scelte sculꝑitur in cilice scio enim ꝙ redem ptor meus unit si nouis,219,48f082f5-2c7e-481b-8ef5-d57240f23a44
-f219-108v.xml,108v,suno dĩẽ de teri sumertimuis sum Quem uisurus sum ego ip̃e poculi mei cõspecturi sunt ⁊ non alius reposita est hec spes meain simi meo. R Peccantem me quotidie mnoͬ repenitentem timior mortis cõ turlat me Qr in infero nulla e redemptio miserere mei deus psaluaine u deus in noĩe tro saluum mefac dñe et in mia tua libera me Q. u Gͭͣ dare de uulua ẽduxi sli me qui utincu ꝯsumptus eem ne oculus meus uideret ssuissẽ quasi,220,96e7c21a-cc52-4450-aa1c-5a57682a043b
-f220-109r.xml,109r,non cẽm de btero frniflatus cũ tumulum Numiquid no paucitas dieꝵ meoꝵsimetꝰ breui Dimite enio me doͤ ut plangam paululũ do- lorem meum antequ uadam ⁊ non reuertax ad terram tenebrosam ⁊ oꝑtã mortis caligine Terram miserie ⁊ tenebraꝵ ubi uni bra mortis ⁊ nullus ordo s sempiterius horror inha- bitane Re Libera me dñe de morte eterna in die illa tre menda Quando celi morie- di sunt ⁊ terra Dum ueins.,221,88869bdf-83a1-40a4-a044-fa8027c15175
-f221-109v.xml,109v,Iudicare sclin per Ignem u diey illa dies ne calamita tis zmisere dies magna et amara ualde Quando. u Quid ergo miserrimus quid dicam uel quid faciam dum nil lom perferam ante tãtu iudicem Sum uemĩt u Tre mens factus sum ego ⁊ tie̾o dum discussio uenent atq uentura mi Quando Uix iustus salucibitur rego miser ubi parelo du uen̾is U Creatoroimirer deut qͥ me delimo terre formtifti ⁊ mira biliter ꝓprio saguine,222,c51fc738-c0a0-48e3-be7f-b158bb36975d
-f222-110r.xml,110r,redemisti corpus qz meum licet modo putrescat de sepul ero facies in die iudicii resusa trm exudi exridi excuidi me deus ut aĩam mea m sii abralx patriarche tui iubeais collocum. Li berame domine Anͣ Audiut uocem de celo dice tem E Beccti morti qui in duo moriutur añt Exultaibunt domino ossa humiliata. Miserere merdeus. añt Exaudi. s decet hympmus des in sron ⁊ tibi reddet uotum in Ihli mũdi,223,cb781574-7d1b-45c5-a96f-287d73d0c870
-f223-110v.xml,110v,deus oronem mea ad te omĩs caro uemet l elaimquor p̾ualuerũt super nos simpie tatib nr̃ĩs tu ppiciaberis ¶eatus que elegifli pas sumpsifti inhabitabit in atriis tins ISeplebimur in bonts domus tue scm̃n est templum tuũ mirabile nre quitaite. Sxiudi nos deue salutarit nr spes oñ finiũ terre dinncra log̾e i Ere parans mõtes in uirtute accintus potẽcia qui contur bas ꝓfundum maris sonum fluctuum enis ¶ Eurbabũ,224,54fd9cc4-3e8a-4915-ab7a-422ab10f21fb
-f224-111r.xml,111r,tur gentes s hinebũt qui habi tant terminos asignis tins exitus matutim ⁊ uespere dele- ctabis ¶isitasti tercin⁊ Inebricsti eam multiplicristi locupletare etim ¶S lumen dei repletum ẽ aquis parasti cibum illoꝵ qm itai e p̃particio enie q̃ Siuos eis iebricins multiplica gemimina eius in stillicidiis eius letabitur ger minaiit ĩ Senẽdices corone agni benignitatis tue ⁊cc̃ĩpi tun replebuntur ubertate S inguescet speciosa deserti⁊ exultacione colles accingẽtur,225,18ebffea-22a0-426a-a7ad-b57bb1b5980f
-f225-111v.xml,111v,nduti sunt arietet o mum ⁊ ualles habũdabũt frumẽto clamabut dent hympnũ dicent . Dñt Exaudi deus oronem meti ad te om̃is crro remet. a. Me fuscepit dexteratuai do ͤ Seus deue meus. AA Eo ⁊ portainferi. dixi in dimidio dieꝵ meoꝵ uudã ad portas ĩfen Quesnn residuũ amior meoꝵ dixi nõ uidebo deum in terra uiuẽcium i Non aspiciam hoĩem ultraꝵ ha bitatorem quietis,226,d49a4350-82c6-4227-a240-ccc6986e8756
-f226-112r.xml,112r,racio mea ab lata ⁊ conuo luta est ame qua si taber naculum pastoꝵ. Grecis sa est uelud attexante uita mea dum adhuc hordirer succidit me. Oe mane usqz ad uesperã fum es me spercibam usq ad mane qiͣ les sic contruint omĩa ossa meci . Semtne usqz ad uespertm fimey me ficut pullus hyrundime fic cłai mabo meditubor ut colũba Attenuan sunt oculi mei suspicietes in excello omineuimi parior respõ,227,d0237f7b-1ec2-4a48-b450-15649b329a22
-f227-112v.xml,112v,de ꝓme quĩd dicam aut q̃d responde bit michi cum ipse fecerim ¶ Secogitabo tibi ommes anios meos in ama ritudine amie mee. O ne si sic uiuitur ⁊ in talibz uita spũs mei corripies me ⁊ uiui ficaibis me eccei pace ama rissinca u autem dñe enusti aĩam meam ut non pe riret piecisti post tergũ tuu̾ omina peccata meci ¶ua non infernus confitebiturt neqz mors laudabit te non expectabunt qui descendunt iii lacum ueritatem tucĩ,228,f3508efc-d476-4f2e-8e35-316469c224eb
-f228-113r.xml,113r,uens biuens ip̾e confitebitur tibi sicut rego Aie pater fi liis notcm faciẽt ueritatem tuc T tuam . Somme saluũ me fac ⁊ psalince nr̃os cantabims anictis diebz uite nostre in domo donuii. a Aporta in feri enie domine aĩcis eoz A Ommis spũs laudet dnii . p̃. Laudate dnni de celis. Requiem et̾nam. 2 Et lur ꝓppetus añt Ego sum resur rectio ⁊ uita qui credit in me eciam si mortuus fuerit uiuet romins qui uiunit ⁊credit in me non morietar ineterum.,229,079cf549-34e1-4d8b-a573-7b0ef1c6518a
-f229-113v.xml,113v,Deuedictus. U Requiem eterncim. Ex Si luy ppetuti U aporta inifer R Eiue domine. u Qedo bidere. ꝵ in terra. Et Domine exandi R. Et clamormeus. Oraᷤ Nilma domine. Ens ueme largitor ndelium deus oni.,230,e0df542f-f928-45ac-ac53-9702d1f30088
-f230-114r.xml,114r,,231,7bde62e3-12e2-4d53-af26-0a7dcbec776b
-f231-114v.xml,114v,apud deui ⁊ deus erat uer bum hoc erat in principio a pũd deum omĩa per ipsum sacta sunt ⁊ sine ip̃o factum est nichil Quod factum ẽ in ip̃o uita erat ⁊ uita erat lur hon ⁊ luy in tenebris lucet ⁊ tenebre eam nõ ꝯphenderũt fuit hono missus adeo cui nomen ercit iohannes hic uent in testimoniũ ut testi momum phiberet de lumie ut omnes crederent ꝑ illum Non erat ille lur s ut testio mum phiberet de lumine grat lux uera que illimnat om̃oz,232,6ad2641b-44e9-472e-96a4-87d6ee52ccb9
-f232-115r.xml,115r,hoĩem uemente in hũc mũdĩ In mudo exat siũdus ꝑ ip̃m factus est ⁊mũdus cum non cognoinit in ꝓp̃t ueint ⁊ sineu non receperũt Quotquot aut receperut eum dedit eit̾ pote statem filios dei fieri hiis qui credunt in noĩe ens qui non ex sangumibz neqz cy uolup tate carins neq ex uolu̾tate uin sz exdeo nati sũt ⁊ uerbũ caro fcictum e Et habitauit in nobis ⁊ uidimꝰ gliam eiꝰ glicim quasi uingeniti a patre plenum gre ⁊ uenitatis Re. Te inuocanius uts. 0ͦ,233,9fdcd8b8-3f4b-4537-9e12-72e72bcaf646
-f233-115v.xml,115v,rotecto in te spercicni deus sine quo nichil est rulidum nichil sãctum multiplica super nos miaz tuamn ut te rectore te duce sic transeamus per bona temporalia ut non admi ctamus eterna Per.,234,58d170dd-ade9-44cb-a399-e961dc5e6152
-f234-116r.xml,116r,,235,39c69822-c91a-49f2-92cc-6469b2feb454
-f235-116v.xml,116v,te plenissima siuum regis filia mater gliosissima mr orphanor consolacio desola toꝵ dia errãcium salus in te sperrincium dirgo ante ꝑtũ uirgoin ptu Duirgo post par tum sons mie fos salutis ⁊gratie fons pietatis ⁊ le ticie fons cosolacioie din dulgencie rogo te per Illain sanctam ineffabilem leticiai qua exultaiit spũs tuus in Illa hora quando tibi per ga brielem archangelũ annũ ciatus finit ⁊ in te conceptus silius dei Et ꝑillũd diuinu,236,338160eb-2a99-43cc-a0ba-715be8442859
-f236-117r.xml,117r,istexium quod tunt operatus est spũs sits Et per illum ineffabi lem gratian pieta tenz niaus amorem et lnũli tatem per quas filius tuus descendit accipere humanam caruem ĩ uene rabilissimo utero tuo ke in quib te respexit quã do te commendauit sancto iohauni apostolo et euau geliste et quando te exal tauit super choros ange lorum Et per illam sã ctam ieffabilem hũiliti,237,f59f4353-daaf-4c62-8d1b-6d8adc9a1fa8
-f237-117v.xml,117v,In qua respondisti aochã gelo gabrie li dicens ette an cilla domini fiat michi seꝯd uerbum tuum. Et per illa gloriosissima quindetim gaudia que hũisti defilio tuo dño nr̃o ihesu xp̃o. Et per illam sanctã et maximã compassionem et acerbissi mum cordis dolorem quẽm hũisti quando filium tiuĩ dinũ noftrũ ihesum xp̃m. ante crucem nidatiun et in ip̃a eleuatũ uidisti pendentẽ crucifixũ uulue ratum sicientem fel apponi,238,d4d1eefb-a2fc-4796-9dcd-67be84e2166d
-f238-118r.xml,118r,Hely clamantem audisti et morientem uidisti Et per qiũq uulnera filii tui Et per contractionens suo eum p̾minio dolore uulne dum Et per dolorẽ quẽ habiuisti quando uidisti eũ uulneraoi et per fon tes sangus sui et ꝑoinez passionem eus et ꝑoez dolorẽ cordis tui et pen fontes la conauũ tuaꝵ Ut cũ om̃ibz sanctis et electis dei uemias et festi nes in auxiliũ meum et in omibz orõnbz et reꝯue,239,14111496-8d79-4964-be39-78c32c9a1ad5
-f239-118v.xml,118v,sitis meis et in om̃ib an gustiis et neccessitatib meis et in om̃ib illis reb in quibz ego sum facturus locuturus aut cogitatu rus omibus diebus ac not tibus horis atqz momẽtie bite mee. Et michi famlo tuo impetres adilecto filio tuo complem̃tum omi mĩa et consolacione om̃i consilio⁊ aduitorio om̃i benedictione et sanctifica coe omi salutatõe pace ⁊ prospitate oi gaudio et alacxitate Et abudãtia,240,15b2dc44-f8bb-419f-993f-e33998432590
-f240-119r.xml,119r,om̃i bonorum spũaliũ et corporaliũ Et gratiam scũ spũt qui me bene ponnai disponat aiam meam cu stodiat corpus regat mẽ tem exigat mores compoãt actus probet uotua et deside uia meai perficiat cogita cões sanctas instituat p̾tĩ ta mala indulgeat pre sentia emendet futura moderetur uitam honestã et honorabilems michi tri buat fidem spem ⁊ carita tem caftitatem hũilitatẽ et patientiam mñ tribuat.,241,10c31cdc-96b3-432a-88a4-d49f46f92a14
-f241-119v.xml,119v,uinqz sensus corporis mei regat et protegat Se xten opera mĩe complere me faciat Duodecim ayticulos fidei et decem p̾cepta legis firmiter te neye et credere me faciat Et a septem pcc̃is c̃mĩali bz me liberet et deffeudat usq in finem Et in noiis simis diebz meis ostende mͥ beatam faciem tuam et amũcies michi diem et horam obitus mei Et hanc orõem supplicem ex audias et su scipias et,242,5e0ce6fd-9cd2-4c16-9e84-57bd62eabb35
-f242-120r.xml,120r,uitam eternam michi luibuas Andi et exaudi me dulci ssima u̾go ma ria mr̃ dei et mĩe ilmen Reata apolonia gra ue tormẽtum pro domino sustinuat primo tiranii extrarerũt dentes eus cũ malleis ferreis. et cũ esset in illo tormẽto orauit ad domiiũ ihm̃ xp̃m ut ꝯuicũq nomẽ suũ supra se portaret malũ in dẽtib non sentiret. Ora prono bis beata a polonia Ut. digni efficiamur ⁊cͣ.,243,f74813d9-0938-40cc-a15a-592cacf5159f
-f243-120v.xml,120v,inmpotens sempi terne deus qui bea tam apolomã u̾gniẽ et mar tirem tuã de manib ĩui corum fuorũ libera sti et eius oracionẽ eraudisti te queso per intercess onẽ eius ⁊ beati laurentn mͬ tiris tui simulqz ẽnum fctõ rũ et sctarũ ut dolorẽ aden tibus meis expellas sanũ ⁊ in columem me ipsum. efficias. ut tibi ctraciaꝵ actiones referre ualeain in eternum. Per dmni. ur̃m chm̃ xxmii. ur̃m ihm̃,244,5ad2486e-f7df-4012-9119-3a1d820f81d3
-f244-page-de-garde-recto.xml,,,245,333660b2-f098-4423-9dae-b2284a765b9e
-f245-page-de-garde-verso.xml,,,246,a632091f-eadc-44fa-b126-1eea9c6c8c7c
-f246-page-de-garde-recto.xml,,,247,584965ab-4e3f-453d-b214-faf371824f41
-f247-page-de-garde-verso.xml,,,248,9446a5b9-bc60-424b-b8fb-b68533b64f24
-f248-contreplat-inf.xml,,,249,de656211-585a-48a4-a8ef-836d33d1e168
-f249-plat-inferieur.xml,,,250,84037d38-5ca8-4025-88c5-20adb6855574
-f250-dos.xml,,,251,cc67f359-78d0-42d8-8d5d-068a66ec3c2e
+f111-54v.xml,54v,"aite nam tuam anobis
+eus in aditor meũ intẽ
+anͣ Cumi iocumn
+squequo a
+domine obliuis ceris me
+ini finem usquequo au̾tis faciẽ
+triam ame. ¶Om̃diu ponti
+consilia in aĩci meu dolorem
+in corde meo ꝑdiem ¶saz̾
+emltribitur imiicus meus
+super me respite ⁊ erciuidi me
+dne deus meus T Tllimmima
+oculos meos neumꝙͣ obdormici
+in morte nequ dicat innicus
+meus p̾ucilm adu̾sus eum
+Oui tribulãt me exulta",112,63c80bb7-1bfb-4f76-bf25-125ee6747017
+f112-55r.xml,55r,"bunt si motus fuero ego autẽ
+in m̃ia tua speram Ssxulta
+int cor meu̾ in salutari tuo ca
+tabo dño qui bona tribint in
+⁊psallam nõi dm̃ altissum.
+udicci me deus disc̾ne
+causam meci degente
+non sancta ab homine im quo
+⁊ doloso erue me¶ Or tu es
+deus fortitudo meci quareme
+repulisti ⁊ quare tristis incẽdo
+dum affligit me iminicus
+Emicte luce tuair ueritcitẽ
+tuam ipa me deduxerunt. ⁊ad
+durerunt in mõte scm̃ tuum
+⁊in tabernaicula tua E",113,869bfb4e-8895-4c33-812d-ec7ad27248bc
+f113-55v.xml,55v,"introibo ad altcire dei ad̾ deu
+qui letificnt iuuentutẽ nrec̃
+onfitebortibi in eytha
+deus deus meus quare tristis
+es amina mea⁊ quare con
+turbas.¶ perai in deo qm̃
+ad huc confitebor illi sulu
+tare uultus meiddeꝯmeus
+Epe expugnauerũt
+me annuẽtute meu
+Diccit nine ifrl. ¶Sepe
+expriqutiuenĩt me aluue
+tute mea zenim nõ potuert
+michi Si upra dorsũ meu̾
+fabricauerũt ptõres ꝓ loniia
+ueruut inquitatem suam",114,5a16b83e-4e54-4911-80ca-85b4d4c1146c
+f114-56r.xml,56r,"omius instus cõcũet
+ceriices pctor ꝯfundantur
+cõu̾tãtur retrorsum omnes
+qui ederunt sron ¶ Siant
+sicut fenũ tector ꝙ priusꝙͣ
+euellatur eraruit e qs
+non impleuit manũ sua
+qui mettet ⁊ sinũ suu qui
+mampulos colliiet E
+non dixerũt qui p̾terilrat
+benedictio din super uos be
+nediximꝰ uobie in noĩe dm̃
+omme non est exal
+tutum cor meu ieqz
+clatisunt oculi mei  ai
+ambulau in magins nĩz
+36",115,eda75260-b0bc-41f5-8718-8410bc792aa7
+f115-56v.xml,56v,"i ientabilib furer me
+Si non humiliter sencie
+lrim s craltam aiam mea̾
+¶Sicut ablatatus e super
+matre fuci ita retribucio in
+amina mec. El peret Isrel
+in domino ex hoci nine ⁊ usq
+in seculum. anͣ Cum iocun
+ditate memoriam beate marie
+celebremus ut ip̃a ꝓnobis in
+tercẽdat ad dilg ihin xp̃m
+aua uiito semper leta
+re que merusti yp̃m
+portare celi ⁊ terre conditorem
+quia de tuo utero protulisti
+mundi saluatorem.",116,1e2573cf-9b6d-4234-91c3-8850014c70f3
+f116-57r.xml,57r,"Ieo dei genitar quẽ
+totus non crpit orbis
+in tũci se clausit uiscera factꝰ
+homo. ¶ era fides geniti pꝰ
+gauit crimia mudi ⁊ tibi
+uirginitas inmolata manet
+ematrem pietatis opan
+te clamitat orbis subuemes
+famulis obenedicta tins. Ele
+ria magna patr compar ti
+bi glic nate flamine cu sc̃o
+gliã mugnã deo amen. anͣ.
+Ecce ancilla domuini u̾ suit
+in scdin uerbũ tuũ. añ Tota
+i ꝓulem.
+dimictis seruñ tuum",117,4469d9f9-c033-4ae0-ad46-65456e43bad1
+f117-57v.xml,57v,"domme scdin derbum tiii
+in pace¶Or uiderũt oculi
+mei salutare tuum Qucd
+parasti ante faciem oĩm po
+pulor¶ A unen ad reuela
+cionem genciũ diilicm ple
+bis iue ifruel añ Tota pul
+in es amica mea ⁊ macula
+non est in te oratio
+oratio
+Oncede qͥs omps et
+misericors deus fingilitatis
+nr̃e p̾sidum ut qui sancte
+dei gentricis ⁊ uirginis
+marie memoriam aginus
+Int̾cessioms eius auyilio a
+nr̃it inquitatib resurga",118,03cd7f87-e229-48b1-93df-7d357453d3be
+f118-58r.xml,58r,"mur Per.¶Sancti
+spus domine corda nr̃a mun
+det infusio ⁊ sui rorit itima
+asꝑsione fecundet Per.
+omĩte nos.
+Ora complectorii da
+tur sepulture Corpus xp̃i
+nobile spes uite future Con
+ditur aromate conplentur
+scripture fugis sit menis
+ria mors hec michi cure.
+Has horas canonicas cum
+deuocione ꝓp̾e tibi recolo
+pia racione Ut qui ꝓ me
+passus es amoris arore sis
+michi solcicium in mortis",119,e2575923-0b98-4be3-b9f7-b5c37d25fcd0
+f119-58v.xml,58v,"agone a idoramũs te.
+domine ihu. ¶ o̾ute.
+pũs paclitus nos uelit
+adiuuare Gresss nrõs
+regere ⁊ illumare Ut cũ deꝰ
+uenerit os iudicare. Nos ad
+derterã sua uelit appellai
+Has horas canomeas cum de
+uocione Cibi sc̃e spũs pie
+racione dixi ut nos uisites
+inspiracione Et uicnnius
+iugiter celi regione. aͣ. Dem
+scincte. qr̃o Ompes.",120,c06c4b0a-81da-4360-afc5-d50cd61e8a03
+f120-59r.xml,59r,"De. scto xp̃oforo. ã.
+Martir xp̃i x pofore ꝓ saluatorie
+honore fac nos uicai fore dignos",121,9a6d05d8-b63a-4e36-84a3-079d73b87771
+f121-59v.xml,59v,"atq morte deitatis amore pro
+missio xp̃i qr qd petis obtinut
+sli da pplo tristi bonciq morie
+do petisti confer solame dmẽtis
+tolle grauamen. u. ora ꝓno
+bis beate rpofore. Nͣ ut digmi.
+oncede q̃s omps deus
+ut qui beaiti xpõfori
+martiris tui memoria aganꝰ
+ens piis mitis ⁊ itcessionib
+amorte subitanea peste fa
+me pauꝑtute tsticia pudore
+opressione ⁊ ab insidiis mnm
+coꝵ uisibiliũ ⁊ imisibiliũ libe
+rem  ꝑte ihũ que merint sb hu
+meris suns portare P.",122,8d3fcd28-e8f8-4c1c-ae7e-3548bde4e14b
+f122-60r.xml,60r,"De sancto mrtino ep̃o. ã
+Omartine opie ꝙͣ puim est
+gaudere de te omartine ꝓphis
+60",123,95f82e66-0aed-46bb-aae8-272acab767e3
+f123-60v.xml,60v,"compar appłis ꝯsextus p̾sulu
+genra fide et meatis egregie
+pretate mĩa caritate ineffabi
+lis Iuccure nobis m̾s et ante
+deum U Ora ꝓnobis brate
+martine 2
+martine ꝵ ut digni. orõ
+N. Uii digni.
+orõ
+Eus qui cospicis quia
+ex nussa nu uirtute
+subsistimus concede ꝓpiaus
+ut int̾cessione beati martim
+confessoris tun atqz põtificis
+contra omia adusa munics
+mur Per.",124,d9f2b118-aac4-42fe-93fc-0fd4ab6bf8aa
+f124-61r.xml,61r,"De scc̃o Iohanne bapͭͣ
+Inter natos multerum non
+surrerit maioz Iohanne bap",125,d114e55d-7910-413f-9299-15b5185a4ae2
+f125-61v.xml,61v,"Siit homo missus
+Cin nomen erit io
+hannes. oracio.
+sulutis incedat et beati ihoĩs
+pcursorit rpi hortamenta
+sectando ad eum que pdixit
+secura ꝑuenias Per
+ut familiu tuu per uiam
+resta q̃s omps deus",126,d69a8d01-b072-4960-ab5b-8b38a0e6a25b
+f126-62r.xml,62r,"De sancto incolao añ.
+Anneus dei ineolans pontifi
+cali decoratus insula omnib",127,ed3bb075-98f2-4e23-a3ec-eb7eb1c04312
+f127-62v.xml,62v,"se amabilem eribiliti.
+Ora ꝓ nobis beate incolae. U
+dt digni efficiamur. 3
+Cus qui beatum meo
+laum pontificem tuũ
+in nimeris decorafli imiracu
+lis tribue qͥs ut enis p̾cibus
+⁊ mentis agehenne inc̾e diis
+liberemur Per",128,4ea10c15-78c6-4cb8-b6e3-7c7f761c09ba
+f128-63r.xml,63r,"Desancto iuliano. anͣ.
+Secctus uir qui suffert tem
+ptacionem qui cum ꝓbatus",129,020598da-f79b-41f8-88ad-51330ffefe94
+f129-63v.xml,63v,"fuerit accipiet coronam uite
+quam repinisit deus diligẽtib
+se. U iustus ut palina flore bl
+ꝵ siant cedrus libam multi
+Ens i ꝑlicabit ᷑
+qui beatum iulianum
+martirem tuu uirtute con
+slanicie in passione roborasti
+ex eius mutacione tribue
+ꝓ amore tuo ꝓspera mundi
+despicere snulla eius adu̾se
+sormidare Por.
+si lus enmq",130,6f627180-5463-4eb2-8f67-81e82b4b676d
+f130-64r.xml,64r,"De sccõ gregorio. ã.
+Egregio bĩtudinis tue p̾mio ler
+umphat uniu̾salis eccłia ꝑ te",131,d940a935-2bf7-43c5-9c9b-4582bd81adca
+f131-64v.xml,64v,"nobilit᷑ instituta aue papa
+insignissime romanoꝵ decus
+angloꝵ glia suessoꝵ leticia sce
+gregorii int̾cede qͥs ꝓ uroꝵ omi
+qz salute. U̾ Orapnob̾ btẽ
+gregorii D ugi digm. oro
+Sus qui aie famula
+tini gregorn eterne
+becititudinis p̾mici contuli
+sti concede ꝓpreuis ut qui
+peecatoꝵ nroꝵ ponde̾ p̾mun
+enis apud te precibus sub
+leuemur Per.",132,5c2ae599-4003-4510-977c-c00245e6b2bc
+f132-65r.xml,65r,"De sc̃tis cosina s damiano.
+Cosmas p̾damanus antisin:
+leonons et euprepins hu",133,03173661-0f88-45d8-ac91-05a3f0314fee
+f133-65v.xml,65v,"quinqz fratres a deo corona
+ti sunt u̾ fustor amine m
+manu dei sunt ꝵ Et non
+taiget illos tormetũ malicie.
+anificet te domnre
+scõr tuoꝵ cosine et
+dumiant beata sollentas
+quia et illis gliam sempi
+ternam ⁊ opem nobis inef
+sabili ꝓuidẽcia ꝯtulisti",134,bf853bca-c80a-47b7-9518-2aa62b50afb3
+f134-66r.xml,66r,"De sancto laurencio. ã.
+Leurta laurencuus bonũ",135,c242d76a-c688-4faf-bd78-a8bf596ddb07
+f135-66v.xml,66v,"signum crucis cecos illuia
+pit ⁊ chesauros ecclesie dedit
+suuperib. d dispersit de
+dit rauperibz R Iusticia
+eius manet in sclin seli.
+a nobit qt domme
+omps deus uicior
+uroꝵ flamas extinguere
+qui beccto laurecio marti
+tuo tribuisti tormẽtoꝵ fuor
+incendia superre. Per",136,eb5dcbac-bfad-4183-83f3-3ebe4d0ee98d
+f136-67r.xml,67r,"De sccã barbara. ã
+nam quam tibi dus p̃paraint",137,026a4abe-dbb1-4b92-b571-9143f800a13a
+f137-67v.xml,67v,"Ineternum u diffusa e̾ gr̾a
+in labiis eins. R. Mtereu
+benedixit te des re. Oracu
+Oracio
+tercessio qͥs domine
+becite barbare u̾ginis
+⁊ martiris tue ab omi adũ
+sitate nos ꝓtegat ut ꝑ eius
+int̾uentum głiosissmũ
+sacroscm corporit ⁊ sãguinis
+din na ihũ rp̃i sacramentu
+ante diem exitus mz per
+ueram penitenciam percipe
+meresimur Pex.",138,635fe51b-ddf2-4d0e-87de-9a4fcf842ce8
+f138-68r.xml,68r,"De sancta katerina ã
+Dirgo sancta katherina
+grecie gẽma urbe alexan",139,47f34e3c-1f51-486d-92ea-2416b0b446ff
+f139-68v.xml,68v,"drmna costi regis erat filia.
+U̾ diffusa ẽ gratiain la
+biis tins. ꝵ ꝓptra bene
+dixit te deus inet̾num .o ͦ
+Sus qui dedisti lege
+moysi in simntate
+montis srnayrin eddem
+loco per sanctos angelos
+tuos corpus beate u̾ginis
+katherme ⁊ martins tue
+mirabiliter collocasti tbue
+qs ut eius meritis rinter
+cessiomib ad motem qui
+ypus est ualeamus parue
+ire Per;
+xii",140,411da610-ae63-40ac-80b7-1e993a4f11f9
+f140-69r.xml,69r,"Omine ne in
+furore tuo arii
+as me neque in",141,9ce6cf84-97ad-4111-937f-593edd69c61a
+f141-69v.xml,69v,"ira tua corripias me ¶ise
+iere mei dne qm inframis
+sum sana me die qin cõtur
+batu funt om̃ia ossa mea S
+aminai mea turbatci ẽ ualde
+sz tu domine usqͦ onũ
+tere die zerpe aiam meam
+saluu me fac ꝓpter miam
+tuam Gin non ẽ in mor
+te qui memor fit tui in in
+ferno autem quis confitebi
+tur tibi ¶aborau in ge
+mitu meo lauabo per singu
+las noctes lectum meum la
+crimis meis stratum incũ
+rigalo. urbatus est a",142,c54edd6a-683c-4009-96a5-d511de9f4e94
+f142-70r.xml,70r,"furore oculus meut Inuete
+rau inter om̃s iminicos
+meos . Giscedite ame oñis
+qui operannim Iniquitatem
+qm exaudunt dñs uoce fletꝰ
+mei Exciudunt dĩis dep̾ca
+cionem mea dñs oronem
+meam suscepit rubescãt
+ꝑꝯturbentur uchementer c̃e
+gimimci mei ꝯu̾tãtur peru
+bescant ualde uelociter.
+sati quor remissesũt
+imquitates ⁊quoꝵ
+tecta funt peccata.¶ Seatus
+uir cui noñ imputaiit doꝰ
+pctm nec emn spũ euit dolus",143,e54702d9-7c81-4227-8315-6775877388dd
+f143-70v.xml,70v,"Suomam tricu inuetera
+uerunt ossa mea du clamare
+totadie. Din die ac nocte gͫ
+uata est super me mcinus tuci
+quersus sum in crũpna meci
+dum gfigitur spinci . Seli
+ctum nicum cognitutibi feci
+Dmusticiam meu nõ abscodi
+¶roi confitebor aduersum
+me imusticiam mecĩ dño ⁊tu
+reiis isti impietatem peccati
+mei Gro hac orabit ad te
+omnit sanctus in tempore op
+portuno.¶ Ti erumtamen in
+dilumo aquaz multaꝵ ad eũ
+non appyimabintt. u cs",144,ef8794fe-a2f8-4209-b841-62295cb01b00
+f144-71r.xml,71r,"reffugrium meum atribulaicis
+ne que circundedit me exulta
+cio mea erueme acircundan
+tib me E. Entellectum tibi
+dabo ⁊ instruam te m̃ uia hac
+qua gradiens firmabo super
+te oculos meos i Qolite fien
+ficut equus ⁊ mulus quibus
+non est intellectus  An cha
+mo ⁊ freno maxillas eorum
+ꝯftringe qui non appriant
+ad te¶¶ulta tlagella pctorit
+sperantem autem in domino
+mia arrũdabit ¶ Al eccumu
+in dño ⁊ erultate iusli ⁊ glicum
+ꝓsalmꝰ
+in onmes recti corde. ꝑ",145,bff009d3-9c95-4ed7-8726-8f194be0a4c6
+f145-71v.xml,71v,"Omme ne in furore
+tuo arguas me neqz
+in ii tua corripias me Qn
+sagitte tue infire sunt m̃i
+chi ⁊ ꝯfimasti super me ma
+num tua . Qon est santas
+in carne mea afaciene tue
+non est par ossibz meis cifa
+cie pctorum meor. Quoncã
+fiquitates mee fuꝑgresse
+sunt caput meum ⁊ sicut o
+nus graue grauate sũt suꝑ
+me. Sutiuerũt ⁊ cormpte
+sunt circituces mee afacie in
+sipienciemee ¶ tser factus
+sum rcuruatus sum usqz in",146,780d4afb-4c84-4252-9761-b710b1e4e608
+f146-72r.xml,72r,"finem tõtadie contastatus
+Ingrẽdiebar.¶ Dm lumibi
+mẽs impleti sunt illusionib
+dnon est saintas in carne
+meci ꝭ S ifflitus sum ⁊ hu
+miliatũs sum iuis iugie
+lam agemitu cordis mei
+Domme ante te omme de
+fiderium meum ⁊ gemitus
+meus adte non est abscon
+ditus. ¶ or meũ ꝯturbatu
+est inmre derelinquit mẽ uir
+tus meci ⁊ lumen oculox meoꝵ
+zip̃m non ẽ mecui¶ Elmnci
+mei ⁊ pyum mei aducersum
+me appiquauerit ⁊ sletext",147,291edd0e-eb41-4c28-8790-a111c046c8f0
+f147-72v.xml,72v,"At qui iurta me erant de
+longe steterunt ⁊ uim facieltit
+qui querelunt aiam meã. St
+qui inquirebant mala michi
+locuti sunt uanitates ⁊ dolos
+totadie meditalant᷑ S ge
+autem tanquã surdus non
+audiebam ⁊ ficut mutus non
+apiens os luui¶ Sit sactus
+sum sicut homo nõ audiens
+s non habens inore suoredar
+guciones. Qin in te domine
+speraui tu eraudies me dne
+deus nreue. Er dixinequado
+suꝑgaudecnt michi immici
+mei edum ꝯnoueãtur pedes",148,fc28f1dc-df18-4aec-802d-9406ab5321af
+f148-73r.xml,73r,"mei super me magna locute
+sunt ¶m̃ ego in flagella
+patus sum ⁊ dolor meus in con
+spectu tuo semper. Quoma
+Inquitatem meã annuciabo
+⁊cogitaibo pro pectato meo
+Eimici autem inci uiuũt
+⁊ confirati sũt supexine et
+multiplicati sut qui dderunt
+me inique. Qui retabuut
+mala ꝓlomis delrahebant im
+chi qui sequelur bonitate i le
+derelinquas me domine deus
+mcus ne discesscris ame
+tende in adiutorium meu dñe
+psalmus
+deus saluitit ice. psalmus",149,6d94741f-7ab3-47a7-b4b2-b6fbb09291b3
+f149-73v.xml,73v,"yserere mei deus scdin
+magna mĩam tuam
+St scdmn multitudine mile
+incionũ tuciz dele imquita
+tem¶ Simplius laua me
+domine ab imquitate meu
+Dapeccato meo munda me
+Sin imquitate mea ego
+egnosco ⁊ pctin meu contra
+me est semper  ibi soli
+peccami ⁊ malum coram te
+fec ut iustificeris in sermo
+nib tuns ⁊ unicas cum iudi
+caris. Ecce enim in iniqui
+tatibz ꝯceptus sum ⁊ in ꝑctis
+concepit me nir mec",150,b1066d19-3f02-4101-a44b-6ac8388520eb
+f150-74r.xml,74r,"emim̃ uentatem dileoisti in
+certa ⁊occulta sapiencie tue
+mainsestasti michi ¶ Asper
+ges me domme ys opõriun
+dabor lauabis me ⁊ super in
+uem de albabor E Iuditii
+meo dabis gaudium ⁊ leticiti
+⁊ exultabunt ossa humiliata
+uerte facie tua apetratis
+meis zomnes iinquitares meas
+dele. lor mundum cream
+me deus 2spi rectum inoua
+in uisceribz meis ¶e proi
+cias me a facie tua ⁊ sp̃m sa
+ctum tim ne aufferus a
+mei ¶edde michi leticiam
+fu",151,4346da20-5418-495b-883b-43c14a461796
+f151-74v.xml,74v,"salutaris tui ⁊ spũ princi
+pali confinia me. Docelo
+imquõs uias tucis ꝑ inpi
+ad te ꝯu̾tantur¶ Ul iberame
+de sangumibz deus deus sulu
+tis mee derultabit liuguci
+mea iusliciã tuci. Comi
+ne labia mea aperres et os
+neum amnũciabit laudem
+tuti ¶Oin si uoluisses sacri
+ficium dedilsem̃ utiqz holtrau
+flis non delectaberis. Sa
+crificium deo spũs contabula
+tus cor contritum ⁊ humilia
+tum deus non despicies. Se
+ingne fac domine in bona",152,1f74dbc8-07a1-40b3-926f-3a365d7d680e
+f152-75r.xml,75r,"boluntate tua sron ut edificẽ
+tur muri ihrlm ¶unc ac
+ceptabis lacrificium iusticie
+oblaciones ⁊ holocausta tũc
+imponet super altare tuum
+uitulos. psalmue.
+Omie erciudi orõnem
+meam ⁊clamor meus ad te ue
+mat ¶ Non au̾tas faciem
+tuam ame inquacũqz die tri
+bulor mnclina ame aure tua
+¶En quacũqz die muocaiuero
+te uelociter exaudi me Euia
+deffecerums licuc sumus dies
+mei rosla mecsicut crennium
+aruerunt .. Dercussus sum
+15",153,3777d49b-32ee-49e4-b808-8b715f1d45f7
+f153-75v.xml,75v,"ut fenum rarunt cormeum
+qz oblitus sum cõmede̾ pane
+meum¶ Hace gemit ꝰ inci
+adhesit ot meum ecum mee
+S mulis factus sũ ficut
+pellicano sollitũdinis ⁊ factꝰ
+sum sicut inticorax in domi
+cillio T milam ⁊ factus
+sum sicũt passer sollitanus
+in tecto ¶otadie explabũt
+michi iminci mei ⁊ qui lau
+dabant me adu̾sum me nra
+bant ¶r cinerem taiquai
+panem maducalam ⁊ potu
+neum cũ flẽtu miscelam-
+Ifacie ire indignacionis",154,93ed5c39-c037-4343-9a4b-943e86b35157
+f154-76r.xml,76r,"fue quia eleutis alirisfime
+Dies mei sicũt umbra de
+chinciuent rego sicut fenu
+arui ¶iu autem dñe meter
+num ꝑmanes ⁊memoricile
+tuum in generacione ⁊ genera
+cionem ¶u exurges dire
+misereberit sron quiu tepus
+miserandi eius quici uemit te
+pus. ¶Oin placuerũt scrns
+tins lapides eius ⁊terre enis
+miserebintur Et tunebt
+gentes nomen tuu domine ⁊
+omines reges terre gloriam
+tucni. ¶E ⁊ edificcunt dñs
+ex sron ⁊ uidebitur in gloria
+16",155,d824e497-fa68-44b7-9810-235f980aee1b
+f155-76v.xml,76v,"fuai ỹ S esparit in oronem
+humilium dnõ spreunt p̾ce
+eorum E crabentur hec in
+generacione alt̾a ⁊populus
+qui creabitur laudabit domͫ
+Or ꝓsporit de ercelso sc̃õ
+suo dns de celo in terri aspe
+uit S¶t audiret genritus
+ꝯpeditorim ut soluet filios
+int̾emptoꝵ t annũciait
+in sron nomen din ⁊ laude
+eius in ihrlm Encõueniẽ
+do pplos in unum ⁊reges ut
+sermunt dño ¶ Sespondit
+et in uia uirtutis sue pauci
+tatem̃ diex meoꝵ nuncia.",156,078e9e2e-a288-45c0-8c1f-c991098c84a6
+f156-77r.xml,77r,"michi q̃ Qie reuocos me ii
+diũoiodier meoꝵ in ieuera
+cione ziienerationẽ anni lui
+incio tu dire tram fun
+dasli zopera manuum tucx
+sunt celi  E pĩ poribũt tu
+autem dne pmanet domites
+sicũt ueslimetum ueteras dẽt
+Stsicut optorium muta
+bis eos ⁊ mutabũtur tu au
+tem idem ipe es zam tuino
+defficient ¶ S ilni seruor
+tuor habitabũt ⁊ semẽ eoꝵ
+in seculum dixigetur. ꝓsał.
+Eꝓfundis clamaut
+adte dominie domme",157,2796e272-2493-4789-b27e-a57881d6b6b3
+f157-77v.xml,77v,"domine ertindi decm ucei
+S iant aures tuc intẽden
+tes in uoceĩ dep̾cacionis mce
+Si imquitatee obscma
+ueris domnte dite quie susti
+nebit. O⁊ apud te ꝓpicia
+cis est ꝓpter ligem tuam
+sustimins tẽ dite ¶Luflum-
+it ma meci iñ uerdo eius spera-
+int aĩa in dno ¶ Slaistodia
+matutina usq ad noctem
+sperẽt ismel in domino. O
+apũd dñm mia ⁊ coꝑiosa ap̃d̾
+eum redempcio Et ipse
+redmmiet ismel ex ommibus
+inquitatibz eius. ꝑsalm",158,860796ce-8ace-44af-b165-6281f938e79d
+f158-78r.xml,78r,"Omme exiudi oro
+nem meam auribz
+ꝑcipe obsecracione meci in
+ueritate tuci exaudi me in tua
+iusticia Sit non intrer in
+Iudicumi cum feruo luo dñe
+qz non iustificaibitur in co
+spectu luo omis unies. O⁊
+ꝑsecutus ẽ iminicus aicim
+meam hũiliait in terra
+uitam meci ¶ ¶ollocaiit
+me in obscuris ficut mor
+tuot seculi ⁊ auxiatus est
+super me spus meus in me
+turbatum ẽ cormeũ ¶e
+mor fui dier antiquorum
+70",159,eae6e172-2f0c-446e-88c5-5e2605bfbfed
+f159-78v.xml,78v,"meditatus sum in omnib
+operib tins ⁊ in factis inanuu̾
+tuciz meditabar. ¶lypandi
+manus meas adte amma
+meti sicut trasmne aqua tibi
+lclociter erandi me dñe
+deffecit spũs meus. on
+autas faciem tuam ame ⁊si
+milis cro descendentibz in la
+cum¶ Tuditam fac michi
+mane miam tuam quici ĩ le
+speram ĩ Sotam fac michi
+uiam in qua ambulem qz
+ad te leuaui aicm mecim
+Enpe mẽde iminicis meie
+domme ad te confugi doce mre",160,74dac19e-3fb6-4172-a638-7e94cefb507c
+f160-79r.xml,79r,"facat do limfatentuamqr
+deus meus es tu Spiritus
+tuns bonus deducet me in fiti
+rectam ꝓpter nomen luũ dñe
+umisiccibis me mequitate
+fuci. S ducet de tribulacio
+ne ciam meciz in mia tua
+disperdes õs iminicos uiecs
+Et perdes onmes qui tri
+bulant aiam mea qmi eno
+seruus luus sum . anͣ. Ne
+eeminiscaris domine delicta
+mti uel pentum nr̃oꝵ ncque
+uiudictam sumait de ptis nrĩs
+ꝑce domine ꝑce pplo tuo quam
+redemifli p̾cioso sanguie luo",161,dc8260c8-dccb-4738-a007-42a047eb7ee7
+f161-79v.xml,79v,"nẽ inct̾num irmscarie nobiẽ
+priclerson.
+¶. Spristeleyson
+orieleyson s peanidi
+not  pe erũdi noc. p
+adiuua nos. Gat̾ de celis
+deus miserere nobis ¶A ilii
+iddemptor mudi deus m Si
+sancte deus m Sl ancta tri
+intas unus deus M Sacta
+marici ora pronobit S
+dei genituyor
+cci uniio ungnũ Sor
+ancte michael or
+ancte gabriel oꝵ
+ancte mphael or",162,99a46764-60e8-4dc9-adab-b8f00b5347ff
+f162-80r.xml,80r,"Qunes saniti angeli
+archangeli deie yrie
+Oumes sancti beatorum
+Ipium ordinet deie orte
+ce ihoẽs laptistaRuor
+Oumes saicti patuiarche
+⁊ ꝓphetẽ de orte
+ancte petre
+ancte pauleor
+ancte Incobe
+ancte andrea dez oꝵ
+ancte iohannet Uor
+ancte uuoleor
+ancte philippe ⁊ uor
+ancte bartholonire or
+S ancte mathee S Noꝵ
+86",163,7983d430-602a-49e2-82b1-b126fc92ea57
+f163-80v.xml,80v,"ancte symon
+ancte ido
+ancte mathic oꝵ
+aucte larnalunor
+ancte marce or
+ancte lucao⁊ or
+nnee sancti appostoli ⁊
+cuuangeliste dei Noꝵ ͭ ͤ
+Sines lãcti discipuli do
+mnes sc̃i mocẽtet dei ort
+ancte stephane Hor
+ancte line Nor
+aincte clete or
+ancte clemens tzor
+ancte sixte  ⁊or
+Ssancte cornelis Nor",164,9be4a290-4843-4dae-8db5-d0787a8e5e31
+f164-81r.xml,81r,"ancte cypricne noꝵ
+ancte alerander or
+ancte laurenti Nor
+ancte uincenti oꝵ
+ancte dronisn ꝯ.s.t. or
+ce mauricii ꝯ.s. .c.Ꝙ
+de ypolite ꝯ.s.l. or
+ancte fabicine Nor
+antte selrisliceꝵ aoꝵ.
+aucte xp̾osore Soꝵ
+ancte doncicicine  oꝵ
+encti rogacieꝵ ⁊oꝵ
+ancte geori ex
+⁊ sci martires dei soꝵ ͭ
+ancte martine  oꝵ
+ancte leoo3
+31",165,46534614-ba32-4b6b-820c-41ab5badc679
+f165-81v.xml,81v,"ancte si lueflers nor
+ancte hylar or
+ancte ambrosis Ior
+ancte ihymine Szoꝵ
+ancte auqusline Noꝵ
+ancte gregori¶oꝵ
+ancte nncholae Soꝵ
+ancte albineNoꝵ
+ancte maudete: Toꝵ
+anicte gobricine or
+ancte franciste Noꝵ
+ancte patere cez on
+ancte benauteoz
+ancte nermane oꝵ
+ancte corentine e ⁊oꝵ
+ancte tugduale Soꝵ",166,3547e12e-011f-4a94-b620-0d2011f6927c
+f166-82r.xml,82r,"ancte pabuteeor
+ancte romaneoz
+aucte antome. oꝵ
+aucte yuo
+ainte floreuti oꝵ
+mnes sc̃i ꝯfessoret dei.
+acta maria magdalene
+acta incia egipcicica.
+anta ama oꝵ
+ancta felicitns e dor
+ancta ppetua oꝵ
+cuicta anathare o
+ancta agnes Noꝵ
+anitu cccilicẽ oꝵ
+ancta luciaoꝵ
+Sancta brigida rez oꝵ
+82",167,559beb3f-bcca-429a-b597-08623a5425fd
+f167-82v.xml,82v,"2
+ancta ancstasiae oꝵ
+ẽa scolaflica oꝵ
+cã katheana oꝵ
+ca margareta  2oꝵ
+ca iulicna
+ca barbera
+anta iulita
+ca genouefauor
+ca elizabeth oz
+ca rndegundis oꝵ
+ca praredis Nos
+ci fides oy
+ancta spes
+ancta caritas Nor
+s̾ sce uirgniet dei ort̾
+As sancti ⁊ sc̃e daort",168,2fe58ed9-a498-4134-9d8b-f0b64da55cac
+f168-83r.xml,83r,"¶ ¶ropicius esto pce nobis
+domine El bomm malo li
+lera nos domine ¶Si binsi
+diis draboli l Si dãpna
+cione ppetua l ¶Albommi
+Iuiudicia mẽtis ⁊ corporis li
+Ab urti rodio ⁊ omimala
+uoluntate .l. Sl cecitate cor
+die l. Ei sulgure ⁊ tempe
+state ¶ ¶Acamalibz desi
+deriis ł ¶Spaccito mortali
+l. Ei penis inferml Ser
+mistenum sc̃e incarnacionis
+tucl Ser aduentum tuu
+Mernatinitatẽ tuc̾i lo
+Der cirruncisionẽ tua l
+83",169,993bf884-790b-47db-883e-9336d7719171
+f169-83v.xml,83v,"ertaptisimum tini
+er iemium tuum l
+Ier passionem crucem⁊
+mortem tua  ¶ Der gliosã
+resurrectionem tuci  Ser
+ad mirabilem ascensionem
+tuamł ISex gram sc̃icto
+sp̃us pacliti lEn hora
+mortis succure nobis dñe
+¶En dic iudicn l. i G ecca
+tores te roganius audinos
+It pacem nobis donet tr
+It mĩa ⁊ pietas tucnos
+custodiat tr It ecclesia̾
+tuam scam regere ⁊ deffen
+scux digins tz t epoe ⁊",170,9601a0e4-6ec9-4309-b86c-069900e81fd2
+f170-84r.xml,84r,"abbẽs nros rounes ꝯgrena
+ciones illis ꝯmilsas in sc̃a
+religione ꝯseruare dignũs
+eꝵ t ciictũ ppłm x̾cinu
+pcioso languine tuo rẽdem
+ꝑtum ꝯlerucure digins t
+¶i n donum applicun⁊
+oñs gradus ecclie in sc̃a re
+lurione ꝯseruare dig ex
+Ts, ais m̃ris ⁊ ammas
+pentum nr̃oꝵ ab et̾ira dam
+puacione eripicie trt
+fructus terre dare ꝯẜuare
+⁊ multiplicare dig̃ tz Os
+cunctis fidelib dei deffun-
+ctis requiem et̾ncim donos t̾
+8̃i",171,472e1f52-7dc3-4dcd-b44d-42827cb2ec83
+f171-84v.xml,84v,"1
+nos emudire dig s
+iliida. TrlA gii.
+dei qui tollis pc̃ta mudi ꝑce
+nobis domine ¶ guus
+dei ⁊c eraudi nos domine.
+A guus dei re dona nobis
+pacem. Kyrielerson xpelerlo
+konelerson. Pr nr Et ne nos
+Usaluos fac semos tuos
+ancillas tuas R deꝰmeus
+sperantes in te ꝟ micte cis
+iomine auxilium de sio R
+Et de syon tuere cos u. Esto
+nobis dne turas fortitudinis
+ꝵ l faciẽ iniici ꝟ domine
+enudi R. Eh clamor. or̃o
+oro",172,1e54cab0-e4e5-47fd-936b-bd2eeb4308a2
+f172-85r.xml,85r,"Eus cui ꝓprium e mile
+scipe dep̾cuicionem nr̃am ut
+reri lemper ⁊ partere su
+quos delictoꝵ cathena cõstrm
+git mmiseracio tue pietatis
+absolucit ꝑ orõ.
+retende dũ mĩam
+lucim famulis ⁊ famulubz
+lius dexteramqz celestis
+auxilii ut qui te toto corde
+ꝑꝯuirtint ⁊ que digne poslu
+lant assequantur ꝑ oͦ
+delium deus omi co
+ditor ⁊ redemptor aĩc
+bus famulorum famula
+rumqz tuax remissionem",173,d0d6c073-42ce-4784-80b7-b7dfb7389c78
+f173-85v.xml,85v,"cunctorum bribue pctorum
+ut indulgenciam quam sp
+optaucant piis supplica
+cionibz ꝯsequantur Qui
+unus dregnas.
+ppta e maausi m
+oiuuma sa",174,fd283e9d-a3cc-4816-8966-36647b1e8ce9
+f174-86r.xml,86r,"itñt. Płacelo.p̃.
+86
+ileyi quoman ex
+audiet dominus",175,3d4fb223-9e9c-4c1f-8621-a4da955f0e1c
+f175-86v.xml,86v,"uocem oronis mee ¶ G ⁊ mali
+ncunt aurem suam michi ⁊in
+dieb meit inuoccibo Gircũ
+dederunt me doloret mortis et
+pcricula inferm inuenerũt me
+¶nbulacione ⁊ dolore mue
+in ⁊nomẽ dm̃ inuocami ¶ doꝰ
+libem aiam meã miscricors doꝰ
+z influs ⁊deus iir miscretur
+Oustodiens puulos dñt hu
+milicitus sum ⁊ liberquit me
+ouuertere aicimea in re
+quiem tram qz dñs benefecit
+tibi z cripuit mñciz nccĩ
+de morte oculos meos ałcicu
+mis pedet meos alapsi Sl",176,2c5e6911-e33e-45b2-8b88-9dc671db35b4
+f176-87r.xml,87r,"cebo domino in regione unioꝵ
+¶Scquiem. anͣ placebo
+dño in regione uiuorum. añ
+Beu me quici incolatus meus
+ꝓlongatus est pło dñm cum
+tribularer. añ dominus cu
+stodit te ab omi malo custo
+dicit aĩam tuam dnis p̃ Ie
+uam oculos meos. anͣt si
+imquitates obseruauens dñe
+dñe quis fustinebit p̃ depro
+fundis clamcm . A. operri
+onfitebor tibi dne in
+toto corde meo quoniã
+audi si uerbu oris mei s En
+conspectu angeloꝵ psallam
+77",177,3ce23bf7-b7d8-4b89-8dc1-4c06a3d96fdb
+f177-87v.xml,87v,"tibi adorabo ad templũ sam
+tuum ⁊ confitelyr nomini tuo
+Duper mia tua⁊ ueritate
+tuci qm magnificasti super
+ome none scin tuuEn
+quacimqz die iuocauero te
+craidi me multiplicabis
+in aĩa mẽa uirtute. S on
+fitrantur tibi dñe oe reges
+terre qz audiem̃t oĩc uecla
+oris tui t cantẽt mn uns
+domini qui magna e głia
+din. Qm̃ excelsus dñs et
+humilia respicit ⁊ alta a
+longe cognoscit Er am
+bulauero in mẽdio tribu",178,9bc92e80-4040-4d2c-8064-57f46f03ebab
+f178-88r.xml,88r,"laciome unnficabis me s
+super iram iminicoꝵ meoꝵ
+extendisti manũ tuam ⁊ sal
+num me fecit dexteui tua
+ommus retribuet pro
+me dñe mĩa tua in seculum
+oꝑa manuum tuaꝵ nede
+sp̃icias. anͣ oꝑa manuum
+tuaꝵ dommne ne despicias.
+U Requiem et̾uam dona
+eis die z Et luy ppetua lu
+crat eit. ant̾ Audim uocẽ
+de celo dicentem michi beciti
+mortui qui in dno moriu̾tͤ ͦ
+Mxgnificat. Prir . Et
+ne nos. s lilera. psalux",179,276b9621-e031-4e52-9cfa-202300d811f2
+f179-88v.xml,88v,"auda amma mea dõ
+laudabo deu meumin
+uita mea pssallam deo meo
+qͣdiu fuero ¶ Qolite confide
+in principib nec in filiis ho
+minũ in quib nõ est salus
+Sxibit spus enis ⁊ reu̾te
+tur in terram suam in illa
+die peribunt o̾s cogitticiones
+eoꝵ. Sectus cunus deut ic
+cob adiutor eius spes enis in
+domino deo ip̃ius qui fecit ce
+lum ꝑ terrtim mare comiai
+que in eis sunt ¶un csto
+dit ueritatem in scłm facit
+iudicium̃ imuricim pacien",180,752f623a-dd81-4c85-9054-6d761e47eb9f
+f180-89r.xml,89r,"tib dat escam esucientibus
+¶Gñs soluit cõpeditos dñs
+illuminat crcos. Qñt crunt
+elisos dñs diligit nistoe. S
+minus custodit aduenas pu
+pilum ⁊uiduam suscipiet ⁊
+uias prtor disperdet ¶ Si cnna
+bit dñs in secula deus tuus
+sron in gencracione ⁊ genem
+cionem. U̾ requiem et̾nam
+Ro En lux ppetuai u Aporta
+inferi ꝑ Erue domme Le Cox
+douidere. E interiri uiuenaiũ
+u̾ domme exiudi ꝵ Eacła. o ͦ
+Ncłma domine aure
+tuam ad p̾ces noflras",181,d67f182b-7a10-4f13-ae8c-2f0198b0aee6
+f181-89v.xml,89v,"quib micm tuã supplices
+depcamur at aĩam famuli
+tut i de hoc seculo migrare
+iussifli in pcis ac lucis re
+gione conftituas ⁊ sc̃orum
+tuor iubeas ee cõsortes ꝑ
+¶idelium deue omi .
+uesumut domine
+ꝓ tua pietate misere
+re aiefamule et acotagiis
+morttlitatis exutam in et̾
+ne salucicionis partem re
+stitue Per. imutatoriũ
+stitue Per
+Regem an omina uniu̾t De
+inte adoremus p̃. Denite ex
+ultenus. añt Dinge.",182,1f2c87d5-3729-4949-8ab9-b55bd50ee4df
+f182-90r.xml,90r,"Silii mea anib pa
+pe domine intellige
+clamorem meu ¶Antende
+uoi orõnis mee rex meus ⁊
+deus nicus. Qm̃ ad te orcibo
+domine mane enuidice uoxe
+meam. ¶ane astabo tibi
+⁊ uidelo qmi non deus uolẽs
+imiquitatem tu es ieq
+habitabit iurta tr mali
+gnus neqz ꝑmanebunt
+nnisti ante aulos tuos
+disti õe qui ꝯperĩtur
+miquitatem perdes omnes
+qui locuntur mendacium
+Dirum sãgumũ ⁊ dolosũ",183,b98a8d54-350f-42da-97b1-895d6b7a9204
+f183-90v.xml,90v,"abhominabitur dñs ego au
+tem in multitudinem̃ie tue
+ntroilo in domũ tuam
+adoralo ad templũ scm̃ tuum
+in timiore tuo. Lomnte de
+duc mem iufticia tua ꝓpter
+immnicos incos dinige in con
+spectu tuo uicim inca.in
+Oiii
+non est in ore eoꝵ ueritas cor
+coꝵuanum e S epulciũ
+patens e̾ qutur coꝵ lingins
+sins dolose agebant iudicui
+illos deut.¶ Secidant a co
+iucicionibz suns secundum
+multitudinciñ impietatu
+cor expelle eos qͣm irataue",184,1369409e-c1c5-49af-96e5-6851d440c320
+f184-91r.xml,91r,"runt te domine. Et letẽtur
+omnes qui lporent in tẽ meter
+num exultabũt ⁊ habitabis
+in eit¶St glicibutur in te
+omnes qui diligũt nomen
+tuum qii tu benedicet iusto
+Domine ut scuto bonẽ uo
+luntatis tue coronafli not.
+anͣ dinge dommne deus mes
+in conspectu tuo uiam meam
+a. Comu̾tere dñe⁊ crpe aĩcun
+meam qmi nõ est in morte qui
+menior sit tui . p̃. domine
+ne infurore. A Requãdo
+Omme deus meus in
+te speraui saluũ me",185,5c97cc50-5ecf-4d2f-9749-074b659df284
+f185-91v.xml,91v,"fac ex omnibz psequentibus
+me ⁊ libera me . Sequando
+rapicit ut leo aicim meu̾dum
+non est qui redinicit neqz qui
+saluum friciat Gñe deus
+neus si feciꝰ flud si est imiqui
+tris in manibz meis E ued
+didi rerabuẽtib michi mala
+decidam merito ab imnicis
+meis mnauns.¶ Dersequat
+imimmicus aiam meti ꝯp̾hedat
+⁊conculcet in terra uitã meam
+⁊ głiam meã in puluercm de
+ducat Sxurge due in nai
+tua ⁊ exltare in sinib Imumi
+coꝵ meoꝵ Et erurge dne",186,836afc2c-4547-419e-a2f2-c94ec093b4f4
+f186-92r.xml,92r,"deus meus in pceptõ qd incui
+dasti s sinagoga pploꝵ crani
+dabit te E t ꝓpter hancn
+altum regredere dnc iudicat
+pplõs ¶ udica me dñe scem
+pplõr A
+infliciam meci ⁊ sodm̃ iuocen
+ciam meam superme. Son-
+sumetur nequiaci ptoꝵ ꝑdiri
+ges iustum scrutãs corda ꝵ re
+ines deus ¶Tustu adito
+num meum adno qui saluos
+facis rectos corde . Seut in
+dex iustus fortis ⁊ pacient
+num quid iraiscitur per sin
+gulos diet i Lisi conuersi
+fueritis gladrum suum ui
+92
+X",187,8d04d76b-7adc-43a3-a6b6-7f804f0b4aeb
+f187-92v.xml,92v,"brauit arcum suum tetendit
+⁊ parunt illum St in co pa-
+rrit insamortie sagittas lucis
+ardentibz effecit Scce par
+turiit musticiã concepit do
+lorem ⁊ peperit iiquitatem
+acum aperuit ⁊ essodit
+eum ⁊ incidit in foueci quam
+fecit. Domũtetur dolor eis
+in caput eius ⁊in uextican
+ip̃ius inquitas eius descedet
+Gou fitebor domino scdi
+iusticiam eius ⁊ psallam nõi
+domini altissumi. Anͣ Leqñ
+rapiat ut leo aĩcim mẽadum
+non est que redimat neqz qui
+saluũ",188,3b80e20a-aec7-4bb2-9b1b-0dce5763dcf1
+f188-93r.xml,93r,"saluum faciat u Requiem
+etuam dona eis dñe R Et lux
+ppetua luceat eis Prmr .ł. ꝑꝰ
+arte michidue nichil
+emi sunt dies mei
+Quid e̾ homo qz magnificas
+eum aut quid apponis ergai
+eum cor tuum Uisitas eum
+diluculo ⁊subito ꝓbas illũ
+ds quequo non parcis michi
+neo dimictis me ut gluciam
+saliuam meam. Peccam.
+Quid faciam tibi ocustos
+honi. Quare posuisti me
+ꝯtrarium tibi ⁊ factus sum
+michiet ipi grauis Cur",189,7afec987-88d6-4b6a-b673-9c6b48704384
+f189-93v.xml,93v,"non lollie ptin meum ⁊quare
+non auffers imquitatẽ meai
+Eccr minc in pulu̾e doriio
+⁊ si manc me quesieris non
+subfistam R. Credo ꝙ re
+demptor meus unnt pm nouis
+simo die de terra surrectinus
+sum Et in carne mea uidelo
+deum saluatorem meum
+Quem uisinus sum ego ipez
+non alius roculi mei cospetu
+ii. Et in camne. lectio. ⁊ 7
+Edet aiam meti uite
+mee dimicta adusũ
+me eloqunim meu Lequar
+in amantudine a ie mee",190,e4b5297c-e60e-46c2-9913-30eeffe5a9d7
+f190-94r.xml,94r,"dicam deo Roli me cõdapna
+re indica michi curme ita
+iudices Nũquid bonũ tibi
+uidetur si calupineris doppri
+mas me opus manuũ tuaꝵ
+⁊ cofiluu impioꝵ adiuues.
+Runquid oculi carei tibi
+sunt aut sicũt uidet homo ⁊
+tu uides Nunquid sicut dies
+hominis dies tui ranm tui
+sicut humana sũt tempora
+Ut queras imquitatẽ meci ⁊
+pctin meum scruteris Et scias
+quia nichil impiũ fecerim
+an sit nemo qui de manu
+tua possit erure . Qui
+14",191,4c3b820a-e410-4a5a-b3ef-1fed2e611a4a
+f191-94v.xml,94v,"lazarum resuscitasti anconuniẽ
+to fetidum. Cu eis domine dona
+requiem ⁊ locum indulgecie
+Requiem etera donaeis dñe⁊
+lux ppetuai luceat cis Tu eis.
+anus tue due fecerũt
+me ⁊ plasmauerunt
+me lotum incucuitu ⁊ sic re
+pente p̾cipitas me mxmẽto
+queso ꝙ sicut lutũ feceris
+me ⁊ in puluerem reduces
+me Ronne sicut lac mulsi
+sli me ⁊ sicut caseum me coai
+gulasti. Pelle ⁊ camibus be
+stisti me ossibus ⁊ nerins
+compegisti me. Uitam ⁊ mi",192,2b5e425a-5f3a-4656-a7c1-29a22ec730a0
+f192-95r.xml,95r,"scaicordiam tribuisti michi
+uisitacio tua custodiunt sym
+meum Re Domine quando
+ueneris iudicare liam ubi me
+abscondam a uultu ire tue Qz
+peccaui minis in uitamea
+Cõmissa mea pauesce rante tr
+erubesco dum uen̾i̾s indicare
+noli me ꝯdempnare. Quia pec
+aui. Autiͣ In loco . p̃.
+ominus regit meꝵ
+nichil miclui deerit
+in loco pascue ibi me colloca
+int Sluper aquai refe
+ctionis educaunit me aĩam
+meam ꝯu̾tit ¶ Meduxit
+35",193,45076817-f9de-4b97-9232-947182050b3c
+f193-95v.xml,95v,"me super semictas iusticie ꝓ
+pter nomen suum i Dam
+⁊ si ambulauero in medio
+umbre mortis non tumelx
+mala qm tu mecũ& ¶lir
+ga tua ꝑ luculus tuus ipi
+me consolata fut.¶S am
+sti in conspectu meo mẽsam
+aduerfus eos qui tribulãt
+me ¶Empingasti moleo
+cuput meum ⁊ calix meus
+Inebricins ꝙͣ preclarus es
+tmĩa tua subsequet ͦ
+me omibz diebz uite mee
+tut inhabite in domo
+dm̃ in lag̃itudinẽm dierum",194,bb91ae01-4a06-405c-b1d6-aa04f397157d
+f194-96r.xml,96r,"AIn lor pascue ibi me col
+locauit. ã Delicta. psalꝰ
+dte domine leuaui
+niam mea deus mes
+in te confido nõ exubescam
+¶Seqz iidecit me iminici
+mei remm uniu̾si qui susti
+nent le nõ confundantur
+ofundãtur om̃e iniqua
+agenter suꝑuacue.SI ias
+tucr dne demõstra michi
+⁊ semictas tuas edoce me
+Onigeme in uepitate tua
+Aoce me quia tu es deus sal
+uator meus ⁊te sustimu
+totadie y Semmnisce mise
+96",195,b7046ebd-d1da-47ba-a432-c3c786b8c07a
+f195-96v.xml,96v,"yacionum tua dñe ⁊ miaz
+tuaz q̃ ascculo sunt¶
+licta imiẽtutis mer ⁊ iiio
+xicias incris ne meminens
+Sddin m̃a tuam me
+mento meitu ꝓpt̾ bonitate
+tuam dne . Sulcs ⁊ reitꝰ
+dominus ꝓpt̾ hoc legẽ dabit
+delmꝙͣtib in uici . O mget
+mansuetos in iudicio docebͭ
+mites uias suas ¶mu̾se
+uie domimi mĩci ⁊ ueritas re
+quirentib testamẽtu eie ⁊
+teslimonia enis. Sropter
+nomen tuum dñc ꝓpiciabens
+pecrato meo multũ ẽ enim",196,532dceb0-5ebe-4dfb-abe1-cca1bf30e959
+f196-97r.xml,97r,"Tuie ẽ homo qui hunet
+dini legem slatuit eiin uia
+quam elegit. A mina eius
+in bonis demorabitur ⁊senie
+enis hereditubit suril N ir
+mamentũ esl uns timẽtib
+eum ⁊ beslamẽtu ip̃ius ut ma
+infestetur Illis Sculi mei
+semper ad dñm qm ipe euellet
+de laqueo pedes mror.¶S
+spice in mer miserere mci qz
+unicus ⁊ paupersum ego-
+¶nbulaciones cordit mei
+mułtiplicate sunt de neccessi
+tatibz meis erueme. E ide
+humilitatẽ mecni ⁊ la borem
+4",197,b0f21269-d75c-4f1b-bff6-b23da9269b70
+f197-97v.xml,97v,"meum romucte uniuersa
+delicta mea ¶S espice iui
+cos meos qͣm multipliccit
+sunt rodio iniquo dderunt
+me. OIustodi aĩam mec̃
+zerue me non eru besca qui
+speraut inte  Ennocẽtes
+zrecti adheserunt micħi qz
+sustimin te l Aibera deus
+ffrael ex omnib tribulacio
+nbus suis . anͣt delicta
+fuuentutis mees Ignoracias
+meas ne memieris iomine.
+ominus. añ. Tredo.
+Illuminacio mea ssa
+lus mea ꝙͣ tinebo¶ Qũs",198,ae90a3e3-0899-496e-bda1-dc2155bae290
+f198-98r.xml,98r,"ꝓtector uite mee a quo trepi
+dalo ꝯ Quin appriant fuꝑ
+me nocentes ut edit cames
+mecis. Qui tribulãt me
+Immici ip̃i infranati sunt
+⁊ ceciderunt ¶Sli ꝯsiftant
+adusum me castra non ti
+mebit cormeu Si exur
+gat adu̾sum me plium in
+hoc egosperribo ¶ nam
+pecii a domino has requira
+ut inhabitem in domo din
+omnibz diebz uite mee
+¶¶tuideam uoluntatem
+din ⁊ uisitem templum eius
+in absconditi me in ta
+38",199,7896cbf9-71fc-46c6-9e44-88bd88bd26c0
+f199-98v.xml,98v,"bemaculo suo in dicmaloꝵ
+ꝓterit me in abscondito ta
+bernaculism ¶ En petra ex
+altiunit me dmint exaltauit
+cciput meu̾ super minicos
+meos. EIrcirm ⁊ imola
+in in triberciculo eius ho-
+sticim uociteracionis camta
+bo ⁊ psalnum dicaͣ domino
+mudi dñe uoce incam
+quei clamain ad temiserere
+mei recaudi me ¶ ibi
+dixit cor meum exquisunt
+te facies mea faciem tuam
+domine requiram
+autas faciem tuam ame.",200,9f9906a0-cbce-485c-97f8-20c35ce0b6cc
+f200-99r.xml,99r,"ne declines in ia aẜuo tuo
+diutor meus esto dne
+ne derelinquas me neqz despi
+ciais me deus salutans mes
+Din pr meus ⁊ nirmea
+depelinquerũt me doꝰ aute
+assumpsit med̃ Negem
+pone michi due inuia tuaz
+dirige me in semicta recta
+ꝓpter imimico tuos I.
+trudideris me in aĩcis tribu
+lancium me qm infuirere
+runt in me testes iniqui⁊
+montita est imiquitas sibi
+Ol redo uidere boncidin in
+terrauiuenciu ¶ ypeta
+99",201,500e62c0-9477-4781-9865-1b9905a99ba0
+f201-99v.xml,99v,"din biriliter agre ⁊ confor
+tetur cor tuum ⁊ sustine do-
+minum. ã. Credo uidere
+hona dĩ in terra uiuẽcum.
+S. Imme eoꝵ in bouis de
+morentur E Et semeneoꝵ
+hereditet tr̾am. P̾rim̃ .l. qrͣta.
+Esponde michi Quã
+tas habro uquita
+tes ⁊pecccita scla mea atqz
+delicta oftende michi Cur
+faciem tucun abscondis ⁊
+arbitcaris me imintami
+tuum Contra folium qd̾
+uento rapitur ostendis
+potenciam tuã ⁊ flipulam",202,bc625b4a-a473-48ec-929d-2e4d9bbd9991
+f202-100r.xml,100r,"ficcam ꝑsequeris saibis
+enm contra me amaritud
+nes ⁊ ꝯsumere me uis pctĩs
+adolescentie mee posinsti
+in neruo podem meum ⁊ ob
+scruasti omnes semictas
+mecis ⁊ uestigia pedũ meoꝵ
+ꝯsiderasti Qui quasi putre
+do ꝯsumendus sum ⁊ quasi
+ueflimetu ꝯd̾ comeditur a
+tineu.I heu michi dñe
+quia peecam ninis in uita
+mea quid faciam misex ubi
+fugiam insi ad te deus meꝰ
+miserere mei Dum ueneris
+in nouissimo die u. Aĩa
+100",203,5b905cef-3ba9-4695-835d-e77d04602ac9
+f203-100v.xml,100v,"mea furbata est uelde sed fu
+domme fucture et. Sum uente.
+Omo natus de mulie
+re breu unies tepore
+repletur multis miseriis.
+Qui quasi flos egreditur ⁊
+ꝯteritur ⁊ fugit uelud unib᷑
+⁊ numꝙͣ in eodem flatu per
+manet Et dignum ducis
+suꝑ huniscemodi aperire
+oculos tuos ⁊ adduce̾ eum
+tecum in udiciũ Quis pt
+sacere mudu de minundo
+ꝯceptum semine Ronne
+tu qui solus es Breuẽs dies
+hominis sut nũs mẽsrum",204,4a1968cd-c1e9-4658-9348-35c1663fa484
+f204-101r.xml,101r,"cius apud trest conftitinsti
+temimos eius qui p̾teuri nõ
+poterunt Recede paululum
+ab eo ut qurescat donee optu
+ta uenict ⁊ sicut merceuna
+in dies euis. U Rerecorde
+ns peccrata mea domine dum
+uenit iudicare scli ꝑ Ignem
+R Non intres in indiciũcum
+seruo tuo domie dũ uenis.
+is michi hoc lectio
+tribuat ut in inferno
+ptegas meꝰ abscondas me do
+nec ꝑtranseuit suror tuus ⁊
+conslitucis michi tempus
+in quo retorderis mei Putas
+107",205,eaba0164-8b20-4ce6-8776-4ae7b41df28f
+f205-101v.xml,101v,"CUI
+ne mortuus homo rinsũ ui
+uat. Cunctis diebus quibus
+nuno milito expecto donet
+uennat in mutacio mea Bu
+cbis me ⁊ ego repondebo ti
+bi Operi manuum tuaꝵ
+pornges dextera Cu quĩdem
+gressus meos diminierasti
+sz parre pecratis meis. R
+demine secundũ aclũmeum
+noli me iudicare nichil di
+gnum in cospectu tuo egi ddes
+de pror meneflate tui us tu
+dous de leas iniquitatos nieris
+Uꝰimplius lauaine due
+nab inufticia mea ⁊ adelicto",206,f92f3d3c-e530-492f-a7d3-f325c4873bcd
+f206-102r.xml,102r,"iuanitatete insamas sal
+mes munda me. Neo deptor
+nfihoet
+Complaceat
+ypectans expectaui do
+miũ ⁊intendit mi
+chi.¶l ermidunt preccs
+meae ⁊ edurit me delacumi
+scrie de lutofecis E ⁊sta
+tuit supra petinĩ pedes ipeds
+edurerit greslus meoc Elt
+minisit in ormeu cantiea
+nouum cramen deo noflro
+Sl i debut multir lune
+bunt aperaibunt in uno
+¶Seatut uir anꝰ e nomẽ
+din spes oius snen respexit
+102",207,2829222a-82d3-417e-a6b2-236820503dc5
+f207-102v.xml,102v,"sus ¶ Mulia fecisti en dñt
+deur meus mirabilis tũci
+cogitacionib tins nõe qui
+similis sit tibi / A iiuciti
+in ⁊ loquutus sum mulcipli
+catisunt suꝑ ñm Sa
+crficium roblacionem no
+liusti aures antem ꝑficicli
+michiꝰ Solocaustum ⁊ ꝓ
+peccato nõ postulafli tunc
+diri ecce uemo en capite
+libri scriptum ẽ demeut
+facerem uoluntatem tuam
+deus meus uolins legem
+tuam in medio cordis mei
+¶Slmniciain Iusticiutuã",208,ed2e5278-2910-481d-a26d-7d350c83a6e7
+f208-103r.xml,103r,"in ecclia magna ecte labiai
+mea non phibelo domine tu
+scifti.. Aufliciam tuã non
+abscondi in corde meo peritai
+tem tuã ⁊ salutare tuu̾ dixi
+¶ Non abscondi mĩam tu cĩ
+⁊ ueritatem tua acensilio
+multo ¶lu aute dũe ne
+longe facias miseraciones
+tuas amemĩa tuas ueritas
+tua semper sus ceperunt me
+Min cirundederũt mema
+la quor non est nũs ꝯp̾hende
+runt me iniquitates mee⁊
+non potin ut uiderẽ ¶ul
+tiplicati funt sup capillox.",209,62ac6b9c-68ba-455a-9ff0-94fe3560ec7b
+f209-103v.xml,103v,"X
+capitis meis cor meum dere
+linquit me. Gomplaceat
+tibi due ut cruais mẽ diie
+ai adiuutidum me respice
+lontudantur ⁊ reuereri
+tur simul qui querũt aĩa
+meti ut aufferãt en Sũ
+tantur retrorsum ⁊ reuere
+antur qui uolunt michi
+malci ¶ Aerãt ꝯfeltim
+confusione suõ qui dicũt
+michi eugeenge. El ue
+tent ⁊ letentur super te q̾
+querentes te ⁊icunt sẽpa
+manificetur dñs qui dili
+gunt salutare turi Si",210,694b15ce-dde4-40f9-8125-c366e0365b3a
+f210-104r.xml,104r,"autem mendicus sum⁊
+pauper dũs sollicitus es
+mei.¶E diutor meus et
+ꝓtector meus tu es deꝰ mes
+ne tardaueris. añ. Com
+placeat tibi due ut erucis
+domine ad adiuuandume
+respice. añ. sanadnie.
+Satus qui intellui
+super egenũ ⁊ prupe
+yem in die mala liberrunt
+em dñs ; Qns ꝯseruet
+enmi ⁊ uiuificet eum ⁊ becitu
+fuciet eum in terrai riton
+trãdut eum in aici iin
+corum eius . Gomnnus
+104",211,9c53b97e-815a-4ceb-bbf8-c7271b6a0efd
+f211-104v.xml,104v,"opem feratilli super lectum do
+loris eis uinu̾sum strritum
+euis uersallim infirmmitate eiꝰ
+E godixidne misere mei
+sana aiam meam qz pecccum
+tibi  Emimamei duerũt
+malaimichi quado morietur
+dperibit nome eius. Et si
+Ingrediebatur ut bideret ua
+na loquebatur cor eis ccure
+gabit iniquitatẽ sibi ¶Sgre
+diebatur foras ⁊ laquebatur
+in id ip̃mł Ss duersum me
+susuralant os suminci mei
+adurisum me cogitabant
+mala michi erbum",212,544bea04-76de-4bd2-b2f1-073de29103ff
+f212-105r.xml,105r,"iniquin cõflituerũt adu̾sum
+me m̃quid qui dorunt non
+adiciet ut resireat. S tem
+homo pacis mee in quo spera
+in qui ẽdelrit panos meos ma
+gnificauit suꝑer mesupplan
+tacionem  Iu autem dñe
+miserere mei rreluscitame ⁊
+retribuam eisEn hoc camo
+in qm uoliusti me quomam
+non gaudebit inmicus meꝰ
+super me ¶e aitem ꝓpter
+innocencia mea̾ suscepisli s
+confirmafli me inconspectu
+tuo ineternuim.¶ Senedictus
+dñs deus isiuel a seculo et in
+105",213,65d0d1fc-b48a-4c69-a411-0273a00d6982
+f213-105v.xml,105v,"seculum fiat fiat ã. Sana
+domine aiam meã qz peccram
+tibi. anͣ. sitiuit. ꝓsalmꝰ
+remad modũ defide
+rat ceruus ad fontes
+aquaꝵ ita defiderat amic
+mea ad te deur. Sitiuit
+aia mea ad deuni fontem
+uiuum qu uenia ⁊ apparebo
+ante faciem dei ¶Aurrũt
+michi lacume mee panes
+die ac nocte dum dicitur mͣ
+quotidie ubi e de ꝯtuus ¶
+recordatus sum reffudi in
+me aĩam meam quonicu
+transibo in locũ taberncicli",214,1c6b1b1b-aea8-480b-9213-5356656b123d
+f214-106r.xml,106r,"admirabilis usq ad domũ
+dei ¶ En uoce exultacionis
+⁊ confessioms sonus epu-
+lantis. Ouare triftis es
+aĩa mea ⁊ quare cõturlus
+me S perr in deo quonia
+ad huc confitebor illi salu-
+tare uultus mei ddeꝰ meus
+SAd ine ip̃m aĩamea
+conturluta e ꝓpt̾ecimemor
+ero tui de teriti iordanis et
+hermonii amonte modico
+Al byssus abyssum io
+cat in uoce catharattrum
+tuciz¶Smma excelsa
+tua ⁊sluitus tuni luꝑ me",215,e613265d-1ab5-4894-b88d-ade8f89c775b
+f215-106v.xml,106v,"tranficrunt e En die main
+deunt diis miam suci ⁊ nocte
+ciniticũ enus ¶S pudine oro
+deouitemee dicam deo susce
+ptor mens et Oucire oblitꝰ
+et mei ⁊quare contultatus
+nicedo dui affluit mem̾m
+um cõsiguntur
+osla mea eyplauenĩt michi
+qui tribulant me imima
+men Gum dicũt michi ꝑ
+singulos dies ubi e deus tuus
+¶Quare taistis es aĩamea
+⁊ quare ꝯturbus me ¶pari
+in dex qũi ad huc consitebor
+illi saluture uultus meixdes",216,52bf6048-8357-49cd-9ebe-02e636174fab
+f216-107r.xml,107r,"meus. ã situnt cĩamea ad
+deum fontem unum qͣn ueniam
+ꝑ apparebo ante faciem̃ domini.
+R Retirũns bestiis ains con
+fitencium libi ꝵ Et aĩcis ptiu
+poꝵ ne obluyscaris in finem Pr
+nr̃ Et ne nos.
+pus meus attenicibi
+tur dies mei breuiabuntur
+⁊ solum michi supest sepłcrũ
+Non peccaui z in amaritudi
+nibz moratur oculus mneus
+Liberci me dñe ⁊ pone me nixta
+te ⁊cuuis uis mcinꝰ pugnet
+contrame dies mei turmsie
+runt cogitaciones mee dis
+107",217,08f3ebae-ae3b-4298-a156-baff03e554dd
+f217-107v.xml,107v,"sipate sunt torquentes cor
+meum Roctem uerterut in die
+s ruisum post tenebras spero
+lucem si suslimero ĩfernus
+domus meaz est ⁊in tenebris
+flrciui lectulum meu Putre
+dini dixi Pater meus et mr̃
+meus soror mea uermnibur
+Ubi est ergo nunt p̾slolacio
+meu s paciencia meu tu es
+uersus
+domine deus meus. Uersus
+Requiem eternam donci eis do
+mine ⁊ lur ppetuc luceat eis
+Aa. Qui laz arum resuscitasti
+amonuniero setidũ tu eis dona
+requit. Et sur. sectio oitas",218,177b805e-2ac7-4a2e-8092-50607dd36261
+f218-108r.xml,108r,"Elli me ꝯsumptis car
+nib adhesit oe meu
+Aerelicta sunt tantumõdo
+labia circa dentes mecs mi
+seremim meimisereni mei
+saltem uos anna mei quia
+manus din tetigit me Qua
+re ꝑlequimini me sicut deus
+ꝑ carnibz meis saturamim
+Quis michi tribuat ut scri
+bentur sermones mei Quis
+michi det ut exarentur in
+libro stillo ferreo aut plũbi
+lamina uel scelte sculꝑitur
+in cilice scio enim ꝙ redem
+ptor meus unit si nouis
+108",219,48f082f5-2c7e-481b-8ef5-d57240f23a44
+f219-108v.xml,108v,"suno dĩẽ de teri sumertimuis
+sum Quem uisurus sum ego
+ip̃e poculi mei cõspecturi sunt
+⁊ non alius reposita est hec
+spes meain simi meo. R
+Peccantem me quotidie mnoͬ
+repenitentem timior mortis cõ
+turlat me Qr in infero nulla
+e redemptio miserere mei deus
+psaluaine u deus in noĩe
+tro saluum mefac dñe et in
+mia tua libera me Q. u Gͭͣ
+dare de uulua ẽduxi
+sli me qui utincu
+ꝯsumptus eem ne oculus
+meus uideret ssuissẽ quasi",220,96e7c21a-cc52-4450-aa1c-5a57682a043b
+f220-109r.xml,109r,"non cẽm de btero frniflatus
+cũ tumulum Numiquid no
+paucitas dieꝵ meoꝵsimetꝰ
+breui Dimite enio me doͤ
+ut plangam paululũ do-
+lorem meum antequ
+uadam ⁊ non reuertax ad
+terram tenebrosam ⁊ oꝑtã
+mortis caligine Terram
+miserie ⁊ tenebraꝵ ubi uni
+bra mortis ⁊ nullus ordo
+s sempiterius horror inha-
+bitane Re Libera me dñe
+de morte eterna in die illa tre
+menda Quando celi morie-
+di sunt ⁊ terra Dum ueins.
+109",221,88869bdf-83a1-40a4-a044-fa8027c15175
+f221-109v.xml,109v,"Iudicare sclin per Ignem u
+diey illa dies ne calamita
+tis zmisere dies magna et
+amara ualde Quando. u
+Quid ergo miserrimus quid
+dicam uel quid faciam dum
+nil lom perferam ante tãtu
+iudicem Sum uemĩt u Tre
+mens factus sum ego ⁊ tie̾o
+dum discussio uenent atq
+uentura mi Quando
+Uix iustus salucibitur rego
+miser ubi parelo du uen̾is
+U Creatoroimirer deut qͥ
+me delimo terre formtifti ⁊
+mira biliter ꝓprio saguine",222,c51fc738-c0a0-48e3-be7f-b158bb36975d
+f222-110r.xml,110r,"redemisti corpus qz meum
+licet modo putrescat de sepul
+ero facies in die iudicii resusa
+trm exudi exridi excuidi me
+deus ut aĩam mea m sii
+abralx patriarche tui iubeais
+collocum. Li berame domine
+Anͣ Audiut uocem de celo dice
+tem E Beccti morti qui
+in duo moriutur
+añt Exultaibunt domino
+ossa humiliata. Miserere
+merdeus. añt Exaudi.
+s decet hympmus des
+in sron ⁊ tibi reddet
+uotum in Ihli mũdi",223,cb781574-7d1b-45c5-a96f-287d73d0c870
+f223-110v.xml,110v,"deus oronem mea ad te omĩs
+caro uemet l elaimquor
+p̾ualuerũt super nos simpie
+tatib nr̃ĩs tu ppiciaberis
+¶eatus que elegifli pas
+sumpsifti inhabitabit in
+atriis tins ISeplebimur
+in bonts domus tue scm̃n est
+templum tuũ mirabile nre
+quitaite. Sxiudi nos deue
+salutarit nr spes oñ finiũ
+terre dinncra log̾e i Ere
+parans mõtes in uirtute
+accintus potẽcia qui contur
+bas ꝓfundum maris sonum
+fluctuum enis ¶ Eurbabũ",224,54fd9cc4-3e8a-4915-ab7a-422ab10f21fb
+f224-111r.xml,111r,"tur gentes s hinebũt qui habi
+tant terminos asignis tins
+exitus matutim ⁊ uespere dele-
+ctabis ¶isitasti tercin⁊
+Inebricsti eam multiplicristi
+locupletare etim ¶S lumen
+dei repletum ẽ aquis parasti
+cibum illoꝵ qm itai e p̃particio
+enie q̃ Siuos eis iebricins
+multiplica gemimina eius in
+stillicidiis eius letabitur ger
+minaiit ĩ Senẽdices corone
+agni benignitatis tue ⁊cc̃ĩpi
+tun replebuntur ubertate
+S inguescet speciosa deserti⁊
+exultacione colles accingẽtur
+419",225,18ebffea-22a0-426a-a7ad-b57bb1b5980f
+f225-111v.xml,111v,"nduti sunt arietet o
+mum ⁊ ualles habũdabũt
+frumẽto clamabut dent
+hympnũ dicent . Dñt
+Exaudi deus oronem meti
+ad te om̃is crro remet. a.
+Me fuscepit dexteratuai do ͤ
+Seus deue meus. AA
+Eo ⁊ portainferi.
+dixi in dimidio dieꝵ
+meoꝵ uudã ad portas ĩfen
+Quesnn residuũ amior
+meoꝵ dixi nõ uidebo deum
+in terra uiuẽcium i Non
+aspiciam hoĩem ultraꝵ ha
+bitatorem quietis",226,d49a4350-82c6-4227-a240-ccc6986e8756
+f226-112r.xml,112r,"racio mea ab lata ⁊ conuo
+luta est ame qua si taber
+naculum pastoꝵ. Grecis
+sa est uelud attexante uita
+mea dum adhuc hordirer
+succidit me. Oe mane
+usqz ad uesperã fum es me
+spercibam usq ad mane qiͣ
+les sic contruint omĩa ossa
+meci . Semtne usqz ad
+uespertm fimey me ficut
+pullus hyrundime fic cłai
+mabo meditubor ut colũba
+Attenuan sunt oculi
+mei suspicietes in excello
+omineuimi parior respõ
+512.",227,d0237f7b-1ec2-4a48-b450-15649b329a22
+f227-112v.xml,112v,"de ꝓme quĩd dicam aut q̃d
+responde bit michi cum ipse
+fecerim ¶ Secogitabo tibi
+ommes anios meos in ama
+ritudine amie mee. O ne
+si sic uiuitur ⁊ in talibz uita
+spũs mei corripies me ⁊ uiui
+ficaibis me eccei pace ama
+rissinca u autem dñe
+enusti aĩam meam ut non pe
+riret piecisti post tergũ tuu̾
+omina peccata meci ¶ua
+non infernus confitebiturt
+neqz mors laudabit te non
+expectabunt qui descendunt
+iii lacum ueritatem tucĩ",228,f3508efc-d476-4f2e-8e35-316469c224eb
+f228-113r.xml,113r,"uens biuens ip̾e confitebitur
+tibi sicut rego Aie pater fi
+liis notcm faciẽt ueritatem
+tuc T
+tuam . Somme saluũ me
+fac ⁊ psalince nr̃os cantabims
+anictis diebz uite nostre in
+domo donuii. a Aporta in
+feri enie domine aĩcis eoz A
+Ommis spũs laudet dnii . p̃.
+Laudate dnni de celis.
+Requiem et̾nam. 2 Et lur
+ꝓppetus añt Ego sum resur
+rectio ⁊ uita qui credit in me
+eciam si mortuus fuerit uiuet
+romins qui uiunit ⁊credit in me
+non morietar ineterum.
+p̃.
+CXI",229,079cf549-34e1-4d8b-a573-7b0ef1c6518a
+f229-113v.xml,113v,"Deuedictus. U Requiem
+eterncim. Ex Si luy ppetuti
+U aporta inifer R Eiue
+domine. u Qedo bidere. ꝵ
+in terra. Et Domine exandi
+R. Et clamormeus. Oraᷤ
+Nilma domine.
+Ens ueme largitor
+ndelium deus oni.",230,e0df542f-f928-45ac-ac53-9702d1f30088
+f230-114r.xml,114r,"Iniciũ scci enugłii scdm̃
+iohãnẽ. Gsiã. tibi domĩe
+⁊ principio eiat uer
+bum ⁊ uerbum erat",231,7bde62e3-12e2-4d53-af26-0a7dcbec776b
+f231-114v.xml,114v,"apud deui ⁊ deus erat uer
+bum hoc erat in principio a
+pũd deum omĩa per ipsum
+sacta sunt ⁊ sine ip̃o factum
+est nichil Quod factum ẽ in
+ip̃o uita erat ⁊ uita erat lur
+hon ⁊ luy in tenebris lucet
+⁊ tenebre eam nõ ꝯphenderũt
+fuit hono missus adeo cui
+nomen ercit iohannes hic
+uent in testimoniũ ut testi
+momum phiberet de lumie
+ut omnes crederent ꝑ illum
+Non erat ille lur s ut testio
+mum phiberet de lumine grat
+lux uera que illimnat om̃oz",232,6ad2641b-44e9-472e-96a4-87d6ee52ccb9
+f232-115r.xml,115r,"hoĩem uemente in hũc mũdĩ
+In mudo exat siũdus ꝑ ip̃m
+factus est ⁊mũdus cum non
+cognoinit in ꝓp̃t ueint ⁊ sineu
+non receperũt Quotquot aut
+receperut eum dedit eit̾ pote
+statem filios dei fieri hiis qui
+credunt in noĩe ens qui non
+ex sangumibz neqz cy uolup
+tate carins neq ex uolu̾tate
+uin sz exdeo nati sũt ⁊ uerbũ
+caro fcictum e Et habitauit
+in nobis ⁊ uidimꝰ gliam eiꝰ
+glicim quasi uingeniti a
+patre plenum gre ⁊ uenitatis
+Re. Te inuocanius uts. 0ͦ",233,9fdcd8b8-3f4b-4537-9e12-72e72bcaf646
+f233-115v.xml,115v,"xe
+rotecto in te spercicni
+deus sine quo nichil
+est rulidum nichil sãctum
+multiplica super nos miaz
+tuamn ut te rectore te duce
+sic transeamus per bona
+temporalia ut non admi
+ctamus eterna Per.",234,58d170dd-ade9-44cb-a399-e961dc5e6152
+f234-116r.xml,116r,"116
+Ssecro te dñci
+sanctu maria
+mater dei pieta",235,39c69822-c91a-49f2-92cc-6469b2feb454
+f235-116v.xml,116v,"te plenissima siuum regis
+filia mater gliosissima mr
+orphanor consolacio desola
+toꝵ dia errãcium salus in te
+sperrincium dirgo ante ꝑtũ
+uirgoin ptu Duirgo post par
+tum sons mie fos salutis
+⁊gratie fons pietatis ⁊ le
+ticie fons cosolacioie din
+dulgencie rogo te per Illain
+sanctam ineffabilem leticiai
+qua exultaiit spũs tuus in
+Illa hora quando tibi per ga
+brielem archangelũ annũ
+ciatus finit ⁊ in te conceptus
+silius dei Et ꝑillũd diuinu",236,338160eb-2a99-43cc-a0ba-715be8442859
+f236-117r.xml,117r,"istexium quod tunt
+operatus est spũs sits
+Et per illum ineffabi
+lem gratian pieta tenz
+niaus amorem et lnũli
+tatem per quas filius
+tuus descendit accipere
+humanam caruem ĩ uene
+rabilissimo utero tuo ke
+in quib te respexit quã
+do te commendauit sancto
+iohauni apostolo et euau
+geliste et quando te exal
+tauit super choros ange
+lorum Et per illam sã
+ctam ieffabilem hũiliti",237,f59f4353-daaf-4c62-8d1b-6d8adc9a1fa8
+f237-117v.xml,117v,"In qua respondisti aochã
+gelo gabrie li dicens ette an
+cilla domini fiat michi seꝯd
+uerbum tuum. Et per illa
+gloriosissima quindetim
+gaudia que hũisti defilio
+tuo dño nr̃o ihesu xp̃o. Et
+per illam sanctã et maximã
+compassionem et acerbissi
+mum cordis dolorem quẽm
+hũisti quando filium tiuĩ
+dinũ noftrũ ihesum xp̃m.
+ante crucem nidatiun
+et in ip̃a eleuatũ uidisti
+pendentẽ crucifixũ uulue
+ratum sicientem fel apponi",238,d4d1eefb-a2fc-4796-9dcd-67be84e2166d
+f238-118r.xml,118r,"Hely clamantem audisti
+et morientem uidisti Et
+per qiũq uulnera filii tui
+Et per contractionens suo
+eum p̾minio dolore uulne
+dum Et per dolorẽ quẽ
+habiuisti quando uidisti
+eũ uulneraoi et per fon
+tes sangus sui et ꝑoinez
+passionem eus et ꝑoez
+dolorẽ cordis tui et pen
+fontes la conauũ tuaꝵ
+Ut cũ om̃ibz sanctis et
+electis dei uemias et festi
+nes in auxiliũ meum et
+in omibz orõnbz et reꝯue",239,14111496-8d79-4964-be39-78c32c9a1ad5
+f239-118v.xml,118v,"sitis meis et in om̃ib an
+gustiis et neccessitatib
+meis et in om̃ib illis reb
+in quibz ego sum facturus
+locuturus aut cogitatu
+rus omibus diebus ac not
+tibus horis atqz momẽtie
+bite mee. Et michi famlo
+tuo impetres adilecto filio
+tuo complem̃tum omi
+mĩa et consolacione om̃i
+consilio⁊ aduitorio om̃i
+benedictione et sanctifica
+coe omi salutatõe pace ⁊
+prospitate oi gaudio et
+alacxitate Et abudãtia",240,15b2dc44-f8bb-419f-993f-e33998432590
+f240-119r.xml,119r,"om̃i bonorum spũaliũ et
+corporaliũ Et gratiam scũ
+spũt qui me bene ponnai
+disponat aiam meam cu
+stodiat corpus regat mẽ
+tem exigat mores compoãt
+actus probet uotua et deside
+uia meai perficiat cogita
+cões sanctas instituat p̾tĩ
+ta mala indulgeat pre
+sentia emendet futura
+moderetur uitam honestã
+et honorabilems michi tri
+buat fidem spem ⁊ carita
+tem caftitatem hũilitatẽ
+et patientiam mñ tribuat.",241,10c31cdc-96b3-432a-88a4-d49f46f92a14
+f241-119v.xml,119v,"uinqz sensus corporis
+mei regat et protegat Se
+xten opera mĩe complere
+me faciat Duodecim
+ayticulos fidei et decem
+p̾cepta legis firmiter te
+neye et credere me faciat
+Et a septem pcc̃is c̃mĩali
+bz me liberet et deffeudat
+usq in finem Et in noiis
+simis diebz meis ostende
+mͥ beatam faciem tuam
+et amũcies michi diem
+et horam obitus mei Et
+hanc orõem supplicem ex
+audias et su scipias et",242,5e0ce6fd-9cd2-4c16-9e84-57bd62eabb35
+f242-120r.xml,120r,"uitam eternam michi
+luibuas Andi et exaudi
+me dulci ssima u̾go ma
+ria mr̃ dei et mĩe ilmen
+Reata apolonia gra
+ue tormẽtum pro domino
+sustinuat primo tiranii
+extrarerũt dentes eus
+cũ malleis ferreis. et cũ
+esset in illo tormẽto orauit
+ad domiiũ ihm̃ xp̃m ut
+ꝯuicũq nomẽ suũ supra
+se portaret malũ in dẽtib
+non sentiret. Ora prono
+bis beata a polonia Ut.
+digni efficiamur ⁊cͣ.",243,f74813d9-0938-40cc-a15a-592cacf5159f
+f243-120v.xml,120v,"inmpotens sempi
+terne deus qui bea
+tam apolomã u̾gniẽ et mar
+tirem tuã de manib ĩui
+corum fuorũ libera sti et
+eius oracionẽ eraudisti
+te queso per intercess onẽ
+eius ⁊ beati laurentn mͬ
+tiris tui simulqz ẽnum fctõ
+rũ et sctarũ ut dolorẽ aden
+tibus meis expellas sanũ
+⁊ in columem me ipsum.
+efficias. ut tibi ctraciaꝵ
+actiones referre ualeain
+in eternum. Per dmni.
+ur̃m chm̃ xxmii.
+ur̃m ihm̃",244,5ad2486e-f7df-4012-9119-3a1d820f81d3
+f244-page-de-garde-recto.xml,page-de-garde-recto,,245,333660b2-f098-4423-9dae-b2284a765b9e
+f245-page-de-garde-verso.xml,page-de-garde-verso,,246,a632091f-eadc-44fa-b126-1eea9c6c8c7c
+f246-page-de-garde-recto.xml,page-de-garde-recto,,247,584965ab-4e3f-453d-b214-faf371824f41
+f247-page-de-garde-verso.xml,page-de-garde-verso,,248,9446a5b9-bc60-424b-b8fb-b68533b64f24
+f248-contreplat-inf.xml,contreplat-inf,,249,de656211-585a-48a4-a8ef-836d33d1e168
+f249-plat-inferieur.xml,plat-inferieur,,250,84037d38-5ca8-4025-88c5-20adb6855574
+f250-dos.xml,dos,"LAI.
+NOUU. ACO
+32DI",251,cc67f359-78d0-42d8-8d5d-068a66ec3c2e

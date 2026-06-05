@@ -1,79 +1,1025 @@
-page_id,folio,text,page_ordering,arkindex_page_id
-f0-plat-sup.xml,,,1,d13d781d-4fa2-486d-8674-c74541f5840f
-f1-contreplat-sup.xml,,,2,38d2dcf2-81ca-431b-b79b-171dd3d9c521
-f2-1r.xml,1r,Cest paoseñeco hemo a parsient e e u aiuoi solle facps Dalchori de Rhan,3,76c0195d-3aee-41bc-a0af-dafb51c0b0b3
+page_id,CoMMA_folio_name,text,page_ordering,arkindex_page_id
+f0-plat-sup.xml,plat-sup,,1,d13d781d-4fa2-486d-8674-c74541f5840f
+f1-contreplat-sup.xml,contreplat-sup,,2,38d2dcf2-81ca-431b-b79b-171dd3d9c521
+f2-1r.xml,1r,"sẽ que Iame dure Iant Rohrn
+o que
+1891
+sepa qdluie el.
+Cest paoseñeco hemo a parsient
+e e u aiuoi solle facps
+Dalchori de Rhan
+⁊ancoise
+Aofian",3,76c0195d-3aee-41bc-a0af-dafb51c0b0b3
 f3-1v.xml,1v,,4,c2fa1297-6d51-487c-bba6-f2f242c9fb20
 f4-2r.xml,2r,,5,fb6b1fb4-1bea-4e3d-9cb4-3cf4ce5ad795
 f5-2v.xml,2v,,6,72799168-e69a-42ad-9e57-8bb319af68f1
-f6-3r.xml,3r,Our commencer for me de uie sadutaire Let paruenir a pertec tion: combien que iaye meilleͬ mestier deltre instruit que de iustriure aultruy: gardez les petites doctrines qui seusiuiuẽt a ur̃e pouoir. Remier leuez uous entoͬ lix heures de matin en tout temps et en uous leuant faictes ce que lenluyt. Merciez le createur du repos quil uous a donne la nuyt. Rccommnendez uous a dieu ala glorieuse uierge marie au lamct ou laincte dont uoꝰ saurez quil sera celuy ioux la felte et a toute la court celeste,7,e0bffeb1-e749-41c0-a31d-91bbae09399a
-f7-3v.xml,3v,de paradis. Se cundemẽt priez adieu quil uous garde de peche mortel ceste iournee et tout le tẽps aduenir et luy priez que toutes les euure que uous ferez celuy iour et ou temps aduenir et que autruy fera poͬ uous quil les uueille accepter ala louange de son nom et de sa glorieuse mere et de la court de paradis. Quãt uous serez tout appareil le dictes en ur̃e hostel se bon uo lemble matines et pͥme. Allez a leglise auãt que uous facez aultre euure temporelle sil nen est besoing et necellite. Et en leglise pour autãt que dure une basse messe pensez,8,f4eede4e-f7e5-4304-8d3e-bcaaf84de67f
-f8-4r.xml,4r,ce qui senluit. Enlez a rendre grace a dieu de les biens. pensez ung petit a la bonte de dieu et a la diuine puillance et a sa uertu. Penlez quel don il uous a fait de uous creez si noblemẽt cõme a son ymaige et lemblance. Penlez quelle grace il uous a faicte au laĩt lacremẽt de baptesme en net toiant lame de peche. Penlez combien uous lauez offense depius ur̃e baptesme. Penlez combien il a attẽdu paciẽment ur̃e retour a luy et conuersion. Pensez de cõ bien de dangiers il a p̾serue ur̃e ame et ur̃e corps.,9,338a84bb-efb2-417c-b36e-74fa76daee68
-f9-4v.xml,4v,Pensez cõment uous auez employe mal et ĩutillemẽt le temps quil uous a donne pour faire peintance. Pensez quãtestoiz il uous a pardonne uoz pechez en cõfelliõ et ce neaumoins tant de foiz uous estez rencheu en peche. Penlez en quelle peine uous seriez maintenãt et a tousioͬ le dieu uous eust oste de ce monde quãt uous estiez en peche mortel. E Pensez cõbien il uoꝰ a cheremẽt rachete de la seruitude de lẽne my en souftrant peines con tinuelles en ce monde par les pace de xxxii. ans ou enuiron en allant nuz piez souffrant,10,975c5f75-bd6b-48dd-925f-43990d75d8ad
-f10-5r.xml,5r,fain chault froit soit et diuer les opprobres uillainnes et combien il luy a couste a uo rachetez en baillãt son p̾cieux corps son sang et son ame. Et surce point conliderez tou tes les peines de sa doloreuse palsion ainsi que dieu uous en donnera la grace. Pensez aulli quelle douleur en ce saint temps la souftrit la treldigne et glorieuse mere Considerez en oultre son rigo reux iugement quil fera a leure de ur̃e mort et touchaut celte mort penlez louuent en icelle et que uous ne la pouez eschapper et si ne lauez quant ne cõment et en quel lieu ne,11,23173dfa-2511-409b-8362-8b35b73108bb
-f11-5v.xml,5v,en quel estat ne leure dicelle. Penlez que deuiendront lors les biens mondains espargnez et acquis par grant labeur. Et quelle douleur ce sera lors quãt uous uoꝰ delaisserez uoz parens et amys et touz uoz biens. Et qui plus est quãt ur̃e ame en grande peine de laissera ur̃e corps poͬ pourir en terre. Considerez q̃ deuiẽ dront lors force beaulte ieunesse sante puissance et autres biens du corps. Penlez que fera celte poure ame quãt elle yra seulle sãs cõpagnie ou elle ne fut onc ques. Pensez quelle fera quãt elle uerra les horribles,12,2bfa8ab3-94c6-4da7-bd45-2d7dd10f7f74
-f12-6r.xml,6r,ennemys qui la uouldront tirer a perdicion si uoꝰ depar tez de ce mõde en peche mortel. Penlez quelle doloreuse ioͬ nee sera quãt il uous fauldra rendre compte generallem̃t de toutes uoz euures parol les et pensees sans riens ex cepter. Penlez cõment dieu uous en donnera la grace. Penlez aux horribles pemes denfer et a la cruelle cõpai gine des ennemys qui sera atousiours sans iamais auoir pardon ne deliurãce le uous departez en peche mor tel. Pensez en oultre alas gloire et ioye mestimable des saincts et lainctes de,13,e58b5609-dc62-4f4b-a865-1c8f3f52df38
-f13-6v.xml,6v,paradis que le createur uous a promis donner li uous uoulez garder de pecher et le aymer sur toutes choses. Et ayez fer me esperance et en bien uiuãt iustement en aymãt dieu et lon prochain cõme soymelme uous paruiendrez a icelle gloire eteruelle. Tli par aultre occupa tion railonnable uoꝰ ne pouez estre si louguemẽt a leglise cõme dit est cy dessus Rendez seulcuẽt graces a dieu de les brens et peulez au de miourant en ur̃e hostel une foys le roun ou de nuyt. si,14,04cc828b-41c5-4445-88e3-62558c0c7ff3
-f14-7r.xml,7r,bounement faire le pouez. Apres que lerez retourne de leglise entendez en toute boune paix a uostre affaire en instruysant en ce que uo pourrez en toutes bonnes meurs uoz enfans et toute ur̃e famille en leur appreuãt les cõmendemẽs de dieu. Les articles de la foy et toute leur creance et les enseignez a hũblement et deuotemẽt seruir et aymer dieu et a auoir peur et crainte de lof fenser. Et quãt ilz auront a age compectãt et ulaige de raison ne les tenez point oyleux ne uacabons. Aaĩs faittes leur aprendre sciẽce,15,adebf692-7676-4b86-aca4-7ac18d8280c2
-f15-7v.xml,7v,ou excercisse homieste selon lestat que uouldrez quilz prẽ nent. Ne loullrez en ur̃e mailon gens de mauuaile uie cõme blapheniateurs et iureurs du nom de dieu ne de ses saincts. Alenteurs larrons yurongnes ne paillars en quelque lorte que ce soit. Et le ne pouyez uoꝰ en dellaire ainli cõme uous pourrez re- monstrez leur doulcement leur mauuaile uie affͣm quilz puissent estre en lumi nez et congnoistre la uoye de penitence et de salut. Car si uous nen failiez ur̃e deuoir uous leriez caule et cõsentẽt,16,3ac22fcf-6201-49ed-af9d-4c3cd655c60d
-f16-8r.xml,8r,de leur mal et en danger daller auecques eulx a ꝑdi cion. Et en entandãt a ur̃e affaire pensez aucuneftois que la peine que uoꝰ loultrez en ce monde nest rien au regard de la peine de pur gatoire et au regard dela gloire infinie q̃ uous aurez si uous prenez ceste pemne patiemment. A pres prenez ur̃e refectiõ raisonnable sans excez et sans uous trop retraindre car il ya autant de danger de trop peu cõme de trop. Si uous ieunez une fois la sepmaine cest allez oultre karelme uigilles et Les,17,4b3194f4-e517-44c0-ad59-7b70d5079fbf
-f17-8v.xml,8v,quatre temps. Et sil uoꝰ semble que la ieune ne soit bonne et profitable faictes en par bon conseil. Repolez uous apres disner demye heure ou une heure si bon uous semble en priant dieu que en ce reueil il uous uueille garder affin que apres le seruez mieulx le demourãt du iour emploiez le en uostre affaire ala louenge de dieu. Quãt a ur̃e seruice dictes iulques a tierce deuãt disuer acheuez le tout deuãt loupper Et dictez quãt uous pourez uigilles de mors es festes si uauez espace de les dire les autres iours a troys leczons,18,a015e94f-9698-488f-8d65-4800d3c49f67
-f18-9r.xml,9r,du monis du monis. Contellez uous de huit Iours en huit iours au uicaire de dieu pour ordinaire sil ne souruiẽt grant empeschemẽt et ne pallez pas quinze iours lans uous contellez li uous le pouez faire. Ne ulez point de confellion que ou treuue par escript des cinq sens de nature. nature. Ne refulez point lauinosne au premier pouure qui uous la demande pour le iour sil uous semble indigent Aectez peine de oyr et retenir la parolle de dieu. Confellez uous chun iour a dieu des pechez que uous cõgnoissez,19,b97f7b64-8432-4635-9c6b-051bdd482b6e
-f19-9v.xml,9v,auoir faictz la iournee et que en ce nait point de faulte. Considerez souuẽt ou de io ou de nuyt quãt uous elueil lerez quelle chose faisoit nr̃e redempteur a telle heure au iour de sa benoiste et dolou reuse pallion. Querez ung bon et uray amy de bonne conscience lans reprouche aqui uous puillez descouurir de uoz affaires et de uoz ennuytz. Enquerez le bien et lesprou uez auãt que uous y fiez et quãt uous laurez bien espue Faictez tout par lon cõseil. Parlez peu. luyuez ꝑlonnes uertueules fuyez les cõpagnies,20,c0102c1c-9989-4471-8be8-493fc1aca579
-f20-10r.xml,10r,de ceulx a qui uoꝰ ne uouldriez point relembler. Apres toute euures louez dieu. Aymez le lur toutes choses et le seruez songneusemẽt et la glorieu se mere. Ne faictez a aultruy ce que uous ne uouldriez quon uoꝰ fist. Aymez le salut daultry cõme le ur̃e. Et en entrant en ur̃e lut ayez quelque bõne pensce. ou ala palsion nr̃e seigneͬ ou a uoz pechez. ou aux peines que ont les camnez en purgatoire ou autre telle pensee spirituelle que uous uerrez. Et en ce fail ur̃e uie lera aggreable a dieu,21,0dc34bed-c37a-47f6-8220-62869d743ba3
+f6-3r.xml,3r,"Our commencer for
+me de uie sadutaire
+Let paruenir a pertec
+tion: combien que iaye meilleͬ
+mestier deltre instruit que de
+iustriure aultruy: gardez les
+petites doctrines qui seusiuiuẽt
+a ur̃e pouoir.
+Remier leuez uous entoͬ
+lix heures de matin en
+tout temps et en uous leuant
+faictes ce que lenluyt.
+Merciez le createur du repos
+quil uous a donne la nuyt.
+Rccommnendez uous a dieu
+ala glorieuse uierge marie
+au lamct ou laincte dont uoꝰ
+saurez quil sera celuy ioux la
+felte et a toute la court celeste",7,e0bffeb1-e749-41c0-a31d-91bbae09399a
+f7-3v.xml,3v,"de paradis.
+Se cundemẽt priez adieu quil
+uous garde de peche mortel ceste
+iournee et tout le tẽps aduenir
+et luy priez que toutes les euure
+que uous ferez celuy iour et ou
+temps aduenir et que autruy
+fera poͬ uous quil les uueille
+accepter ala louange de son
+nom et de sa glorieuse mere
+et de la court de paradis.
+Quãt uous serez tout appareil
+le dictes en ur̃e hostel se bon uo
+lemble matines et pͥme. Allez
+a leglise auãt que uous facez
+aultre euure temporelle sil
+nen est besoing et necellite.
+Et en leglise pour autãt que
+dure une basse messe pensez",8,f4eede4e-f7e5-4304-8d3e-bcaaf84de67f
+f8-4r.xml,4r,"ce qui senluit.
+Enlez a rendre grace a
+dieu de les biens. pensez
+ung petit a la bonte de dieu
+et a la diuine puillance et
+a sa uertu. Penlez quel don
+il uous a fait de uous creez si
+noblemẽt cõme a son ymaige
+et lemblance. Penlez quelle
+grace il uous a faicte au laĩt
+lacremẽt de baptesme en net
+toiant lame de peche.
+Penlez combien uous lauez
+offense depius ur̃e baptesme.
+Penlez combien il a attẽdu
+paciẽment ur̃e retour a luy
+et conuersion. Pensez de cõ
+bien de dangiers il a p̾serue
+ur̃e ame et ur̃e corps.",9,338a84bb-efb2-417c-b36e-74fa76daee68
+f9-4v.xml,4v,"Pensez cõment uous auez
+employe mal et ĩutillemẽt le
+temps quil uous a donne pour
+faire peintance.
+Pensez quãtestoiz il uous a
+pardonne uoz pechez en cõfelliõ
+et ce neaumoins tant de foiz
+uous estez rencheu en peche.
+Penlez en quelle peine uous
+seriez maintenãt et a tousioͬ
+le dieu uous eust oste de ce
+monde quãt uous estiez en
+peche mortel. E
+Pensez cõbien il uoꝰ a cheremẽt
+rachete de la seruitude de lẽne
+my en souftrant peines con
+tinuelles en ce monde par les
+pace de xxxii. ans ou enuiron
+en allant nuz piez souffrant",10,975c5f75-bd6b-48dd-925f-43990d75d8ad
+f10-5r.xml,5r,"fain chault froit soit et diuer
+les opprobres uillainnes et
+combien il luy a couste a uo
+rachetez en baillãt son p̾cieux
+corps son sang et son ame.
+Et surce point conliderez tou
+tes les peines de sa doloreuse
+palsion ainsi que dieu uous
+en donnera la grace.
+Pensez aulli quelle douleur
+en ce saint temps la souftrit
+la treldigne et glorieuse mere
+Considerez en oultre son rigo
+reux iugement quil fera a
+leure de ur̃e mort et touchaut
+celte mort penlez louuent en
+icelle et que uous ne la pouez
+eschapper et si ne lauez quant
+ne cõment et en quel lieu ne",11,23173dfa-2511-409b-8362-8b35b73108bb
+f11-5v.xml,5v,"en quel estat ne leure dicelle.
+Penlez que deuiendront lors
+les biens mondains espargnez
+et acquis par grant labeur.
+Et quelle douleur ce sera lors
+quãt uous uoꝰ delaisserez uoz
+parens et amys et touz uoz
+biens. Et qui plus est quãt
+ur̃e ame en grande peine de
+laissera ur̃e corps poͬ pourir
+en terre. Considerez q̃ deuiẽ
+dront lors force beaulte
+ieunesse sante puissance et
+autres biens du corps.
+Penlez que fera celte poure
+ame quãt elle yra seulle sãs
+cõpagnie ou elle ne fut onc
+ques. Pensez quelle fera
+quãt elle uerra les horribles",12,2bfa8ab3-94c6-4da7-bd45-2d7dd10f7f74
+f12-6r.xml,6r,"ennemys qui la uouldront
+tirer a perdicion si uoꝰ depar
+tez de ce mõde en peche mortel.
+Penlez quelle doloreuse ioͬ
+nee sera quãt il uous fauldra
+rendre compte generallem̃t
+de toutes uoz euures parol
+les et pensees sans riens ex
+cepter. Penlez cõment dieu
+uous en donnera la grace.
+Penlez aux horribles pemes
+denfer et a la cruelle cõpai
+gine des ennemys qui sera
+atousiours sans iamais
+auoir pardon ne deliurãce
+le uous departez en peche mor
+tel. Pensez en oultre alas
+gloire et ioye mestimable
+des saincts et lainctes de",13,e58b5609-dc62-4f4b-a865-1c8f3f52df38
+f13-6v.xml,6v,"paradis que le createur uous
+a promis donner li uous uoulez
+garder de pecher et le aymer
+sur toutes choses. Et ayez fer
+me esperance et en bien uiuãt
+iustement en aymãt dieu et
+lon prochain cõme soymelme
+uous paruiendrez a icelle
+gloire eteruelle.
+Tli par aultre occupa
+tion railonnable uoꝰ
+ne pouez estre si louguemẽt
+a leglise cõme dit est cy dessus
+Rendez seulcuẽt graces a dieu
+de les brens et peulez au de
+miourant en ur̃e hostel une
+foys le roun ou de nuyt. si",14,04cc828b-41c5-4445-88e3-62558c0c7ff3
+f14-7r.xml,7r,"bounement faire le pouez.
+Apres que lerez retourne de
+leglise entendez en toute
+boune paix a uostre affaire
+en instruysant en ce que uo
+pourrez en toutes bonnes
+meurs uoz enfans et toute
+ur̃e famille en leur appreuãt
+les cõmendemẽs de dieu. Les
+articles de la foy et toute
+leur creance et les enseignez
+a hũblement et deuotemẽt
+seruir et aymer dieu et a
+auoir peur et crainte de lof
+fenser. Et quãt ilz auront
+a age compectãt et ulaige
+de raison ne les tenez point
+oyleux ne uacabons. Aaĩs
+faittes leur aprendre sciẽce",15,adebf692-7676-4b86-aca4-7ac18d8280c2
+f15-7v.xml,7v,"ou excercisse homieste selon
+lestat que uouldrez quilz prẽ
+nent.
+Ne loullrez en ur̃e mailon
+gens de mauuaile uie cõme
+blapheniateurs et iureurs
+du nom de dieu ne de ses
+saincts. Alenteurs larrons
+yurongnes ne paillars en
+quelque lorte que ce soit.
+Et le ne pouyez uoꝰ en dellaire
+ainli cõme uous pourrez re-
+monstrez leur doulcement
+leur mauuaile uie affͣm
+quilz puissent estre en lumi
+nez et congnoistre la uoye
+de penitence et de salut. Car
+si uous nen failiez ur̃e deuoir
+uous leriez caule et cõsentẽt",16,3ac22fcf-6201-49ed-af9d-4c3cd655c60d
+f16-8r.xml,8r,"de leur mal et en danger
+daller auecques eulx a ꝑdi
+cion. Et en entandãt a ur̃e
+affaire pensez aucuneftois
+que la peine que uoꝰ loultrez
+en ce monde nest rien au
+regard de la peine de pur
+gatoire et au regard dela
+gloire infinie q̃ uous aurez
+si uous prenez ceste pemne
+patiemment.
+A pres prenez ur̃e refectiõ
+raisonnable sans excez et
+sans uous trop retraindre
+car il ya autant de danger
+de trop peu cõme de trop.
+Si uous ieunez une fois la
+sepmaine cest allez oultre
+karelme uigilles et Les
+8",17,4b3194f4-e517-44c0-ad59-7b70d5079fbf
+f17-8v.xml,8v,"quatre temps. Et sil uoꝰ semble
+que la ieune ne soit bonne et
+profitable faictes en par bon
+conseil.
+Repolez uous apres disner
+demye heure ou une heure si
+bon uous semble en priant
+dieu que en ce reueil il uous
+uueille garder affin que apres
+le seruez mieulx le demourãt
+du iour emploiez le en uostre
+affaire ala louenge de dieu.
+Quãt a ur̃e seruice dictes
+iulques a tierce deuãt disuer
+acheuez le tout deuãt loupper
+Et dictez quãt uous pourez
+uigilles de mors es festes si
+uauez espace de les dire les
+autres iours a troys leczons",18,a015e94f-9698-488f-8d65-4800d3c49f67
+f18-9r.xml,9r,"du monis
+du monis.
+Contellez uous de huit Iours
+en huit iours au uicaire de
+dieu pour ordinaire sil ne
+souruiẽt grant empeschemẽt
+et ne pallez pas quinze iours
+lans uous contellez li uous
+le pouez faire. Ne ulez point
+de confellion que ou treuue
+par escript des cinq sens de
+nature.
+nature.
+Ne refulez point lauinosne
+au premier pouure qui uous
+la demande pour le iour sil
+uous semble indigent
+Aectez peine de oyr et retenir
+la parolle de dieu. Confellez
+uous chun iour a dieu des
+pechez que uous cõgnoissez",19,b97f7b64-8432-4635-9c6b-051bdd482b6e
+f19-9v.xml,9v,"auoir faictz la iournee et que
+en ce nait point de faulte.
+Considerez souuẽt ou de io
+ou de nuyt quãt uous elueil
+lerez quelle chose faisoit nr̃e
+redempteur a telle heure au
+iour de sa benoiste et dolou
+reuse pallion.
+Querez ung bon et uray
+amy de bonne conscience
+lans reprouche aqui uous
+puillez descouurir de uoz
+affaires et de uoz ennuytz.
+Enquerez le bien et lesprou
+uez auãt que uous y fiez et
+quãt uous laurez bien espue
+Faictez tout par lon cõseil.
+Parlez peu. luyuez ꝑlonnes
+uertueules fuyez les cõpagnies",20,c0102c1c-9989-4471-8be8-493fc1aca579
+f20-10r.xml,10r,"de ceulx a qui uoꝰ ne uouldriez
+point relembler. Apres toute
+euures louez dieu. Aymez le
+lur toutes choses et le seruez
+songneusemẽt et la glorieu
+se mere. Ne faictez a aultruy
+ce que uous ne uouldriez
+quon uoꝰ fist. Aymez le salut
+daultry cõme le ur̃e.
+Et en entrant en ur̃e lut ayez
+quelque bõne pensce. ou ala
+palsion nr̃e seigneͬ ou a uoz
+pechez. ou aux peines que ont
+les camnez en purgatoire ou
+autre telle pensee spirituelle
+que uous uerrez. Et en ce fail
+ur̃e uie lera aggreable a dieu
+10",21,0dc34bed-c37a-47f6-8220-62869d743ba3
 f21-10v.xml,10v,,22,20e3145d-9337-4c07-a687-c930f47a01ae
 f22-11r.xml,11r,,23,aefb6e8a-b80f-4906-9dd1-7b596be65429
-f23-11v.xml,11v,Protestacion alentree et sortie du lit faicte par mous sainit uincent de ferrare. u nomme patris Qet fi lii Set spiritus sancti. A Iesus nazarenus rex iudeoꝵ Per signũ crucis de inmicis nr̃is libera nos deus nr̃. Omine ielu xp̃e ego ꝙͣuis indignus et miser ꝑct̾or firmiter puro corde et ore ad plenũ confiteor sanctã fidẽ catholicã et omnes articulos eius. sicut alma mater eccle lia predicat. docet et tenet Sed cum multa dñe occur rant pericula et uaria tẽpta menta si forlan. quod ablit occalione iploꝵ. aut in arti,24,39c6a07e-cef8-48b6-a07c-747582bb7f0d
-f24-12r.xml,12r,culo mortis. aut alias per alienationẽ intellectus a lcc̃a fide catholica deuiarem aut pct̃o consentirẽ protestor nũc pro tunc. et econtra. coram tua lauctillima maieltate et tua gloriosissima matre maria. et omĩbz sanctis ꝙ in hac sancta fide catholica et in plemtudine feruoris eiusdem fidei. in sinu sacro sancte ecclĩe matris mee que nescit claudere grenniũ redeũti ad se: sine consensu alicuius pct̃i uolo semper uiuere et mori. Amen.L Oraison qui se doit dire a genoulx en entrant ou lict :,25,07edec6b-d3d3-40c6-98df-70aae8fdf8d0
-f25-12v.xml,12v,Ielu dulcilsime ielu patͤ dilectissime. Tu mecum queso maneas hac nocte me cum dormias. ut corpus lõnũ capiat. sed semper adte uigi let et ome malum caueat. Me angelus custodiat. et si gno crucis. ESmuniat. Hinc lathami procul fugiat et solus iesus maneat. quos amo tecũ colligas in lecto cordis foueas nec me nec iꝑsos deseras. sed benedicens  protegas et in euũ custodias. Etiã dñe iniimicos meos. In fideles. et iniustos conuertas et ad co guitionẽ sancti tui nonũs deducas. et in uiam manda torũ tuorũ per sanctissimã,26,71c4aa20-19a1-4851-82cf-ebf4b6406207
-f26-13r.xml,13r,grãm et mĩam tuã nosq cũ cos deambulare facias. cũ bona et continua perleue rantia. ut post huius uite cursus a te ualeamus acci pere coronã excellentissime glorie tue. Amen. Pr̃ nr̃. Oraison a dire en lortant de la maisor. Ene dicat me ĩpe rialis maiestas. Pro tegat me regalis diuinitas Custodiat me ¶lemꝑitna deitas. Defendat me s Sim menla trinitas. stoueat me gloriosa unitas. Dirigat me s Ninestimabilis bonitas Regat mesꝑotentia prĩs Diuificet me s ¶ lapientia,27,0c090871-5975-48d0-b809-0a52ad07df9f
-f27-13v.xml,13v,filii. Illuminet me ͦ uirtus spũs sancti. Alpha et o deus et homo. Sit michi ista ĩuo catio salus et sempiterna protectio. In nomine dsprĩs et filii et spũs sancti Amen. Oraison a dire rendant graces a dieu. Ratias ago tibi dñe sancte pater oumpotes eterne deus. qui me ĩdignũ famulũ tuũ non meis me ritis sed tua sanctillima gr̃a custodire dignatus es in hac nocte. Deprecor clemẽ ciam tuã ut concedas michi uenturũ diem ita peragere cum hũilitate et discretioe quatenus tibi complaceat,28,81aa2138-7ba3-40ca-842c-548c51935793
-f28-14r.xml,14r,seruitus mea. Per dñm nr̃m iesum xp̃m filiũ tuũ. oratio. Domine iesu xp̃e qui ex illibata uirgine na sci dignatus es tibi meum corpus et animã cõmendo parentes frẽs omnesqz bene factores meos uiuos et defũ ctos ac meas fortunas. Etiã per dolores et tuas amaras xp̃e palliones quas ad stipi tem usq ad sancte crucis pallus fiusti. Rogo te ut nos hodiena die. uel ista nocte sic tuearis cõmenda tosq habeas. sicut spiritũ tuũ in mortis agone prĩ tuo cõmendasti. Rogo te etiam bone iesu propter,29,0951a660-f290-4a9c-8203-017e0e7c9b36
-f29-14v.xml,14v,cruorem et aquã que clatere tuo fluxit. ut peccata mea de leantur. ac etiam per omnes illos dolores quos benedicta mater tua cum tu patiebaris patiebatur. ut michi. N. concedas presentem diem uel noctem ad tuã uolũtatẽ et beneplacitũ ꝑagere. Qui uiis. or̃o. Domme ielu xp̃e tanta sunt celera mea ut uix ablui possint ultra modum me miserum uiciaui spon taneo studio me pollui. pro prio arbitrio me perdidi spõ te me maculaui. Infelix ego grauiter peccaui. carnis a grauor stimulo. et ad pct̃m,30,b21e8968-7570-40d7-9493-dbb6cf99d077
-f30-15r.xml,15r,consuetudo me astringit. unde afflixus detineor nolo agere bona sed desidero. Heu me infelicem in tantis sce leribus in tam multis iui quitatib sum inuolutus quid primo plorem. quid primo plangam. qͥd primo lugeam. pro quib lacrimas fundam ignoro. quare dñe memorare non sufficio tan torũ gesta Reus terreor pa uore pct̃i. Metuo dñc diem iudicii. Si uix iustus salua bitur ego impius et pct̃or ubi aparebo. Quid faciẽ miser. Ubi fugiam: Quid ero dicturus cũ ante tribu nal ero pũtatus. De dies,31,1aee3521-9f70-42c6-9b82-3e677872fd93
-f31-15v.xml,15v,illi quando peccaui quando trans gressus sum mandatũ tuũ. quia nullũ inuenitur peccatũ cuius sordib non sum coinquinatus: mullus uicioꝵ morbus quo ego miser non sim polutus. ut bene uiuerem promisi qd̾ pollicitus sum non seruaui Semꝑ ad peccatũ redii sẽꝑ delicta iteraui. Nũꝙͣ ĩ me lius mores mutaui. Nũ ꝙͣ a melefactis recelli. Pluri mos maculaui me perdes plurimos prauis moribus ad iniquitatẽ peruerti feci. Scelere meo multe amme perierunt exemplis uite mee multi subuersi sunt.,32,6e1138fb-b0a0-4667-a9cb-5f922a11c4b5
-f32-16r.xml,16r,per imquitatẽ meam ego multis fui caula malorũ Succurre michi deus anteꝙͣ moriar. anteꝙ mors me preueniat. anteꝙͣ tartara me recipiant. anteꝙͣ tene bre me inuoluãt priusqͣ gehenne ignib deuorer. priusq sine fine crucier. quia nou est insoli tum tue clementie neqz in decc̃s tue iusticie minusq ĩpos sibile tue potencie. Digͣre igitur recognoscere in me quod tuũ est. et absterge quod est alienũ. qui cum pre et spũ lancto uiuis et regnas deus. Per infunta seculoꝵ secula. Amen,33,096ae678-f9aa-4e3c-8260-35c5b50b56a7
-f33-16v.xml,16v,Sensuiuent les uers de monsł Samut bernard. Bone iesu illumina oculos meos neunꝙͣ obdoriniã in morte nequãdo dicat inimicus meus p̾ua lui aduersus eum. n manus tuas dñe cõ mendo spiritũ meũ redemi sti me dñe deus ueritatis. ocutus sum in lingua mea. notũ fac michi dũe finem meũ et numerum dierũ meoꝵ quis est. ut sciã quid desit michi. N ac mecũ signũ in bono Ut uideant qui oderũt me et confundãtur. qm̃ tu dñe adiusti me et consolatus,34,2ee32314-2dec-49b5-b756-500edf0c3522
-f34-17r.xml,17r,es me. es me. Di srupisti dũe uincula mea tibi sacrificabo hostiã laudis et nomen domini inuocabo. Ceriit fuga a me et non est qui requirat aĩam meã. lamaui ad te dñe dixi tu es spes mea et portio mea in terra uiuentium. Signatũ est suꝑ nos lu men uultus tui dũe de di sti leticiam in corde meo. loria prĩ. Dñe exaudi orõnem meam. or̃o.E Omine deus omp̃s pa ter ne permittas nos perire quia tue creature lu mus. sed concede nobis,35,11da3504-50a4-4558-9803-fe5513fb3f71
-f35-17v.xml,17v,spaciũ penitendi. ut ante diẽ exitus mortis. per ueram pe intenciam tibi placere ua leanius. Per xp̃m Oraison a dire deuant Ly maige de nr̃e seigneur Onditor celi et terre rex regum et domin dominanciũ qui me de i chilo fecisti ad ymagiuẽ et summlitudinẽ tuam. Et me de proprio sanguine tuo redemisti quẽ ego peccator non sum dignus noiare nec inuocare nec corde co gitare. Te suppliciter depre cor et humiliter exoro. ut clementer respicias me seruũ tuũ nequã. Et mise,36,3d969ac8-992e-41e0-9919-d2eb8066f2b6
-f36-18r.xml,18r,rere mei qui misertus fui sti mulieri chananee et ma rie magdalene. Qui peper cisti publicano. et latroni in cruce pendenti. Tibi con fiteor pater piissime pct̃a mea que si uolo abscondere non possum tibi domine. Parce michi domine ielu xp̃e quem ego nuper mul tum offendi. in superbia. auaricia. gula. luxuria. ĩ uana gloria. in odio. in ac cidia. in adulteriis. in for nicatione. in furto. in men datio. in blasphemnia. in ioco. in risu. in uerbis occi osis in auditu. in gustu. in tactu. cogitando loquẽdo,37,5efbf599-671e-43ad-9f12-4d69bc380825
-f37-18v.xml,18v,operando. et in omnib mo dis in quib ego fragilis homo et peccator peccare potui. Alea culpa mea cul pa. mea maxima culpa. Ideo deprecor clementiam tuam domine qui de celo pro salu te mea descendisti. Qui Dauid a peccati laplu erexi sti. Parce michi dñe parce michi xp̃e qui petro te negã tem pepercisti. Tu es creator meus. et adiutor meus. plas mator meus. et redemptor meus. saluator meus. et gubernator meus. et pater meus. dñs meus. et deus meus. et rex meus. Tu es spes mea fiducia mea. gu,38,e54c2c68-7d99-41ee-9c73-1f1ef4b33443
-f38-19r.xml,19r,beruatio mea. consolatro mea. et auxiliatio mea for titudo mea. defensio mea. et liberatio mea uita mect et salus mea. et resurrectĩo mea. Tir es firmamentũ nieũ. et refugiuĩmeũ lumẽ et desideriũ meum. adnito riũ nieui et patrocinium meũ. Te deprecor et rogoi adiuua me et saliis erõi Gubernane et defendeme conforta me et letifiea me illumina meret uisitanne. Sulcita me mortuũ. qui a factura et opus tuũ sum domine ne despitias. stamu lus et seruus tuus sũ qͣuis malus ꝙͣuis indignus et,39,da51081c-943e-452f-8885-98c361a82e29
-f39-19v.xml,19v,peccator. Sed qualicũq lim siue bonus suie malus sẽper tuus sum.Ad quem ergo fugiam nisi ad te uadam. Situnne eiicis. quis me re cipiet. Si tu me despicis. quis me alpiciet. Et reco gnosce me indignũ ad te fugientẽ ꝙͣuis sim uilis et iuumdus quia si uilis et ĩm̃dus sum potes me mũ dare. Si lecus lum potes me illuminare. Si infirmꝰ lum potes me sanare. Si mortuus et sepultus sum potes me resuscitare quia maior est mnĩa tua ꝙͣ ini quitas mea. Aaior est pie tas tua ꝙͣ impietas mea.,40,efcf5fe3-5bcd-4940-8491-953ac7a266b1
-f40-20r.xml,20r,Plus potes dimittere ꝙͣ ego cõmittere. Et plus parcere ꝙͣ ego peccator pec care. Non ergo respicias domine neqz attendas mul titudinẽ iniquitatũ mea rum. sed secundũ multitu dinẽ miserationũ tuarũ miserere mei et propitius esto michi maximo pecca tori. Die anime mee salus tua ego sum. qui dixisti. nolo mortẽ peccatoris. sed Ut magis uiuat et cõuer tatur. Conuertere me dnc ad te. et noli irasci cõtra me. Deprecor te clemẽtis sime pater propter miamn tuam supplico et exoro,41,30923c10-e3a5-4ec4-8782-86eff3698070
-f41-20v.xml,20v,ut perducas me ad bonum finem ad ueram penitenciã puram confessionẽ et dignã latiflactionem ominiunt peccatorum meorũ. Ameu. ole igiiu piiuii uius in galum uua m irisutt iornt dius mitert ii ilii ao ouraon ibiui cala ulamu trais iup im d uoinos peoi oloi pusro tuurs crunir to diui omiuiodetur Les heures de la concẽption de la benoiste uierge marie. orerotooulqũł iusut,42,2aae1b84-bb30-482a-9ca2-72f6655cfa2e
+f23-11v.xml,11v,"Protestacion alentree et
+sortie du lit faicte par mous
+sainit uincent de ferrare.
+u nomme patris Qet fi
+lii Set spiritus sancti. A
+Iesus nazarenus rex iudeoꝵ
+Per signũ crucis de inmicis
+nr̃is libera nos deus nr̃.
+Omine ielu xp̃e ego ꝙͣuis
+indignus et miser ꝑct̾or
+firmiter puro corde et ore ad
+plenũ confiteor sanctã fidẽ
+catholicã et omnes articulos
+eius. sicut alma mater eccle
+lia predicat. docet et tenet
+Sed cum multa dñe occur
+rant pericula et uaria tẽpta
+menta si forlan. quod ablit
+occalione iploꝵ. aut in arti",24,39c6a07e-cef8-48b6-a07c-747582bb7f0d
+f24-12r.xml,12r,"culo mortis. aut alias per
+alienationẽ intellectus a lcc̃a
+fide catholica deuiarem aut
+pct̃o consentirẽ protestor nũc
+pro tunc. et econtra. coram
+tua lauctillima maieltate
+et tua gloriosissima matre
+maria. et omĩbz sanctis ꝙ
+in hac sancta fide catholica
+et in plemtudine feruoris
+eiusdem fidei. in sinu sacro
+sancte ecclĩe matris mee
+que nescit claudere grenniũ
+redeũti ad se: sine consensu
+alicuius pct̃i uolo semper
+uiuere et mori. Amen.L
+Oraison qui se doit dire
+a genoulx en entrant ou
+lict :
+12",25,07edec6b-d3d3-40c6-98df-70aae8fdf8d0
+f25-12v.xml,12v,"Ielu dulcilsime ielu patͤ
+dilectissime. Tu mecum
+queso maneas hac nocte me
+cum dormias. ut corpus lõnũ
+capiat. sed semper adte uigi
+let et ome malum caueat.
+Me angelus custodiat. et si
+gno crucis. ESmuniat. Hinc
+lathami procul fugiat et solus
+iesus maneat. quos amo tecũ
+colligas in lecto cordis foueas
+nec me nec iꝑsos deseras. sed
+benedicens  protegas et
+in euũ custodias. Etiã dñe
+iniimicos meos. In fideles. et
+iniustos conuertas et ad co
+guitionẽ sancti tui nonũs
+deducas. et in uiam manda
+torũ tuorũ per sanctissimã",26,71c4aa20-19a1-4851-82cf-ebf4b6406207
+f26-13r.xml,13r,"grãm et mĩam tuã nosq cũ
+cos deambulare facias. cũ
+bona et continua perleue
+rantia. ut post huius uite
+cursus a te ualeamus acci
+pere coronã excellentissime
+glorie tue. Amen. Pr̃ nr̃.
+Oraison a dire en lortant
+de la maisor.
+Ene dicat me ĩpe
+rialis maiestas. Pro
+tegat me regalis diuinitas
+Custodiat me ¶lemꝑitna
+deitas. Defendat me s Sim
+menla trinitas. stoueat me
+gloriosa unitas. Dirigat
+me s Ninestimabilis bonitas
+Regat mesꝑotentia prĩs
+Diuificet me s ¶ lapientia
+18",27,0c090871-5975-48d0-b809-0a52ad07df9f
+f27-13v.xml,13v,"filii. Illuminet me ͦ uirtus
+spũs sancti. Alpha et o deus
+et homo. Sit michi ista ĩuo
+catio salus et sempiterna
+protectio. In nomine dsprĩs
+et filii et spũs sancti Amen.
+Oraison a dire rendant
+graces a dieu.
+Ratias ago tibi dñe
+sancte pater oumpotes
+eterne deus. qui me ĩdignũ
+famulũ tuũ non meis me
+ritis sed tua sanctillima gr̃a
+custodire dignatus es in
+hac nocte. Deprecor clemẽ
+ciam tuã ut concedas michi
+uenturũ diem ita peragere
+cum hũilitate et discretioe
+quatenus tibi complaceat",28,81aa2138-7ba3-40ca-842c-548c51935793
+f28-14r.xml,14r,"seruitus mea. Per dñm nr̃m
+iesum xp̃m filiũ tuũ. oratio.
+Domine iesu xp̃e qui
+ex illibata uirgine na
+sci dignatus es tibi meum
+corpus et animã cõmendo
+parentes frẽs omnesqz bene
+factores meos uiuos et defũ
+ctos ac meas fortunas. Etiã
+per dolores et tuas amaras
+xp̃e palliones quas ad stipi
+tem usq ad sancte crucis
+pallus fiusti. Rogo te ut
+nos hodiena die. uel ista
+nocte sic tuearis cõmenda
+tosq habeas. sicut spiritũ
+tuũ in mortis agone prĩ
+tuo cõmendasti. Rogo te
+etiam bone iesu propter
+14",29,0951a660-f290-4a9c-8203-017e0e7c9b36
+f29-14v.xml,14v,"cruorem et aquã que clatere
+tuo fluxit. ut peccata mea de
+leantur. ac etiam per omnes
+illos dolores quos benedicta
+mater tua cum tu patiebaris
+patiebatur. ut michi. N.
+concedas presentem diem
+uel noctem ad tuã uolũtatẽ
+et beneplacitũ ꝑagere. Qui
+uiis. or̃o.
+Domme ielu xp̃e tanta
+sunt celera mea ut uix
+ablui possint ultra modum
+me miserum uiciaui spon
+taneo studio me pollui. pro
+prio arbitrio me perdidi spõ
+te me maculaui. Infelix ego
+grauiter peccaui. carnis a
+grauor stimulo. et ad pct̃m",30,b21e8968-7570-40d7-9493-dbb6cf99d077
+f30-15r.xml,15r,"consuetudo me astringit.
+unde afflixus detineor nolo
+agere bona sed desidero. Heu
+me infelicem in tantis sce
+leribus in tam multis iui
+quitatib sum inuolutus
+quid primo plorem. quid
+primo plangam. qͥd primo
+lugeam. pro quib lacrimas
+fundam ignoro. quare dñe
+memorare non sufficio tan
+torũ gesta Reus terreor pa
+uore pct̃i. Metuo dñc diem
+iudicii. Si uix iustus salua
+bitur ego impius et pct̃or
+ubi aparebo. Quid faciẽ
+miser. Ubi fugiam: Quid
+ero dicturus cũ ante tribu
+nal ero pũtatus. De dies
+9",31,1aee3521-9f70-42c6-9b82-3e677872fd93
+f31-15v.xml,15v,"illi quando peccaui quando
+trans gressus sum mandatũ
+tuũ. quia nullũ inuenitur
+peccatũ cuius sordib non
+sum coinquinatus: mullus
+uicioꝵ morbus quo ego
+miser non sim polutus. ut
+bene uiuerem promisi qd̾
+pollicitus sum non seruaui
+Semꝑ ad peccatũ redii sẽꝑ
+delicta iteraui. Nũꝙͣ ĩ me
+lius mores mutaui. Nũ ꝙͣ
+a melefactis recelli. Pluri
+mos maculaui me perdes
+plurimos prauis moribus
+ad iniquitatẽ peruerti feci.
+Scelere meo multe amme
+perierunt exemplis uite
+mee multi subuersi sunt.",32,6e1138fb-b0a0-4667-a9cb-5f922a11c4b5
+f32-16r.xml,16r,"per imquitatẽ meam ego
+multis fui caula malorũ
+Succurre michi deus anteꝙͣ
+moriar. anteꝙ mors me
+preueniat. anteꝙͣ tartara
+me recipiant. anteꝙͣ tene
+bre me inuoluãt priusqͣ
+gehenne ignib deuorer.
+priusq sine fine crucier.
+quia nou est insoli tum
+tue clementie neqz in decc̃s
+tue iusticie minusq ĩpos
+sibile tue potencie. Digͣre
+igitur recognoscere in me
+quod tuũ est. et absterge
+quod est alienũ. qui cum
+pre et spũ lancto uiuis et
+regnas deus. Per infunta
+seculoꝵ secula. Amen
+14",33,096ae678-f9aa-4e3c-8260-35c5b50b56a7
+f33-16v.xml,16v,"Sensuiuent les uers de
+monsł Samut bernard.
+Bone iesu illumina
+oculos meos neunꝙͣ
+obdoriniã in morte nequãdo
+dicat inimicus meus p̾ua
+lui aduersus eum.
+n manus tuas dñe cõ
+mendo spiritũ meũ redemi
+sti me dñe deus ueritatis.
+ocutus sum in lingua
+mea. notũ fac michi dũe
+finem meũ et numerum
+dierũ meoꝵ quis est. ut sciã
+quid desit michi. N
+ac mecũ signũ in bono
+Ut uideant qui oderũt me
+et confundãtur. qm̃ tu dñe
+adiusti me et consolatus",34,2ee32314-2dec-49b5-b756-500edf0c3522
+f34-17r.xml,17r,"es me.
+es me.
+Di srupisti dũe uincula
+mea tibi sacrificabo hostiã
+laudis et nomen domini
+inuocabo.
+Ceriit fuga a me et non
+est qui requirat aĩam meã.
+lamaui ad te dñe dixi
+tu es spes mea et portio mea
+in terra uiuentium.
+Signatũ est suꝑ nos lu
+men uultus tui dũe de di
+sti leticiam in corde meo.
+loria prĩ. Dñe exaudi
+orõnem meam. or̃o.E
+Omine deus omp̃s pa
+ter ne permittas nos
+perire quia tue creature lu
+mus. sed concede nobis",35,11da3504-50a4-4558-9803-fe5513fb3f71
+f35-17v.xml,17v,"spaciũ penitendi. ut ante diẽ
+exitus mortis. per ueram pe
+intenciam tibi placere ua
+leanius. Per xp̃m
+Oraison a dire deuant
+Ly maige de nr̃e seigneur
+Onditor celi et terre
+rex regum et domin
+dominanciũ qui me de i
+chilo fecisti ad ymagiuẽ et
+summlitudinẽ tuam. Et me
+de proprio sanguine tuo
+redemisti quẽ ego peccator
+non sum dignus noiare
+nec inuocare nec corde co
+gitare. Te suppliciter depre
+cor et humiliter exoro. ut
+clementer respicias me
+seruũ tuũ nequã. Et mise",36,3d969ac8-992e-41e0-9919-d2eb8066f2b6
+f36-18r.xml,18r,"rere mei qui misertus fui
+sti mulieri chananee et ma
+rie magdalene. Qui peper
+cisti publicano. et latroni
+in cruce pendenti. Tibi con
+fiteor pater piissime pct̃a
+mea que si uolo abscondere
+non possum tibi domine.
+Parce michi domine ielu
+xp̃e quem ego nuper mul
+tum offendi. in superbia.
+auaricia. gula. luxuria. ĩ
+uana gloria. in odio. in ac
+cidia. in adulteriis. in for
+nicatione. in furto. in men
+datio. in blasphemnia. in
+ioco. in risu. in uerbis occi
+osis in auditu. in gustu.
+in tactu. cogitando loquẽdo
+18",37,5efbf599-671e-43ad-9f12-4d69bc380825
+f37-18v.xml,18v,"operando. et in omnib mo
+dis in quib ego fragilis
+homo et peccator peccare
+potui. Alea culpa mea cul
+pa. mea maxima culpa. Ideo
+deprecor clementiam tuam
+domine qui de celo pro salu
+te mea descendisti. Qui
+Dauid a peccati laplu erexi
+sti. Parce michi dñe parce
+michi xp̃e qui petro te negã
+tem pepercisti. Tu es creator
+meus. et adiutor meus. plas
+mator meus. et redemptor
+meus. saluator meus. et
+gubernator meus. et pater
+meus. dñs meus. et deus
+meus. et rex meus. Tu es
+spes mea fiducia mea. gu",38,e54c2c68-7d99-41ee-9c73-1f1ef4b33443
+f38-19r.xml,19r,"beruatio mea. consolatro
+mea. et auxiliatio mea for
+titudo mea. defensio mea.
+et liberatio mea uita mect
+et salus mea. et resurrectĩo
+mea. Tir es firmamentũ
+nieũ. et refugiuĩmeũ lumẽ
+et desideriũ meum. adnito
+riũ nieui et patrocinium
+meũ. Te deprecor et rogoi
+adiuua me et saliis erõi
+Gubernane et defendeme
+conforta me et letifiea me
+illumina meret uisitanne.
+Sulcita me mortuũ. qui a
+factura et opus tuũ sum
+domine ne despitias. stamu
+lus et seruus tuus sũ qͣuis
+malus ꝙͣuis indignus et
+19",39,da51081c-943e-452f-8885-98c361a82e29
+f39-19v.xml,19v,"peccator. Sed qualicũq lim
+siue bonus suie malus sẽper
+tuus sum.Ad quem ergo
+fugiam nisi ad te uadam.
+Situnne eiicis. quis me re
+cipiet. Si tu me despicis.
+quis me alpiciet. Et reco
+gnosce me indignũ ad te
+fugientẽ ꝙͣuis sim uilis et
+iuumdus quia si uilis et
+ĩm̃dus sum potes me mũ
+dare. Si lecus lum potes
+me illuminare. Si infirmꝰ
+lum potes me sanare. Si
+mortuus et sepultus sum
+potes me resuscitare quia
+maior est mnĩa tua ꝙͣ ini
+quitas mea. Aaior est pie
+tas tua ꝙͣ impietas mea.",40,efcf5fe3-5bcd-4940-8491-953ac7a266b1
+f40-20r.xml,20r,"Plus potes dimittere ꝙͣ
+ego cõmittere. Et plus
+parcere ꝙͣ ego peccator pec
+care. Non ergo respicias
+domine neqz attendas mul
+titudinẽ iniquitatũ mea
+rum. sed secundũ multitu
+dinẽ miserationũ tuarũ
+miserere mei et propitius
+esto michi maximo pecca
+tori. Die anime mee salus
+tua ego sum. qui dixisti.
+nolo mortẽ peccatoris. sed
+Ut magis uiuat et cõuer
+tatur. Conuertere me dnc
+ad te. et noli irasci cõtra
+me. Deprecor te clemẽtis
+sime pater propter miamn
+tuam supplico et exoro
+20",41,30923c10-e3a5-4ec4-8782-86eff3698070
+f41-20v.xml,20v,"ut perducas me ad bonum
+finem ad ueram penitenciã
+puram confessionẽ et dignã
+latiflactionem ominiunt
+peccatorum meorũ. Ameu.
+ole igiiu piiuii uius in
+galum uua m
+irisutt iornt dius
+mitert ii ilii
+ao ouraon ibiui cala
+ulamu
+trais iup im
+d uoinos peoi oloi
+pusro tuurs crunir
+to diui omiuiodetur
+Les heures de la concẽption
+de la benoiste uierge marie.
+orerotooulqũł iusut",42,2aae1b84-bb30-482a-9ca2-72f6655cfa2e
 f42-21r.xml,21r,,43,589eaddf-c1fb-4760-9c64-00dc3e0e0d3e
-f43-21v.xml,21v,Omine labia mea aperies. Et os meũ annũciabit laudem tuam. Ieus in adiutoriũ meu uitende. omine ad ad iuuandum me festina. Gloria patri et filio et spiritui sancto. Sicut erat in principio et nũc et semper et ĩscla seculoꝵ amen. Alleluya Letus longeui rex yꝰ. regũ misertũs ange lum. mittit gaudiũ pro luctu. ut dicat añne. tp̃e senili prolem habebis.O. Sterni uerbi concipies matrẽ anna tu gaude.,44,692c2750-d6f8-4b00-a926-15d7f732e159
-f44-22r.xml,22r,qũ nec talem esse nec credas futuram. hanc dicent omnes else beatam. ¶oachum magno gaudio repletur uocem dum audit angeli dicentis pariet tibi anna matrem dei grande pre cinictis. loria patri geniteqz proli flamini sancto uirginis ma tri: que dei natũ genuit ho minẽ sit laus perennis. Am̃ U. Nec dum erant abyssi R. Et ego iam cõcepta eram. or̃o. Eus ineftabilis mĩe qui prime piacula mulieris per uirginẽ expian da sauxisti: da nobis q̃sumꝰ conceptionis eius memoriã,45,a059a5b2-af3e-4f74-9195-dffd01ffb253
-f45-22v.xml,22v,digne uenerari que unigeni tum tuũ uirgo concepit. et Uirgo peperit dñm nr̃m ie lum xp̃m filiũ tuũ. Qui. tecum uiuit. Ad priman. Eus in adiutoriũ meũ intende Pñe ad adiu uandũ me festiua. ymiꝰ Ermiuũ noctis eternus aurora reddidit mũdo mariã permittens gaudiũ mũdi stellam matutinam preuiam solis. n ortu lucis stelle miaris ponthus terra letant᷑ gau deat peccator. nascitur ma ter iesu redemptoris maria lemens. ooae elici ciues reges terre,46,e659472a-64b2-4ecf-8ef3-5efd364a2744
-f46-23r.xml,23r,colunt. sterilis parit inira tur natura stupet inferni uidens sine labe uirginem nasci. loria patri geniteq pro li flamini sancto Uirgimiq matri que dei natũ genuit hominẽ sit laus ꝑemus. L. u. Conceptionẽ uirginis ma rie cũ gaudio celebremus R Ut ipla pro nobis ad dũmi ielum xp̃m. or̃o. Omine iesu xp̃e lux uera que illuminat omnne hominẽ uenientẽ in hunc mũdũ. dã nobis ortũ gen tricis tue digne celebrare ut eius aritercessione p̾mia ualeamus obtinere. Qui ui,47,4384a60d-e522-4f52-b551-19e034c51177
-f47-23v.xml,23v,eus in aduitoriũ. Ad .iii. Alutem mũdo tribuere uoleus e celis deus an gelũ marie mittit ut dicat eam salutando. Aue maria. ratia plena concipies deum hoc tibi signũ eliza beth tua parens concepit sterilisq sua ĩ lenectute. uella gaudens gabrielis ore suscepit uerba. respondẽs lic dicit. Ecce ancilla dñi fiatq hoc uerbũ tuũ. loria patri geniteqz pro li. 2c .u. Angelus domini nũciauit marre R̾. Et cõce pit de spũ lancto. Gratio. Eus qui do btẽ marie uirginis utero derbũ,48,74392c16-3f12-4a0c-818c-9f0dd00d6c14
-f48-24r.xml,24r,tuũ angelo nũciante carnẽ suscipere uoliusti pr̃a sup plicib tius. ut qui uere eam dei genitricẽ credimus eius apud te intercessionibus adiuueniur. Per. Ad sextã. eus in aduitoriũ meũ intende.Oñe ad adiuuãd y Uerum uatem habentẽ supremi aluo reclusũ amore maria montana iudee ascendens salutat gressu. gressu.i ¶arie uocẽ eliz abeth au dit exultat infans ĩ utero clausus prophetat mater dicens quia credis cõcipies uerbum. irgo tam mira audiẽs,49,34c9ac43-00d9-47c4-8f74-ed1e5572d34d
-f49-24v.xml,24v,et uidens canticũ nouũ red dit creatori dulces dans me los magnificat deũ amma inea.E lĩa patri geniteq. ⁊c̾. u̾ Ut facta est uox in auribus meis. R̾. Exultauit infans in utero meo. oro. Quipotẽs lempit̾ne deus qui ex abũdãcia caritatis tue beatã mariã tuo filio impregnatã uisi tacioẽ elizabeth inspirasti presta q̃s: ut qui eius uilita cionẽ celebranus ipsius precib in pñti ab omnib aduersitatib liberemur. et in futuro gaudis eternis perfruamur. Per dumm.,50,78f94009-6b06-4896-9ffe-5ea7ca11c4e2
-f50-25r.xml,25r,Leus in adiutoriũ. meũ intende. ymnus. Ascitur mũdo uerbũ caro factũ solis tran scendens lucẽ lux perfecta tenebris lucens capere quã sui generis nolunt. Sloriam deo pacẽ terre cantat chorus celorũ lux oritur noua custodes gregis cantus angeloꝵ audiunt nocte. Castores currũt cantus audientes natum uidere pãnis inuolutũ mariam natum uident in presepe redeunt leti. loria patri geniteqz proli flamini sancto uirgi,51,e9506e54-cbf8-4756-ae48-0b7e0a6d4c34
-f51-25v.xml,25v,niq matri que dei natum genuit hominẽ sit laus per ennis. Amen .U. Uerbum caro factũ est. R̾. Et hĩtauit in nobis. Oremus. Or̃o. Eus qui salutis et̾ne beate marie uirgini tate fecunda humano ge neri premia prestitisti tri bue q̃s: ut ipsam pro nob̾ intercedere sentiamus. per quã meriumus auctorem uite suscipere dũm nr̃m ielum cristum filiũ tuũ. Qui tecũ uiuit et regunat. Ad uesperas. cus in aduitoriũ incũ intende.nẽ ad adiuua dũ me festina. ymuus.,52,cb5a3c4d-c950-4030-b4fb-db181b435a47
-f52-26r.xml,26r,Orte dum uides ortum uite mori quis quãtus dolor gladius pertransit ammã tuã geitrix tu ui te o clemens mater. orporis nati uidẽs pla gas latus sangiũs fluxũ derisorũ uerba lacrimas fundens tu subiaces hu mo tu pia mater.L ¶e tecum flere plagas qz sentire genitrix dona tua prece nati lancea cla ius cruce spinis pungui fac dulcis mater. loria prĩ geniteq proli u. hic positus est in rũmã R Et tuã iplius animã per transibit gladius. oratio,53,1d62337b-1e50-4174-82da-45f07675997b
-f53-26v.xml,26v,Nteruemat pro nobis domine iesu xp̃e nũc et in hora mortis nr̃e apud tuam sanctã clementiam gloriosissima uirgo maria mater tua cuius lacratilli mam animã in hora passi onis tue doloris gladius pertrausiuit. Per dñm. Ad completorium. Ouuerte nos deus la lutaris noster. t auerte iram tuam a nobis. eus in adiutoriũ meum intende. ñe ad iladiuirãdum me festina. lĩa patri. Sicnt erat. uꝰ Egine celi e dono de la tum iosaphat corpus,54,7f2ac320-64e1-45d3-8bf9-3dd251d10184
-f54-27r.xml,27r,nichil reperitur ni locus in quo mannaq de celo ibidẽ esse redimus pie sãctoꝵ cum choris iesum uenisse deo iubilantes auimã corpus simuil sociantes ĩ sumo celo. rinitas sancta luscipiẽs matrem sertis coronat ter denis centenis gaudiũ semꝑ iubilus in euũ sit tibi mater ¶ loria patri geniteq pro li flamini sancto uirginiq matri que dei natũ gẽnuit hominẽ sit laus ꝑẽnis .u. Exaltata est lancta dei geni trix R. Super choros ange lorum ad celestia regna oro. Opplicationẽ seruoꝵ tuoꝵ apud tuã clemẽ,55,ffa89f26-a4c1-4314-9d95-a3b34484fd12
-f55-27v.xml,27v,ciam dei genitricis cõmẽdet oratio. quã idcirco de pñti seculo transtulisti. Ut pro peccatis nr̃is apud te fidu cialiter intercedat. Per dũm nr̃m iesum cristum filiũ tuũ. Qui tecũ uiuit et regnat in unitate spũs sancti deus. Per omna secula seculoꝵ Amen. Orailon de laintt ioleph. Ueneranda trinitas resus ioseph et maria. Quã coniũxit duinitas charitatis concordia. Na Mater uirgo puerpera. iacet in diuersorio. Cui ielus lugit ubera. gau det ioseph obsequio.,56,16f3116e-d44c-4e43-b612-6bcf995d19ac
-f56-28r.xml,28r,Ora pro nobis sanctilliẽ uirginis marie sponse. R Ut per hũilitatis gradus ad celestia regna scãdamꝰ Omine iesu xp̃e or̃o. eternaliter deus de deo et in effabili hũilitate temporaliter homo fctus de uirgine. qui sanctum ioseph beate marie matri tue uirginẽ uirgini despõ lari et humilẽ humili so ciari uoliuisti. Et eum de paruo magnũ de humili exelsum multis uirtutib et magnis honorib aug mentatum mirabiliter sublimasti.da nobis q̃s. eius exemplo meritis et,57,c3bf0a33-3b2e-4583-9dab-bc11c9fa508b
-f57-28v.xml,28v,precibus cum cordis et cor poris mũdicia ueram hũili tatis uirtutem nobisq ĩ hũilitate fundatis da fider spei et caritatis om̃nq uir tutum augmentũ ut per uirtuosa merita gloriosa tecum prenia consequi ua leamus. Qui cum patre et spũsancto uiuis et regnas deus per omĩa secula scłoꝵ amen. Oraison des co beuoist troys Roys. cooo ¶Dedue me domine ĩ uia tua ingrediar in ueritate tua. Letetur cor meũ ut tune at nomen tuũ. Pr̃ nr̃. Aue maria. Antienne. codeo In uiam pacis et salutis,58,058fc8b9-8e47-4641-b5c8-8a0bb2c08327
-f58-29r.xml,29r,ac prosperitatis dirige dñe gressus meos: et angelus tuus bonus comitetur no biscum ad dirigendũ pedes uros in uiam pacis: ut cũ salute et prosperitate eam et redeamus ad proprias. Autre antienne. co ¶Aboriente uenerũt ma gi in bethleem adorare do minũ: et apertis thesauris lius preciosa munera ob tulerunt: aurũ sicut regi magno: thus sicut deo ue ro mirram sepulture eius alła . Y. Reges arabum et sabba dona adducent. or̃o. Eus qui tres magos orientales. Gaspar.,59,0f2eacba-807c-4604-93a6-e49179b715d8
-f59-29v.xml,29v,Salthalar. et Melchio: ad tua cunabula ut te mysti cis uenerentur muneribus. line impedimento stella du ce perduxisti. concede propicius: per triũ horum magorũ pias intercessioẽs et merita nobis famulis tuis tribuas: ut itinere quo ituri sumus. celeritate leti cia: gr̃a et pace negocioq bene peracto teipsum sole uero: uera stella: et uera lu minis luce: ad loca destina ta cum omni prosperitate ad ipsorũ celestiũq ciuiũ consortia salui ac sam re dire ualeamus. Qui uiuis et regnas deus Per oĩa.,60,26056060-ace2-4246-81b6-06f805cf0623
+f43-21v.xml,21v,"Omine labia mea
+aperies. Et os
+meũ annũciabit
+laudem tuam.
+Ieus in adiutoriũ meu
+uitende. omine ad ad
+iuuandum me festina.
+Gloria patri et filio et
+spiritui sancto.
+Sicut erat in principio
+et nũc et semper et ĩscla
+seculoꝵ amen. Alleluya
+Letus longeui rex yꝰ.
+regũ misertũs ange
+lum. mittit gaudiũ pro
+luctu. ut dicat añne. tp̃e
+senili prolem habebis.O.
+Sterni uerbi concipies
+matrẽ anna tu gaude.",44,692c2750-d6f8-4b00-a926-15d7f732e159
+f44-22r.xml,22r,"qũ nec talem esse nec credas
+futuram. hanc dicent omnes
+else beatam.
+¶oachum magno gaudio
+repletur uocem dum audit
+angeli dicentis pariet tibi
+anna matrem dei grande
+pre cinictis.
+loria patri geniteqz proli
+flamini sancto uirginis ma
+tri: que dei natũ genuit ho
+minẽ sit laus perennis. Am̃
+U. Nec dum erant abyssi R.
+Et ego iam cõcepta eram. or̃o.
+Eus ineftabilis mĩe
+qui prime piacula
+mulieris per uirginẽ expian
+da sauxisti: da nobis q̃sumꝰ
+conceptionis eius memoriã
+22",45,a059a5b2-af3e-4f74-9195-dffd01ffb253
+f45-22v.xml,22v,"digne uenerari que unigeni
+tum tuũ uirgo concepit. et
+Uirgo peperit dñm nr̃m ie
+lum xp̃m filiũ tuũ. Qui.
+tecum uiuit. Ad priman.
+Eus in adiutoriũ meũ
+intende Pñe ad adiu
+uandũ me festiua. ymiꝰ
+Ermiuũ noctis eternus
+aurora reddidit mũdo
+mariã permittens gaudiũ
+mũdi stellam matutinam
+preuiam solis.
+n ortu lucis stelle miaris
+ponthus terra letant᷑ gau
+deat peccator. nascitur ma
+ter iesu redemptoris maria
+lemens. ooae
+elici ciues reges terre",46,e659472a-64b2-4ecf-8ef3-5efd364a2744
+f46-23r.xml,23r,"colunt. sterilis parit inira
+tur natura stupet inferni
+uidens sine labe uirginem
+nasci.
+loria patri geniteq pro
+li flamini sancto Uirgimiq
+matri que dei natũ genuit
+hominẽ sit laus ꝑemus. L.
+u. Conceptionẽ uirginis ma
+rie cũ gaudio celebremus R
+Ut ipla pro nobis ad dũmi
+ielum xp̃m. or̃o.
+Omine iesu xp̃e lux uera
+que illuminat omnne
+hominẽ uenientẽ in hunc
+mũdũ. dã nobis ortũ gen
+tricis tue digne celebrare
+ut eius aritercessione p̾mia
+ualeamus obtinere. Qui ui
+23",47,4384a60d-e522-4f52-b551-19e034c51177
+f47-23v.xml,23v,"eus in aduitoriũ. Ad .iii.
+Alutem mũdo tribuere
+uoleus e celis deus an
+gelũ marie mittit ut dicat
+eam salutando. Aue maria.
+ratia plena concipies
+deum hoc tibi signũ eliza
+beth tua parens concepit
+sterilisq sua ĩ lenectute.
+uella gaudens gabrielis
+ore suscepit uerba. respondẽs
+lic dicit. Ecce ancilla dñi
+fiatq hoc uerbũ tuũ.
+loria patri geniteqz pro
+li. 2c .u. Angelus domini
+nũciauit marre R̾. Et cõce
+pit de spũ lancto. Gratio.
+Eus qui do btẽ marie
+uirginis utero derbũ",48,74392c16-3f12-4a0c-818c-9f0dd00d6c14
+f48-24r.xml,24r,"tuũ angelo nũciante carnẽ
+suscipere uoliusti pr̃a sup
+plicib tius. ut qui uere eam
+dei genitricẽ credimus eius
+apud te intercessionibus
+adiuueniur. Per. Ad sextã.
+eus in aduitoriũ meũ
+intende.Oñe ad adiuuãd y
+Uerum uatem habentẽ
+supremi aluo reclusũ
+amore maria montana
+iudee ascendens salutat
+gressu.
+gressu.i
+¶arie uocẽ eliz abeth au
+dit exultat infans ĩ utero
+clausus prophetat mater
+dicens quia credis cõcipies
+uerbum.
+irgo tam mira audiẽs
+24",49,34c9ac43-00d9-47c4-8f74-ed1e5572d34d
+f49-24v.xml,24v,"et uidens canticũ nouũ red
+dit creatori dulces dans me
+los magnificat deũ amma
+inea.E
+lĩa patri geniteq. ⁊c̾. u̾
+Ut facta est uox in auribus
+meis. R̾. Exultauit infans
+in utero meo. oro.
+Quipotẽs lempit̾ne
+deus qui ex abũdãcia
+caritatis tue beatã mariã
+tuo filio impregnatã uisi
+tacioẽ elizabeth inspirasti
+presta q̃s: ut qui eius uilita
+cionẽ celebranus ipsius
+precib in pñti ab omnib
+aduersitatib liberemur. et
+in futuro gaudis eternis
+perfruamur. Per dumm.",50,78f94009-6b06-4896-9ffe-5ea7ca11c4e2
+f50-25r.xml,25r,"Leus in adiutoriũ.
+meũ intende. ymnus.
+Ascitur mũdo uerbũ
+caro factũ solis tran
+scendens lucẽ lux perfecta
+tenebris lucens capere quã
+sui generis nolunt.
+Sloriam deo pacẽ terre
+cantat chorus celorũ lux
+oritur noua custodes gregis
+cantus angeloꝵ audiunt
+nocte.
+Castores currũt cantus
+audientes natum uidere
+pãnis inuolutũ mariam
+natum uident in presepe
+redeunt leti.
+loria patri geniteqz
+proli flamini sancto uirgi
+14",51,e9506e54-cbf8-4756-ae48-0b7e0a6d4c34
+f51-25v.xml,25v,"niq matri que dei natum
+genuit hominẽ sit laus per
+ennis. Amen .U. Uerbum
+caro factũ est. R̾. Et hĩtauit
+in nobis. Oremus. Or̃o.
+Eus qui salutis et̾ne
+beate marie uirgini
+tate fecunda humano ge
+neri premia prestitisti tri
+bue q̃s: ut ipsam pro nob̾
+intercedere sentiamus. per
+quã meriumus auctorem
+uite suscipere dũm nr̃m
+ielum cristum filiũ tuũ.
+Qui tecũ uiuit et regunat.
+Ad uesperas.
+cus in aduitoriũ incũ
+intende.nẽ ad adiuua
+dũ me festina. ymuus.",52,cb5a3c4d-c950-4030-b4fb-db181b435a47
+f52-26r.xml,26r,"Orte dum uides ortum
+uite mori quis quãtus
+dolor gladius pertransit
+ammã tuã geitrix tu ui
+te o clemens mater.
+orporis nati uidẽs pla
+gas latus sangiũs fluxũ
+derisorũ uerba lacrimas
+fundens tu subiaces hu
+mo tu pia mater.L
+¶e tecum flere plagas
+qz sentire genitrix dona
+tua prece nati lancea cla
+ius cruce spinis pungui
+fac dulcis mater.
+loria prĩ geniteq proli
+u. hic positus est in rũmã
+R Et tuã iplius animã per
+transibit gladius. oratio
+26",53,1d62337b-1e50-4174-82da-45f07675997b
+f53-26v.xml,26v,"Nteruemat pro nobis
+domine iesu xp̃e nũc
+et in hora mortis nr̃e apud
+tuam sanctã clementiam
+gloriosissima uirgo maria
+mater tua cuius lacratilli
+mam animã in hora passi
+onis tue doloris gladius
+pertrausiuit. Per dñm.
+Ad completorium.
+Ouuerte nos deus la
+lutaris noster.
+t auerte iram tuam a
+nobis. eus in adiutoriũ
+meum intende. ñe ad
+iladiuirãdum me festina.
+lĩa patri. Sicnt erat. uꝰ
+Egine celi e dono de la
+tum iosaphat corpus
+nichil",54,7f2ac320-64e1-45d3-8bf9-3dd251d10184
+f54-27r.xml,27r,"nichil reperitur ni locus in
+quo mannaq de celo ibidẽ
+esse redimus pie sãctoꝵ
+cum choris iesum uenisse deo
+iubilantes auimã corpus
+simuil sociantes ĩ sumo celo.
+rinitas sancta luscipiẽs
+matrem sertis coronat ter
+denis centenis gaudiũ semꝑ
+iubilus in euũ sit tibi mater
+¶ loria patri geniteq pro
+li flamini sancto uirginiq
+matri que dei natũ gẽnuit
+hominẽ sit laus ꝑẽnis .u.
+Exaltata est lancta dei geni
+trix R. Super choros ange
+lorum ad celestia regna oro.
+Opplicationẽ seruoꝵ
+tuoꝵ apud tuã clemẽ",55,ffa89f26-a4c1-4314-9d95-a3b34484fd12
+f55-27v.xml,27v,"ciam dei genitricis cõmẽdet
+oratio. quã idcirco de pñti
+seculo transtulisti. Ut pro
+peccatis nr̃is apud te fidu
+cialiter intercedat. Per
+dũm nr̃m iesum cristum
+filiũ tuũ. Qui tecũ uiuit
+et regnat in unitate spũs
+sancti deus. Per omna
+secula seculoꝵ Amen.
+Orailon de laintt ioleph.
+Ueneranda trinitas
+resus ioseph et maria.
+Quã coniũxit duinitas
+charitatis concordia. Na
+Mater uirgo puerpera.
+iacet in diuersorio.
+Cui ielus lugit ubera. gau
+det ioseph obsequio.",56,16f3116e-d44c-4e43-b612-6bcf995d19ac
+f56-28r.xml,28r,"Ora pro nobis sanctilliẽ
+uirginis marie sponse. R
+Ut per hũilitatis gradus
+ad celestia regna scãdamꝰ
+Omine iesu xp̃e or̃o.
+eternaliter deus de
+deo et in effabili hũilitate
+temporaliter homo fctus
+de uirgine. qui sanctum
+ioseph beate marie matri
+tue uirginẽ uirgini despõ
+lari et humilẽ humili so
+ciari uoliuisti. Et eum de
+paruo magnũ de humili
+exelsum multis uirtutib
+et magnis honorib aug
+mentatum mirabiliter
+sublimasti.da nobis q̃s.
+eius exemplo meritis et",57,c3bf0a33-3b2e-4583-9dab-bc11c9fa508b
+f57-28v.xml,28v,"precibus cum cordis et cor
+poris mũdicia ueram hũili
+tatis uirtutem nobisq ĩ
+hũilitate fundatis da fider
+spei et caritatis om̃nq uir
+tutum augmentũ ut per
+uirtuosa merita gloriosa
+tecum prenia consequi ua
+leamus. Qui cum patre et
+spũsancto uiuis et regnas
+deus per omĩa secula scłoꝵ
+amen. Oraison des co
+beuoist troys Roys. cooo
+¶Dedue me domine ĩ uia
+tua ingrediar in ueritate
+tua. Letetur cor meũ ut tune
+at nomen tuũ. Pr̃ nr̃. Aue
+maria. Antienne. codeo
+In uiam pacis et salutis",58,058fc8b9-8e47-4641-b5c8-8a0bb2c08327
+f58-29r.xml,29r,"ac prosperitatis dirige dñe
+gressus meos: et angelus
+tuus bonus comitetur no
+biscum ad dirigendũ pedes
+uros in uiam pacis: ut cũ
+salute et prosperitate eam
+et redeamus ad proprias.
+Autre antienne. co
+¶Aboriente uenerũt ma
+gi in bethleem adorare do
+minũ: et apertis thesauris
+lius preciosa munera ob
+tulerunt: aurũ sicut regi
+magno: thus sicut deo ue
+ro mirram sepulture eius
+alła . Y. Reges arabum et
+sabba dona adducent. or̃o.
+Eus qui tres magos
+orientales. Gaspar.
+39",59,0f2eacba-807c-4604-93a6-e49179b715d8
+f59-29v.xml,29v,"Salthalar. et Melchio: ad
+tua cunabula ut te mysti
+cis uenerentur muneribus.
+line impedimento stella
+du ce perduxisti. concede
+propicius: per triũ horum
+magorũ pias intercessioẽs
+et merita nobis famulis
+tuis tribuas: ut itinere quo
+ituri sumus. celeritate leti
+cia: gr̃a et pace negocioq
+bene peracto teipsum sole
+uero: uera stella: et uera lu
+minis luce: ad loca destina
+ta cum omni prosperitate
+ad ipsorũ celestiũq ciuiũ
+consortia salui ac sam re
+dire ualeamus. Qui uiuis
+et regnas deus Per oĩa.",60,26056060-ace2-4246-81b6-06f805cf0623
 f60-30r.xml,30r,,61,400a5588-c8ca-401b-b63b-bbee21a6fd49
 f61-30v.xml,30v,,62,aea803c7-5ce1-4002-9089-09bb7b0d768f
-f62-31r.xml,31r,,63,f60a1e71-2359-4709-ad53-4a80ef903249
+f62-31r.xml,31r,31,63,f60a1e71-2359-4709-ad53-4a80ef903249
 f63-31v.xml,31v,,64,5ab756b4-3f8f-41b6-9434-517bfbd68728
-f64-32r.xml,32r,,65,ebc1f662-bc30-4450-ac72-a15171c3cc8c
+f64-32r.xml,32r,32,65,ebc1f662-bc30-4450-ac72-a15171c3cc8c
 f65-32v.xml,32v,,66,8fe181d4-36e6-4b83-ab71-08ebd44512d1
-f66-33r.xml,33r,,67,9b5e6cda-5622-427b-9894-472dfc2908c5
+f66-33r.xml,33r,38,67,9b5e6cda-5622-427b-9894-472dfc2908c5
 f67-33v.xml,33v,,68,518ee12c-f009-415c-afaf-940683fb49b4
-f68-34r.xml,34r,,69,97962d4a-1ae7-401a-9924-b4f98ddd9636
-f69-34v.xml,34v,ad amor edls de Rohan ab ligigd a parlion ssłu ⁊s trmuaitra ẽ dt uirdũds delusõt,70,54201f98-a8f0-4719-9235-b015d31401e6
-f70-np.xml,,,71,db550dc4-6255-4b75-9df2-e8f0d57a3e67
-f71-np.xml,,,72,7b4572fb-a2fa-4d59-89e0-497b9ddbfa1b
-f72-contreplat-inf.xml,,,73,2101bb04-8782-428f-8259-99f0ff408c9d
-f73-plat-inf.xml,,,74,14147a8f-d29b-496e-b3b4-6e124803ede7
-f74-dos.xml,,,75,aceeb53c-ae08-44dd-963e-5be869c985c8
-f75-tranche-sup.xml,,,76,66e049bb-8c52-4df2-aecb-ffbfc35d00aa
-f76-gouttiere.xml,,,77,41973b4f-5b57-487c-b733-61f5e56c54c4
-f77-tranche-inf.xml,,,78,d5280fa1-2554-4dc5-a120-cbab635e2fc0
+f68-34r.xml,34r,34,69,97962d4a-1ae7-401a-9924-b4f98ddd9636
+f69-34v.xml,34v,"ad amor edls de
+Rohan ab ligigd a parlion
+ssłu ⁊s trmuaitra ẽ dt uirdũds
+delusõt
+RIC",70,54201f98-a8f0-4719-9235-b015d31401e6
+f70-np.xml,np,,71,db550dc4-6255-4b75-9df2-e8f0d57a3e67
+f71-np.xml,np,,72,7b4572fb-a2fa-4d59-89e0-497b9ddbfa1b
+f72-contreplat-inf.xml,contreplat-inf,,73,2101bb04-8782-428f-8259-99f0ff408c9d
+f73-plat-inf.xml,plat-inf,LA,74,14147a8f-d29b-496e-b3b4-6e124803ede7
+f74-dos.xml,dos,,75,aceeb53c-ae08-44dd-963e-5be869c985c8
+f75-tranche-sup.xml,tranche-sup,,76,66e049bb-8c52-4df2-aecb-ffbfc35d00aa
+f76-gouttiere.xml,gouttiere,,77,41973b4f-5b57-487c-b733-61f5e56c54c4
+f77-tranche-inf.xml,tranche-inf,,78,d5280fa1-2554-4dc5-a120-cbab635e2fc0

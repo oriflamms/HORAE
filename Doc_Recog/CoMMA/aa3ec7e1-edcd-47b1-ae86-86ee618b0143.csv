@@ -1,117 +1,2695 @@
-page_id,folio,text,page_ordering,arkindex_page_id
-f0-plat-superieur.xml,,,1,e053edb4-dc66-4fcb-8b60-d62adfc88b32
-f1-contreplat-sup.xml,,,2,e90bfd17-aff5-4421-bdc3-36073343feda
-f2-page-de-garde-recto.xml,,,3,93a9ef60-33f0-4d26-8d7d-3f4ece580d20
-f3-page-de-garde-verso.xml,,,4,a044a56a-0ad0-4a93-b893-501f992269cd
-f4-page-de-garde-recto.xml,,,5,8d5be112-4dc3-4752-9cde-c773fa5e5e3b
-f5-page-de-garde-verso.xml,,,6,a34b2904-ad0e-4faa-a68f-f71809681d0d
-f6-page-de-garde-recto.xml,,,7,3941740a-bfc2-4e1f-9c7d-f44f0ef4d3b0
-f7-page-de-garde-verso.xml,,,8,5e8733d8-b073-496d-becf-a544cb419d13
-f8-1r.xml,1r,,9,0751ee65-d178-437c-9d9e-aed51dea0208
-f9-1v.xml,1v,,10,a190adb4-a218-4bb0-a077-c65a1b1c5b58
-f10-2r.xml,2r,,11,05ed70f8-b99b-49e7-bbd0-111a2fd71509
+page_id,CoMMA_folio_name,text,page_ordering,arkindex_page_id
+f0-plat-superieur.xml,plat-superieur,,1,e053edb4-dc66-4fcb-8b60-d62adfc88b32
+f1-contreplat-sup.xml,contreplat-sup,"aa
+x
+Pl.
+2224",2,e90bfd17-aff5-4421-bdc3-36073343feda
+f2-page-de-garde-recto.xml,page-de-garde-recto,,3,93a9ef60-33f0-4d26-8d7d-3f4ece580d20
+f3-page-de-garde-verso.xml,page-de-garde-verso,,4,a044a56a-0ad0-4a93-b893-501f992269cd
+f4-page-de-garde-recto.xml,page-de-garde-recto,,5,8d5be112-4dc3-4752-9cde-c773fa5e5e3b
+f5-page-de-garde-verso.xml,page-de-garde-verso,,6,a34b2904-ad0e-4faa-a68f-f71809681d0d
+f6-page-de-garde-recto.xml,page-de-garde-recto,,7,3941740a-bfc2-4e1f-9c7d-f44f0ef4d3b0
+f7-page-de-garde-verso.xml,page-de-garde-verso,,8,5e8733d8-b073-496d-becf-a544cb419d13
+f8-1r.xml,1r,"CX I
+18",9,0751ee65-d178-437c-9d9e-aed51dea0208
+f9-1v.xml,1v,"19h
+les sept pseaulme",10,a190adb4-a218-4bb0-a077-c65a1b1c5b58
+f10-2r.xml,2r,2,11,05ed70f8-b99b-49e7-bbd0-111a2fd71509
 f11-2v.xml,2v,,12,4612c2b6-6e3f-4fa0-936b-9d0fea3608d4
-f12-3r.xml,3r,,13,57f5e779-991c-4040-b458-fe497c565def
-f13-3v.xml,3v,,14,9be33742-1d3b-4aa5-b139-33b00820b06f
-f14-4r.xml,4r,ans grace riens on ne peult faui Pourctant a nous soit octroyes Po: nostre temps en bien ꝑfaire Du saint espril grace est haillee e Dont la uierge bien eurce En sa sanicte conception. Marie uierge fut enombree Quant elle cust salutacion,15,5d91f2d3-5452-43e0-8e02-1523b7f6a8be
-f15-4v.xml,4v,De uerbe diuin sanc doubber Aeste fait cher sans semence Pour ce comprendre actempter Beroit treffolle oultrecudancee Car il est uray sans deffaillance Que celle uierge adieu sacree Par la diuine p̾rouidence A este uierge fecundee. Cien samt esprit remplir les cuers De tous les loyaulx xp̃iens Et de ton amour les chaleurs Alume en yceulx ⁊ y uyens Snuoye ton esprit et creez Seront ceulx lesquelz sont debillez Cu les renouuelleras croyez face de terre en toutes uillez out puissant dieu octroye noꝰ la grace. la grace. Du saint esprit quil noꝰ soit couenable La quelle tu enuoyas sans fallace Ates appostres acegrat ioͬ notable De penthecouste qui est molt honorable Car tout mestier en aug grãdement Dercellante grace mappreciable e Disite noꝰ donne confortement A prime ¶em sancte sp̃s reꝑle luoꝵ corda fideliu ⁊ lui aõris ĩ eiꝰ igne accede. tuu ⁊ creabũt Et renouabis faciem terre mp̃s sempi tane de da no bis illam sctĩ sps grãm quã discipłis suis indie penthe costes lrũ sim sisti.,16,6def9f0d-f5ba-462b-8408-2b351ed994c1
-f16-5r.xml,5r,e marie crist a prins naissãce ¶ euugiemͥ Crucifie. mort ⁊ mis au tobeau xꝑ̃ fuit natu A ses disciples resurgẽt en p̃sence Eruafirꝰ mor Se demonstra le mistere est mõlt beau tiui alq tumu Apres ihesus le trespiteur aigncau latꝰ Resurgẽz di De ce monde a fait de partement scipulis fuil de Au ciel san ua sans engn ne cordeau mõstratꝰ. Et ipis yceulx uoyant le fail euidamment cemẽtib celis eleuał.,17,46146381-2fba-439c-92e5-ac5fbc14fa17
-f17-5v.xml,5v,uũ spm̃ spm̃ deus dele gauil. In die penthecostos suoᷤ confortauit. Et de lingius igneis ip̃o ĩ fła mauit. Relin quere orphaõs cos deneguiul on saint esprit delassꝰ dicu ẽuoye Aur bõs apostres le io. de pẽthe coste Iceulx cõforte. corrobore ⁊ resioye Et les oste de toute craincte ⁊ doubte scelle toulbe de langues enflãme toute Par quoy ilzont audace ⁊ eloquence Il ne ueult point q̃ nul qͦy qͥl lui couste Soit orphelui par sa grant sapience,18,d88aa1c2-a30e-411d-9f24-82b45202d42e
-f18-6r.xml,6r,ors les apostres si ont acquis ⁊ en acceptauer̃t Les sept dons craincte pilie c̃tẽdemi ł. Quare Science ⁊ force. en lesperit receu ꝓdicãta cũcta Conseil aussi qui arde grandement cognouerunt Et sapiente par quoy disertement Ao diu̾sa cłiata Ilz pourroient parler chũm langaige mũdi recesserũt De ca de la ont fait departement Et fidẽ catholita Preschãt la foy en maĩt bo. ⁊ uillage tũc preditaunt,19,a31e98b4-9d55-4a7f-9681-4f2676e21408
-f19-6v.xml,6v,"Sys ꝑadil fuit appellat Donũ dei cari tas fons uuu ficatꝰ. Spiriba lis unctio ignis inflammnatus Septiformis gr̃a. carisma nratus e saint esprit ꝑacuict sy appelle Consolate, don de dicu charite fonlame uiue unction suꝑnelle feu emslamble ⁊ lampe de clarte Et carisma se nomme pour uercte Ses nons ycy sont de grãs excellance Samt esprit faiz q̃ ie soye incite A bien faire par ta doulce demence",20,287b8b38-c284-4501-a627-4c3684a955f8
-f20-7r.xml,7r,ertre doit de la main de dieu Et uertu espirituelle Oucille noꝰ deffendre ẽ tout De tout mal ⁊ pame auelle Que l ame que as cree belle Nayt du deable denfer nuysance Saint esprit melz la soubz ton elle Nourris la soye lui deffence Sectre dei digitus untuᷤ spiribalis. Nos deffendal erua ł peu ab omnib malis Ut nobiᷤ nõ noceał demo infernali. Sed protegał mułat foueał sabalis,21,66d8ba75-c1d5-492f-b676-8afaba0e6f2b
-f21-7v.xml,7v,aint paradit uueille noꝰ arder Noz pas regyr. et enluminer Car dieu uyendra ie le croys sans cuyder Pour toꝰ iuger ⁊ trestout discerner Helas nully ne pourra seiourner Quil ny compare ⁊ pus qͥl y fault estre Ton eul damo. Ueulle sur noꝰ tourner Epũs ꝑad tus nos uellit uiuare. Mressi nros regere ⁊ illiuare. At cum deus uenert omne iudicare. Moz uellit ad dex tera suam appellare.,22,054b9c73-0444-4fee-a28d-984d4d2674be
-f22-8r.xml,8r,Que euacquez puissons estre ala destre es heures ꝙ en grant deuocion Saint esprit quilz sont canomalles ie tay dictez en contemplation Oste de moy toutes les taches malles Se auons fally par aulcũs interualles Que possedyons des cieulx la manssion Amen que dieu ueulle par sa grace Que tousiours inspire ie soye A bien faire ⁊ que iare place En paradiz et que mon dieu uoye ¶as horas Canomcas cũ deuotione. Li bi sancte spũᷤ pia racione. Diri ot nos ui sites inspiracoe Ut biuannus Iuoiter celi regione. Ame,23,4307f17a-5446-4ffa-96e2-ac360e26d9e5
+f12-3r.xml,3r,"ii
+1395
+8004",13,57f5e779-991c-4040-b458-fe497c565def
+f13-3v.xml,3v,20C,14,9be33742-1d3b-4aa5-b139-33b00820b06f
+f14-4r.xml,4r,"ans grace riens on ne peult faui
+Pourctant a nous soit octroyes
+Po: nostre temps en bien ꝑfaire
+Du saint espril grace est haillee e
+Dont la uierge bien eurce
+En sa sanicte conception.
+Marie uierge fut enombree
+Quant elle cust salutacion
+obi
+4
+santi
+spũs oracia
+sit data. Deqͥ.
+uirgo uirginu
+fuit obumbra
+ta. Cum per
+sanctum ange",15,5d91f2d3-5452-43e0-8e02-1523b7f6a8be
+f15-4v.xml,4v,"lum fuit sa
+lutata. Uerbũ
+caro factum
+est uirgo fecũ
+data.
+De uerbe diuin sanc doubber
+Aeste fait cher sans semence
+Pour ce comprendre actempter
+Beroit treffolle oultrecudancee
+Car il est uray sans deffaillance
+Que celle uierge adieu sacree
+Par la diuine p̾rouidence
+A este uierge fecundee.
+Cien samt esprit remplir les cuers
+De tous les loyaulx xp̃iens
+Et de ton amour les chaleurs
+Alume en yceulx ⁊ y uyens
+Snuoye ton esprit et creez
+Seront ceulx lesquelz sont debillez
+Cu les renouuelleras croyez
+face de terre en toutes uillez
+out puissant dieu octroye noꝰ
+la grace.
+la grace.
+Du saint esprit quil noꝰ soit couenable
+La quelle tu enuoyas sans fallace
+Ates appostres acegrat ioͬ notable
+De penthecouste qui est molt honorable
+Car tout mestier en aug grãdement
+Dercellante grace mappreciable e
+Disite noꝰ donne confortement
+A prime
+¶em sancte
+sp̃s reꝑle luoꝵ
+corda fideliu
+⁊ lui aõris ĩ eiꝰ
+igne accede.
+micte spm̃
+tuu ⁊ creabũt
+Et renouabis
+faciem terre
+mp̃s sempi
+tane de da no
+bis illam sctĩ
+sps grãm quã
+discipłis suis
+indie penthe
+costes lrũ sim
+sisti.",16,6def9f0d-f5ba-462b-8408-2b351ed994c1
+f16-5r.xml,5r,"9
+e marie crist a prins naissãce ¶ euugiemͥ
+Crucifie. mort ⁊ mis au tobeau xꝑ̃ fuit natu
+A ses disciples resurgẽt en p̃sence Eruafirꝰ mor
+Se demonstra le mistere est mõlt beau tiui alq tumu
+Apres ihesus le trespiteur aigncau
+latꝰ Resurgẽz di
+De ce monde a fait de partement
+scipulis fuil de
+Au ciel san ua sans engn ne cordeau
+mõstratꝰ. Et ipis
+yceulx uoyant le fail euidamment
+cemẽtib celis eleuał.",17,46146381-2fba-439c-92e5-ac5fbc14fa17
+f17-5v.xml,5v,"uũ spm̃
+spm̃ deus dele
+gauil. In die
+penthecostos suoᷤ
+confortauit.
+Et de lingius
+igneis ip̃o ĩ fła
+mauit. Relin
+quere orphaõs
+cos deneguiul
+on saint esprit delassꝰ dicu ẽuoye
+Aur bõs apostres le io. de pẽthe coste
+Iceulx cõforte. corrobore ⁊ resioye
+Et les oste de toute craincte ⁊ doubte
+scelle toulbe de langues enflãme toute
+Par quoy ilzont audace ⁊ eloquence
+Il ne ueult point q̃ nul qͦy qͥl lui couste
+Soit orphelui par sa grant sapience",18,d88aa1c2-a30e-411d-9f24-82b45202d42e
+f18-6r.xml,6r,"ors les apostres si ont acquis ⁊ en
+acceptauer̃t
+Les sept dons craincte pilie c̃tẽdemi
+ł. Quare
+Science ⁊ force. en lesperit receu
+ꝓdicãta cũcta
+Conseil aussi qui arde grandement
+cognouerunt
+Et sapiente par quoy disertement
+Ao diu̾sa cłiata
+Ilz pourroient parler chũm langaige
+mũdi recesserũt
+De ca de la ont fait departement
+Et fidẽ catholita
+Preschãt la foy en maĩt bo. ⁊ uillage
+tũc preditaunt
+Septiforne
+gram tunc
+6",19,a31e98b4-9d55-4a7f-9681-4f2676e21408
+f19-6v.xml,6v,"8
+Sys ꝑadil
+fuit appellat
+Donũ dei cari
+tas fons uuu
+ficatꝰ. Spiriba
+lis unctio ignis
+inflammnatus
+Septiformis
+gr̃a. carisma
+nratus
+e saint esprit ꝑacuict sy appelle
+Consolate, don de dicu charite
+fonlame uiue unction suꝑnelle
+feu emslamble ⁊ lampe de clarte
+Et carisma se nomme pour uercte
+Ses nons ycy sont de grãs excellance
+Samt esprit faiz q̃ ie soye incite
+A bien faire par ta doulce demence",20,287b8b38-c284-4501-a627-4c3684a955f8
+f20-7r.xml,7r,"ertre doit de la main de dieu
+Et uertu espirituelle
+Oucille noꝰ deffendre ẽ tout
+De tout mal ⁊ pame auelle
+Que l ame que as cree belle
+Nayt du deable denfer nuysance
+Saint esprit melz la soubz ton elle
+Nourris la soye lui deffence
+Sectre dei
+digitus untuᷤ
+spiribalis. Nos
+deffendal erua ł
+peu ab omnib
+malis Ut nobiᷤ
+nõ noceał demo
+infernali. Sed
+protegał mułat
+foueał sabalis",21,66d8ba75-c1d5-492f-b676-8afaba0e6f2b
+f21-7v.xml,7v,"2
+aint paradit uueille noꝰ arder
+Noz pas regyr. et enluminer
+Car dieu uyendra ie le croys
+sans cuyder
+Pour toꝰ iuger ⁊ trestout discerner
+Helas nully ne pourra seiourner
+Quil ny compare ⁊ pus qͥl y fault estre
+Ton eul damo. Ueulle sur noꝰ tourner
+Epũs ꝑad
+tus nos uellit
+uiuare. Mressi
+nros regere
+⁊ illiuare.
+At cum deus
+uenert omne
+iudicare. Moz
+uellit ad dex tera
+suam appellare.",22,054b9c73-0444-4fee-a28d-984d4d2674be
+f22-8r.xml,8r,"Que euacquez puissons estre ala destre
+es heures ꝙ en grant deuocion
+Saint esprit quilz sont canomalles
+ie tay dictez en contemplation
+Oste de moy toutes les taches malles
+Se auons fally par aulcũs interualles
+Que possedyons des cieulx la manssion
+Amen que dieu ueulle par sa grace
+Que tousiours inspire ie soye
+A bien faire ⁊ que iare place
+En paradiz et que mon dieu uoye
+¶as horas
+Canomcas cũ
+deuotione. Li
+bi sancte spũᷤ
+pia racione.
+Diri ot nos ui
+sites inspiracoe
+Ut biuannus
+Iuoiter celi
+regione. Ame",23,4307f17a-5446-4ffa-96e2-ac360e26d9e5
 f23-8v.xml,8v,,24,e3a0a985-a7a1-45b5-bccb-b46f21b5c654
-f24-9r.xml,9r,on seigneur dieu ne ueullez me arguer En te fure. combien q̃ i ay meffaĩt Par qͦy ie suis fort a redarguer Et reprendre poͬ᷑ mon cruel forfait Mon piussant roy souueram dieu ꝑfait Ne me uueillez corriger en ton ire Nonlt a doubter est fure: de tel sire ¶Gi teusement ayez mercyde moy ¶ saere meo,25,db65d570-d2ea-4ea7-a5bc-4d297bc41394
-f25-9v.xml,9v,Car malade ie sius amerement. E Gary moy tost mon salut gist en toy Car tous mes os uiuersellement c Sont conturbez craignant tõ iugement Cruel uenir fors quẽ ie me recorde Que tel seigneͬ n est sans misericorde Et mõ am̃e est troublee grandement Mus monss: iusques aquãt᷑ sera ce Quelle sera en cestui troublement Quil te plaise tourner ta digne face Sus le pecheur que tu lui face grace Comme humblement supplpe ⁊ requiert Srace donner aux haulx princes affiert ¶on seigneͬ dieu du cuer ie te reclame Ce suppliant en mon affliction Conuertis toy ⁊ deliure mon ame De sa douleur ⁊ tribulacion Et me saulue de persecucion Poͬ ta grãt misericorde saincte Lault iuigement a paine ua sãs craincte. eliure moy mon dieu car en la mort Celuy nya qui de toy peust pensser Et soit memor denfer tresort Qui re poiura iustement confesser Se en noz pechez mortelz fault passer Qui te fera deue Confession ple,26,95bb1d75-f358-47b0-9647-3954df2ffcc8
-f26-10r.xml,10r,Apres la mort nulle remission ¶Lap la boure en mon gemissemente Et laueray par singulieres nuytz Mon lyt de pleurs et larmes tellement Que conuertir te feray si ie puis S Car ie congnois que condẽpne ie suis Mais tues doulx ⁊ ne tiens cruelz termes A cuer contrict et abreue de larmes May leul trouble toutes foys q̃ ie pẽs A ta fureur poͬ ce q̃ iay commis Inuetere uenu en decadence Ie sus entre tous mes grãs ennemys En moult de paz dangereur me suis mis Mais en pitie mas tousio uegarde Ce que dieu garde. est seurement garde Ious toꝰ peche ᷤ faisans iiquite fuyez de moy. ⁊ sathan le peruers. Qui a peche faire ma incite Maiz ie cõgnois p̃sent mon dieu cõuers Car exaulce a de mon ple: diuers La uoix ⁊ ueult q̃ ma doule: ne çesse Apres grãt deul uoulentiers grãt lpesse ¶on puissant dieu tres gracieusem̃t A exaulce ma deprecation Monss a receu beignement on oroison ⁊ supplicacion.,27,d4f58a71-2075-43b6-9531-17fd7f9e7fc2
-f27-10v.xml,10v,Se iay plore tay eu Remission a Monss̾ ma monstre sa gratitude A cuer contrict Iamaiz dieu ne fust rude Soiẽt honteur toꝰ mes ennemis fors Et de honte seretonẽt en suyte Car entoͬ moy ont perdu leurs effors Loue soit dieu se sius maintenãt quilte Soient honteur et sen fuyent tres uite En congnoissant le. intencion uame Tel prent traueil souuẽt qͥl ꝑt sa paine Gloire sans fin ⁊ sans commencem̃t Au createur pere dieu eternel Au filz aussy gloire ꝑeillemẽt Qui du pere est uray dieu coeternel Aussy esprit aussi ie quel est tel En deite lunc a laultre resemble E Si que ies ttoys ne sont que ung dieu en seble,28,02f5b581-f677-4cdf-8b5a-d06d87732dce
-f28-11r.xml,11r,ien eurez sont ceulx de qͥ ꝑdõne Et remisez sont les miquitez Et dieu le᷑ a telles gͣtes donnez Que le pechez faiz par mauites fõnees Sont tous couuerz en oubly boutez La congnoist on les diuinez bontes Dont bien eureux sõt dis toꝰ ceulx ⁊ ceiles Qui de peche se sentent rachetez Et leᷤᷤ malfaictz en aruiere geltez Par les graces de dieu spũelles. Sien eureux est lõme a qui iamaiz Dieu ne imputa peche auoir commis Etien lesprit du quel ne en ses faitz Nest pomt trouue fraulde tat sõt ꝑfaictz Et a du tout enueis dieu son cue. mis Noꝰ donc peche  qui noꝰ sommes submi Tant a peche prios oieu par tel pomt Que nos pechez noꝰ soyẽt tous remis Affin de estre reformez ses amis Et que frauldes en noꝰ ne trouuẽł poit o: ce que teu me suis trop longuemil dans confesser mes pechez ⁊ offence inueberez sont mes os grandemẽt Et ay tousioͬ assemble largement Mal auec mal dessus ma conscience Ia soit ce q̃ par craincte de sentence,29,ff175057-5b16-4a68-acae-c54f3b085002
-f29-11v.xml,11v,aducrsum me Par chim ioͬ ie plorasse r cipopes Tout apart moy. mays sãs quelq̃ deffence Le mal cõmis a diuine clemence Incontiẽt rctourner me deuoye Cour que ta maina este agraueo De ioͬ. De nuyt sus moy en ma miseren Et eiũpne notoyre et approuuee Affin dauoir ma poure ame sauluee A toy me sius conuerti dieu mon pere Quãt lespme de la doule: amere De mon peche est confichee en moy Et la honte de mon grant uitupere Aultre chose ne scay que pensser de faire for retourner humblem̃t deuãt roy on create. souueram ie te ay faĩt Tout mon delyt congneu ⁊ tout mõ uice I ay confesse tout mon uillam forfait Et nay uoulu deuãt toy en effet finablemẽt absconser ma iustice De mon peche lay fait sacrifice Selon lesoit ⁊ institucion De nr̃e loy en te faisant seruice Par quoy mon dieu i ay espoir q̃ ie puisse Estre saulue pa ma confession ¶Lay dist mon dieu q̃ ie confesseray Inuistice contre moy plamem̃t,30,eaadbe57-2704-4ca1-9550-1a755a8f3b0c
-f30-12r.xml,12r,Et deuãt roy mon fait accuseray miusticiã mea Adont tuas mon fait considere dommo. ⁊ tu re Remis aussi tres gracieusemẽt misisti ĩpictatẽ La mauuaistie de montrangressemẽt Regarde as a mon gemissement Et pius apres ala confession De mon peche leq̃l finablemẽt Iay deuant toy mis uoluntairem̃t Po: optenir grace ⁊ remission Go. ceste chose tout hõme raisõnabli Sainct peiitent priere te fera En remps propre decent ⁊ conuenable Si que es lyens et temptoyres du dyable Comme deuãt iamays ne recherra Car qui conq̃ humblemẽt dicu priera Et en temps deu quoy qͥl soit empeche de grief mal fait nectoye en sera Et a pame de lennemy pourra Estre tourne poͬ retourne en peche ertainemẽt se le penitent fait Son oroison ueiz toy en tẽps de grace Les temptemẽs de lennemy infaict Le trouueront si droit ⁊ si ꝑfait Que ĩpossible est q̃ aulcũ ẽnuy lui face Du deluge des eaux tresorde place Iusãs alii pount ne saprocheront,31,3505b845-7b83-4269-96f3-715f6ea8b0d5
-f31-12v.xml,12v,Car dessus lui sera ꝑa digne face Qui les pechez de tous pecheurs efface Et les deables nuire ne lui pourront ¶Do ce mon dieu ⁊ mon souueram iuge Qui mas este en tribulaçion Et encores es et seras mon refuge Deliure moy de ce cruel deluge Et du pouoir de la temptacion Les ennemys plains de deception Me circondent ⁊ quierẽt me destriure Mais tu me doys en telle affliction Estre secours escu protection Tu me las dit ainssi faire cher sire Ne as tu pas dist ie te donneray home Entendemẽt ⁊ aussy te instriuray Et monstreray la sorte ⁊ facon cõme Chemineras affin que bon te nõme En la uoye que ie te bailleray Mes yeulx aussy sur toy ie fermeray ferme les donc sire dieu et conferme Sus moy qui suis de peche retyre Par ta grace ⁊ par tant ie seray Pour resister contre lennemy ferme Gous doncques hõmes mortelz qͥ scauez Que dieu est bon iuste saint et loyal Estudiez que honnestement uiuez,32,998ba6c0-ff88-4579-853f-d40ed527ed47
-f32-13r.xml,13r,Et ne sorez faitz ⁊ ainssy trouuez Que la mulle ou que le cheual Qui nont sen plus q̃ le sens bestial Et ne est en eulx aulcun ẽtendemẽt Amẽdez uoꝰ sy uous auez fait mal Confessez uous car cest le principal Adoubter est le diuin iugement ¶ons̾ dieu q̃ iayme honore ⁊ cram Des sensitifz homines uoluptueur Ie te requier ⁊ supplye reffram Leͬᷤ machoueres en cheuestre ⁊ ẽ fram Et corrige les appelis diceulx Puis que de toy qͥ tant es gracieur Ne approchet poĩt. mais se ueullẽt tenir En leur erreͬ glorieulx dieu des dieux Corrige les cest ioye aux uertueux Quant ilz uoyẽt les obstinez pugnir Les tortures les fleaux les tormens Du peche. sont plussᷤ grans ⁊ diuers Mais lesperant en tes enseignemens Et retournãt a tes commendemens Misericorde q̃ tu as promise a tes sers Auironne ⁊ dedans les enfers Sont les fleaulr diuers determinez Bourreaulx aussi ⁊ satrappez ꝑuers Poͬ. tourmenter a bort ⁊ a trauers,33,3a53b1a4-3648-491d-8bac-8af40a22c6e8
-f33-13v.xml,13v,Et flageller les pecheurs obstinez O renez lyesse en dieu nr̃eseigne Iustez leaux qui aymez sa iustice Gloriez uous tous bons ⁊ droictzẽ cuer Et conseillez a tout poure peche Quil samende quil laisse peche ⁊ uice Et confesser uienne son inustice Bemonemẽt sans son cuer obstiner Uyẽne uers dieu qͥ est doulx ⁊ ꝓpice Soy confesser tãt soit grãde malice I sera prest de grace lui donner. Su pere au filz ⁊ aussy esprit de gloyre Assemblemẽt soit a la trimte Cellui seul dieu de quoy len fait memore Qui tel qui fut est. ⁊ sera encore Sans deuiser en son eterite Lequel nous doĩt par son auctorite Aller lassus ou il regne ⁊ uita Apres que rey aurõs assez este En celebrant par bonne uoulente Sept pseaulmes anissi q̃ fist dauid. eras pomis il malpil inoe xcun ati⁊ issui elimrorues nit  redi tairtiuot. e,34,de9c076e-d64c-4f4b-ab4b-3c2086804a96
-f34-14r.xml,14r,oble seigne q̃ toute puissãce as Et uoys mon cas Ie te prye humblement. Quen ta fure ⁊u ne me argue pas Quant tu uyendras A tenir tes estas Et que uouldras Ꝙe mettre en iugement e,35,e8258a96-2a16-4bd7-aed7-61a04275f5dd
-f35-14v.xml,14v,Pareillement Pareillement En yre aulcunement Ne me ueullez pugnir ⁊ corriger Lyre ⁊ fureur de toy assemblement Ie doubte ⁊ craing car en tel ꝑlement Nattet aulcũ son arrest sans danger Seigneͬ tu mas ẽuoye des nouuelle Par les querelles e congnois maintenant Que fichees sont tes sageltes mortelles Et cruelles Si poygnantes si felles Que onc de telles Que onc de telles Ne fust nul soustenant En me affligant En me affligant Tu as comm̾e puissant Sus ton seruant Confermee ta main Qum Se iay eu pe. ce mandemẽt orant Se ie tremble cest droit le cas est grãt La ou mort fyer point nya de demam Go: la craicte de ton yre soubdaiẽ Plus que humanie Ou ie me suis boute Ie n ay en moy present ne char ne uaiẽ Qui soit same,36,eaf87138-3c26-40e0-899d-77b07f722f7a
-f36-15r.xml,15r,Pourete la che ⁊ uame Me demaine Plus nya de sante Tant espouente Sius de ta maieste En sa durte Et yre uoir en face De mes pechez refroydi tempeste Sus tellement q̃ ie ne scay coste La ou mes os ayent paisible place ¶ay eu cranicte souueraĩ roy des roy Car ie congnois Que mes iiquitez o Ont surmonte ma teste mille foys Comme tu uoys Clerement ⁊ congnois Maiz toutes foys Iespoyre en tes bontez Nies faulcetez Et mes meschansetez De tous costez Sont sur moy agrauees Ainssi q̃ ung fetz. pesãt ou sont boutez Toꝰ fardeletz pesãs empacquetez Sont dessus moy mes faultez arriueez ourries sont les uielles qratrices,37,800e63d1-0f4f-4c16-9cf4-bb884e7ae596
-f37-15v.xml,15v,de mes uices et toutes corrumpues En la face dee nouueaux imustes Et malices Dont nos euures propices Et iustices Nous auons maintenues Reuenues Reuenues Les playes que auõs eues Et acrues Et acrues Sus moy par exellance Quãt par peche nouueau iay ꝑdues Celles graces q̃ iauoye receues s Du don de dieu par mon insipience Deche ma fait courbe ⁊ miserable Condanmable Par mon ingratitude Quãt du peche qui tãt est uillenable Et dampnable En ung plus detestable Par le dyable say boute mon estude Multitude: De maulx est amplitude Nle retrude Et fault que pugny soye Dont chascum Io: parmy la solitude,38,df604100-dd8d-45c2-a5f1-6d33299b43d3
-f38-16r.xml,16r,des lieux desers ⁊ sus la terre Rude Po. tout le iour contriste men aloye ¶lains onl este meg rains de Illuspõ Et toute pourete Car iay boute mes delectacions Aux passions Creu les temptacions Et en ma charr nya pont de sante Auolupte Auolupte De la charnalite Me suis boute Par peche ⁊ ordure e Point ne sus tel q̃ deusse auoir este Mayz sire dieu ie yequiers ta bonte Et charite ce Que du pecheur endure ¶Numilie sius merueilleusement Et durement Afflige ie cryoye En rugissant poͬ le gemissemet Crueil bayment Crueil bayment La ou incessanment Pax grief tourment Le cuer de moy sentoye Ie penssoye,39,3639c9a5-49e3-421f-a5ac-71f73c0d9a2d
-f39-16v.xml,16v,Aux maulx que faiz iauoye Et estoye Retourne au meschief Et ay perdu la grace que iauoye Et par peche fault q̃ benny en soye Dengereux est malqͥ uyent de rechief ¶on sire dieu tout le desir de moy Est deuant toy Et n est point absconse Mon pleͬ de toy. mondroit Iuge mõ roy Regarde ⁊ uoy Lennuy et lesmoy Que auoir ie doy Qui tant iay offence Peu ay pensse AToy le temps passe Mus transgresse Ta iustice ⁊ droicture Iay mon plaisir pourchasse Dont present suis fuitif ⁊ dechasse Plaisir mondam en la fin nest q̃ ordure Nõturbe est mon cuer amerement En moy present Qui tant suis douloureux Delesse ma uertu totallement em Pareillement. Pareillement.,40,1d98255a-6fba-44fb-9232-23860a66ca4c
-f40-17r.xml,17r,lumicre tellement Que aulcunement Ne puis uoir de mes yeulx En mesans uyeulx Poͬ mes faiz uycieur Estranges lyeur Habiter me couuient iay este fyer despit ⁊ orguilleur Maitenãt sus fuitif ⁊ langoureux Bien uyt eureux qui a bõne fin uient Les tresprochanis ⁊ amys prĩapaur Congnus mes maulx Pour me persecuter Sont approchez ensemble ꝑ mouceaulx Qui des uassaulr Qui des uassaulx Pour me donner assaulx Porte fleaulx Porte fleaulx Pour mon corps tourmenter Bien doy doubter Deuant eulx me bouter Et presenter Pour ce que iay commis Mes plus ꝓchanis me ueullet de bouter De mon royaulme seclure ⁊ deiecter Trop est hay qͥ lest de ses amys Quant suis uenu a se diuerz besois,41,82f402d6-238a-467d-a2bc-d8d142958798
-f41-17v.xml,17v,Plam de grant somg Ceulx qui estre souloient Au pres de moy sen son tyrez au loing Tourne le groing Prins baston en leur pong Dieu est resmoing Du mal quil me uouloient Et faisoient force ceulx qui queroient Et tyroient Ax tuer droit ou tort Nes plus prochanis plꝰ fort me poͬiuiuoyt Et menoient Gens qui les soustenoient Homme hay est plꝰ q̃ demy mort. Sien scay q̃ ceulx qͥ mamort pochassoiẽl Et chassoient Pour mes miquitez Improperes ⁊ crismes controuuces Me blasmoyent En tout sens quilx pouoient Et parloient Contre moy uaintez Nlaulx inuentez Ilz ont ⁊ faulcetez De tous coustez.,42,987e2362-a845-4438-ab68-426bdbab64a3
-f42-18r.xml,18r,Pour ma uie destaindre A mal penser ilz se sont affectez Cõme hayneurs. contre moy despitez Hõme hay. de chascun doit bien craindre ¶Hles opprobres contre moniẽtendoye Mais iestoye Comme ung souit qui not ponit De les ouyr pomnt semblãt ne faisoye iescoutore r Pas ung mot ne disoye Ienduroye De leurs langues estre point Tout en ce pomit Que le muel contranit Qui bien apomt Ne peult ouurir sa bouche De dire ung mot. cõtre eulx me suis reffraint. Iay endure paciẽment ⁊ crant Bien est touche q̃ la maĩ de dieu touche ¶May este fait comme hõme nõ oyãt Et non ayant De redarguations En sa bou̾che mes ennenniz uoyant Et alroyunt Maulx de moy dyre tant,43,164558d4-2769-4489-bcd6-7a63efb98b9a
-f43-18v.xml,18v,En redoubtant Leurs persecucions Leurs fitions Leurs fictions Par mille oppimnons Et grans raisons Ieusse bien peu corrompre Maiz iay souffert le diffamations Doubtant auoir plꝰ grãs afflictions On dit quil uault trop mieulx ployer que rompre. Des ennemis moult trop imppere Et profere Et profere Contre moy deshonneur De quor ie nay millemẽt murmure D aus differe. ⁊ tousiours endure Car espere I ay en roy mons Alon createur Non leal protecte. Et deffensseur Mon roy mon puissant dieu Iay endure et souffert de bon cuer Les imures daultrui poͬ ton honeͤ Pacience est bonne en temps ⁊ en lyeu Iay endure de uenimeux blason Plusque poyson.,44,38598319-ab8d-484a-b8cf-d9c09248c736
-f44-19r.xml,19r,Sus moy grant habondance Maiz sans laisser les termes de raiso Par desraison Iay mis toute saison Selon nuson Selon maison En toy mon esperance Car ie tay dist mon dieu plam de puissance. Mes ennemys ne preneł poit plaisace Bus moy iamaiz poͬ mauoir dechasse Car ie scay bien q̃ par oultreciudace Sans doubtance En me portant nuysance Orandes choses ilz ont oist ⁊ pensse Quelq̃ doule: hormble q̃ iape eue Et receue Fort trauellye et las Sy ne ay ie point esꝑance ꝑduer Car tousioͬ prest de puissace estẽdue En temps deue Ie suis ⁊ me euertue Ates fleaulx quãt tu les mẽ ẽuoyraᷤᷤ Car de mon cas Pyteur en tous estas Comme ueu as fay tousiours en presence,45,ba2c44bc-9be7-4a5c-bb6d-2ab277a678c5
-f45-19v.xml,19v,La grant doule: qui me suyb pas a pas De muyt de io. et nen pactyra pas aan Car trop est fol qui a la fin ne pensse ¶ousio  auray desplaisate en moncuer Honte ⁊ douleur Honte ⁊ douleur Car ie le annonceray Liniquite de moy mon creabeur Pour mon erreur En tristesse et en pleur Comme pecheur Doit. tousious pensseray Honteux seray eray Du mal que fait auray Et ploreray Et ploreray Mon bien fait delesse Tant quen peche iamaiz ie ne cherray Cõe Iay fait dont iap le cuer serre Danger congnoist. qui danger a passe Dertamemẽt mes ẽnemps tresgrans Sont tous uiuans Et confermes sur moy Sont ceulx qͥ ont este mes malueillãs Mon corps querans Et ma mort desirans Multipliez iiquement les uoy Ce desmroy,46,9008ec6a-a242-4cbc-98b9-a675a26d6739
-f46-20r.xml,20r,Me font contre la loyr Car le parquoy En forme napparoist Qu ilz me deussent tenir en tel esmay Quil tant de biens ⁊ dhõne fuit le. ay Mais cuex morat bñ fait nul ne cõgnoist. Seulx qͥ rendet maulx po bñ detractoiẽt Et uouloyent Me imposer faulcelte Et iniure poͬ cause quilx ueoyent Et scauoyent Que la ou ilz erroient Et falloyent ie suiuoye bonte Se iay este De lennemy tempte I en siuis oste Et a raison ueuien Non obstant se de eulx ie sius ꝑsecute Qui ont cononeu ma gracieuselte uus les ing̾ratz pẽdẽtꝰ le mal poͬ bñ. ¶onseigne: dieu ne me delaisse pas Tumber es las Et es temptacons e Ne te depays de moy dũg uout scul pas Car aux debaz,47,6fcdbb35-fba1-43eb-a382-9e39ccab53e4
-f47-20v.xml,20v,fragille suis et las l Ex mis au bas Par ꝑsecucions Illusions Et amoincions De abusions De abusions Me uiennent en tout lyeu Mais roy present le ᷤ instigations Le me feront aulcunes lesionca A seurle .ua. qui est conduyt de dieu Sire qui est dieu effectiuement le sauluement De mon ame laquelle Espere en roy enten bengnement Et doulcement Amon ayde aultrement Trop lachement eta Trop lachement Soustiendray ma querelle La cautelle La cautelle De lennemy est telle Que par celle En bataille cruelle Aspre et felle deroye tost uaincu Mays i ay espoir q̃ ta grace eternelle Le repelle,48,dc88994e-156c-4e49-b97b-e86ec6864693
-f48-21r.xml,21r,Car en guerre mortelle layde de dieu sert de lance ⁊ descu Gloyre sans fin au pere createur Au redempteur Son seul filz glorieur Au samnt esprit aussi gloire ⁊ honne᷑ Doit De bon cuer. Contrict lomme pecheur En sa douleur Presenter en tous lyeux Le dieu des dyeur Lassus regnant es cieulx Tresuertueur Qui est en trmite Troys ꝑsonnes ꝑe ⁊ filz ce sont deu Le saint esprit qui est lunyon de eux Et sont les troyz ung seul en deyte. uibu anum e is ra ub hraiu nalos urtt mad piongit pos utresmupulo le uli in assoq ta ucpui,49,4e53e46c-339d-4f30-9732-5060c5457ec2
-f49-21v.xml,21v,on dieu selon ta grãt missicorde Ayez mercy de moy peche. ĩdigne De ta haulte clemẽce te record̾e Mes maulx pardõne ⁊ ta qͣte macorde Sans me priuer de ta gloire diuine Ie congnois bien ma uoulente indine Plus a peche que a uertu touteffoys Sy ie suis cheu cõe fresie en ruine,50,4dd863f2-7bb7-407c-b915-8872e07aec70
-f50-22r.xml,22r,Ie me remelz a la grace benione Hõme ie suis frefles tu nou as faiz Gardonne moy ma grãt iiquite Tu qui congnois mes melmacions Pardonne moy selon la quantite Multitude⁊ magnamite De tes graces et m̾iseraçions Lennemy ma par ses temptacions Fait trebucher en peche plusieurs foyz Mais non obstant toutes decepcions AToy reuien en mes afflictions um̃e ie suis fresles tu noꝰ aᷤ faitz ¶ons̾ dieu laue moy amplement Diniquite dont ie suis empesche Iesus pollu en mes faiz tellement Que cest orre se par ton lauement De grace plam ie nen suis despesche Pour ce mon dieu monde moyde peche Tues cellui seul qui cõgnois mes faitz de iay uers roy fragillement peche Ie te supply quil mẽ soit relasche Home ie sius fresles tu noꝰ aᷤ failze ¶Orince eternel a ta grant charite Grace uequiers car mon uice cõgnoĩs Contre moy est tousio ma faulccte Se say failly cest par gragilliteroa,51,88ac7e8b-6261-46b5-a62e-e09861374803
-f51-22v.xml,22v,Hõme ie suis fresles tu noꝰ as faiz ¶elas mon dieu cest seullemẽt a toy Que iay peche. sire pardonne moy Car i ay fait mal deuãt ta digne face Mais tues dieu mon seul uide mõ Roy De transgresse iay ta duuine loy Tues cellui quil me peult faire grace Pource ie quiers estre purifie Affin que tu soys iustifie Es parolles de toy sionantement Et q̃ uamques ꝑ ron saĩt iugement Qon ennemy ⁊ mortel aducisaire Tuas promis pardonner doulcement A tout pecheur contrict ⁊ penitent Tu ne peur pas present faire au ꝯtrairx Sire uoy cy quen mes imiquite Ie sius conceu uoy mes fragillitez Car en pechez ma mere mã conceul Deuant que uoir nullez mondanter Par loblige de mes antiquitez Que fist adam i ay le peche receu Auuis toy qui as la iustice en ta man Et qui congnois q̃ cest de lhõme humai Te monsterãs enuers moy charitable Parton plaisir ⁊ iuge pyteable Comme uire tuas ⁊ promie,52,5048bd86-48fe-4f7a-b240-38677fa065d7
-f52-23r.xml,23r,Atouł peche: contrict ⁊ lamentable Ainssi que moy or est tu ueritable Tu ne peuz pas present faire au cõtraire Oerite as tousiours certainement Tresaince car uoluntairement Les faitz secretz de ta grãt sapience Desclere me as tous maginfestement Tant que ie croy present certamemẽt La uerite sans quelque difference Tes iustices que iauoye incertames Et occultes par mes penssees uames Present cononois ⁊ scay de uerite Quatoꝰ peche  promis de antiquibe faire pardon sulz se uouloiẽt retraire Et delesser uice ⁊ miquite Tu ne peur pas maĩtenãt faire au ꝯt. Erince puissant puis q̃ tu mas ꝓmis faire pardon du mal q̃ iay commie De cuer contrict ie te ueul satiffaire En renoncãt a toꝰ ing emiemys Tu dis pieca quil me seroit reme Tu ne peuz pas preset faire au ꝯtraire Meigneur dieu po me faire beau De ysõpe tu me arrouseras Monde seray ⁊ fait nouueau Plus blanc q̃ neige de sanit eau Sce emin ueritatem di lexisti in certa ⁊ occulta sapiẽ cie tue magni festasti michi,53,717068cb-ef6c-4557-b1f0-0f2bfbc3365a
-f53-23v.xml,23v,De la quelle me laueras La rousee que iecteras Sũs moy de ta grace diuino Si doulcement aspergeras Que plus blanc tu me trouueras Que nest la neige blanche ⁊ fine Car en uiuant humblement Ysoppe diuinement Qui humble est me arrousera Et spuellement Dlancheur habondantement Sus neige me donnera ar ra bonte grãde a merueille Et tres souueramne sagesse Affin que mon esprit reueille Diuenement a mon oreille Tu donneras ioye ⁊ lyesse Ainssy scray hors de detresse Et si les o humiliez Sesiourront car de la presse De peche ⁊ mortel angoisse Ilz se sentyront deslyez Car si tost que amon ouye Sera ta parole ouye Resoner diuinement Par uoys de lançe serpe,54,70657ec6-9a1a-4018-9498-f8e124673aec
-f54-24r.xml,24r,Ellescra resiouyeza Tous mes es pareillement Auerti ta face de mes Pechez tellement que iamaisa Ne soient en nombre boutez Aẽa grace ne me submelz Souueram Iuge qui remetz A tous pecheurs leurs pouretez Delee mes imiquitez Tous mes pechez ⁊ faulcetez Que l ennemy ne me mefface Et se par mes fragillitez Iay cire contre res bontez Sire dieu retourne ta face Et ne me regarde pas En fureur selon le cas Du grant peche que iay fait Maifeste que luas Mlisericorde ⁊ auras Ainssi que iuge parsait Dieu eternel create: souueram Qui me as cree ⁊ forme de ta mani Par ton pouoir hault ⁊ ĩestimable Cree en moy ung cuer pur net ⁊ sam Et que peche ne soit plus en mon sam Car ie me sens tresgiãdemẽt coupable,55,e1de4bc4-3711-46ad-b69c-e139b3ebd9a0
-f55-24v.xml,24v,Si te requier sire que tunte lailles Et innouto esprit en mes entuulles Lequel soit droit.⁊ purot de tol uies Tousio  penssant a tes sainctes iusticẽs Si que en la fin ie piusse paruenin Lassus ou çiel a tes sains beneficos̃ En delaissant faultes ⁊ malefices Ou lenneny ma fait choir ⁊ tenir Monsy. dieu quelq̃ mal q̃ ie face Ne me uueillez gelter loĩg de ta facẽ En ton espril tressaint de moy oster Car cest cellui qui les pechez efface Et me remet a ta benoiste grace Quãt lennemy me ueult suppediter Car si failloit q̃ tu me regetasses De ta fuce ⁊ que de moy ostasse Ton samt esprit quesse q̃ ie feroyes De lennemy a toute heure seroye Persecute ⁊ mis a decadence frngille suis cest une chose urayes Et resister a pamne ie pourroye Se ton esprit saint. nestoit en p̃sence S Dire dieu rens moy la lyesse ⁊ la Ioye De ton salut. ⁊ poͬ. estre plus ferme De ton esprit principal me conferme Que lennemy iamaiz ne me desuoye,56,b37ebb1c-02a7-41ff-97a0-64a46d8787b0
-f56-25r.xml,25r,Par lui iay prins de mal faire la uoye Et fait cella que faire ne deuoye Dont le remors me donne au cuer tristesse Mais sil te plaist me rendre la lyesse De ton salul ⁊ desprit prinaipalE Me confermer plꝰ ne craing qͥl me blesse Ne que iamais sentyer ie delesse ai De uerite po. commeltre aulcun mal Sire sil te plaist que ie soye En estat que ta grace uoye Les iiques senseigneray De tes uoyes ⁊ bonte uraye Plus que dyre ie ne pourroye Se tu ne m auoye Inspire Ainssi les mauuaiz ⁊ ꝑuers Seront a ta grace conuers Et sera ta loy souuerame Publyee ⁊ faicte cerlaine A tous uinuersellement Et tel qui a penssee uaine A se conuertir mettra paine Qis quil ayt mon enseignement Dieu dieu puissãt de mõ salut ꝯfort Deliure moy des sangz ⁊ de la mort Et ma langue adonc exaltera Ta iustice de plus fort en plus fort,57,c6492126-4872-46dc-a6f9-bd959da54e3b
-f57-25v.xml,25v,Si que de toy ta louenge ⁊ Raporl Publiquemẽt par tout le monde pra Car ie dyray aux peche ᷤ qͥlz morront. Quilz samendẽt ⁊ q̃ point ne morront Car tues doulx misericordieux Habandonne de gͣce enuers tous ceulx Quilz re uiennẽt poͬ requerir pardon Car nul ne peult tant soit il uertueux dans toy auoir ton regne glorieuxs finablemẽt lon ne la que par don u ouuriras mes leures monssͬ Et ma bouche par triumphe ⁊ honneͤ La louenge de roy annũcera Disant tu ne tiens point de rigue. Mais escoutez uoulentieiz le peche: Toutes les foye q̃ a Roy retournera Par ce moyen les pecheͬ qui uerront De toy les faitz ilz se conuertiront Non obstant ce ĩe ie ne suis pas digne De prononcer ta louenge diuine Ne de toucher or de si haulte uallue Se ta grace ne me donne doctrine Et ton esprit ma bouche me illumre Car de peche ie la sens trop pollue dea Ol ant q̃ peche. i ay este plain de uice Si tu eusses uoulu mon sacrifice,58,76c64ad9-dd51-4778-8cf9-41a75f9762c6
-f58-26r.xml,26r,se teusse fait aulcune oblaçion Mais aux offres ⁊ aux dõs de Inustice Pecheur ne peult te faire aulcun suice Tu ny prendras ponit de delectacion Et pour ce poĩt que mon fait i ay cõgneu Plain de peche ie me suis abstem De roy donner sacrifices nouueaulxe Car en la char des bestes ou doyseaulr En cendre mis point tu ne te delectes Mais seullemẽt a uoir les cuers loyaulx Quilz se amendent ⁊ delaissẽt loͬ maulx Della le don q̃ requiers ⁊ affectes Sacrifice de dieu plus appelle Est de lesprit qui est contribulle Et desplaisant dauoir uice cõmis Tant soit lhõme de peche maculle Sil se contrict tout est anichille Incõtment est le peche remis Le cuer contrict humilie ⁊ point De desplaisir ne despriseras point Dieu eternel car ton affection Est des peche uoir la contriction Et le reto: a bon amendement Par ce ie uoy q̃ en la conclusion Me tournera en exultacion Et en ioye mon grãt gemissemet,59,e9929d85-2dd3-42c9-8972-7aa364198df4
-f59-26v.xml,26v,Saya syon sire benignemeb En ta bonne uoulente se illement A. celle fin que tost ediffice Ihesuzalem soit magnifiquemet AAiuironee de muraille aultrement Quelle na este ⁊ mieulx amplifiee Tar par syon de richesse honnoree Lame noꝰ est de chascun figureee Laq̃lle on doit de uertu bien parer A ffin q̃ dieu y puisse demourer Et son temple spuel en face Se sont les murs que deuons reparer No: enrichir ⁊ tousio  decorer Ra Ihesusalem la glorieuse ꝑlace. uãt le peche penctẽt de son fait PDiendra contrict deuãt toy en effẽt Uray est adonc tu lui accepteras De iustice le sacrifice fait Et presente deuãt toy dieu parfait Et loroison de liui exaulseras Holocaustes oblations aussy Receuras mais quil uyenne a mercy Et adoncq̃s les peche ᷤ bouteront Sus ton hostel. ueaulx ⁊ sacrifieront Ainssi quil est ordonne en ta loy ll .Mais les mauuaiz qui obstinez seront,60,41efc470-894a-4c15-8356-66fd33e70418
-f60-27r.xml,27r,Et de leurs maulx ne se conuertiront Nle uiennent rien presenter deuant ter Gioyre au pere ⁊ au filz ⁊ au saint Esprit lequel en deite comoia eSsa Trois personnes lequel est ⁊serare Tel come il fut iamais ne changera Car il est ung sans separacion Dieu cternelꝰ et qui ne le croyra Sans uarier aulcunemet ne auta Ia paradiz en la condusion,61,fca68e0b-9fa1-45e2-b1cf-34286c64abae
-f61-27v.xml,27v,omme exaudi oronem meã et clamor me ad te ueniat ¶on aduer tas faciem tu am ame inꝙͣ cunqz die tri bulor mdlma a me aurem tuam die muocauo on sire dieu ccaulse moy Mun oroison ⁊ uienne a toy Ma clameur quil soit agreable Considere mon fait ⁊ uoy Que dauoir transgresse ta loy Ie sius trop grandement coupable Mais pius que lues pibeable Doulr begnin courtoyz annable Aur pecheurs uenans a raison Il mest licite ⁊ conuenable Publier ma douleͬ. greuable Et te faire mon oroison ¶Le aduerti point de moy ta face l En demant me faire grace Car tubule sius grandement Chascun io. et en toute place Que l ennemy par sa falace Me decoit et tient en tourment Incline a moy benignement Ton oreille et douldement Te plaise ma priere ouyr Car cellui est tant seullement Qui peuz donner garissement u Amon ame ⁊ la resiouyr n quelque io. que ie tappelle Prince de bonte eternelle,62,bf218c2e-1b40-4b31-82e1-f91f77f56fe3
-f62-28r.xml,28r,Exaulse moy hastiuement Car lennemy par sa cautelle Ne requiert que trouuer querelle Pour me mener a dampnement Par quoy ie te pry humblement Mon dieu q̃ tout soubdamement Que tu me orras te requerir Tu oyes mon gemissement Ma requeste mon depriement Et te plaise me secourir Alppareillie soyes tousiours eta A me ayder ⁊ donner secours Car ainssi que fumee fault Soubdam sont deffailliz mes io Et ne scay ou auoir recours fors amon dieu qui est la hault Mes o aussi cheuz en deffault Comme creton sur le feu chault z En la paelle sont dessechez Car lennemy subtil ⁊ caut Par chascun io: me donne assault Po: me faire choir es pechez e suis frappe comme le fam Et est mon cuer treslache ⁊ uame Seche car en ma desplaisance Iay oublyx menģer mon pam orra sum uł fenum quia oblilus,63,f07eb76f-8c62-440e-972f-51ead9ccc662
-f63-28v.xml,28v,Po. le grant tourment in humam Qui me ostoit uertu ⁊ puissande Muon ennemy asa plaisance Ma couple par grant oultrance Lesser le chemin de equilt Et prendre le tram dignorance Dont seiche suis a la semblance Que le fum seche au temps deste ¶Lour la uoir ⁊ cryde mon plelas Et gemissement de douleur esnzor Mon os a ma chair se est a hers En soustenant pame la beur Rompu consume de sueur En lieur sauuaiges ⁊ deser Pour fuyr le tyrant peruer Et ses sa thelittez ⁊ seis Cnelz sa trappẽz ⁊ suppotz En cheminant les lieux diuer Seiches sont deuenuz noirs Ne ayant que le cuys e lesos lu pellican suis fait semblable Qui quiert le lieu inhabitabie De la solitude ⁊ le suyt Fait aussi ie suis comparable r A la chauue souris doutable Qui nose uoller que de nuył,64,093d1a9f-a7b1-4553-8c56-3eff5cf0d3c7
-f64-29r.xml,29r,Car ie auin a estre eolnt. Du faulx tyrant qui me poursuitꝰ Et cruellement momenace Disant que ie seray destiuit Se ie ne sail sans plus dobririt Le peche qui ueult q̃ ie face ¶Lay ueille par io. ᷤ⁊ par miytz Et au moyneau semblable sug Qui se tient solitairement Soubz le couuert en ung pertuyx Sy petit quon nepeait uoir lun i Et la sotrent a sauuement faire me fault semblablement Et me tapyr conuertement En ung trou soubz la conuertures Car iõ cononois certaiement ¶ Se ie ne fatz le mandement Le tyrant me fera iniure Oloute iournee miurooient Mes ennemys ⁊ mne exprobroyent Poͬ. diffamer ta sanicte loy Iceulx mesmement qui tououoyẽt Par faulce oppinion iuroient Et resmoignoiẽt contre moy Pource mon dieu regurde ⁊ uoyla Con peupleiplorant deuãt toy uII AII taenus ure factus sum ficũt igdii uuoe passeri coa aus mecleo criu mibo lecti III II pbrabant ota dios michi mimute mei. ⁊ qui lau dabant me ad uersum me iurabant.,65,cd69f8ae-d799-477d-becd-4a4fcdef4c31
-f65-29v.xml,29v,n griefaestribulacion Qui naport nap̃de da sop Bi de roy sondieu ⁊ son rop Aa quelque subleuncion Sn estant amssi mutille A ourmente ⁊ pãlibulle s Comble de dueil wuyde de toye Sans estre daucun consolle Pay farmere cendre mesle Que. comme le pani ie mengbye Cun beuuraige aussi ie mesloye Ea Auecques plelir quant ie beuuoye Cande la pitio de couraigea Souuẽt ẽ huuãt ie ploror Et les launes q̃ a espendoye Tumborent dedans mon bruuage e lyrei indignacion De roy noꝰ uieñt laffliction exa La ou nous sommes manitenant Par lorgueil ⁊ presumption Quen nostre dommacion. Prins auon par poy deuant a Cu qui est princo dieu uucant Mis noꝰ as en honneͬ tresgiant Mais apres tu nolas lessez Chomen bas eñ nous subleuant,66,6b98b61a-1165-4368-9be1-bd7351cc90ca
-f66-30r.xml,30r,Nostre presumption Aorant t nous as grefuement blessez ega Mes iours sont perilz ⁊ finez Et comme lombre dedinez Et ie sius seiche comme fain Par mortel assaulx rebournez Et sus moy chasaruitour donnez Par le fier tyrant mhumam Mius ie conguois ⁊ sius certam Que tout cella uient de ta man Et de la facede ton yne Ie meurs ⁊ nan pouit de demam Sil ne plaist changer ce trai Par ta misericordesire iresu ¶Lle tempo changs emue a routes heur Mlais monsi ahesus tu demcure Lassus uiuant roy etornellement Si ne aoypas quen si lõoues demaiẽs De elernte en pilie no lãbeure A noꝰ donner secorrrs aulamement Aoꝰ esperon en ton adueneinent Salut auõis apres que du tourment Asez aurons porte laffliction Toreterne les pardurablement Qui demcures tousio incessãment Sus bol aultres endominaçion,67,a0434861-3e4e-4f9a-b80b-562bc4b05bca
-f67-30v.xml,30v,Et de generacion Ua en gencracion Le memorial do toy Par la cõmutacion Des choses que nous uoyon Chascun iour en nostre loyo seigneur dieu quãt tu te leueras En te leuant ie croy que donnera Misencorde au peuple de syon Car le temps est uenu uray messias Doulx ihũcrist qui noꝰ incheteras Que tu ayes quelque compassion Uem le temps est de remission Car syon est en desolacione En actendant laduent de Ia hautesse Cest son espoir ⁊ expedation Que ton aduent ⁊ incarnation la Le boutera hors de toute destresse Et pource chief de noblesse l Deu la douleur quil nõꝰ blesse fay que tu soyes congneu Boute moꝰ hors de tristesse Que syon soit en lyesse Car le temps en est uenu ¶ees seruans plaisantes ont este Les prieres de la noble q̃te,68,dd0def7d-0df2-4936-a7e7-f7472076ae54
-f68-31r.xml,31r,Cest assauoi les fermey e estables Qui ont uoulu en leur fidelite Tousiours seruir ta haulto deibe Constantement sans estre uatiables Pourtant seione. tes seruãe uertables Et apostres amissi q̃l prĩables s A la terre de ton peuple feront Grace ⁊ mercy car comme chaulables Dictoricux hardis insuperables Ta saincte loy au peuple monstreront Lors ceulx qui fally auront Aculx se conuertiront Et laisseront la uoye orde Par ce moyen trouueront Que tes seruans donieront a Au peuple misencorde Gous les gentilz ⁊ payens doubberõl Ton benoist non quãt ꝑler en orrõt Et tous les pois de la terre ta gloire Quãt par effect ta piussance uerront Et que par tout lec apostres dyront Que tues seul sus toꝰ plain de uictoire Ou est cellui qui en plain cõsistore De tou saint non orri faire memõire Publiquement ⁊ pomit ne doubtera Ou est le roy. tant ayt grãt tenitoyre,69,3829c18b-3175-4e7f-a095-145d623e98a3
-f69-31v.xml,31v,Riche dauoir ⁊ piussant adcutoyre. Et ta uertu ponit no formidem Drief le monde tremblera Quant de roy on parlera Pour la uertu de res fuiz Le plus fort seluhyra Quant il consucrera Tes gras ouurages ꝑfait es roys cramoront les gẽs peillemt Car le seioneͬ a magnifiquement E difie fron sa saincte eglisea Et y sera ueu mainfestement En sa glone car corporellement Sa char y fut portee ⁊ mise Entre les bras de syincon assise Comme iadiz la chose estoit promise Par propheltez de laduent de messie Cõme lescript fait diceulx la deuise Syon ꝑlace est la q̃lle dieu a prise Poͬ estre ueu en sa gloire infimie Ou est roy en seigneurie Qui ne ayt la face esbaye Dentrer en ce benoist lieu l Pour y faire uillenye La ou par la prophece En gloirr serã ueu dieu,70,109d8d84-a9ed-4aa7-8d08-412a02ae48bd
-f70-32r.xml,32r,¶ostre seigne plamde mison A Regarde a loroison Des humbles uoluntairement cu Et leurs prieres en saison Uers lui faictez a grant foisontalz ⁊le a desprisees nullement Soyent doncq̃s les choses diltez ceie Enliures mises ⁊ escuipte Affin que en gencracion Aultre puissent estre rediulte Souuent a meniore ⁊ rediltes En toute congregacion dinissy par iubilacion Tloyre ⁊ maginficacion Le peuple qui crre sera De nouuelle creaçion Par ioye et exultacion. Louera dieu ⁊ honnorera ¶i sencordieusement Le seioneͬ. uoluntairemẽt Regarde a de ses saintz cieulx La terre po᷑ scauoir comment Son peuple uiuant en toͬment Querent le regart de ses yeulx Pourtant peuples ieunes doyeulx Deuront estre curicur oronem hui esperit in lũamonso uit prelem corum. cribanb li hec in onacos altera. Et ppłs qui creabit laudabit dim̃ Quia prospe xit de exelso fancto suo dominus de celomterra aspexił H. itiuns ui IC MIT AIII,71,27658819-a3a3-4e03-97d1-2274e8153317
-f71-32v.xml,32v,inual N annũciãt D nner louengo le honie. Asi huuat. humble seigneur Oseni est le seigne: puissant Pour uoir son pruple gemissant Et ouprles gemissemens Des pecheurs qui en lanouessant Lyes en sepz estoient tant Que cestoient mortelz tournens a Aussi que par ses sacirmiens Et oloueur enscignemens Destrast les enfans des mors lad yr par ames ⁊ par corps ¶enu il est pareillement Affin q̃ uinuersellement En suon le non uectueur Du seioneͬ tout publiquement Anmmoncent ⁊ semblablement c En ihesusalem soit par culx lo Annoncee est en aultre ᷤ lieux Da louenge tant q̃ tous ceulx bz Qui seront loyaulx ⁊ fidelles En portent par boul des nouuellos Ohenu est le prince aullant En conuocant ⁊ appellant Les peuples en uraye unite Ee foy par oisuples parlans,72,587382cf-0b23-4786-be71-e89e39861f1e
-f72-33r.xml,33r,Ulanifestant ⁊ reuellant Les failz de sa diuimite Pour mettre aussi en uerte Les rays aola commnute Affm̃̃ qui ious par grãt homer Feuient le: dieu ⁊ ie. seigne Se laduenement dañtecrist Par les prophecies escript Leglise quil a entenon Et sceu par prophelique esprit De sa uectu a ihũcrist Paciẽment a respondu Et oit seigneͬ. en charite Annonce moy la brefuete Des iours de mon affliction Car ceste tubulacion Sera si grande ⁊ si mique Que iamais ne fut mencion De telie persecucion Contre leglise catholique Non dieu ou millieu de mes ioͬ Lesquelz seront petiz ⁊ cour ⁊le me reuocque pas affin Que ie deffaille mais tousio Me tien en estat et en co prospere iusques ala fu Radox,73,59ec4cc4-6816-4573-9794-8de542477a36
-f73-33v.xml,33v,Tes ans par diuiaçion Sont dune gentration En generacion durans Ou millieu doncques de mecans Et iours ne me reuocque pas Car ie scay que les mal ueillans Auecques antecrist parlans ⁊lous mouueront de grãs debas eigne. des le commencement Eu ascree mirablement La terre les cieulx les humanis Et tout ce generalement Qui est dessoubz le firmainent Se sont les euures de tes mains Tu es du monde createur Tues de lhomme plasmate. Mais Riens nyu quil soit stabille fors que roy quil nest point fragille Par quoy ie te prye humblement Roy eternel il test facille Que tu ne laisses point debille Ton eglise finablement Cous les haulx cieulx q̃ tu creas Periront tu demoureras Et tousio. ung eternellement Eel que lu fus ds ⁊ senas,74,1d03679a-9b07-4b67-a0b0-82583f6b42d5
-f74-34r.xml,34r,Imueterez les cieulx uerras Aissi quo ung poury uestement Quant ce grãnt ioͬ approchera Toute chose se changera: Si non toy qui est pardurable Incorruptible ⁊ mumnuable Par quoy les pecheurs imꝑ faictz Doiuent bien auoir poͬ doutable Ioͬ. si grant ⁊ si mexecraple Que mesmes aaidront les ꝑfaictz ¶lu mueras toute leur nature El anssi que une conuerture Tous mues ⁊ changez seront Mais toy tues en tadroicture Tousioͥ ung sans uariature Tes iours sont telz rien ne mueront Tu seras tousio  en ung point Les io  ne deffaillyront point Maiz de toites choses humaines Les ans les iours ⁊ les sepmaines Changerõt tout incontinent Les choses fermes seront uaines Et les choses belles uillames Rien nya que toy permanent ¶les filz de tes bons seruite. uus Appostres ⁊ predicateurs e oportorium mutabie eos ⁊ mutabunt᷑ tu autem idem ip̃e es. ⁊ anm tui non deficiẽt,75,28814d29-f042-46cd-bff4-b50cd0288888
-f75-34v.xml,34v,Habiteront auecques roy Et si seront leurc successours Dresses ou siecle non ailleurs Car ilz ont aru ta samc̃te topom̃ ¶Gar quoy soit au perez au filz Et au saint esprit qui uins Sont en une mesme uiite Oloire a perpetuite Car la deite qui nest que une Telle est. sera quelle a este Permanente en ebernuite Dans uariacion aulcune,76,7e35f247-c4be-4588-94e1-9a7f1503d9d3
-f76-35r.xml,35r,es lieur obscurs profons ⁊ non Horribles comme les enfers Monszͬ iay crye a toy Peche dangereur ⁊ peruers Ma tenu long temps de ses fers Ras Maiz i ay crye deuant mon roylaga Pourtant seione. eraulse moy a Ma uoy ⁊ me oste du peche retatrrala De quoy ie me sens empesche Et tenu en prison profonde esdes Se par toy nen suis despeche Et de ta grace relasche Ie suis le plus poure du monde Quant est de mes faultes nuysãtes Elles sont grandes ⁊ pesantes Et crimimelles a merueilles Mais ie te supply q̃ entendante Soient ⁊ ma uors escoutantez Tez sainctes ⁊ dignes oreilles Iay fait des faultes nompareules Contre toy il ra long temps Cõme ie congnois ⁊ entens Mis mon pere dieu create: tuos A recepuoir grace pretens Se la priere tu attens Et la uoir de ton seruite ¶Depro fungi clamaui ad te domme. domnine craudi uocem incam.,77,47b1f977-7940-4fb0-ac4e-2cfeab0da0a1
-f77-35v.xml,35v,Siquita tec obseruaue ris domme. dommne. quis substinebit Quia apud te propiciaco est. ⁊ propter domme Se tu ueulr mes maulx regarder Et mes miquitez carder Mons qui les soustiendra Car sil te plaist a commender Que on me puonsse sans tarder Descendre en enfer me fauldra Rien hault crier ne me uauldra co Car en enfer place tresorde Poit nya de misericorde Pour ce plaise toy escouter Celui qui de toy se recorde Ta grace lui donne ⁊ accorde Quer contrict ne est a debouter Doustenu ray en tribulacion En attendant ta miseration Car ie congnois que selon ta iustice Enuerz roy est propiciation Et que donner grace ⁊ remission Aux penitens. ce. te est propice Ie cõgnois bñ q̃ a la noue: du uices Cu ne ueulx pas le delinquẽt pugnir Quant tu le uois deuers roy reuenir Par cue: contrict. dolent de sõ mal fait Remission esperant obtenir Et cest cella qui ma fait soubstenir Selon ta loy souueram dieu ꝑfaict,78,b260d2e3-dc20-4dad-9c04-fbe637c50171
-f78-36r.xml,36r,Sin la parolle seullement De mon dieu a uirillement Mon ame paine soustene Et a espere fermement Ou seigne: auoir sauluement Ou aultrement estre perdue Le seigne: dieu la recongneue Prins pitie ⁊ compassion De uoir sa conturbacion Et ueult quen lui se reconforte Ouy a la clamacion Du peuple ⁊ par compassion canz A monstre que sa mam est fortera ¶Dourtant espere en son seione Israel ⁊ lhomine pecheur De la custode matutit Iusques a la nuyt ⁊ en pleur Attende bonte ⁊ doulceur De misericorde diuine I umime qui requiert medicine Pour sa maladie guerir Doit du medecin enquerir Poͬ le preseruer quil ne meure Le pecheur aussi doit querirru dieu. poͬ le garder de perir Car ala mort nya q̃ une heure et ao.,79,ff7dea69-594e-4e5c-9876-65cb115339ed
-f79-36v.xml,36v,De pecheur doit sans deffiance Auoir tousio bonne esperance Car enuers la bonte piteuse De dieu ⁊ nen faictes doubtance Misericorde en habondance Et redempcion copieuse Premier sa face est gracieuse Et a promis grace donner Aqui se uouldra retourner Par quoy ysracl doit sans craincte Deuers son saulueur admer Et du Rout se detciminer s A sa misericorde saincte Quant israel esperera En dieu il le rachetera De Ioutes ses iiquitez Parrillemeit receu scra Tout pecheur contrict qui yra Monstrer ses infidelitez Priant les diuincs bontez Orace auoir ⁊ dyra de cuer Que soit gloire au pere create Au filz au saint esprit aussy Ung seul dieu qui est sans encur Tel comine si fust en son honneͬ Roz Et a tousio. sera ainssye,80,33911374-2750-4289-89d5-8ccf71e56950
-f80-37r.xml,37r,eigne qui es chief de raison Exaulse moy mon oroison Et de tes orcilles diuing A Tous cuers penitens niclines decoy ma depreaacion faicte par grant deuocion Exaulse moy en ta iustice dł uente si que ie puisse a,81,a7801b5a-79e9-4c97-b617-dde824095a1a
-f81-37v.xml,37v,Raporter ⁊ dyre en tous lycur a Que acuer piteux conbact de uicer Tu es misericordicux Et ne entre paslaulta Auecques moy lon humble scriuittur En iugemẽt po monpeche infain ⁊ le monstre pas ta puissance ⁊ uigneͤ En me uoullant pugnir sclon rigue; De Iustire prens pitid de mon ame Car ie congnois de uray ⁊ suis scauant Que deuant toy ne sera tout uiuant sustifie par cos propres merite Et ne pouons de peche estre quilles Se ta grace saincte ne noꝰ subuient Car nos euures de uertu sont petites Et se par roy elles ne sonl conduytez Pomt esperer de salut ny conuient Dourtant q̃ mon ennemy par emue Anuyt ⁊ fo: mon ame poursuiuie Pour la uouloir mettyo a perdicion En terre il a humilie ma uie Poͬ ce mon dieu ie te requier ⁊ prie Lle me donne pomt de correpcion Selon rigue: mais par Ra charte Considere la grant humilite En quoy ma mis mõ tuesorãt aduci saire,82,e7933279-3951-4068-8f8e-15f38803ba12
-f82-38r.xml,38r,Qui ne requiert q̃ madois deffaire Et confondre. ci pan ta uourtopsie Au loing de moy tu ne le faiz retraire N lourit me fault poͬ meurdroir aldͬ Que iay conne poͬ la femme de uxre Sa lieux obscurs tenebrear ualz ⁊ ors Ma colloque anssi que legimors Sont ou siede dedans Rerre boutez f̃ Et est sus moy mon esprit par effors Angustie e en tourmens si fors Que ie nen puis dyre les calitez Mon cuer aussi conturie rudement Est dedans moy uoyant q̃ tellement Mon ennemy me poͬsuit ⁊ procure Faire mourir en celle chartre obscure Tenebreuse ou gueres ne uiuray Qui sus caduc ⁊ debille en nãture Pour soubstenir lons tẽp̃s tello torture Se de par toy ie nen suis deliure En mon horrible aduersite Mon dieu iay bien memor este Et souuenãt des iours antiques Axpennẽt la perplexite Uehemente. Iay medite outes tes euures autentiques ie penssore aux faiz de tes maingl manui tuarũ,83,3906e010-fda5-453e-a0a1-e7541071599b
-f83-38v.xml,38v,Trop plus adimrables quo humans Disant mon dieu laisse moy oiuro Et de re dariger me deliure. La ou moir ennemy me tient Deffens lui de plus me poutsuuire St que plus deassault ne me liuire la ou mon enlemy me tient Deffen/ luildo plus me pouisuuut Eqt a roy quo fauo appartient Sire apres que iay eu pensse Tout ainssy dolent ⁊ lasse En tes operacions saictes deuers roy me suis radressel Q ynpeche aussy confesse En te suppliant mains ionictez Aon ame est de peche tachee Et ainssy que lerre sechee iueuant roy demandante auoi Quelque rousee ⁊ recepuoir Aulcune hunie. spũelle Qui ses uertus face esmouuoir Ainssy que lerroau temps de uer Quant la saison se renouuello Seigne; ie te prie humblement traulie moy hastiuiement Car mon espãt est deffailly,84,72230993-99cf-41e1-89ec-f8f332d358d0
-f84-39r.xml,39r,Et na comme mul sentement Present ne aulcun mouuement De me uoir ainssy assailly Uus moy uiennent mes seruiteurs Re Non filz ⁊ ies perscaiteurs Qui sont a lui donner secours Demandans la fin de mes io:r Et ne scay a qui recourir Pour estre leue ⁊ ressours Contre leurs assaulx grãs ⁊ lours fors que ta grace requerir Sire ne tourne pomt ta face Arriere de moy qui efface Mes deffaultes car ce iestoye Bany car si ne la regardasse Amssy commne priue de grace c Uray dieu quesse que ie feroyea A ceulx ie seroye semblable Qui dedans ung lac miserable Descendant. ⁊ tout leͬ corps font Syre monstre toy Et que ta face chauita Me garde de ce lac profont ¶Nuy que de moy soit ouye tu Ca misericorde infinye Au matin car iay enuers toy e zaũ,85,5a82fccb-1c7a-4133-86e0-7d1903297a16
-f85-39v.xml,39v,Tousiours esperay si te prie Sire que ne retourne mie Ta fuce en arriere de moy Misericordieusement Mlaifeste legerement Que me ueulx oster de danger Et ceste douleur abreger Qui si grande est ⁊ st horuble ee Que elle me fait couleur changer Et se ne la faiz estranger De plus uiure me est impossible lũia fay que la uoye ou ientrerayebo Et enquoy Ie chemmeray e Nle soit congneue sire dicu En qui iay rousiours espere Car iay leue ⁊ leueray Nion ame uers toy en tout licu Quoy quelle ayt este agrauce Si le ay ie tousiours esleuee. Uers roy par contemplacion Et cerlaine deuocion Croyant que tu me monstreras La uoye de saluacion Et de celle subiection Mortelle me deliureras ¶¶onsz. dieu qui as promie,86,34448828-7bc3-4189-8617-cf051830a43e
-f86-40r.xml,40r,Misericorde ates amys Deliure moy par amytie Des mains de mes grans ennemy r Entre lesquelz ie suis mie Tant que cest horible pitie A toy suis tousio. recouru Esperant estre secouru Pourtant seigneͬ enseigne moy fayre la uoulente de loy Et te complaire en chascun lieu Sans iamais transgresser ta loy Car tues monss. mon roy Mon uray arate ⁊ mon dieul Quant mon peche remis seraꝵ Lon bon esprit me conduyra cadazi En terre droicte ⁊ raisonnable Sure uoye me monstrera Ton esprĩt ⁊ ne souffrira Que face chose irrai sonnable Seigueͬ tu me uiuifieras Pour tõnõrme conduyra Droictement en ton equilte Non pas que iaye melite Grace auoir de moy proprement Qui ay cõmis iniquite Maiz poͬ la haulte charite c tu. piritus tuus bomis dedicet me in terram recta propter nome tuum comme uiuificabis me mequitate tua.,87,b12826c6-2f7a-444f-8345-da0030fc1200
-f87-40v.xml,40v,Sduces de trbulacione amma meã et in miseri cordia tua dis perdes omnes nimicos meoͣ Est perdes omnes qui tribulant am mam meam qm̃ ega seruu tuus sum. Gloria prĩ ⁊ filio.: et spiũ sancto. Et po. ton saint non seullement De toute anoustiacion Et griefue tribulacion Q uon ame de hors tu meltras Par la saicte compassion Et en ta miseracion Tous mes ennemys disperdras Quant par toy seront disperdus Bien se trouuerõt esperdꝰ Et nauront plus de confidence De me faire aulcune insolance Car ilz uerront certamement Que ta grant bonte ⁊ clemence Par souuerame sapience Aura change ce iugement ire ie yray aux uoyes salutarres Apres toutez griefues afflictions Et tu perdras toꝰ mes gras aduersaires Qui moult tenu es rribulacions finablement ale  confusions no Les as reuns souueram create. Et eraulse mes deprecations Raison poͬ: quor ie suis ton seruiteur. Sloyre au pere ⁊ au filz et au saint Esprit. ie rene qui est ⁊ qui sera Tel comme il fust. cellui q̃ hõnore ⁊ craĩł,88,1939f373-097c-4860-8bdb-bca168f7a343
-f88-41r.xml,41r,dampne. Tout catholique ⁊ si lhonnorera zi Signantement cellui qui te croyra dieu eternel ⁊ haultam plasmateur Ainssi tousio. ma bouche te louera raison po; quor ie suis ton seruiteur De iar uers tor offence grandemẽt Ie men repens plus ne ueiel offencer Pardonne moysire bemonement Et ames maulr ne ueullez plus pẽsser De moy ta pleu finablement chasser Et rebouter mon grant persecute: Brace te rens quil ta pleu mexaulser Raison poͬ quoy Ie suis ton seruite. Ormce eternel par ta ꝓmesse ãtiq̃ Dauluer me doys or ne soys pas mente Et me donne le repos angelique taison poͬ quoy ie suis Ron seruite. densuit les sept uers saint bernard que le dyable lui enseigna que qͥ conqs les dyra toꝰ les iours quil ne seroit poĩt,89,aab72923-a921-4e3f-aeff-d712f06999e8
-f89-41v.xml,41v,¶llumina occulos meos neunꝙ̃ obdor miam ĩ mor te neqñ dicat innicus meuᷤ preualui ad uersus eum. resdoulx ihũcrist roy de gloyre Ueulles mes yeulx enluminer Donnez moy de uoꝰ tel memoyre Que peche puisse decliner Affin que mongrant aduersaire Ne me puist dyre et publier Iay eu contre lui uictoyre Apeche lay fait encliner.,90,07217a1a-90eb-4d73-8698-4f6b9f139af3
-f90-42r.xml,42r,achelte fue de mort par boy Mon doulx createur ihũ crist Et poͬ᷑ ce ie te prie recoy En tes mains mon poure esprit Affin que le mauuaiz esprit na Sire ne le griefue mie Prens de mon ame le conduyt Ou non de la uierge marie e te supplye de boncuer En concorde que soyes enclin cu Mon dieu mon pere mon sauue A moy signfier ma fin Iay eu tousio. le cuer endin A peche ou suis endurcy Mon ame sen ua a declin Sire se nas de moy mercy ¶ Le nay pas mis mon penssement A souuent pensser a la mort Touteffoys mourir me couuient Mort nespargne foible ne fort Ie te pry que de ton accord cs Saiche les ioͬ que Iay a uiure Sire ie scay bien que i ay bort Se ta grace ne men deliuret E uesdoulx ihs filz de marie ar ta mort me est rendu la ure,91,c9d97808-3334-4bbc-88e4-f0bbd718824e
-f91-42v.xml,42v,tula mea. et ẜ sacrisicabo hosti am laudis. et nomen domim inuocabo. Oeuil fuga ame. ⁊ non est qui redimat ammam meã dixi tues spe᷑ uiuencium. sionuim in bo Rompu as denfer les lyens Pour me gelter hors de leans Et pource tres grant benefice Du cuer ie te faiz sacrifice Et ton benoist non deprieray En tout temps ⁊ te clameray ¶las que fera ta creature Qui par peche ⁊ par ordure Est de tous ainssy deiectee fouyr ne puis cest chose dure Estre me fault a ma iournee ¶ã Ie uoy que nul de moy na cure ie te pry pren de moy la cure Ou ie suis de mal heure nee O resdoulx ihesus ie tay prie Monlt de fors a uoix desployee Poͬ mon ame qui pour peche Est du tout en toul desuoyee Perir me fault sans demourance Et nay en toy ferme fiance Si te pry que tel porçion Me uueille de tes biens de partir Que en terre de promission Soit mon ame sans departir Bieu en qui est tout mon recoͬ Dueille moy sioner a ton sione,92,cd283df1-57c1-433f-afba-fe80adf53e1a
-f92-43r.xml,43r,Et me uueilles garder des Iours ca num ut uideant qui oderunt me et confundant qm̃ tu domine adiuuisti me ⁊ consolatu es EAmen. me. De mon ennemy qui ne fine Nuyt ⁊ iour de tendre ses las pre Dont me fault souuẽt dyre helas Donne moy contre lui uictoyre Et en fin de lassus la glone.,93,c9a854ee-9832-46bf-a5aa-002ecd58cab5
-f93-43v.xml,43v,,94,7619cda3-7fd4-4706-ac37-18eb094f550e
-f94-44r.xml,44r,,95,69ab4ccd-19c4-47ce-994d-9589658448e5
+f24-9r.xml,9r,"on seigneur dieu ne ueullez me arguer
+En te fure. combien q̃ i ay meffaĩt
+Par qͦy ie suis fort a redarguer
+Et reprendre poͬ᷑ mon cruel forfait
+Mon piussant roy souueram dieu ꝑfait
+Ne me uueillez corriger en ton ire
+Nonlt a doubter est fure: de tel sire
+¶Gi teusement ayez mercyde moy
+¶ saere meo
+9
+omme ne i
+furore tuo atguas
+me neq in ma tua
+corripias me.",25,db65d570-d2ea-4ea7-a5bc-4d297bc41394
+f25-9v.xml,9v,"domine qm̃ infum
+sũ sana me domine
+qmi conturbata
+sut ossa mea.
+E amma mca
+turbata est balde
+sed tu domme usqiq̃
+Car malade ie sius amerement. E
+Gary moy tost mon salut gist en toy
+Car tous mes os uiuersellement c
+Sont conturbez craignant tõ iugement
+Cruel uenir fors quẽ ie me recorde
+Que tel seigneͬ n est sans misericorde
+Et mõ am̃e est troublee grandement
+Mus monss: iusques aquãt᷑ sera ce
+Quelle sera en cestui troublement
+Quil te plaise tourner ta digne face
+Sus le pecheur que tu lui face grace
+Comme humblement supplpe ⁊ requiert
+Srace donner aux haulx princes affiert
+¶on seigneͬ dieu du cuer ie te reclame
+Ce suppliant en mon affliction
+Conuertis toy ⁊ deliure mon ame
+De sa douleur ⁊ tribulacion
+Et me saulue de persecucion
+Poͬ ta grãt misericorde saincte
+Lault iuigement a paine ua sãs craincte.
+eliure moy mon dieu car en la mort
+Celuy nya qui de toy peust pensser
+Et soit memor denfer tresort
+Qui re poiura iustement confesser
+Se en noz pechez mortelz fault passer
+Qui te fera deue Confession ple
+Monuertere dño
+⁊ cripe amnia mcã
+saluũ me fat ꝓpter
+miam tuã
+Qam̃ non cł in
+morto qui memor
+sit tui in inferno
+autem qͥe confitebit
+tibi.",26,95bb1d75-f358-47b0-9647-3954df2ffcc8
+f26-10r.xml,10r,"Apres la mort nulle remission
+¶Lap la boure en mon gemissemente
+Et laueray par singulieres nuytz
+Mon lyt de pleurs et larmes tellement
+Que conuertir te feray si ie puis S
+Car ie congnois que condẽpne ie suis
+Mais tues doulx ⁊ ne tiens cruelz termes
+A cuer contrict et abreue de larmes
+May leul trouble toutes foys q̃ ie pẽs
+A ta fureur poͬ ce q̃ iay commis
+Inuetere uenu en decadence
+Ie sus entre tous mes grãs ennemys
+En moult de paz dangereur me suis mis
+Mais en pitie mas tousio uegarde
+Ce que dieu garde. est seurement garde
+Ious toꝰ peche ᷤ faisans iiquite
+fuyez de moy. ⁊ sathan le peruers.
+Qui a peche faire ma incite
+Maiz ie cõgnois p̃sent mon dieu cõuers
+Car exaulce a de mon ple: diuers
+La uoix ⁊ ueult q̃ ma doule: ne çesse
+Apres grãt deul uoulentiers grãt lpesse
+¶on puissant dieu tres gracieusem̃t
+A exaulce ma deprecation
+Monss a receu beignement
+on oroison ⁊ supplicacion.
+¶Tliboraui in
+genuitu meo laua
+bo ꝑsingulas nocdes
+lectũ meũ lachuẽs
+meis stratũ meũ
+rigabo
+¶Qurhatus est
+10
+a furore occłs meus
+mucteraui inter
+onis mincos meos
+Discedite ame
+om̃s qui operannii
+iiquitatẽ qm ex
+audiuit dommus
+uocẽ flectꝰ mci.
+Smudiut dñs
+de peacoem mcam
+dominꝰ oronem
+mea suscepit.",27,d4f58a71-2075-43b6-9531-17fd7f9e7fc2
+f27-10v.xml,10v,"X
+Arubescant el
+conturbentur uehe
+menter omnes in
+mici mei comierta
+tur ⁊ erubescant
+ualde uelociter.
+Mloria pri el
+filio. ⁊ spiu scto.
+Se iay plore tay eu Remission a
+Monss̾ ma monstre sa gratitude
+A cuer contrict Iamaiz dieu ne fust rude
+Soiẽt honteur toꝰ mes ennemis fors
+Et de honte seretonẽt en suyte
+Car entoͬ moy ont perdu leurs effors
+Loue soit dieu se sius maintenãt quilte
+Soient honteur et sen fuyent tres uite
+En congnoissant le. intencion uame
+Tel prent traueil souuẽt qͥl ꝑt sa paine
+Gloire sans fin ⁊ sans commencem̃t
+Au createur pere dieu eternel
+Au filz aussy gloire ꝑeillemẽt
+Qui du pere est uray dieu coeternel
+Aussy esprit aussi ie quel est tel
+En deite lunc a laultre resemble E
+Si que ies ttoys ne sont que ung dieu en seble",28,02f5b581-f677-4cdf-8b5a-d06d87732dce
+f28-11r.xml,11r,"ien eurez sont ceulx de qͥ ꝑdõne
+Et remisez sont les miquitez
+Et dieu le᷑ a telles gͣtes donnez
+Que le pechez faiz par mauites fõnees
+Sont tous couuerz en oubly boutez
+La congnoist on les diuinez bontes
+Dont bien eureux sõt dis toꝰ ceulx ⁊ ceiles
+Qui de peche se sentent rachetez
+Et leᷤᷤ malfaictz en aruiere geltez
+Par les graces de dieu spũelles.
+Sien eureux est lõme a qui iamaiz
+Dieu ne imputa peche auoir commis
+Etien lesprit du quel ne en ses faitz
+Nest pomt trouue fraulde tat sõt ꝑfaictz
+Et a du tout enueis dieu son cue. mis
+Noꝰ donc peche  qui noꝰ sommes submi
+Tant a peche prios oieu par tel pomt
+Que nos pechez noꝰ soyẽt tous remis
+Affin de estre reformez ses amis
+Et que frauldes en noꝰ ne trouuẽł poit
+o: ce que teu me suis trop longuemil
+dans confesser mes pechez ⁊ offence
+inueberez sont mes os grandemẽt
+Et ay tousioͬ assemble largement
+Mal auec mal dessus ma conscience
+Ia soit ce q̃ par craincte de sentence
+Seati quorũ
+remisse sũl iiqͥ
+11
+Sxatus uir
+cui non impu
+Qm
+taciu mucterauñt
+ossa mea dum da
+marem bota die.",29,ff175057-5b16-4a68-acae-c54f3b085002
+f29-11v.xml,11v,"Quñ die ac
+nocte guata est
+suꝑ me manus
+tua cõuersus
+sũ in erũpna
+mea dũ cõfigit
+spma
+aducrsum me
+Par chim ioͬ ie plorasse r cipopes
+Tout apart moy. mays sãs quelq̃ deffence
+Le mal cõmis a diuine clemence
+Incontiẽt rctourner me deuoye
+Cour que ta maina este agraueo
+De ioͬ. De nuyt sus moy en ma miseren
+Et eiũpne notoyre et approuuee
+Affin dauoir ma poure ame sauluee
+A toy me sius conuerti dieu mon pere
+Quãt lespme de la doule: amere
+De mon peche est confichee en moy
+Et la honte de mon grant uitupere
+Aultre chose ne scay que pensser de faire
+for retourner humblem̃t deuãt roy
+on create. souueram ie te ay faĩt
+Tout mon delyt congneu ⁊ tout mõ uice
+I ay confesse tout mon uillam forfait
+Et nay uoulu deuãt toy en effet
+finablemẽt absconser ma iustice
+De mon peche lay fait sacrifice
+Selon lesoit ⁊ institucion
+De nr̃e loy en te faisant seruice
+Par quoy mon dieu i ay espoir q̃ ie puisse
+Estre saulue pa ma confession
+¶Lay dist mon dieu q̃ ie confesseray
+Inuistice contre moy plamem̃t
+Delictũ meum
+cognbũ tibi feci
+⁊ iiusticiã meã
+non abscondi",30,eaadbe57-2704-4ca1-9550-1a755a8f3b0c
+f30-12r.xml,12r,"Et deuãt roy mon fait accuseray
+miusticiã mea
+Adont tuas mon fait considere
+dommo. ⁊ tu re
+Remis aussi tres gracieusemẽt
+misisti ĩpictatẽ
+La mauuaistie de montrangressemẽt
+Regarde as a mon gemissement
+Et pius apres ala confession
+De mon peche leq̃l finablemẽt
+Iay deuant toy mis uoluntairem̃t
+Po: optenir grace ⁊ remission
+Go. ceste chose tout hõme raisõnabli
+Sainct peiitent priere te fera
+En remps propre decent ⁊ conuenable
+Si que es lyens et temptoyres du dyable
+Comme deuãt iamays ne recherra
+Car qui conq̃ humblemẽt dicu priera
+Et en temps deu quoy qͥl soit empeche
+de grief mal fait nectoye en sera
+Et a pame de lennemy pourra
+Estre tourne poͬ retourne en peche
+ertainemẽt se le penitent fait
+Son oroison ueiz toy en tẽps de grace
+Les temptemẽs de lennemy infaict
+Le trouueront si droit ⁊ si ꝑfait
+Que ĩpossible est q̃ aulcũ ẽnuy lui face
+Du deluge des eaux tresorde place
+Iusãs alii pount ne saprocheront
+12
+ro hac orab:
+ad te omnis sct̃s
+in temꝑe oportũo.
+Oe rumptamẽ
+in diliuuo aqͣrũ
+multarũ ad eũ
+nõ approximabt",31,3505b845-7b83-4269-96f3-715f6ea8b0d5
+f31-12v.xml,12v,"suꝑ te oclos meos
+mulus quib
+Aues refugiũ
+meũ a tubulacõe
+que arcondedit
+me exultacõ mea
+erue me a circun
+dantib me.
+Car dessus lui sera ꝑa digne face
+Qui les pechez de tous pecheurs efface
+Et les deables nuire ne lui pourront
+¶Do ce mon dieu ⁊ mon souueram iuge
+Qui mas este en tribulaçion
+Et encores es et seras mon refuge
+Deliure moy de ce cruel deluge
+Et du pouoir de la temptacion
+Les ennemys plains de deception
+Me circondent ⁊ quierẽt me destriure
+Mais tu me doys en telle affliction
+Estre secours escu protection
+Tu me las dit ainssi faire cher sire
+Ne as tu pas dist ie te donneray home
+Entendemẽt ⁊ aussy te instriuray
+Et monstreray la sorte ⁊ facon cõme
+Chemineras affin que bon te nõme
+En la uoye que ie te bailleray
+Mes yeulx aussy sur toy ie fermeray
+ferme les donc sire dieu et conferme
+Sus moy qui suis de peche retyre
+Par ta grace ⁊ par tant ie seray
+Pour resister contre lennemy ferme
+Gous doncques hõmes mortelz qͥ scauez
+Que dieu est bon iuste saint et loyal
+Estudiez que honnestement uiuez
+U Antellectum
+tibi dabo r instrua
+te m bia hac qua
+gradieris fumabo
+¶olite fiere
+sicut cquus ⁊",32,998ba6c0-ff88-4579-853f-d40ed527ed47
+f32-13r.xml,13r,"Et ne sorez faitz ⁊ ainssy trouuez
+Que la mulle ou que le cheual
+Qui nont sen plus q̃ le sens bestial
+Et ne est en eulx aulcun ẽtendemẽt
+Amẽdez uoꝰ sy uous auez fait mal
+Confessez uous car cest le principal
+Adoubter est le diuin iugement
+¶ons̾ dieu q̃ iayme honore ⁊ cram
+Des sensitifz homines uoluptueur
+Ie te requier ⁊ supplye reffram
+Leͬᷤ machoueres en cheuestre ⁊ ẽ fram
+Et corrige les appelis diceulx
+Puis que de toy qͥ tant es gracieur
+Ne approchet poĩt. mais se ueullẽt tenir
+En leur erreͬ glorieulx dieu des dieux
+Corrige les cest ioye aux uertueux
+Quant ilz uoyẽt les obstinez pugnir
+Les tortures les fleaux les tormens
+Du peche. sont plussᷤ grans ⁊ diuers
+Mais lesperant en tes enseignemens
+Et retournãt a tes commendemens
+Misericorde q̃ tu as promise a tes sers
+Auironne ⁊ dedans les enfers
+Sont les fleaulr diuers determinez
+Bourreaulx aussi ⁊ satrappez ꝑuers
+Poͬ. tourmenter a bort ⁊ a trauers
+13
+¶Ano
+¶Anchamo⁊
+freno maxillas
+corũ. qui non
+approximant
+ad t
+m̃ holn
+chiii
+ilrot piuo
+Muulta fla
+gella pcłoris
+sperantem aute
+in dño mia
+circundabit.",33,3a53b1a4-3648-491d-8bac-8af40a22c6e8
+f33-13v.xml,13v,"X
+Nctamim
+in dommo cł
+erultate iusti
+⁊ gloriamim
+omnes recti
+corde.
+omcebis
+pullro nore dira
+geoet ua
+Gloria pro
+⁊ filio ł sp̃iu
+sancto
+Et flageller les pecheurs obstinez
+O renez lyesse en dieu nr̃eseigne
+Iustez leaux qui aymez sa iustice
+Gloriez uous tous bons ⁊ droictzẽ cuer
+Et conseillez a tout poure peche
+Quil samende quil laisse peche ⁊ uice
+Et confesser uienne son inustice
+Bemonemẽt sans son cuer obstiner
+Uyẽne uers dieu qͥ est doulx ⁊ ꝓpice
+Soy confesser tãt soit grãde malice
+I sera prest de grace lui donner.
+Su pere au filz ⁊ aussy esprit de gloyre
+Assemblemẽt soit a la trimte
+Cellui seul dieu de quoy len fait memore
+Qui tel qui fut est. ⁊ sera encore
+Sans deuiser en son eterite
+Lequel nous doĩt par son auctorite
+Aller lassus ou il regne ⁊ uita
+Apres que rey aurõs assez este
+En celebrant par bonne uoulente
+Sept pseaulmes anissi q̃ fist dauid.
+eras pomis il malpil inoe
+xcun ati⁊ issui elimrorues
+nit  redi tairtiuot. e",34,de9c076e-d64c-4f4b-ab4b-3c2086804a96
+f34-14r.xml,14r,"oble seigne q̃ toute puissãce as
+Et uoys mon cas
+Ie te prye humblement.
+Quen ta fure ⁊u ne me argue pas
+Quant tu uyendras
+A tenir tes estas
+Et que uouldras
+14
+Ꝙe mettre en iugement e
+ommie
+rore tuo arguas
+me neq in ara
+tua corapiis mi
+tdisio di
+tu aria uato",35,e8258a96-2a16-4bd7-aed7-61a04275f5dd
+f35-14v.xml,14v,"A
+Pareillement
+Pareillement
+En yre aulcunement
+Ne me ueullez pugnir ⁊ corriger
+Lyre ⁊ fureur de toy assemblement
+Ie doubte ⁊ craing car en tel ꝑlement
+Nattet aulcũ son arrest sans danger
+Seigneͬ tu mas ẽuoye des nouuelle
+Par les querelles
+e congnois maintenant
+Que fichees sont tes sageltes mortelles
+Et cruelles
+Si poygnantes si felles
+Que onc de telles
+Que onc de telles
+Ne fust nul soustenant
+En me affligant
+En me affligant
+Tu as comm̾e puissant
+Sus ton seruant
+Confermee ta main
+Qum
+Se iay eu pe. ce mandemẽt orant
+Se ie tremble cest droit le cas est grãt
+La ou mort fyer point nya de demam
+Go: la craicte de ton yre soubdaiẽ
+Plus que humanie
+Ou ie me suis boute
+Ie n ay en moy present ne char ne uaiẽ
+Qui soit same
+Qñ sagille
+tue infixe sunt
+michi ⁊ confirã
+sti suꝑ me manũ
+tuã
+¶on est samto
+in carne mea
+a facie nre tue nõ
+est par ossibz
+meis a facie pct̃oꝵ",36,eaf87138-3c26-40e0-899d-77b07f722f7a
+f36-15r.xml,15r,"Pourete la che ⁊ uame
+Me demaine
+Plus nya de sante
+Tant espouente
+Sius de ta maieste
+En sa durte
+Et yre uoir en face
+De mes pechez refroydi tempeste
+Sus tellement q̃ ie ne scay coste
+La ou mes os ayent paisible place
+¶ay eu cranicte souueraĩ roy des roy
+Car ie congnois
+Que mes iiquitez
+o
+Ont surmonte ma teste mille foys
+Comme tu uoys
+Clerement ⁊ congnois
+Maiz toutes foys
+Iespoyre en tes bontez
+Nies faulcetez
+Et mes meschansetez
+De tous costez
+Sont sur moy agrauees
+Ainssi q̃ ung fetz. pesãt ou sont boutez
+Toꝰ fardeletz pesãs empacquetez
+Sont dessus moy mes faultez arriueez
+ourries sont les uielles qratrices
+mcorum
+15
+m̃ iiquiba
+tes mee suꝑ gresse
+sunt suꝑ caput
+meum. ⁊ sicuł
+uate sunt superi
+me.",37,800e63d1-0f4f-4c16-9cf4-bb884e7ae596
+f37-15v.xml,15v,"co. rupłe sunł
+qratrices mee
+a facie insi pien
+cie mee.
+de mes uices et toutes corrumpues
+En la face dee nouueaux imustes
+Et malices
+Dont nos euures propices
+Et iustices
+Nous auons maintenues
+Reuenues
+Reuenues
+Les playes que auõs eues
+Et acrues
+Et acrues
+Sus moy par exellance
+Quãt par peche nouueau iay ꝑdues
+Celles graces q̃ iauoye receues s
+Du don de dieu par mon insipience
+Deche ma fait courbe ⁊ miserable
+Condanmable
+Par mon ingratitude
+Quãt du peche qui tãt est uillenable
+Et dampnable
+En ung plus detestable
+Par le dyable
+say boute mon estude
+Multitude:
+De maulx est amplitude
+Nle retrude
+Et fault que pugny soye
+Dont chascum Io: parmy la solitude
+Maiser factus
+sum ⁊ curuatu
+sum usq in finẽ
+tota die contri
+status in gre
+diebar.",38,df604100-dd8d-45c2-a5f1-6d33299b43d3
+f38-16r.xml,16r,"des lieux desers ⁊ sus la terre Rude
+Po. tout le iour contriste men aloye
+¶lains onl este meg rains de Illuspõ
+Et toute pourete
+Car iay boute mes delectacions
+Aux passions
+Creu les temptacions
+Et en ma charr nya pont de sante
+Auolupte
+Auolupte
+De la charnalite
+Me suis boute
+Par peche ⁊ ordure e
+Point ne sus tel q̃ deusse auoir este
+Mayz sire dieu ie yequiers ta bonte
+Et charite ce
+Que du pecheur endure
+¶Numilie sius merueilleusement
+Et durement
+Afflige ie cryoye
+En rugissant poͬ le gemissemet
+Crueil bayment
+Crueil bayment
+La ou incessanment
+Pax grief tourment
+Le cuer de moy sentoye
+Ie penssoye
+uomam
+Lumbi mei mi
+pleti sunt illu
+sionib ⁊. non
+est santas in
+carne mea.
+16
+ffudue
+sum ⁊ humilias
+sum minis rugie
+bam. a gemi tu
+cordis mer",39,3639c9a5-49e3-421f-a5ac-71f73c0d9a2d
+f39-16v.xml,16v,"A
+Aux maulx que faiz iauoye
+Et estoye
+Retourne au meschief
+Et ay perdu la grace que iauoye
+Et par peche fault q̃ benny en soye
+Dengereux est malqͥ uyent de rechief
+¶on sire dieu tout le desir de moy
+Est deuant toy
+Et n est point absconse
+Mon pleͬ de toy. mondroit Iuge mõ roy
+Regarde ⁊ uoy
+Lennuy et lesmoy
+Que auoir ie doy
+Qui tant iay offence
+Peu ay pensse
+AToy le temps passe
+Mus transgresse
+Ta iustice ⁊ droicture
+Iay mon plaisir pourchasse
+Dont present suis fuitif ⁊ dechasse
+Plaisir mondam en la fin nest q̃ ordure
+Nõturbe est mon cuer amerement
+En moy present
+Qui tant suis douloureux
+Delesse ma uertu totallement em
+Pareillement.
+Pareillement.
+Domme ante
+Re omme desideriũ
+mncum ⁊ gennituᷤ
+meus non est
+intellectus.
+Mor meum
+conturbatum
+est in me dereli
+quil me uirtus
+mea ⁊ lumen",40,1d98255a-6fba-44fb-9232-23860a66ca4c
+f40-17r.xml,17r,"lumicre tellement
+Que aulcunement
+Ne puis uoir de mes yeulx
+En mesans uyeulx
+Poͬ mes faiz uycieur
+Estranges lyeur
+Habiter me couuient
+iay este fyer despit ⁊ orguilleur
+Maitenãt sus fuitif ⁊ langoureux
+Bien uyt eureux qui a bõne fin uient
+Les tresprochanis ⁊ amys prĩapaur
+Congnus mes maulx
+Pour me persecuter
+Sont approchez ensemble ꝑ mouceaulx
+Qui des uassaulr
+Qui des uassaulx
+Pour me donner assaulx
+Porte fleaulx
+Porte fleaulx
+Pour mon corps tourmenter
+Bien doy doubter
+Deuant eulx me bouter
+Et presenter
+Pour ce que iay commis
+Mes plus ꝓchanis me ueullet de bouter
+De mon royaulme seclure ⁊ deiecter
+Trop est hay qͥ lest de ses amys
+Quant suis uenu a se diuerz besois
+oculorum meoꝵ
+⁊ ip̃m non est
+mecum.
+7
+nci mei
+⁊ proxui mei
+aduersum me
+appropinquaue
+runt ⁊ stelerunt
+it qui uicta
+8",41,82f402d6-238a-467d-a2bc-d8d142958798
+f41-17v.xml,17v,"me erant de lõge
+stełerunt. ⁊ um
+faciebant qui
+querebant aiam
+mcam.
+Plam de grant somg
+Ceulx qui estre souloient
+Au pres de moy sen son tyrez au loing
+Tourne le groing
+Prins baston en leur pong
+Dieu est resmoing
+Du mal quil me uouloient
+Et faisoient
+force ceulx qui queroient
+Et tyroient
+Ax tuer droit ou tort
+Nes plus prochanis plꝰ fort me poͬiuiuoyt
+Et menoient
+Gens qui les soustenoient
+Homme hay est plꝰ q̃ demy mort.
+Sien scay q̃ ceulx qͥ mamort pochassoiẽl
+Et chassoient
+Pour mes miquitez
+Improperes ⁊ crismes controuuces
+Me blasmoyent
+En tout sens quilx pouoient
+Et parloient
+Contre moy uaintez
+Nlaulx inuentez
+Ilz ont ⁊ faulcetez
+De tous coustez.
+ł qui inque
+rebant mala mͥ
+Locuti sunt ua
+mtabos. ⁊ dolos
+toba die medita
+bantur.",42,987e2362-a845-4438-ab68-426bdbab64a3
+f42-18r.xml,18r,"Pour ma uie destaindre
+A mal penser ilz se sont affectez
+Cõme hayneurs. contre moy despitez
+Hõme hay. de chascun doit bien craindre
+¶Hles opprobres contre moniẽtendoye
+Mais iestoye
+Comme ung souit qui not ponit
+De les ouyr pomnt semblãt ne faisoye
+iescoutore r
+Pas ung mot ne disoye
+Ienduroye
+De leurs langues estre point
+Tout en ce pomit
+Que le muel contranit
+Qui bien apomt
+Ne peult ouurir sa bouche
+De dire ung mot. cõtre eulx me suis
+reffraint.
+Iay endure paciẽment ⁊ crant
+Bien est touche q̃ la maĩ de dieu touche
+¶May este fait comme hõme nõ oyãt
+Et non ayant
+De redarguations
+En sa bou̾che mes ennenniz uoyant
+Et alroyunt
+Maulx de moy dyre tant
+Ego aulim
+t anquam surd
+non audiebam
+⁊ sicuł mutus
+non apperiens
+os suum
+18
+Est factus sũ
+sicut homo nõ
+audiens ⁊ non
+habens more
+suo redargucões.",43,164558d4-2769-4489-bcd6-7a63efb98b9a
+f43-18v.xml,18v,"X
+En redoubtant
+Leurs persecucions
+Leurs fitions
+Leurs fictions
+Par mille oppimnons
+Et grans raisons
+Ieusse bien peu corrompre
+Maiz iay souffert le diffamations
+Doubtant auoir plꝰ grãs afflictions
+On dit quil uault trop mieulx ployer
+que rompre.
+Des ennemis moult trop imppere
+Et profere
+Et profere
+Contre moy deshonneur
+De quor ie nay millemẽt murmure
+D aus differe. ⁊ tousiours endure
+Car espere
+I ay en roy mons
+Alon createur
+Non leal protecte.
+Et deffensseur
+Mon roy mon puissant dieu
+Iay endure et souffert de bon cuer
+Les imures daultrui poͬ ton honeͤ
+Pacience est bonne en temps ⁊ en lyeu
+Iay endure de uenimeux blason
+Plusque poyson.
+Qm̃ inte dñe
+speraui tu crau
+dies me domme
+deus meus",44,38598319-ab8d-484a-b8cf-d9c09248c736
+f44-19r.xml,19r,"Sus moy grant habondance
+Maiz sans laisser les termes de raiso
+Par desraison
+Iay mis toute saison
+Selon nuson
+Selon maison
+En toy mon esperance
+Car ie tay dist mon dieu plam de
+puissance.
+Mes ennemys ne preneł poit plaisace
+Bus moy iamaiz poͬ mauoir dechasse
+Car ie scay bien q̃ par oultreciudace
+Sans doubtance
+En me portant nuysance
+Orandes choses ilz ont oist ⁊ pensse
+Quelq̃ doule: hormble q̃ iape eue
+Et receue
+Fort trauellye et las
+Sy ne ay ie point esꝑance ꝑduer
+Car tousioͬ prest de puissace estẽdue
+En temps deue
+Ie suis ⁊ me euertue
+Ates fleaulx quãt tu les mẽ ẽuoyraᷤᷤ
+Car de mon cas
+Pyteur en tous estas
+Comme ueu as
+fay tousiours en presence
+19
+uia dixi no
+quando suꝑgau
+deãt mͥ inimici
+mei. ⁊ dum com
+mouc̃tur pedes
+mci suꝑ me magͣ
+loculi sunt.
+in conspedu tuo
+m̃ ego in
+flagella ꝑabus
+sum. ⁊ dolor me",45,ba2c44bc-9be7-4a5c-bb6d-2ab277a678c5
+f45-19v.xml,19v,"Lñ imquita
+⁊em meam ami
+ciabo ⁊ cogitabo
+pro pcto meo
+La grant doule: qui me suyb pas a pas
+De muyt de io. et nen pactyra pas aan
+Car trop est fol qui a la fin ne pensse
+¶ousio  auray desplaisate en moncuer
+Honte ⁊ douleur
+Honte ⁊ douleur
+Car ie le annonceray
+Liniquite de moy mon creabeur
+Pour mon erreur
+En tristesse et en pleur
+Comme pecheur
+Doit. tousious pensseray
+Honteux seray
+eray
+Du mal que fait auray
+Et ploreray
+Et ploreray
+Mon bien fait delesse
+Tant quen peche iamaiz ie ne cherray
+Cõe Iay fait dont iap le cuer serre
+Danger congnoist. qui danger a passe
+Dertamemẽt mes ẽnemps tresgrans
+Sont tous uiuans
+Et confermes sur moy
+Sont ceulx qͥ ont este mes malueillãs
+Mon corps querans
+Et ma mort desirans
+Multipliez iiquement les uoy
+Ce desmroy
+AEminici au
+tcm mei uiuunt
+⁊ confumati st
+suꝑ me. ⁊ multi
+plicali sunt qui
+oerant me ñq",46,9008ec6a-a242-4cbc-98b9-a675a26d6739
+f46-20r.xml,20r,"Me font contre la loyr
+Car le parquoy
+En forme napparoist
+Qu ilz me deussent tenir en tel esmay
+Quil tant de biens ⁊ dhõne fuit le. ay
+Mais cuex morat bñ fait nul ne cõgnoist.
+Seulx qͥ rendet maulx po bñ detractoiẽt
+Et uouloyent
+Me imposer faulcelte
+Et iniure poͬ cause quilx ueoyent
+Et scauoyent
+Que la ou ilz erroient
+Et falloyent
+ie suiuoye bonte
+Se iay este
+De lennemy
+tempte
+I en siuis oste
+Et a raison ueuien
+Non obstant se de eulx ie sius ꝑsecute
+Qui ont cononeu ma gracieuselte
+uus les ing̾ratz pẽdẽtꝰ le mal poͬ bñ.
+¶onseigne: dieu ne me delaisse pas
+Tumber es las
+Et es temptacons e
+Ne te depays de moy dũg uout scul pas
+Car aux debaz
+rctribuũt mala
+pro bonis detra
+hebant michi
+qm̃ scquelar
+homitatem
+20
+e derelinquaͤ
+me domine deus
+meus ne discesse
+ris ame.",47,6fcdbb35-fba1-43eb-a382-9e39ccab53e4
+f47-20v.xml,20v,"CX
+fragille suis et las l
+Ex mis au bas
+Par ꝑsecucions
+Illusions
+Et amoincions
+De abusions
+De abusions
+Me uiennent en tout lyeu
+Mais roy present le ᷤ instigations
+Le me feront aulcunes lesionca
+A seurle .ua. qui est conduyt de dieu
+Sire qui est dieu effectiuement
+le sauluement
+De mon ame laquelle
+Espere en roy enten bengnement
+Et doulcement
+Amon ayde aultrement
+Trop lachement eta
+Trop lachement
+Soustiendray ma querelle
+La cautelle
+La cautelle
+De lennemy est telle
+Que par celle
+En bataille cruelle
+Aspre et felle
+deroye tost uaincu
+Mays i ay espoir q̃ ta grace eternelle
+Le repelle
+Intendem
+adiuborium
+meum domine
+deus salutis
+mee.",48,dc88994e-156c-4e49-b97b-e86ec6864693
+f48-21r.xml,21r,"Car en guerre mortelle
+layde de dieu sert de lance ⁊ descu
+Gloyre sans fin au pere createur
+Au redempteur
+Son seul filz glorieur
+Au samnt esprit aussi gloire ⁊ honne᷑
+Doit De bon cuer.
+Contrict lomme pecheur
+En sa douleur
+Presenter en tous lyeux
+Le dieu des dyeur
+Lassus regnant es cieulx
+Tresuertueur
+Qui est en trmite
+Troys ꝑsonnes ꝑe ⁊ filz ce sont deu
+Le saint esprit qui est lunyon de eux
+Et sont les troyz ung seul en deyte.
+uibu anum e
+is ra ub hraiu
+nalos urtt mad piongit
+pos utresmupulo le
+uli in assoq ta ucpui
+Gloria patri
+filio ⁊ spiu scto
+21
+ni",49,4e53e46c-339d-4f30-9732-5060c5457ec2
+f49-21v.xml,21v,"on dieu selon ta grãt missicorde
+Ayez mercy de moy peche. ĩdigne
+De ta haulte clemẽce te record̾e
+Mes maulx pardõne ⁊ ta qͣte macorde
+Sans me priuer de ta gloire diuine
+Ie congnois bien ma uoulente indine
+Plus a peche que a uertu touteffoys
+Sy ie suis cheu cõe fresie en ruine
+¶A serere mer
+deus secundum
+magnã mĩam
+tuam.",50,4dd863f2-7bb7-407c-b915-8872e07aec70
+f50-22r.xml,22r,"Ie me remelz a la grace benione
+Hõme ie suis frefles tu nou as faiz
+Gardonne moy ma grãt iiquite
+Tu qui congnois mes melmacions
+Pardonne moy selon la quantite
+Multitude⁊ magnamite
+De tes graces et m̾iseraçions
+Lennemy ma par ses temptacions
+Fait trebucher en peche plusieurs foyz
+Mais non obstant toutes decepcions
+AToy reuien en mes afflictions
+um̃e ie suis fresles tu noꝰ aᷤ faitz
+¶ons̾ dieu laue moy amplement
+Diniquite dont ie suis empesche
+Iesus pollu en mes faiz tellement
+Que cest orre se par ton lauement
+De grace plam ie nen suis despesche
+Pour ce mon dieu monde moyde peche
+Tues cellui seul qui cõgnois mes faitz
+de iay uers roy fragillement peche
+Ie te supply quil mẽ soit relasche
+Home ie sius fresles tu noꝰ aᷤ failze
+¶Orince eternel a ta grant charite
+Grace uequiers car mon uice cõgnoĩs
+Contre moy est tousio ma faulccte
+Se say failly cest par gragilliteroa
+D⁊ sccundum
+multitudinem
+miscraciomim
+tuarum. delle
+iiquitalemi
+meam
+22
+Emplius
+laua me ab mi
+quilate mea ⁊
+a pcc̃o meo muda
+me.
+O nquitato
+meã ego cogͤsco.2
+potm incũ cõtra
+me est semꝑ.",51,88ac7e8b-6261-46b5-a62e-e09861374803
+f51-22v.xml,22v,"Qbi soli pec
+caui ⁊ malum
+coram be feci ul
+iustificeris i
+seimonib tius
+⁊ uincas cum
+iudicaris
+Hõme ie suis fresles tu noꝰ as faiz
+¶elas mon dieu cest seullemẽt a toy
+Que iay peche. sire pardonne moy
+Car i ay fait mal deuãt ta digne face
+Mais tues dieu mon seul uide mõ Roy
+De transgresse iay ta duuine loy
+Tues cellui quil me peult faire grace
+Pource ie quiers estre purifie
+Affin que tu soys iustifie
+Es parolles de toy sionantement
+Et q̃ uamques ꝑ ron saĩt iugement
+Qon ennemy ⁊ mortel aducisaire
+Tuas promis pardonner doulcement
+A tout pecheur contrict ⁊ penitent
+Tu ne peur pas present faire au ꝯtrairx
+Sire uoy cy quen mes imiquite
+Ie sius conceu uoy mes fragillitez
+Car en pechez ma mere mã conceul
+Deuant que uoir nullez mondanter
+Par loblige de mes antiquitez
+Que fist adam i ay le peche receu
+Auuis toy qui as la iustice en ta man
+Et qui congnois q̃ cest de lhõme humai
+Te monsterãs enuers moy charitable
+Parton plaisir ⁊ iuge pyteable
+Comme uire tuas ⁊ promie
+Ecceemmin
+iquibatibus
+conceptus sum
+⁊ in peccatis cõ
+cepit me mat᷑
+mea.",52,5048bd86-48fe-4f7a-b240-38677fa065d7
+f52-23r.xml,23r,"Atouł peche: contrict ⁊ lamentable
+Ainssi que moy or est tu ueritable
+Tu ne peuz pas present faire au cõtraire
+Oerite as tousiours certainement
+Tresaince car uoluntairement
+Les faitz secretz de ta grãt sapience
+Desclere me as tous maginfestement
+Tant que ie croy present certamemẽt
+La uerite sans quelque difference
+Tes iustices que iauoye incertames
+Et occultes par mes penssees uames
+Present cononois ⁊ scay de uerite
+Quatoꝰ peche  promis de antiquibe
+faire pardon sulz se uouloiẽt retraire
+Et delesser uice ⁊ miquite
+Tu ne peur pas maĩtenãt faire au ꝯt.
+Erince puissant puis q̃ tu mas ꝓmis
+faire pardon du mal q̃ iay commie
+De cuer contrict ie te ueul satiffaire
+En renoncãt a toꝰ ing emiemys
+Tu dis pieca quil me seroit reme
+Tu ne peuz pas preset faire au ꝯtraire
+Meigneur dieu po me faire beau
+De ysõpe tu me arrouseras
+Monde seray ⁊ fait nouueau
+Plus blanc q̃ neige de sanit eau
+Sce emin
+ueritatem di
+lexisti in certa
+⁊ occulta sapiẽ
+cie tue magni
+festasti michi
+23
+A sperges
+me domme
+ysopo ⁊ mun",53,717068cb-ef6c-4557-b1f0-0f2bfbc3365a
+f53-23v.xml,23v,"dabor lauabis
+me ⁊ suꝑ mũe
+de albabor
+De la quelle me laueras
+La rousee que iecteras
+Sũs moy de ta grace diuino
+Si doulcement aspergeras
+Que plus blanc tu me trouueras
+Que nest la neige blanche ⁊ fine
+Car en uiuant humblement
+Ysoppe diuinement
+Qui humble est me arrousera
+Et spuellement
+Dlancheur habondantement
+Sus neige me donnera
+ar ra bonte grãde a merueille
+Et tres souueramne sagesse
+Affin que mon esprit reueille
+Diuenement a mon oreille
+Tu donneras ioye ⁊ lyesse
+Ainssy scray hors de detresse
+Et si les o humiliez
+Sesiourront car de la presse
+De peche ⁊ mortel angoisse
+Ilz se sentyront deslyez
+Car si tost que amon ouye
+Sera ta parole ouye
+Resoner diuinement
+Par uoys de lançe serpe
+Eliditiu
+meo dabis gau
+diũ ⁊ leticiam
+et exultabut
+ossa humilia
+ta.",54,70657ec6-9a1a-4018-9498-f8e124673aec
+f54-24r.xml,24r,"Ellescra resiouyeza
+Tous mes es pareillement
+Auerti ta face de mes
+Pechez tellement que iamaisa
+Ne soient en nombre boutez
+Aẽa grace ne me submelz
+Souueram Iuge qui remetz
+A tous pecheurs leurs pouretez
+Delee mes imiquitez
+Tous mes pechez ⁊ faulcetez
+Que l ennemy ne me mefface
+Et se par mes fragillitez
+Iay cire contre res bontez
+Sire dieu retourne ta face
+Et ne me regarde pas
+En fureur selon le cas
+Du grant peche que iay fait
+Maifeste que luas
+Mlisericorde ⁊ auras
+Ainssi que iuge parsait
+Dieu eternel create: souueram
+Qui me as cree ⁊ forme de ta mani
+Par ton pouoir hault ⁊ ĩestimable
+Cree en moy ung cuer pur net ⁊ sam
+Et que peche ne soit plus en mon sam
+Car ie me sens tresgiãdemẽt coupable
+uerte fa
+ciem tuam
+a peccatis me
+is ⁊ omnce
+imiquitates
+meas delle
+24
+Uor mũdũ
+crea in me de
+⁊ spm scłm̃
+ne auferas
+a me",55,e1de4bc4-3711-46ad-b69c-e139b3ebd9a0
+f55-24v.xml,24v,"Si te requier sire que tunte lailles
+Et innouto esprit en mes entuulles
+Lequel soit droit.⁊ purot de tol uies
+Tousio  penssant a tes sainctes iusticẽs
+Si que en la fin ie piusse paruenin
+Lassus ou çiel a tes sains beneficos̃
+En delaissant faultes ⁊ malefices
+Ou lenneny ma fait choir ⁊ tenir
+Monsy. dieu quelq̃ mal q̃ ie face
+Ne me uueillez gelter loĩg de ta facẽ
+En ton espril tressaint de moy oster
+Car cest cellui qui les pechez efface
+Et me remet a ta benoiste grace
+Quãt lennemy me ueult suppediter
+Car si failloit q̃ tu me regetasses
+De ta fuce ⁊ que de moy ostasse
+Ton samt esprit quesse q̃ ie feroyes
+De lennemy a toute heure seroye
+Persecute ⁊ mis a decadence
+frngille suis cest une chose urayes
+Et resister a pamne ie pourroye
+Se ton esprit saint. nestoit en p̃sence
+S
+Dire dieu rens moy la lyesse ⁊ la Ioye
+De ton salut. ⁊ poͬ. estre plus ferme
+De ton esprit principal me conferme
+Que lennemy iamaiz ne me desuoye
+Ne proiciaᷤ
+me a facie Iua
+⁊ spm̃ sanctũ
+tuum ne aufe
+mas ame
+Sedde michi
+leticiam salu
+taris tui ⁊ spũ
+principali cõ",56,b37ebb1c-02a7-41ff-97a0-64a46d8787b0
+f56-25r.xml,25r,"Par lui iay prins de mal faire la uoye
+Et fait cella que faire ne deuoye
+Dont le remors me donne au cuer tristesse
+Mais sil te plaist me rendre la lyesse
+De ton salul ⁊ desprit prinaipalE
+Me confermer plꝰ ne craing qͥl me blesse
+Ne que iamais sentyer ie delesse ai
+De uerite po. commeltre aulcun mal
+Sire sil te plaist que ie soye
+En estat que ta grace uoye
+Les iiques senseigneray
+De tes uoyes ⁊ bonte uraye
+Plus que dyre ie ne pourroye
+Se tu ne m auoye Inspire
+Ainssi les mauuaiz ⁊ ꝑuers
+Seront a ta grace conuers
+Et sera ta loy souuerame
+Publyee ⁊ faicte cerlaine
+A tous uinuersellement
+Et tel qui a penssee uaine
+A se conuertir mettra paine
+Qis quil ayt mon enseignement
+Dieu dieu puissãt de mõ salut ꝯfort
+Deliure moy des sangz ⁊ de la mort
+Et ma langue adonc exaltera
+Ta iustice de plus fort en plus fort
+firmame.
+24
+¶ocebo mi
+quos uias tuaᷤ
+⁊ impii ad te
+conuertant:
+¶li bera me
+de sangiumbr
+deus deus sa
+lutis mee. eł",57,c6492126-4872-46dc-a6f9-bd959da54e3b
+f57-25v.xml,25v,"exultabit Im
+gua mea uisti
+ciam tuam.
+Si que de toy ta louenge ⁊ Raporl
+Publiquemẽt par tout le monde pra
+Car ie dyray aux peche ᷤ qͥlz morront.
+Quilz samendẽt ⁊ q̃ point ne morront
+Car tues doulx misericordieux
+Habandonne de gͣce enuers tous ceulx
+Quilz re uiennẽt poͬ requerir pardon
+Car nul ne peult tant soit il uertueux
+dans toy auoir ton regne glorieuxs
+finablemẽt lon ne la que par don
+u ouuriras mes leures monssͬ
+Et ma bouche par triumphe ⁊ honneͤ
+La louenge de roy annũcera
+Disant tu ne tiens point de rigue.
+Mais escoutez uoulentieiz le peche:
+Toutes les foye q̃ a Roy retournera
+Par ce moyen les pecheͬ qui uerront
+De toy les faitz ilz se conuertiront
+Non obstant ce ĩe ie ne suis pas digne
+De prononcer ta louenge diuine
+Ne de toucher or de si haulte uallue
+Se ta grace ne me donne doctrine
+Et ton esprit ma bouche me illumre
+Car de peche ie la sens trop pollue dea
+Ol ant q̃ peche. i ay este plain de uice
+Si tu eusses uoulu mon sacrifice
+Comine la
+bia mea ape
+uies. el os meũ
+amnĩciabił
+laudem tuam
+Quomam
+si uoluisses",58,76c64ad9-dd51-4778-8cf9-41a75f9762c6
+f58-26r.xml,26r,"se teusse fait aulcune oblaçion
+Mais aux offres ⁊ aux dõs de Inustice
+Pecheur ne peult te faire aulcun suice
+Tu ny prendras ponit de delectacion
+Et pour ce poĩt que mon fait i ay cõgneu
+Plain de peche ie me suis abstem
+De roy donner sacrifices nouueaulxe
+Car en la char des bestes ou doyseaulr
+En cendre mis point tu ne te delectes
+Mais seullemẽt a uoir les cuers loyaulx
+Quilz se amendent ⁊ delaissẽt loͬ maulx
+Della le don q̃ requiers ⁊ affectes
+Sacrifice de dieu plus appelle
+Est de lesprit qui est contribulle
+Et desplaisant dauoir uice cõmis
+Tant soit lhõme de peche maculle
+Sil se contrict tout est anichille
+Incõtment est le peche remis
+Le cuer contrict humilie ⁊ point
+De desplaisir ne despriseras point
+Dieu eternel car ton affection
+Est des peche uoir la contriction
+Et le reto: a bon amendement
+Par ce ie uoy q̃ en la conclusion
+Me tournera en exultacion
+Et en ioye mon grãt gemissemet
+sacriitium
+dedissem utiq
+holocaustis
+non delectabis
+266
+Sacrificium
+deospũs contri
+bulatus. cor
+conbrictum.
+⁊ humiliatu
+deus non des
+picies",59,e9929d85-2dd3-42c9-8972-7aa364198df4
+f59-26v.xml,26v,"U
+uitulos
+Semone
+fac domine in
+bona uoluntate
+tua sron ut edi
+ficent. muri
+ihelin
+Saya syon sire benignemeb
+En ta bonne uoulente se illement
+A. celle fin que tost ediffice
+Ihesuzalem soit magnifiquemet
+AAiuironee de muraille aultrement
+Quelle na este ⁊ mieulx amplifiee
+Tar par syon de richesse honnoree
+Lame noꝰ est de chascun figureee
+Laq̃lle on doit de uertu bien parer
+A ffin q̃ dieu y puisse demourer
+Et son temple spuel en face
+Se sont les murs que deuons reparer
+No: enrichir ⁊ tousio  decorer Ra
+Ihesusalem la glorieuse ꝑlace.
+uãt le peche penctẽt de son fait
+PDiendra contrict deuãt toy en effẽt
+Uray est adonc tu lui accepteras
+De iustice le sacrifice fait
+Et presente deuãt toy dieu parfait
+Et loroison de liui exaulseras
+Holocaustes oblations aussy
+Receuras mais quil uyenne a mercy
+Et adoncq̃s les peche ᷤ bouteront
+Sus ton hostel. ueaulx ⁊ sacrifieront
+Ainssi quil est ordonne en ta loy ll
+.Mais les mauuaiz qui obstinez seront
+GIunc accep
+tabis sacrificiũ
+iusticie obla
+ciones ⁊ holo
+causta tunc
+imponẽt suꝑ
+altare tuum",60,41efc470-894a-4c15-8356-66fd33e70418
+f60-27r.xml,27r,"Et de leurs maulx ne se conuertiront
+Nle uiennent rien presenter deuant ter
+Gioyre au pere ⁊ au filz ⁊ au saint
+Esprit lequel en deite comoia eSsa
+Trois personnes lequel est ⁊serare
+Tel come il fut iamais ne changera
+Car il est ung sans separacion
+Dieu cternelꝰ et qui ne le croyra
+Sans uarier aulcunemet ne auta
+Ia paradiz en la condusion
+Gioua pa
+et filio. ⁊ spiũ
+27
+gintouin ais",61,fca68e0b-9fa1-45e2-b1cf-34286c64abae
+f61-27v.xml,27v,"U
+omme
+exaudi
+oronem meã
+et clamor me
+ad te ueniat
+¶on aduer
+tas faciem tu
+am ame inꝙͣ
+cunqz die tri
+bulor mdlma
+a me aurem
+tuam
+die muocauo
+on sire dieu ccaulse moy
+Mun oroison ⁊ uienne a toy
+Ma clameur quil soit agreable
+Considere mon fait ⁊ uoy
+Que dauoir transgresse ta loy
+Ie sius trop grandement coupable
+Mais pius que lues pibeable
+Doulr begnin courtoyz annable
+Aur pecheurs uenans a raison
+Il mest licite ⁊ conuenable
+Publier ma douleͬ. greuable
+Et te faire mon oroison
+¶Le aduerti point de moy ta face l
+En demant me faire grace
+Car tubule sius grandement
+Chascun io. et en toute place
+Que l ennemy par sa falace
+Me decoit et tient en tourment
+Incline a moy benignement
+Ton oreille et douldement
+Te plaise ma priere ouyr
+Car cellui est tant seullement
+Qui peuz donner garissement u
+Amon ame ⁊ la resiouyr
+n quelque io. que ie tappelle
+Prince de bonte eternelle
+¶Anquacũq",62,bf218c2e-1b40-4b31-82e1-f91f77f56fe3
+f62-28r.xml,28r,"Exaulse moy hastiuement
+Car lennemy par sa cautelle
+Ne requiert que trouuer querelle
+Pour me mener a dampnement
+Par quoy ie te pry humblement
+Mon dieu q̃ tout soubdamement
+Que tu me orras te requerir
+Tu oyes mon gemissement
+Ma requeste mon depriement
+Et te plaise me secourir
+Alppareillie soyes tousiours eta
+A me ayder ⁊ donner secours
+Car ainssi que fumee fault
+Soubdam sont deffailliz mes io
+Et ne scay ou auoir recours
+fors amon dieu qui est la hault
+Mes o aussi cheuz en deffault
+Comme creton sur le feu chault z
+En la paelle sont dessechez
+Car lennemy subtil ⁊ caut
+Par chascun io: me donne assault
+Po: me faire choir es pechez
+e suis frappe comme le fam
+Et est mon cuer treslache ⁊ uame
+Seche car en ma desplaisance
+Iay oublyx menģer mon pam orra
+te uelociter ex
+audime.
+28
+sum uł fenum
+quia oblilus
+dies mei. ⁊ ossa
+mea sieut cre
+runt sicut fumꝰ
+uia de fecc
+miũ arucrunt
+ercussus
+⁊ aruib cor meu",63,f07eb76f-8c62-440e-972f-51ead9ccc662
+f63-28v.xml,28v,"sum comedeit
+panem maim
+Po. le grant tourment in humam
+Qui me ostoit uertu ⁊ puissande
+Muon ennemy asa plaisance
+Ma couple par grant oultrance
+Lesser le chemin de equilt
+Et prendre le tram dignorance
+Dont seiche suis a la semblance
+Que le fum seche au temps deste
+¶Lour la uoir ⁊ cryde mon plelas
+Et gemissement de douleur esnzor
+Mon os a ma chair se est a hers
+En soustenant pame la beur
+Rompu consume de sueur
+En lieur sauuaiges ⁊ deser
+Pour fuyr le tyrant peruer
+Et ses sa thelittez ⁊ seis
+Cnelz sa trappẽz ⁊ suppotz
+En cheminant les lieux diuer
+Seiches sont deuenuz noirs
+Ne ayant que le cuys e lesos
+lu pellican suis fait semblable
+Qui quiert le lieu inhabitabie
+De la solitude ⁊ le suyt
+Fait aussi ie suis comparable r
+A la chauue souris doutable
+Qui nose uoller que de nuył
+Iooce gemit
+mei ad hesit.
+o icã uurm
+Similis fte
+sum pellicano
+soliludinis et
+factus sum sicut
+inticorax in
+domicilio.",64,093d1a9f-a7b1-4553-8c56-3eff5cf0d3c7
+f64-29r.xml,29r,"Car ie auin a estre eolnt.
+Du faulx tyrant qui me poursuitꝰ
+Et cruellement momenace
+Disant que ie seray destiuit
+Se ie ne sail sans plus dobririt
+Le peche qui ueult q̃ ie face
+¶Lay ueille par io. ᷤ⁊ par miytz
+Et au moyneau semblable sug
+Qui se tient solitairement
+Soubz le couuert en ung pertuyx
+Sy petit quon nepeait uoir lun i
+Et la sotrent a sauuement
+faire me fault semblablement
+Et me tapyr conuertement
+En ung trou soubz la conuertures
+Car iõ cononois certaiement ¶
+Se ie ne fatz le mandement
+Le tyrant me fera iniure
+Oloute iournee miurooient
+Mes ennemys ⁊ mne exprobroyent
+Poͬ. diffamer ta sanicte loy
+Iceulx mesmement qui tououoyẽt
+Par faulce oppinion iuroient
+Et resmoignoiẽt contre moy
+Pource mon dieu regurde ⁊ uoyla
+Con peupleiplorant deuãt toy
+uII AII
+taenus ure
+factus sum ficũt
+igdii uuoe
+passeri coa aus
+mecleo criu
+mibo lecti
+III II
+pbrabant
+ota dios
+michi mimute
+mei. ⁊ qui lau
+dabant me ad
+uersum me
+iurabant.
+29",65,cd69f8ae-d799-477d-becd-4a4fcdef4c31
+f65-29v.xml,29v,"Qua cme
+rcm tanquã
+n griefaestribulacion
+Qui naport nap̃de da sop
+Bi de roy sondieu ⁊ son rop
+Aa quelque subleuncion
+Sn estant amssi mutille
+A ourmente ⁊ pãlibulle s
+Comble de dueil wuyde de toye
+Sans estre daucun consolle
+Pay farmere cendre mesle
+Que. comme le pani ie mengbye
+Cun beuuraige aussi ie mesloye Ea
+Auecques plelir quant ie beuuoye
+Cande la pitio de couraigea
+Souuẽt ẽ huuãt ie ploror
+Et les launes q̃ a espendoye
+Tumborent dedans mon bruuage
+e lyrei indignacion
+De roy noꝰ uieñt laffliction exa
+La ou nous sommes manitenant
+Par lorgueil ⁊ presumption
+Quen nostre dommacion.
+Prins auon par poy deuant a
+Cu qui est princo dieu uucant
+Mis noꝰ as en honneͬ tresgiant
+Mais apres tu nolas lessez
+Chomen bas eñ nous subleuant
+panemman
+man
+ducaban. oł
+potum inium
+cum fledu
+miscebam
+Afacie ire
+indignacõnis
+tue quia ele
+Gn. uni hecidis
+uti m
+Iurdi iiii",66,6b98b61a-1165-4368-9be1-bd7351cc90ca
+f66-30r.xml,30r,"Nostre presumption Aorant
+t nous as grefuement blessez ega
+Mes iours sont perilz ⁊ finez
+Et comme lombre dedinez
+Et ie sius seiche comme fain
+Par mortel assaulx rebournez
+Et sus moy chasaruitour donnez
+Par le fier tyrant mhumam
+Mius ie conguois ⁊ sius certam
+Que tout cella uient de ta man
+Et de la facede ton yne
+Ie meurs ⁊ nan pouit de demam
+Sil ne plaist changer ce trai
+Par ta misericordesire
+iresu
+¶Lle tempo changs emue a routes heur
+Mlais monsi ahesus tu demcure
+Lassus uiuant roy etornellement
+Si ne aoypas quen si lõoues demaiẽs
+De elernte en pilie no lãbeure
+A noꝰ donner secorrrs aulamement
+Aoꝰ esperon en ton adueneinent
+Salut auõis apres que du tourment
+Asez aurons porte laffliction
+Toreterne les pardurablement
+Qui demcures tousio incessãment
+Sus bol aultres endominaçion
+ies mei
+sicut umbra
+dedmauerunt
+eł ego sicul femi
+ati
+sum utim
+nosdirdn
+iueł mup
+t i
+ł isiiup
+30
+aubem domine
+melernum per
+manes. ⁊ me
+moriale tuum
+in gencratione
+⁊ generationẽ.",67,a0434861-3e4e-4f9a-b80b-562bc4b05bca
+f67-30v.xml,30v,"6
+Et de generacion
+Ua en gencracion
+Le memorial do toy
+Par la cõmutacion
+Des choses que nous uoyon
+Chascun iour en nostre loyo
+seigneur dieu quãt tu te leueras
+En te leuant ie croy que donnera
+Misencorde au peuple de syon
+Car le temps est uenu uray messias
+Doulx ihũcrist qui noꝰ incheteras
+Que tu ayes quelque compassion
+Uem le temps est de remission
+Car syon est en desolacione
+En actendant laduent de Ia hautesse
+Cest son espoir ⁊ expedation
+Que ton aduent ⁊ incarnation la
+Le boutera hors de toute destresse
+Et pource chief de noblesse l
+Deu la douleur quil nõꝰ blesse
+fay que tu soyes congneu
+Boute moꝰ hors de tristesse
+Que syon soit en lyesse
+Car le temps en est uenu
+¶ees seruans plaisantes ont este
+Les prieres de la noble q̃te
+nCI
+reberis spon
+quia tempus
+miscrendi eius
+quia uenit tem
+pus
+urtes atalia
+mnerahiti
+iura di go
+e exurgens
+comme mise
+Om placus
+runt seruis tui",68,dd0def7d-0df2-4936-a7e7-f7472076ae54
+f68-31r.xml,31r,"Cest assauoi les fermey e estables
+Qui ont uoulu en leur fidelite
+Tousiours seruir ta haulto deibe
+Constantement sans estre uatiables
+Pourtant seione. tes seruãe uertables
+Et apostres amissi q̃l prĩables s
+A la terre de ton peuple feront
+Grace ⁊ mercy car comme chaulables
+Dictoricux hardis insuperables
+Ta saincte loy au peuple monstreront
+Lors ceulx qui fally auront
+Aculx se conuertiront
+Et laisseront la uoye orde
+Par ce moyen trouueront
+Que tes seruans donieront a
+Au peuple misencorde
+Gous les gentilz ⁊ payens doubberõl
+Ton benoist non quãt ꝑler en orrõt
+Et tous les pois de la terre ta gloire
+Quãt par effect ta piussance uerront
+Et que par tout lec apostres dyront
+Que tues seul sus toꝰ plain de uictoire
+Ou est cellui qui en plain cõsistore
+De tou saint non orri faire memõire
+Publiquement ⁊ pomit ne doubtera
+Ou est le roy. tant ayt grãt tenitoyre
+lapides euis
+⁊ terre cius
+miserebunt
+31
+st tiebũt
+gentes nomen
+tuum domine
+⁊ omnes reges
+tene gliam fua",69,3829c18b-3175-4e7f-a095-145d623e98a3
+f69-31v.xml,31v,"X
+xIII. ugal
+i
+Iuudrinant
+Riche dauoir ⁊ piussant adcutoyre.
+Et ta uertu ponit no formidem
+Drief le monde tremblera
+Quant de roy on parlera
+Pour la uertu de res fuiz
+Le plus fort seluhyra
+Quant il consucrera
+Tes gras ouurages ꝑfait
+es roys cramoront les gẽs peillemt
+Car le seioneͬ a magnifiquement
+E difie fron sa saincte eglisea
+Et y sera ueu mainfestement
+En sa glone car corporellement
+Sa char y fut portee ⁊ mise
+Entre les bras de syincon assise
+Comme iadiz la chose estoit promise
+Par propheltez de laduent de messie
+Cõme lescript fait diceulx la deuise
+Syon ꝑlace est la q̃lle dieu a prise
+Poͬ estre ueu en sa gloire infimie
+Ou est roy en seigneurie
+Qui ne ayt la face esbaye
+Dentrer en ce benoist lieu l
+Pour y faire uillenye
+La ou par la prophece
+En gloirr serã ueu dieu
+Diua edifi
+cauit domin
+spon. ⁊ uidebi
+tur in gloria
+sua.",70,109d8d84-a9ed-4aa7-8d08-412a02ae48bd
+f70-32r.xml,32r,"¶ostre seigne plamde mison
+A Regarde a loroison
+Des humbles uoluntairement cu
+Et leurs prieres en saison
+Uers lui faictez a grant foisontalz
+⁊le a desprisees nullement
+Soyent doncq̃s les choses diltez ceie
+Enliures mises ⁊ escuipte
+Affin que en gencracion
+Aultre puissent estre rediulte
+Souuent a meniore ⁊ rediltes
+En toute congregacion
+dinissy par iubilacion
+Tloyre ⁊ maginficacion
+Le peuple qui crre sera
+De nouuelle creaçion
+Par ioye et exultacion.
+Louera dieu ⁊ honnorera
+¶i sencordieusement
+Le seioneͬ. uoluntairemẽt
+Regarde a de ses saintz cieulx
+La terre po᷑ scauoir comment
+Son peuple uiuant en toͬment
+Querent le regart de ses yeulx
+Pourtant peuples ieunes doyeulx
+Deuront estre curicur
+oronem hui
+esperit in
+lũamonso
+uit prelem
+corum.
+cribanb li
+hec in onacos
+altera. Et ppłs
+qui creabit
+laudabit dim̃
+Quia prospe
+xit de exelso
+fancto suo
+dominus de
+celomterra
+aspexił
+H. itiuns ui
+IC MIT AIII
+32",71,27658819-a3a3-4e03-97d1-2274e8153317
+f71-32v.xml,32v,"Xu
+inual
+N annũciãt
+O
+EIt audirẽt
+gemilus com
+peditorum. ul
+solueret filios
+interrompte
+muit cui
+lil
+didao
+is bedrbu
+in syon nomẽ
+domini. ⁊ lau
+dem euis in
+ihrlm.
+lmcl
+cliii
+AFantonie
+mendo ppłos
+in unum. et
+reges terre ut
+D nner louengo le honie.
+Asi huuat. humble seigneur
+Oseni est le seigne: puissant
+Pour uoir son pruple gemissant
+Et ouprles gemissemens
+Des pecheurs qui en lanouessant
+Lyes en sepz estoient tant
+Que cestoient mortelz tournens a
+Aussi que par ses sacirmiens
+Et oloueur enscignemens
+Destrast les enfans des mors lad
+yr par ames ⁊ par corps
+¶enu il est pareillement
+Affin q̃ uinuersellement
+En suon le non uectueur
+Du seioneͬ tout publiquement
+Anmmoncent ⁊ semblablement c
+En ihesusalem soit par culx lo
+Annoncee est en aultre ᷤ lieux
+Da louenge tant q̃ tous ceulx bz
+Qui seront loyaulx ⁊ fidelles
+En portent par boul des nouuellos
+Ohenu est le prince aullant
+En conuocant ⁊ appellant
+Les peuples en uraye unite
+Ee foy par oisuples parlans",72,587382cf-0b23-4786-be71-e89e39861f1e
+f72-33r.xml,33r,"Ulanifestant ⁊ reuellant
+Les failz de sa diuimite
+Pour mettre aussi en uerte
+Les rays aola commnute
+Affm̃̃ qui ious par grãt homer
+Feuient le: dieu ⁊ ie. seigne
+Se laduenement dañtecrist
+Par les prophecies escript
+Leglise quil a entenon
+Et sceu par prophelique esprit
+De sa uectu a ihũcrist
+Paciẽment a respondu
+Et oit seigneͬ. en charite
+Annonce moy la brefuete
+Des iours de mon affliction
+Car ceste tubulacion
+Sera si grande ⁊ si mique
+Que iamais ne fut mencion
+De telie persecucion
+Contre leglise catholique
+Non dieu ou millieu de mes ioͬ
+Lesquelz seront petiz ⁊ cour
+⁊le me reuocque pas affin
+Que ie deffaille mais tousio
+Me tien en estat et en co
+prospere iusques ala fu Radox
+feruiant dño.
+Nespondit
+ei in uia u̾tutis
+sue pauctatom
+dicrum incorũ
+mĩcia michiun
+diiiii nurai
+33
+¶e reuoces
+me in dnndio
+dierum meoꝵ
+ingnacoe et
+gnacoem anm
+tui.",73,59ec4cc4-6816-4573-9794-8de542477a36
+f73-33v.xml,33v,"XX
+dir inaui
+Tes ans par diuiaçion
+Sont dune gentration
+En generacion durans
+Ou millieu doncques de mecans
+Et iours ne me reuocque pas
+Car ie scay que les mal ueillans
+Auecques antecrist parlans
+⁊lous mouueront de grãs debas
+eigne. des le commencement
+Eu ascree mirablement
+La terre les cieulx les humanis
+Et tout ce generalement
+Qui est dessoubz le firmainent
+Se sont les euures de tes mains
+Tu es du monde createur
+Tues de lhomme plasmate.
+Mais Riens nyu quil soit stabille
+fors que roy quil nest point fragille
+Par quoy ie te prye humblement
+Roy eternel il test facille
+Que tu ne laisses point debille
+Ton eglise finablement
+Cous les haulx cieulx q̃ tu creas
+Periront tu demoureras
+Et tousio. ung eternellement
+Eel que lu fus ds ⁊ senas
+ictos m
+inciotu
+domine terrã
+fundasti. et
+oꝑa mamium
+luarum sunt
+celi.
+AApsi ꝑibũt
+tu autem per
+manec. ⁊ oms
+siut uestimẽ",74,1d03679a-9b07-4b67-a0b0-82583f6b42d5
+f74-34r.xml,34r,"Imueterez les cieulx uerras
+Aissi quo ung poury uestement
+Quant ce grãnt ioͬ approchera
+Toute chose se changera:
+Si non toy qui est pardurable
+Incorruptible ⁊ mumnuable
+Par quoy les pecheurs imꝑ faictz
+Doiuent bien auoir poͬ doutable
+Ioͬ. si grant ⁊ si mexecraple
+Que mesmes aaidront les ꝑfaictz
+¶lu mueras toute leur nature
+El anssi que une conuerture
+Tous mues ⁊ changez seront
+Mais toy tues en tadroicture
+Tousioͥ ung sans uariature
+Tes iours sont telz rien ne mueront
+Tu seras tousio  en ung point
+Les io  ne deffaillyront point
+Maiz de toites choses humaines
+Les ans les iours ⁊ les sepmaines
+Changerõt tout incontinent
+Les choses fermes seront uaines
+Et les choses belles uillames
+Rien nya que toy permanent
+¶les filz de tes bons seruite. uus
+Appostres ⁊ predicateurs e
+tum inuctera
+scent
+34
+ds ndci
+Et sicut
+oportorium
+mutabie eos
+⁊ mutabunt᷑
+tu autem idem
+ip̃e es. ⁊ anm
+tui non deficiẽt
+Silii seruoꝵ
+tuorum habita",75,28814d29-f042-46cd-bff4-b50cd0288888
+f75-34v.xml,34v,"bunt⁊ semen
+corum in sam
+dirigetur
+Gioria pr̃i
+et filio et spi
+ritui sancto.
+Habiteront auecques roy
+Et si seront leurc successours
+Dresses ou siecle non ailleurs
+Car ilz ont aru ta samc̃te topom̃
+¶Gar quoy soit au perez au filz
+Et au saint esprit qui uins
+Sont en une mesme uiite
+Oloire a perpetuite
+Car la deite qui nest que une
+Telle est. sera quelle a este
+Permanente en ebernuite
+Dans uariacion aulcune
+lim
+itmclicio
+iui
+⁊ crluliini
+er ui menni
+hinqso ton uit",76,7e35f247-c4be-4588-94e1-9a7f1503d9d3
+f76-35r.xml,35r,"es lieur obscurs profons ⁊ non
+Horribles comme les enfers
+Monszͬ iay crye a toy
+Peche dangereur ⁊ peruers
+Ma tenu long temps de ses fers Ras
+Maiz i ay crye deuant mon roylaga
+Pourtant seione. eraulse moy a
+Ma uoy ⁊ me oste du peche retatrrala
+De quoy ie me sens empesche
+Et tenu en prison profonde esdes
+Se par toy nen suis despeche
+Et de ta grace relasche
+Ie suis le plus poure du monde
+Quant est de mes faultes nuysãtes
+Elles sont grandes ⁊ pesantes
+Et crimimelles a merueilles
+Mais ie te supply q̃ entendante
+Soient ⁊ ma uors escoutantez
+Tez sainctes ⁊ dignes oreilles
+Iay fait des faultes nompareules
+Contre toy il ra long temps
+Cõme ie congnois ⁊ entens
+Mis mon pere dieu create: tuos
+A recepuoir grace pretens
+Se la priere tu attens
+Et la uoir de ton seruite
+¶Depro fungi
+clamaui ad te
+domme. domnine
+craudi uocem
+incam.
+34
+Si anlauits
+tue intendento
+in uocem depre
+cacionis mee.",77,47b1f977-7940-4fb0-ac4e-2cfeab0da0a1
+f77-35v.xml,35v,"Siquita
+tec obseruaue
+ris domme.
+dommne. quis
+substinebit
+Quia apud
+te propiciaco
+est. ⁊ propter
+domme
+Se tu ueulr mes maulx regarder
+Et mes miquitez carder
+Mons qui les soustiendra
+Car sil te plaist a commender
+Que on me puonsse sans tarder
+Descendre en enfer me fauldra
+Rien hault crier ne me uauldra co
+Car en enfer place tresorde
+Poit nya de misericorde
+Pour ce plaise toy escouter
+Celui qui de toy se recorde
+Ta grace lui donne ⁊ accorde
+Quer contrict ne est a debouter
+Doustenu ray en tribulacion
+En attendant ta miseration
+Car ie congnois que selon ta iustice
+Enuerz roy est propiciation
+Et que donner grace ⁊ remission
+Aux penitens. ce. te est propice
+Ie cõgnois bñ q̃ a la noue: du uices
+Cu ne ueulx pas le delinquẽt pugnir
+Quant tu le uois deuers roy reuenir
+Par cue: contrict. dolent de sõ mal fait
+Remission esperant obtenir
+Et cest cella qui ma fait soubstenir
+Selon ta loy souueram dieu ꝑfaict
+legem tuam
+sustimu te",78,b260d2e3-dc20-4dad-9c04-fbe637c50171
+f78-36r.xml,36r,"Sin la parolle seullement
+De mon dieu a uirillement
+Mon ame paine soustene
+Et a espere fermement
+Ou seigne: auoir sauluement
+Ou aultrement estre perdue
+Le seigne: dieu la recongneue
+Prins pitie ⁊ compassion
+De uoir sa conturbacion
+Et ueult quen lui se reconforte
+Ouy a la clamacion
+Du peuple ⁊ par compassion canz
+A monstre que sa mam est fortera
+¶Dourtant espere en son seione
+Israel ⁊ lhomine pecheur
+De la custode matutit
+Iusques a la nuyt ⁊ en pleur
+Attende bonte ⁊ doulceur
+De misericorde diuine
+I umime qui requiert medicine
+Pour sa maladie guerir
+Doit du medecin enquerir
+Poͬ le preseruer quil ne meure
+Le pecheur aussi doit querirru
+dieu. poͬ le garder de perir
+Car ala mort nya q̃ une heure et ao.
+Sustimut
+aĩa mea in uer
+bo euis spauit
+aĩa mea m
+dommo.
+36
+Ecustodia
+matutina. usq
+ad noct̾em. sꝑot
+israel in dño.",79,ff7dea69-594e-4e5c-9876-65cb115339ed
+f79-36v.xml,36v,"Suta apud
+dominũ mĩa
+⁊copiosa. apud
+eum redempco
+De pecheur doit sans deffiance
+Auoir tousio bonne esperance
+Car enuers la bonte piteuse
+De dieu ⁊ nen faictes doubtance
+Misericorde en habondance
+Et redempcion copieuse
+Premier sa face est gracieuse
+Et a promis grace donner
+Aqui se uouldra retourner
+Par quoy ysracl doit sans craincte
+Deuers son saulueur admer
+Et du Rout se detciminer s
+A sa misericorde saincte
+Quant israel esperera
+En dieu il le rachetera
+De Ioutes ses iiquitez
+Parrillemeit receu scra
+Tout pecheur contrict qui yra
+Monstrer ses infidelitez
+Priant les diuincs bontez
+Orace auoir ⁊ dyra de cuer
+Que soit gloire au pere create
+Au filz au saint esprit aussy
+Ung seul dieu qui est sans encur
+Tel comine si fust en son honneͬ Roz
+Et a tousio. sera ainssye
+ł ip̃e redi
+met isracl ex
+omnib imqui
+tatib cius.
+Gloria pri
+⁊ filio. et spiu
+sancto.",80,33911374-2750-4289-89d5-8ccf71e56950
+f80-37r.xml,37r,"eigne qui es chief de raison
+Exaulse moy mon oroison
+Et de tes orcilles diuing
+A Tous cuers penitens niclines
+decoy ma depreaacion
+faicte par grant deuocion
+Exaulse moy en ta iustice
+dł uente si que ie puisse a
+37
+Gomme
+exaudi oronem
+mcan. aurib
+peraipe obsecra
+cionem mẽã in
+ueritate tua crau
+di me m tua
+iusticca.",81,a7801b5a-79e9-4c97-b617-dde824095a1a
+f81-37v.xml,37v,"Et non
+mntres in ui
+dicium. cum
+seruo luo dñe
+qr non iustifi
+cabitur in cõ
+spetu tuo omi
+uiuens.
+Raporter ⁊ dyre en tous lycur a
+Que acuer piteux conbact de uicer
+Tu es misericordicux
+Et ne entre paslaulta
+Auecques moy lon humble scriuittur
+En iugemẽt po monpeche infain
+⁊ le monstre pas ta puissance ⁊ uigneͤ
+En me uoullant pugnir sclon rigue;
+De Iustire prens pitid de mon ame
+Car ie congnois de uray ⁊ suis scauant
+Que deuant toy ne sera tout uiuant
+sustifie par cos propres merite
+Et ne pouons de peche estre quilles
+Se ta grace saincte ne noꝰ subuient
+Car nos euures de uertu sont petites
+Et se par roy elles ne sonl conduytez
+Pomt esperer de salut ny conuient
+Dourtant q̃ mon ennemy par emue
+Anuyt ⁊ fo: mon ame poursuiuie
+Pour la uouloir mettyo a perdicion
+En terre il a humilie ma uie
+Poͬ ce mon dieu ie te requier ⁊ prie
+Lle me donne pomt de correpcion
+Selon rigue: mais par Ra charte
+Considere la grant humilite
+En quoy ma mis mõ tuesorãt aduci saire
+Quia perse
+cutus est ĩnni
+cus aiam meã
+humiliauit
+m terra uitã
+meam",82,e7933279-3951-4068-8f8e-15f38803ba12
+f82-38r.xml,38r,"Qui ne requiert q̃ madois deffaire
+Et confondre. ci pan ta uourtopsie
+Au loing de moy tu ne le faiz retraire
+N lourit me fault poͬ meurdroir aldͬ
+Que iay conne poͬ la femme de uxre
+Sa lieux obscurs tenebrear ualz ⁊ ors
+Ma colloque anssi que legimors
+Sont ou siede dedans Rerre boutez f̃
+Et est sus moy mon esprit par effors
+Angustie e en tourmens si fors
+Que ie nen puis dyre les calitez
+Mon cuer aussi conturie rudement
+Est dedans moy uoyant q̃ tellement
+Mon ennemy me poͬsuit ⁊ procure
+Faire mourir en celle chartre obscure
+Tenebreuse ou gueres ne uiuray
+Qui sus caduc ⁊ debille en nãture
+Pour soubstenir lons tẽp̃s tello torture
+Se de par toy ie nen suis deliure
+En mon horrible aduersite
+Mon dieu iay bien memor este
+Et souuenãt des iours antiques
+Axpennẽt la perplexite
+Uehemente. Iay medite
+outes tes euures autentiques
+ie penssore aux faiz de tes maingl
+E
+ollocauit
+me in obscuri
+38
+sicut mortuo
+seculi. ⁊ anxia
+tus. et suꝑ me
+sps incus ĩ me
+turbatum. est
+cor meum
+Memor fu
+dierum anti
+quorum me
+dilatus sum
+m omib oꝑib
+tuis ⁊ ra factis
+manui tuarũ",83,3906e010-fda5-453e-a0a1-e7541071599b
+f83-38v.xml,38v,"Xu
+Trop plus adimrables quo humans
+Disant mon dieu laisse moy oiuro
+Et de re dariger me deliure.
+La ou moir ennemy me tient
+Deffens lui de plus me poutsuuire
+St que plus deassault ne me liuire
+la ou mon enlemy me tient
+Deffen/ luildo plus me pouisuuut
+Eqt a roy quo fauo appartient
+Sire apres que iay eu pensse
+Tout ainssy dolent ⁊ lasse
+En tes operacions saictes
+deuers roy me suis radressel
+Q ynpeche aussy confesse
+En te suppliant mains ionictez
+Aon ame est de peche tachee
+Et ainssy que lerre sechee
+iueuant roy demandante auoi
+Quelque rousee ⁊ recepuoir
+Aulcune hunie. spũelle
+Qui ses uertus face esmouuoir
+Ainssy que lerroau temps de uer
+Quant la saison se renouuello
+Seigne; ie te prie humblement
+traulie moy hastiuiement
+Car mon espãt est deffailly
+mmario",84,72230993-99cf-41e1-89ec-f8f332d358d0
+f84-39r.xml,39r,"Et na comme mul sentement
+Present ne aulcun mouuement
+De me uoir ainssy assailly
+Uus moy uiennent mes seruiteurs Re
+Non filz ⁊ ies perscaiteurs
+Qui sont a lui donner secours
+Demandans la fin de mes io:r
+Et ne scay a qui recourir
+Pour estre leue ⁊ ressours
+Contre leurs assaulx grãs ⁊ lours
+fors que ta grace requerir
+Sire ne tourne pomt ta face
+Arriere de moy qui efface
+Mes deffaultes car ce iestoye
+Bany car si ne la regardasse
+Amssy commne priue de grace c
+Uray dieu quesse que ie feroyea
+A ceulx ie seroye semblable
+Qui dedans ung lac miserable
+Descendant. ⁊ tout leͬ corps font
+Syre monstre toy
+Et que ta face chauita
+Me garde de ce lac profont
+¶Nuy que de moy soit ouye tu
+Ca misericorde infinye
+Au matin car iay enuers toy e zaũ
+39
+on aduer
+tas faciẽ tuã
+a peccatis
+Eluditam
+fac michi ma
+ne mĩam tuã",85,5a82fccb-1c7a-4133-86e0-7d1903297a16
+f85-39v.xml,39v,"quia in te spe
+raui.
+Tousiours esperay si te prie
+Sire que ne retourne mie
+Ta fuce en arriere de moy
+Misericordieusement
+Mlaifeste legerement
+Que me ueulx oster de danger
+Et ceste douleur abreger
+Qui si grande est ⁊ st horuble ee
+Que elle me fait couleur changer
+Et se ne la faiz estranger
+De plus uiure me est impossible lũia
+fay que la uoye ou ientrerayebo
+Et enquoy Ie chemmeray e
+Nle soit congneue sire dicu
+En qui iay rousiours espere
+Car iay leue ⁊ leueray
+Nion ame uers toy en tout licu
+Quoy quelle ayt este agrauce
+Si le ay ie tousiours esleuee.
+Uers roy par contemplacion
+Et cerlaine deuocion
+Croyant que tu me monstreras
+La uoye de saluacion
+Et de celle subiection
+Mortelle me deliureras
+¶¶onsz. dieu qui as promie
+mam meam
+¶otam fac
+michi. uiam
+in qua ambii
+lam. quia ad
+te leuaui am",86,34448828-7bc3-4189-8617-cf051830a43e
+f86-40r.xml,40r,"Misericorde ates amys
+Deliure moy par amytie
+Des mains de mes grans ennemy r
+Entre lesquelz ie suis mie
+Tant que cest horible pitie
+A toy suis tousio. recouru
+Esperant estre secouru
+Pourtant seigneͬ enseigne moy
+fayre la uoulente de loy
+Et te complaire en chascun lieu
+Sans iamais transgresser ta loy
+Car tues monss. mon roy
+Mon uray arate ⁊ mon dieul
+Quant mon peche remis seraꝵ
+Lon bon esprit me conduyra cadazi
+En terre droicte ⁊ raisonnable
+Sure uoye me monstrera
+Ton esprĩt ⁊ ne souffrira
+Que face chose irrai sonnable
+Seigueͬ tu me uiuifieras
+Pour tõnõrme conduyra
+Droictement en ton equilte
+Non pas que iaye melite
+Grace auoir de moy proprement
+Qui ay cõmis iniquite
+Maiz poͬ la haulte charite c
+de mimicis
+meis domme
+ad te confugi
+doce me facere
+uolunta tem
+tuam quia
+deus meus es
+tu.
+piritus
+tuus bomis
+dedicet me
+in terram recta
+propter nome
+tuum comme
+uiuificabis
+me mequitate
+tua.
+40",87,b12826c6-2f7a-444f-8345-da0030fc1200
+f87-40v.xml,40v,"X
+Sduces de
+trbulacione
+amma meã
+et in miseri
+cordia tua dis
+perdes omnes
+nimicos meoͣ
+Est perdes
+omnes qui
+tribulant am
+mam meam
+qm̃ ega seruu
+tuus sum.
+Gloria prĩ
+⁊ filio.: et spiũ
+sancto.
+Et po. ton saint non seullement
+De toute anoustiacion
+Et griefue tribulacion
+Q uon ame de hors tu meltras
+Par la saicte compassion
+Et en ta miseracion
+Tous mes ennemys disperdras
+Quant par toy seront disperdus
+Bien se trouuerõt esperdꝰ
+Et nauront plus de confidence
+De me faire aulcune insolance
+Car ilz uerront certamement
+Que ta grant bonte ⁊ clemence
+Par souuerame sapience
+Aura change ce iugement
+ire ie yray aux uoyes salutarres
+Apres toutez griefues afflictions
+Et tu perdras toꝰ mes gras aduersaires
+Qui moult tenu es rribulacions
+finablement ale  confusions no
+Les as reuns souueram create.
+Et eraulse mes deprecations
+Raison poͬ: quor ie suis ton seruiteur.
+Sloyre au pere ⁊ au filz et au saint
+Esprit. ie rene qui est ⁊ qui sera
+Tel comme il fust. cellui q̃ hõnore ⁊ craĩł",88,1939f373-097c-4860-8bdb-bca168f7a343
+f88-41r.xml,41r,"dampne.
+Tout catholique ⁊ si lhonnorera zi
+Signantement cellui qui te croyra
+dieu eternel ⁊ haultam plasmateur
+Ainssi tousio. ma bouche te louera
+raison po; quor ie suis ton seruiteur
+De iar uers tor offence grandemẽt
+Ie men repens plus ne ueiel offencer
+Pardonne moysire bemonement
+Et ames maulr ne ueullez plus pẽsser
+De moy ta pleu finablement chasser
+Et rebouter mon grant persecute:
+Brace te rens quil ta pleu mexaulser
+Raison poͬ quoy Ie suis ton seruite.
+Ormce eternel par ta ꝓmesse ãtiq̃
+Dauluer me doys or ne soys pas mente
+Et me donne le repos angelique
+taison poͬ quoy ie suis Ron seruite.
+41
+densuit les sept uers saint bernard
+que le dyable lui enseigna que qͥ conqs
+les dyra toꝰ les iours quil ne seroit poĩt",89,aab72923-a921-4e3f-aeff-d712f06999e8
+f89-41v.xml,41v,"¶llumina
+occulos meos
+neunꝙ̃ obdor
+miam ĩ mor
+te neqñ dicat
+innicus meuᷤ
+preualui ad
+uersus eum.
+resdoulx ihũcrist roy de gloyre
+Ueulles mes yeulx enluminer
+Donnez moy de uoꝰ tel memoyre
+Que peche puisse decliner
+Affin que mongrant aduersaire
+Ne me puist dyre et publier
+Iay eu contre lui uictoyre
+Apeche lay fait encliner.",90,07217a1a-90eb-4d73-8698-4f6b9f139af3
+f90-42r.xml,42r,"achelte fue de mort par boy
+Mon doulx createur ihũ crist
+Et poͬ᷑ ce ie te prie recoy
+En tes mains mon poure esprit
+Affin que le mauuaiz esprit na
+Sire ne le griefue mie
+Prens de mon ame le conduyt
+Ou non de la uierge marie
+e te supplye de boncuer
+En concorde que soyes enclin cu
+Mon dieu mon pere mon sauue
+A moy signfier ma fin
+Iay eu tousio. le cuer endin
+A peche ou suis endurcy
+Mon ame sen ua a declin
+Sire se nas de moy mercy
+¶ Le nay pas mis mon penssement
+A souuent pensser a la mort
+Touteffoys mourir me couuient
+Mort nespargne foible ne fort
+Ie te pry que de ton accord cs
+Saiche les ioͬ que Iay a uiure
+Sire ie scay bien que i ay bort
+Se ta grace ne men deliuret
+E uesdoulx ihs filz de marie
+ar ta mort me est rendu la ure
+On manu
+luas domme
+commendo
+spm meum
+redemisti me
+dommne deus
+ueritatis
+¶ocutus sũ
+meum
+desit michi
+uripisti
+domme uin
+52
+in lingua mea
+notum fac mͥ
+domme fine
+⁊ mimerũ
+dierum meoꝵ
+quis est. ut
+sciam. quid",91,c9d97808-3334-4bbc-88e4-f0bbd718824e
+f91-42v.xml,42v,"tula mea. et ẜ
+sacrisicabo hosti
+am laudis. et
+nomen domim
+inuocabo.
+Oeuil fuga
+ame. ⁊ non est
+qui redimat
+ammam meã
+dixi tues spe᷑
+uiuencium.
+sionuim in bo
+Rompu as denfer les lyens
+Pour me gelter hors de leans
+Et pource tres grant benefice
+Du cuer ie te faiz sacrifice
+Et ton benoist non deprieray
+En tout temps ⁊ te clameray
+¶las que fera ta creature
+Qui par peche ⁊ par ordure
+Est de tous ainssy deiectee
+fouyr ne puis cest chose dure
+Estre me fault a ma iournee ¶ã
+Ie uoy que nul de moy na cure
+ie te pry pren de moy la cure
+Ou ie suis de mal heure nee
+O resdoulx ihesus ie tay prie
+Monlt de fors a uoix desployee
+Poͬ mon ame qui pour peche
+Est du tout en toul desuoyee
+Perir me fault sans demourance
+Et nay en toy ferme fiance
+Si te pry que tel porçion
+Me uueille de tes biens de partir
+Que en terre de promission
+Soit mon ame sans departir
+Bieu en qui est tout mon recoͬ
+Dueille moy sioner a ton sione
+¶ lamaui
+ad te dommne
+mea. porcio
+mea in terra
+Sacmecu",92,cd283df1-57c1-433f-afba-fe80adf53e1a
+f92-43r.xml,43r,"Et me uueilles garder des Iours ca
+num ut uideant
+qui oderunt me
+et confundant
+qm̃ tu domine
+adiuuisti me
+⁊ consolatu es
+EAmen.
+me.
+De mon ennemy qui ne fine
+Nuyt ⁊ iour de tendre ses las pre
+Dont me fault souuẽt dyre helas
+Donne moy contre lui uictoyre
+Et en fin de lassus la glone.
+43",93,c9a854ee-9832-46bf-a5aa-002ecd58cab5
+f93-43v.xml,43v,"C
+u
+t muas sorum pilliis ini
+n n
+a uui on i
+mlen uorit ss mose itust
+o ulalruis humo alutq uni tues
+ls nil plte min nmso
+. tuob ah ussuld u
+iiui",94,7619cda3-7fd4-4706-ac37-18eb094f550e
+f94-44r.xml,44r,44,95,69ab4ccd-19c4-47ce-994d-9589658448e5
 f95-44v.xml,44v,,96,705a8f96-f6e0-488e-a5b4-614bc4ba7e2b
-f96-45r.xml,45r,,97,93c278f4-7750-48ca-9228-a550b5248b35
+f96-45r.xml,45r,14,97,93c278f4-7750-48ca-9228-a550b5248b35
 f97-45v.xml,45v,,98,3079990a-0343-4ea8-b19e-63de9e110db9
-f98-46r.xml,46r,,99,b05fa0fe-78bb-4ad3-8cbc-93773c528949
+f98-46r.xml,46r,46,99,b05fa0fe-78bb-4ad3-8cbc-93773c528949
 f99-46v.xml,46v,,100,560fc8ce-8298-45bc-aab6-a86a738edc85
-f100-47r.xml,47r,,101,f13d76e5-547e-42e8-bb32-731e0d10d152
+f100-47r.xml,47r,17,101,f13d76e5-547e-42e8-bb32-731e0d10d152
 f101-47v.xml,47v,,102,861bc63d-6f16-4e80-8088-401d71d76309
-f102-48r.xml,48r,,103,e36eef4d-d264-4bf7-a163-e6b20d10f8f8
-f103-48v.xml,48v,ugt,104,c32fbbb1-a453-4941-90f0-9c031f1dd1eb
-f104-page-de-garde-recto.xml,,,105,2dbdc12d-289b-4183-b008-b510ca35bf20
-f105-page-de-garde-verso.xml,,,106,3ae2f127-6280-4d4a-8b3f-0eb274da7bd5
-f106-page-de-garde-recto.xml,,,107,8cc2615c-0c46-4151-9436-58dfca8c1684
-f107-page-de-garde-verso.xml,,,108,3b02811c-cfe4-4a34-8707-1773fdf4cbd4
-f108-page-de-garde-recto.xml,,,109,7ef15d83-3d28-4352-b6e6-e6c7310aab67
-f109-page-de-garde-verso.xml,,,110,a2de9c8f-b046-4cdd-9637-2329a3ef0924
-f110-contreplat-inf.xml,,,111,311c77e6-78ce-4820-82ba-2cd3fe1d2247
-f111-plat-inferieur.xml,,,112,26a34896-1a3d-4c56-8a0b-811cdb645e7f
-f112-dos.xml,,,113,1b345407-6706-4665-9e75-39370a08da7f
-f113-tranche-superieure.xml,,,114,05c2368b-db01-4077-b91f-e7b4a82bb86d
-f114-gouttiere.xml,,,115,318f0b39-bb6c-40a5-a7b4-1b88826e381e
-f115-tranche-inferieure.xml,,,116,978074f4-d35c-452b-afa9-808e5fa634a1
+f102-48r.xml,48r,18,103,e36eef4d-d264-4bf7-a163-e6b20d10f8f8
+f103-48v.xml,48v,"lX
+ugt",104,c32fbbb1-a453-4941-90f0-9c031f1dd1eb
+f104-page-de-garde-recto.xml,page-de-garde-recto,,105,2dbdc12d-289b-4183-b008-b510ca35bf20
+f105-page-de-garde-verso.xml,page-de-garde-verso,,106,3ae2f127-6280-4d4a-8b3f-0eb274da7bd5
+f106-page-de-garde-recto.xml,page-de-garde-recto,,107,8cc2615c-0c46-4151-9436-58dfca8c1684
+f107-page-de-garde-verso.xml,page-de-garde-verso,,108,3b02811c-cfe4-4a34-8707-1773fdf4cbd4
+f108-page-de-garde-recto.xml,page-de-garde-recto,,109,7ef15d83-3d28-4352-b6e6-e6c7310aab67
+f109-page-de-garde-verso.xml,page-de-garde-verso,,110,a2de9c8f-b046-4cdd-9637-2329a3ef0924
+f110-contreplat-inf.xml,contreplat-inf,,111,311c77e6-78ce-4820-82ba-2cd3fe1d2247
+f111-plat-inferieur.xml,plat-inferieur,,112,26a34896-1a3d-4c56-8a0b-811cdb645e7f
+f112-dos.xml,dos,,113,1b345407-6706-4665-9e75-39370a08da7f
+f113-tranche-superieure.xml,tranche-superieure,,114,05c2368b-db01-4077-b91f-e7b4a82bb86d
+f114-gouttiere.xml,gouttiere,,115,318f0b39-bb6c-40a5-a7b4-1b88826e381e
+f115-tranche-inferieure.xml,tranche-inferieure,,116,978074f4-d35c-452b-afa9-808e5fa634a1

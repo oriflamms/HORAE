@@ -1,211 +1,2120 @@
-page_id,folio,text,page_ordering,arkindex_page_id
-f0-plat-superieur.xml,,,1,0d0688e7-f188-4f62-8fbe-6b480b3ff94d
-f1-contreplat-sup.xml,,,2,9485f88a-c851-44c1-b0cb-a5e09445f71d
-f2-page-de-garde-recto.xml,,,3,9c22f02f-378a-4acc-9e3e-f8a655c068d7
-f3-page-de-garde-verso.xml,,,4,f3c1f73a-b822-4251-afb1-521ad76b4ab0
+page_id,CoMMA_folio_name,text,page_ordering,arkindex_page_id
+f0-plat-superieur.xml,plat-superieur,,1,0d0688e7-f188-4f62-8fbe-6b480b3ff94d
+f1-contreplat-sup.xml,contreplat-sup,"LAT.
+NOUU. ACO
+mit
+3L12",2,9485f88a-c851-44c1-b0cb-a5e09445f71d
+f2-page-de-garde-recto.xml,page-de-garde-recto,"UOuI
+3172
+Don 14433",3,9c22f02f-378a-4acc-9e3e-f8a655c068d7
+f3-page-de-garde-verso.xml,page-de-garde-verso,,4,f3c1f73a-b822-4251-afb1-521ad76b4ab0
 f4-1r.xml,1r,,5,57aabae1-f664-4d3d-b0b1-6af255b7cbc9
 f5-1v.xml,1v,,6,6a89cdd5-b97c-4ec9-b81c-b923041f8c70
-f6-2r.xml,2r,Omine la bia meci a peries: Et os meũ annũ tiabit lau dem tuam. Deus in adiutorium meũ intende: Dñs,7,e1fe1cc3-4968-4505-aa91-a6dabbd1ddad
-f7-2v.xml,2v,ad adumãdum me festina. patri. icut erat. Hymnus. Poicuniq uult aĩam firmi nãs credere ip̃as honorare T ens ter saluart. Tres perso tur et precib iugiter orare deũ dicere solũ adorare u̾. Te uire lau- dant te glorificãt om̃s creature Obeata trini tas. Dñe exaudi oronẽm meam. Et clamor meus ad te uenat. Oremus. or̃o mnipotens sempitne deus scãm trinitatẽ in hoc mũdo ita nos te suppliciter dep̃canur ut facias firmiter fideliterq credere ue raciter ⁊ simplicit̾ confiteri ut in,8,64505a5c-4a06-4dbe-9689-4ecfc2745f69
-f8-3r.xml,3r,aliquo possumus eã perfecte cognos- cere et letanter facie ad faciem intu- eri. Qui uiuis ⁊ regnas in unitate sp̃t sc̃i deus. Per dĩa secula scłoꝵ. amẽ. nime oim fideliũ defuĩctorũ per mi- sericordiã dei requiescant in pace amen. Denedictũ sit nomen. Ad primã ens ĩ adiutoriũ meũ ĩten de. E layri. E ict sinitatẽ credimus sũmũ genitorẽ Er anctũ eius filiũ nr̃m redemptorem S̾ p̃m paralitũ gracie datorem. T nũ tamẽ dicimus deũ creatorem. Te uire laudãt. or̃o. Om̃pe sẽ,9,677ee54e-13df-4028-9fd8-65d82f61eea0
-f9-3v.xml,3v,piterne d̃s. S enedictũ sit nom̾ patri. Sicut erat. Hymnus toriũ meũ intende. Ele se patrem credimus cum lumine lumen resultauit. Pro hunc generauit filiũ de cedentem spiritum uterq treauit T enter horũ genuit ipsum rel creauit . u̾. Te iure laudant te. or̃o. ¶m̃ps sempiterne d̃s. S enedictum sit no. Ad .ui. Eusin adiutoriũ meũ intende: Domine ad. loriapri E icut erat yꝰ,10,ecb1cdb6-e374-49dc-9595-a71187a6b3b4
-f10-4r.xml,4r,R̾eqͥem eternam. Or̃o. Seus qui hoĩem de limo terre dictum sit nomeri. Ad cõpletoriũ Onuerte nos deus saluta tuam a nobis. D eus in adiu ris noster. Et au̾te iram toriũ. E loria pu. Sicut yꝰ Nmanus tuas dr̃is cõmendo Asp̃m meum Et sicut sine crimine hominẽ et credo deum. Qũi precioso sanguine rede msti mũdum deũ. Eit hoĩem de tormine salua qui formasti eu u Reqͥem eternam. or̃o. eus qui hoĩem delimo.. Mecõmem̃-,11,5de2a00a-ee9a-4d74-9931-b2fc72e18a16
-f11-4v.xml,4v,As horas xpriste metricas cum bona deuotione. Tibi dito cangnitas et cum pia ratione. T tanimas sa- tholicas tua miseratione Di uitias glorificas tua sancta ui sione. Die martis hore de omnib scĩs. ¶enedictum sit nomen dñi nostri ihesu xpristi ineternũ et ultra. EEt nomen uirginis sit benedictũ in secula amen. Am E N,12,0d8cd8fa-d219-4357-8c65-dd7709e38f26
-f12-5r.xml,5r,Omins la bia mea a peries.Et os meũ an nuntiabit laudem tuã. Teus in aduitorium meum intende. Dñe. loria patri. S icut erat. ancta dei genitrix Pyᷤ flos uirginitatis misericordie mater pietatis Cupra scõs residens regno cla ritatis. Iro nobis cũ ceteris exora beãtis u. Subuenite scĩ dei,13,e2479078-560e-43bc-9479-1caa99d9f264
-f13-5v.xml,5v,angeli occurrite offerentes preces nostras in conspectu dei altissimi. Domine exaudi oronem meam. Et clamor m̃s adte ueniat. Oremus. Dracio. nfirmitatem nr̃am q̃sumus Domine dens propicius respi ce et mala omnia que iuste iuste meremur sancte marie omniũ sanctorũ atqz sanctarũ intercessi onibz auerte. Qui nuus et regns deus. ꝑ om̃ia secula scl̃oꝵ amen nime omniũ fideliũ defunctoꝵ per m̃iam dei requiescant in pace amẽ Renedictum sit nomen dñi t nomen u̾g̾ Ad primam.,14,d5e13359-3b89-49fc-8864-86a56728060e
-f14-6r.xml,6r,Ox ad prẽm pertinet super baptizatĩt. De qua sonat filiũ humane uosatum. E ature susceptio colũbe uolatũ redimus et speciem paradito datũ. U̾. Te uire laudant. or̃o O p̃c semp̾rne de  enedictũ sit no Ells in adiu Ad nona toriũ meum intende O la patri. E icut erat. y ⁊ patre potenciã cuncta denotatur Dilis prudentia om̃s declarant racia paraclito uniuersa dat̾ Qui cũ patre nato q cõglorifi catur. u̾. Te iure laudant Dratis Oratio,15,d04edf46-fdb4-4deb-94e3-a80243ecf591
-f15-6v.xml,6v,mps semp̾rne deus O si dictum sit nonien. Ad uesperas Eus in aduntoriũ meũ in tẽde. E la pr̃i S icut dlũtarie filius patris yꝰ ĩcarnatus. EEst de scõ spũ de uirgine natus E iucifix us mortuus atq tumulatus esurgens a mortus celis sub limatus.u̾. Te iure laudãt. O m̃ipt sẽꝑitne.  enedictũ. Ad cõpletor diite nos deus salutaĩs ⁊nost̾. et auerte iram tuã a nobis O eus ĩ adiutoriũ meũ. Ola pri. Sicut. yꝰ,16,c5754310-fa26-4f2a-8bae-1a0b158b0eca
-f16-7r.xml,7r,Tper ipsũ erimus om̃s iudicati. G eati ad glo riam eternã uocati. Id pertas perpetuas mali cõdempnati L ec omnia credere terentur beati. u̾. Le ire laudant. Oratio m̃ps semp̾rne ds necõmeni as horas sic recolo ut in tri nitate T eneretur uni tas et in unitatẽ. Au onoretur trinitas atq pietate Raciat me credere hoc cum firmitate. Die lune pro cunctis fidelib defũctis Requiem eternã dona eis dñe. Et lux petua luceat eis. Qenedc̃m sit nomẽ,17,c026a30f-9a31-4d5d-9799-e27e4d4d7ef1
-f17-7v.xml,7v,a mea aꝑies: Et os meum anuntiabit laudem tuã. Deus in Aduitorium meũ intẽde. Q loria pr̃ Sicut Eltatis paternitatis yꝰ et eius filiatio E pũs sc̃i caritas et ih̃u xp̃isti passio. E rinitatis q pietas sit defunc tis remissio: Deccatoꝵ ut clari tas detur eis gaudio. u̾ Reqͥem eternã. Et lux. Dñe extuidi. Et cl̾ or̃o,18,aad0dd97-ea36-422f-866d-d556e673e6ff
-f18-8r.xml,8r,Ens qui hominẽ de lio terre ut angelorũ impleres nunas ad ymaginẽ ⁊ similitudinẽ tuã formasti ⁊ ipsũ lapsũ ad bocũ perditũ reuocares in truce mortem passus fiusti. miserere q̃sumus aĩa bus om̃ defũctorũ iusticiã tuã per miscdiam tuã mitigãdo ne opera manuũ tuarũ ꝓpter carius peccata dãpnentur q fragilia ⁊ ad peccandũ ꝑua creasti. Qui uiuis ⁊ regnas w̃. ꝑoĩa scła scłoꝵ ame. E enedie tũ sit nome. EEt nomen. Ad ꝓrado Ensin adiutoriũ meuin int̾ Q̾ sa p̾ri  ehũcut,19,2aa49cd6-4e18-4cec-bdbf-fe3b4ffb154c
-f19-8v.xml,8v,Eni creator spũs mentes mudus est conditus ⁊ oĩa sunt guorũ uisita . Der quẽ condita. Qui a nullo est geni tus dimitte cũctis debita. ta qd̃ nullus ꝑditus sit propt sua merita u Reqͥem eteruã. or̃o. Seus qui hoĩem de linio. E enedictũ sit Ens ĩ adunitorium Ad .iiͣi. Gla p̾ri S icut. ynꝰ Eus a quo sunt omnia Contra oĩa uicia uiuis de bona dona uictoriam. fũctis ueniam. Et post hec transitoria ueniamus ad glam.,20,cc30930e-7b18-4d8a-bf89-afda50a3401b
-f20-9r.xml,9r,efũcti quinq gaudia possideãt ꝑ gram .Y. Requiẽ eternã. or̃o  s̾ qui hoĩem de linio. E enedem sit Deus ĩ adiutoriũ meũ Ad .ui. intende. E loria pr̃. Sicut e stende nobis faciẽtuã yꝰ premiũ scõrum E uini ueniremus ad diem ire et uiditiorũ usticie semite tu mitigans dans rocoꝵ ¶ eniã atq requiem in scl̃a seculoꝵ U Reqͥem eternã. Dr̃o. Os̾ qui hoĩem de liz. E ndictũ sit no. eus ĩ aduitoriũ Ad nonã meun ĩtende. G loria patre.  icut erat. Hymnꝰ,21,381131e2-9741-477e-989c-bd51b52df457
-f21-9v.xml,9v,irgo carens criminibz te precor ut auxilio T no tius q precib sis coram tuo filio. ro cũctis fidelib sitq tua peticio um sc̃oꝵ agnunibz collocet eos cũ gandio. uͦ. Reqͥem eternã. Oratio Qs̾ qui hoĩem E enedictũ Eus ĩ adiitoriũ. Ad uͣs. meũ. Qla p̃u. S icut. Os deprecor humiliter yꝰ intuitũ pietatis Em̃s scõsqz pariter scas ut intercedatis. Pro cũctis reis taliter quod in fine cũ beatis ELollocent be nigniter ante thronũ trinitatis,22,af0a444c-bd6d-4bca-a05f-62b56ab429d3
-f22-10r.xml,10r,Eus in adiutoriũ meũ intende Domine E la patrr. SS icut erat. hymnus ngelorum ordines deum quem laudarẽ.  on cessatis iugiter atqz adorare. S co sanctus canere nostros gubernã ctus hic inferuis nolite cessare. u̾. Subuenite sc̃i dei. Mr̾o nfirmitatem nr̃am nedictum sit nomen. Adterciã us in adiutoriũ meũ intende. Domine ad ad. G loria pr̃i et filio. icut erat in principis et mnũc Hynꝰ,23,5f0c156c-133c-4563-bdf4-9507ea27e1eb
-f23-10v.xml,10v,wangeliste mystice dñi facta cognoscentes: Terbis ewangelicis eadem striberites. anctiq discipu li xp̃m consequentes. Ab he rode mortui sunt et innocentes U. Subuenite santti de. Oratio Enfumitatem nr̃am nedictum sit nomen. Ad nona Eus in adiutorium me Ium intẽde. Domine ad. Q loria pr̃i. Sicut er. yꝰ Er paliam martyrii deo dedicati ¶arty res egregii cruore mũdati,24,6ca1822d-bf43-40f9-bb82-f5fcd4fd94d3
-f24-11r.xml,11r,confessionib deo cõiugati. C on fessores monachi heremite grati u̾ Subuenite sancti dei. N̾O mitatem nr̃am. E enedistum sit nomen domini. Ad uesperas Eus in aduitoriũ meũ intende. Domine ad ad loria p̾ri. E icut erat. yꝰ anctissime uirgines atq coniugate. T idue ⁊ martyres deo dedicatt. Oe mnes sancti et sancteqz pro nobis ora te.Deum u̾ris precibz pro nobis placate. u̾ Subuenite sc̃ dei. Dro. nfirmitatẽ nr̃am,25,429ae469-d2df-4564-9c75-c896f1ea7fb5
-f25-11v.xml,11v,Benedictum sit nomen. ad cõ Onuerte nos pletoriũ Et auerte iram tuam a nobis. deus salutaris noster: Eus in adiutoriũ meum. Eloria pri. E icut. Tper uos sit grãcia ꝑ leantur uitia mũdentur pescata. sua nobis data N identur pericula omnia sĩt grata. Nobis detur gracia in sede beata u. Subuenite sc̃i dei or̃o. A nfurmitatem nram as horas sic Recõmem. recolo cum deuotione.,26,e4403f6a-6cd8-4eb8-af0d-abd2a3135520
-f26-12r.xml,12r,Omine labi a mea aꝑies: Et os meum annũtiabit laudem tuã. Dais in adiutorium meum intende: Gloria patri icut erat. Hymnus,27,9c45c2b3-3439-4fd5-854e-c9891a9e6f00
-f27-12v.xml,12v,Obis sancti spũs gracia sit data. De qua uir go uirginũ fuit obumbrata. Qum per sanctũ angelum fuit salutata. T erbum caro factum est uirgo fecundata. u̾ꝰ Ueni sancte spiritus reple tuorum corda fidelium et tui amoris in eis ignem accende. Qui ꝑ diuersitatem liguarũ multarũ gentes in unitate fidei congregasti. Domine exau di oronem meam. Et clamor meus ad te ueniat.Oremus: Oratio. mnipotens sempitne deus da nobis illam,28,ea039cf3-4f3b-4f6f-a59d-68e345746413
-f28-13r.xml,13r,sancti spũs graciam quam disci pulis tus in die sancto penthe costes transmisisti. ꝑ dnĩm. ⁊ cefa Benedictum sit no. Ad pͥma̾ Eus in adiutoriũ meũ intende. Domine ad ad loria pr̃i. S icut erat yꝰ E uirgine filius xpũs fuit natus. Eruci fixus mortuus atq tumulatꝰ Resurgens discipulis fuit de monstratus. Et ip̃is cernen tibus celũ sublimatus. u̾ Ueni sancte spũs. Oro.Omnipo tens sempiterne deus da nobis.,29,86dfee5f-3124-4f2c-b339-245221879079
-f29-13v.xml,13v,Benedictum sit no. Ad tertiam. Eus in adiutoriũ meũ intende. Domine ad ad. loria pr̃i Sicut erat. yꝰ num sanctũ sp̃m deus relegauit. Sn die pen thecostes ipsos confortauit EEt de linguis igneis ipsos inflãmauit. E elinquere or- phanos illos denegauit. Uersꝰ Ueni sancte spũs. Orõ. mni potens semp̃rne deus. E enedic tum sit nome. Ad sextã Eus in aduitoriũ meũ int. Q la pr̃i. itut er yꝰ,30,7f1a665e-5e55-4dc3-bbbc-cb513fce9a54
-f30-14r.xml,14r,Eptiformem graciam tunc acceptauerunt Quare y deomata cuncta con uenerunt.  duersa climata mundi recesserunt. Et fidem catholicam tunc predicauerũt. U̾ Ueni sancce spũs. Oratio mmipotens sempit̾ne deus enedictum sit nomen do Eus in Ad nonam Ladintorium meũ intẽde. O ioria pri E icut erat. yꝰ anctus paraclitus fuit appellatus. Donũ dei caritas fons uiuificatus,31,cc7ab8f6-2965-4765-beb3-302e591f9447
-f31-14v.xml,14v,E piritalis unctio ignis inflam matus. eptiformis gracie ca risma uocatus. u̾ꝰ Ueni sancte spiritus reple tuorum corda Oro O mnipotens sempiterne deꝰ da nobis. E enedictum sit no men. EEt nomen. Ad uesperas Eus in adintoriũ meum intende . Domine ad ad loria pri. Sicut erat . yꝰ Extre dei digitus uirtus spiritalis. Sos de fendat exuat ab omibus ma lis. Drotegat et foueat nu triat sub alis. Et nobis nõ,32,9b959fc9-ecf2-498e-b114-e7cafbc76fa8
-f32-15r.xml,15r,noceat demon infernalis. U̾sus Ueni santte spiritus reple tuoꝵ. Mro nmipotens sempitne deus da nobis.: B enedictum sit no men domini. Ad completorium Onuerte nos deus salu taris noster. Et auerte iram tuam a nobis. Deus in aduitoriũ meum intende . Do mine. ¶lona pri. S icut piritus para Hymnꝰ clitus nos uelit iuuare. Cressus nostros regere et illu minare. Et cum deus uenerit omnes udicare D os uelit,33,42d13808-f879-4716-a781-6d4f36f22907
-f33-15v.xml,15v,ad dexteram suam appellare. u̾sus. Ueni sancte spiritus reple tuorum cor da fidelium et tui amoris in eis ignem accende. Et cetera. Oratio Om nipoteris sempiterne deus da nob̾ As horas liecõmemoꝵ canonicas cum deuotio ne. Ribi sancte spiritus pia ratione Dixi ut me uisites inspiratione. EEt niuamus iugiter celi regione. Die Iouis. hore de sacramẽto. E ene dictum sit nomen dñi nostri. ⁊cͣ EEt nomen uirginis marie Et cetera. Ad matutinas:,34,64cbe70a-b295-46f3-845f-b7cfe0feeb90
-f34-16r.xml,16r,Omine la bia mia a peries. Et os meum an nuntiabit laudem tuã. Deus ĩ adiuitorium meum intende Do- mine ad adiuuãdum me festina. loria patri. E icut. hyaꝰ Orporis mysteriũ pan ge gloriosi. Ee m mundi precium uentuis genero ructus dampnũ demonis fuit uenerosi. uers ꝯ Caro mea,35,4d972759-5ca0-4caf-876a-be6b47952513
-f35-16v.xml,16v,uere est cibus et sanguis meus uere est po tus. Qui mãducat carnem meam et bi bit meum sanguinem in me maret et ego in eo dicit dominus. Domine exaudi orationẽ meam. Et clamor m̃s ad te ueniat. Oremus. Oratio. ᷤ Eus qui nobis sub sacra mento mirabili passioĩs tue menoriam reliquisti. tribue quesumus ita nos corporis et sanguinis tui sacra mysteria ue nerari ut redemptõnis tue fructũ in nobis iugiter sentiamus. Qui uiuis ⁊ regnas deus. Per omnia secula seculorum. Am E R.,36,4036ace8-9de2-4b9e-8616-47df686e434c
-f36-17r.xml,17r,Denedictum sit nomen dñi. Et nomen uirginis. Ad p̾mã. Eus in aditoriũ meum intende. Domine ad adiui. loria p̾ri. Sicut erat. yꝰ Enam cum discipuilis effectans cenare. EEx emplis sermonib ip̃os informare. Danem in substantia carnis transformare. Tnũ in essen tiam sanguinis mutare. uersꝰ Caro mea uere est cibus. Oratio Deus qui nobis sub sacra mento. E en edictũ sit no men domuu. Ad terciam,37,c9b0bc32-c0df-43b8-a295-5155908042a9
-f37-17v.xml,17v,Eus in adintoriũ meum Lintende. Domine ad ad. loria pr̃i. Ericut erat. yꝰ kegit panem dixit qz hoc est corpus meum. alicem accipiens benedixit eum. Et ip̃m accipite dixit ecce deum. Qui indigne sump serit sentiat se reum .u̾. Caro med uere est cibus ⁊ sãgus. Oro Deus qui nobis sub sacram E enedictũ sit nomẽ. Ad .ui. Eus in adiutoriũ meũ intende. Domine ad ad loua patri. S icut er̃ yꝰ,38,72e42d6a-f067-4f00-a3cb-58e0a9fd1a3d
-f38-18r.xml,18r,Tquicumq panem hunc dente manducabit. Aut quicumqz sanguinis calicem pota bit. ¶Cortem dei filii his annũ tiabit. Et monstrabit firmiter donecremeabit. u̾. Caro mea ue est cibus Or̃s D eus qui nobis sub sacraiñto passionis. O enedictũ sit no. Ad nona Eus in adiutoriũ meñ intende. Domine ad. loria pri. E icut erat. y Ui indigne sumpserit. Afactus erit reus. ¶or poris et sanguinis quẽ effudit,39,47defb71-997e-4ceb-9794-8d44276d9cf4
-f39-18v.xml,18v,deus. Dum latus aperuit ipsius iudeus. Cum hely clamauerit hoc est deus meus Uersus Caro mea uere est cibus et sangius meus uere est potus.⁊ cet̾. DDeus qui sub satra mento mirabili passionis. ⁊ cet̾ Benedictum sit nomen. EEt nomen uirginis. Ad Eus in adiu uespas torium meum intẽde domine ad aduui. me festina. G loria pri. S icut er. yꝰ Erbum caro factũ est panis gloriosus,40,25925c2f-3866-4c04-9a83-2c91ca61c39e
-f40-19r.xml,19r,Tinum sanguis factum est xpristi gratiosus. T raditur discipulis cibus preciosus. S ic manducat dominũ do seruils timo- rosus. u̾sus. Caro mea uere ẽ cibus. or̃o. ¶eus qui nobis sub lacramẽto. E enedictum sit nomen donuni. Ad completoriũ Onuerte nos deus salu taris noster: Et auerte i ram tuam a nobis. Geus in adiutorium meum intende. Qloria pr̃i. icut erꝰ y ustis et fidelibus ita man- dncatur. ed ob hoc in,41,6df08d8f-7421-419b-9b39-695cc66b9a05
-f41-19v.xml,19v,aliquo nũquam laceratur. N o tus in particula confracta mora tur li ena specie deus occul tatur. M Caro mea uere ẽ cibz et sanguis meus uere est potus. ⁊tͣ am doe eus qui nobis sub sacramento mirabili passi onis tue⁊cͣ  Recõmemor as horas sic recolo pia ra tione. ¶ ibi corpus dñi ut cõfessione. ¶Contritus et pre mia satisfactione. ¶ alsam te sumere cũ deuotionẽ Senedictũ sit nomẽ dñi. Etc̃.,42,381ab7ba-bb30-42c3-b63c-1fb3e7f1fd1a
-f42-20r.xml,20r,mea aperies: Et os meuni annũtiabit laudentuam. Deus in adiutorium meum intende. Dñe ad adiuuandum me festina. E loria patri. S icut erat. Doramus te xp̃e et benedici mus tibi quia per tuam sanctã crucem Iredemisti mũdum. Hymnꝰ Atris sapientia ueritas di lundi. Deus homo captus est hora,43,e28fc2a8-b638-4522-9173-bf268239364a
-f43-20v.xml,20v,matutina Asuis discipulis cito de relictus. Aiudeis traditus uendit et afflictus. u̾sus. I doramus te xpriste et bened̾. Oratid. Omine ihesu xpriste fi li dei uini pone passionem crucẽ et moitem tuam inter iudicium tuum et animam meam nunc et in hora mortis mee largiri dig neris uiuis gratiam ⁊ misericordi am defunctis ueniam et requiem ecclesie tue sancte pacem ⁊ concordi am et nobis peccatorib uitam ⁊ leticiam sempiternã. Qui uiuis et regnas cum deo patre in uni,44,e629b329-9317-4825-aa62-551962face15
-f44-21r.xml,21r,tate spiritus sancti deus. Per om nia secula seculorum. Amen. Eus in adu Ad primã toruim meũ intende: Domine ad adiuuandũ me festĩa. Qͣ loria pri. E icut erat. yꝰ Ora prima ductus est ihesus ad pylatum. Fal sis testimoniis multũ accusatũ. In collo percutiunt manibus liga tum uultum dei conspuunt lu men celi gratum. u̾sus. do ramus te xp̃e et benedic̾. Dratio D omine ihesu xp̃e fili dei ui ui pone mortem. Ad terciam,45,def18a20-1a23-4c6b-88e0-f753c022b9ca
-f45-21v.xml,21v,Eus in adiutoriũ meũ intende: Domine ad ad inuandũ me festina. G loria patri: ¶Eicut erat. Hymnꝰ fiuicifige clamitant hora terciarũ. Illusus indui tur ueste purpurarũ. Caput ei pungitur corona spinaruum. u̾ doramus te xp̃e. Dratio. omine ihesu xp̃e. Ad sextã Eus in aduitoriũ meũ interide: Domine ad adiuuandum me festind G loria patri et f.  isit erat in principio. Hymnus,46,8b4544dc-d143-46de-985a-3401cf8ff7a3
-f46-22r.xml,22r,Ora sexta ihesus est cru cum latronibz pendens repu ce conclauatus. Et sic tatus. pre tormentis siciens felle saturatus. Agnus crime diluit sic deificatus. uer doramus te xp̃e. Dr̃o. Do doramus te xp̃e. mine ihesu xp̃e. Ad nonam. Eus in adiutoriũ meũ intende. Dñe ad adiu uandũ me festina. Gloria icut erat Hymnusm Ora nona dominus ihe exspirauit. Halyclamãs aĩam patri cõmendauit. Latus,47,37a31007-6285-486f-83ef-1b58908a1d4a
-f47-22v.xml,22v,eius lancea miles perforauit.Ter ra tunc contremuit et sol se ob scurauit. Ysus. Idoramus te xp̃e. Oro D omine ihesu xp̃e pont. Ad uesperas Eus in adiitoriũ meũ iuiuandum me festina. E la intende. Domine ad ad patri. S icut erat. Hymnꝰ E cruce deponitur hora tuit in mente diuina. Talem mor uespertina. fortitudo la tem subiit uite medicina. heu co- rona glorie iacet hic supina u̾sꝰ doramus te xp̃e et ren. Dro,48,b4319012-149e-454e-b4d5-dc86fba7380d
-f48-23r.xml,23r,omine ihesu xp̃e. Ad cõpletor Onuerte nos deus salu taris noster. Et auerte iram tuam a nobis Eus in adiutoriũ meu̾ intende. Domine ad ad uiuandũ me festiria. G loria patre. Sicut erat. Hymnꝰ. Ora completorii detur sepulture.Corpus xp̃i nobile spes uite future. Condi tur aromate implentur scriptu re Iugis sit memorie mors est michi cure. u̾sus A doramꝰ te xp̃e et benedꝰ tibi: Sratio.,49,39515143-8574-4037-ae8a-32ed0f4dd8c3
-f49-23v.xml,23v,Domme ihesu xp̃e fili dei nuu pone passionem. Et cetera. Das horas sanonicas cũ deuo tione Tibi xp̃e recolo pia ratione Ut sin tibi particeps penas in a gone hoc tibi te deprecor ihesu xp̃e bone. Oracio. Domme ihiesu xp̃e per amari tudinem mortis tue quam susti musti in cruce propter me et in il la hora quando dulcissima ani ma tua egressa est de corpore tuo miserere anime mee in egressu suo. Amense om.,50,2433ed23-5839-4c08-955f-26aad4465a2b
+f6-2r.xml,2r,"ncipiunt hore tocius septimane
+Et in quolibet die propriun
+In die dominica de Trinitatẽ
+Senedictũ sit nomen dñi nr̃i ih̾u
+xp̃i meternũ et ultra Et nomẽ
+uirginis marie sit benedictum in
+secula. amen. Ad matutinas.
+Omine la
+bia meci a
+peries: Et os
+meũ annũ
+tiabit lau
+dem tuam.
+Deus in
+adiutorium meũ intende: Dñs",7,e1fe1cc3-4968-4505-aa91-a6dabbd1ddad
+f7-2v.xml,2v,"ad adumãdum me festina.
+patri. icut erat. Hymnus.
+Poicuniq uult aĩam firmi
+nãs credere ip̃as honorare T ens
+ter saluart. Tres perso
+tur et precib iugiter orare
+deũ dicere solũ adorare u̾. Te uire lau-
+dant te glorificãt om̃s creature Obeata trini
+tas. Dñe exaudi oronẽm meam. Et
+clamor meus ad te uenat. Oremus. or̃o
+mnipotens sempitne deus
+scãm trinitatẽ in hoc mũdo ita nos
+te suppliciter dep̃canur ut
+facias firmiter fideliterq credere ue
+raciter ⁊ simplicit̾ confiteri ut in",8,64505a5c-4a06-4dbe-9689-4ecfc2745f69
+f8-3r.xml,3r,"aliquo possumus eã perfecte cognos-
+cere et letanter facie ad faciem intu-
+eri. Qui uiuis ⁊ regnas in unitate
+sp̃t sc̃i deus. Per dĩa secula scłoꝵ. amẽ.
+nime oim fideliũ defuĩctorũ per mi-
+sericordiã dei requiescant in pace amen.
+Denedictũ sit nomen. Ad primã
+ens ĩ adiutoriũ meũ ĩten
+de. E layri. E ict
+sinitatẽ credimus sũmũ
+genitorẽ Er anctũ eius
+filiũ nr̃m redemptorem S̾ p̃m
+paralitũ gracie datorem. T nũ
+tamẽ dicimus deũ creatorem.
+Te uire laudãt. or̃o. Om̃pe sẽ",9,677ee54e-13df-4028-9fd8-65d82f61eea0
+f9-3v.xml,3v,"piterne d̃s. S enedictũ sit nom̾
+Eus in aduu Ad terciã.
+patri. Sicut erat. Hymnus
+toriũ meũ intende. Ele
+se patrem credimus cum
+lumine lumen resultauit. Pro
+hunc generauit filiũ de
+cedentem spiritum uterq treauit
+T enter horũ genuit ipsum
+rel creauit . u̾. Te iure laudant te.
+or̃o. ¶m̃ps sempiterne d̃s.
+S enedictum sit no. Ad .ui.
+Eusin adiutoriũ meũ
+intende: Domine ad.
+loriapri E icut erat yꝰ",10,ecb1cdb6-e374-49dc-9595-a71187a6b3b4
+f10-4r.xml,4r,"R̾eqͥem eternam. Or̃o. Seus
+qui hoĩem de limo terre
+dictum sit nomeri. Ad cõpletoriũ
+Onuerte nos deus saluta
+tuam a nobis. D eus in adiu
+ris noster. Et au̾te iram
+toriũ. E loria pu. Sicut yꝰ
+Nmanus tuas dr̃is cõmendo
+Asp̃m meum Et sicut sine
+crimine hominẽ et credo deum.
+Qũi precioso sanguine rede
+msti mũdum deũ. Eit hoĩem
+de tormine salua qui formasti eu u
+Reqͥem eternam. or̃o. eus
+qui hoĩem delimo.. Mecõmem̃-",11,5de2a00a-ee9a-4d74-9931-b2fc72e18a16
+f11-4v.xml,4v,"As horas xpriste metricas
+cum bona deuotione.
+Tibi dito cangnitas et cum
+pia ratione. T tanimas sa-
+tholicas tua miseratione Di
+uitias glorificas tua sancta ui
+sione.
+Die martis hore de omnib scĩs.
+¶enedictum sit nomen dñi
+nostri ihesu xpristi ineternũ et
+ultra. EEt nomen uirginis
+sit benedictũ in secula amen.
+Am E N
+nomt. Ad matutinas",12,0d8cd8fa-d219-4357-8c65-dd7709e38f26
+f12-5r.xml,5r,"Omins la
+bia mea a
+peries.Et
+os meũ an
+nuntiabit
+laudem tuã.
+Teus in
+aduitorium meum intende. Dñe.
+loria patri. S icut erat.
+ancta dei genitrix Pyᷤ
+flos uirginitatis
+misericordie mater pietatis
+Cupra scõs residens regno cla
+ritatis. Iro nobis cũ ceteris
+exora beãtis u. Subuenite scĩ dei",13,e2479078-560e-43bc-9479-1caa99d9f264
+f13-5v.xml,5v,"angeli occurrite offerentes preces nostras
+in conspectu dei altissimi. Domine
+exaudi oronem meam. Et clamor m̃s
+adte ueniat. Oremus. Dracio.
+nfirmitatem nr̃am q̃sumus
+Domine dens propicius respi
+ce et mala omnia que iuste iuste
+meremur sancte marie omniũ
+sanctorũ atqz sanctarũ intercessi
+onibz auerte. Qui nuus et regns
+deus. ꝑ om̃ia secula scl̃oꝵ amen
+nime omniũ fideliũ defunctoꝵ
+per m̃iam dei requiescant in pace amẽ
+Renedictum sit nomen dñi
+t nomen u̾g̾ Ad primam.",14,d5e13359-3b89-49fc-8864-86a56728060e
+f14-6r.xml,6r,"Ox ad prẽm pertinet super
+baptizatĩt. De qua
+sonat filiũ humane uosatum.
+E ature susceptio colũbe uolatũ
+redimus et speciem paradito
+datũ. U̾. Te uire laudant. or̃o O p̃c
+semp̾rne de  enedictũ sit no
+Ells in adiu Ad nona
+toriũ meum intende
+O la patri. E icut erat. y
+⁊ patre potenciã cuncta denotatur
+Dilis prudentia om̃s declarant
+racia paraclito uniuersa dat̾
+Qui cũ patre nato q cõglorifi
+catur. u̾. Te iure laudant Dratis
+Oratio",15,d04edf46-fdb4-4deb-94e3-a80243ecf591
+f15-6v.xml,6v,"Q
+mps semp̾rne deus O si
+dictum sit nonien. Ad uesperas
+Eus in aduntoriũ meũ in
+tẽde. E la pr̃i S icut
+dlũtarie filius patris yꝰ
+ĩcarnatus. EEst de scõ
+spũ de uirgine natus E iucifix
+us mortuus atq tumulatus
+esurgens a mortus celis sub
+limatus.u̾. Te iure laudãt. O m̃ipt
+sẽꝑitne.  enedictũ. Ad cõpletor
+diite nos deus salutaĩs
+⁊nost̾. et auerte iram tuã
+a nobis O eus ĩ adiutoriũ
+meũ. Ola pri. Sicut. yꝰ",16,c5754310-fa26-4f2a-8bae-1a0b158b0eca
+f16-7r.xml,7r,"Tper ipsũ erimus om̃s
+iudicati. G eati ad glo
+riam eternã uocati. Id pertas
+perpetuas mali cõdempnati
+L ec omnia credere terentur
+beati. u̾. Le ire laudant. Oratio
+m̃ps semp̾rne ds necõmeni
+as horas sic recolo ut in tri
+nitate T eneretur uni
+tas et in unitatẽ. Au onoretur
+trinitas atq pietate Raciat
+me credere hoc cum firmitate. Die
+lune pro cunctis fidelib defũctis
+Requiem eternã dona eis dñe. Et lux
+petua luceat eis. Qenedc̃m sit nomẽ",17,c026a30f-9a31-4d5d-9799-e27e4d4d7ef1
+f17-7v.xml,7v,"a mea aꝑies:
+Et os meum
+anuntiabit
+laudem tuã.
+Deus in
+Aduitorium
+meũ intẽde. Q loria pr̃ Sicut
+Eltatis paternitatis yꝰ
+et eius filiatio E pũs
+sc̃i caritas et ih̃u xp̃isti passio.
+E rinitatis q pietas sit defunc
+tis remissio: Deccatoꝵ ut clari
+tas detur eis gaudio. u̾ Reqͥem
+eternã. Et lux. Dñe extuidi. Et cl̾ or̃o",18,aad0dd97-ea36-422f-866d-d556e673e6ff
+f18-8r.xml,8r,"Ens qui hominẽ de lio
+terre ut angelorũ impleres
+nunas ad ymaginẽ ⁊ similitudinẽ
+tuã formasti ⁊ ipsũ lapsũ ad bocũ
+perditũ reuocares in truce mortem
+passus fiusti. miserere q̃sumus aĩa
+bus om̃ defũctorũ iusticiã tuã per
+miscdiam tuã mitigãdo ne opera
+manuũ tuarũ ꝓpter carius peccata
+dãpnentur q fragilia ⁊ ad peccandũ
+ꝑua creasti. Qui uiuis ⁊ regnas w̃.
+ꝑoĩa scła scłoꝵ ame. E enedie
+tũ sit nome. EEt nomen. Ad ꝓrado
+Ensin adiutoriũ meuin
+int̾ Q̾ sa p̾ri  ehũcut",19,2aa49cd6-4e18-4cec-bdbf-fe3b4ffb154c
+f19-8v.xml,8v,"Eni creator spũs mentes
+mudus est conditus ⁊ oĩa sunt
+guorũ uisita . Der quẽ
+condita. Qui a nullo est geni
+tus dimitte cũctis debita. ta qd̃
+nullus ꝑditus sit propt sua merita
+u Reqͥem eteruã. or̃o. Seus qui
+hoĩem de linio. E enedictũ sit
+Ens ĩ adunitorium Ad .iiͣi.
+Gla p̾ri S icut. ynꝰ
+Eus a quo sunt omnia
+Contra oĩa uicia uiuis de
+bona dona uictoriam.
+fũctis ueniam. Et post hec
+transitoria ueniamus ad glam.",20,cc30930e-7b18-4d8a-bf89-afda50a3401b
+f20-9r.xml,9r,"Q
+efũcti quinq gaudia possideãt
+ꝑ gram .Y. Requiẽ eternã. or̃o  s̾
+qui hoĩem de linio. E enedem sit
+Deus ĩ adiutoriũ meũ Ad .ui.
+intende. E loria pr̃. Sicut e
+stende nobis faciẽtuã yꝰ
+premiũ scõrum E uini
+ueniremus ad diem ire et uiditiorũ
+usticie semite tu mitigans dans
+rocoꝵ ¶ eniã atq requiem in scl̃a
+seculoꝵ U Reqͥem eternã. Dr̃o. Os̾
+qui hoĩem de liz. E ndictũ sit no.
+eus ĩ aduitoriũ Ad nonã
+meun ĩtende. G loria
+patre.  icut erat. Hymnꝰ",21,381131e2-9741-477e-989c-bd51b52df457
+f21-9v.xml,9v,"irgo carens criminibz te
+precor ut auxilio T no
+tius q precib sis coram tuo filio.
+ro cũctis fidelib sitq tua peticio
+D
+um sc̃oꝵ agnunibz collocet eos
+cũ gandio. uͦ. Reqͥem eternã. Oratio
+Qs̾ qui hoĩem E enedictũ
+Eus ĩ adiitoriũ. Ad uͣs.
+meũ. Qla p̃u. S icut.
+Os deprecor humiliter yꝰ
+intuitũ pietatis Em̃s
+scõsqz pariter scas ut intercedatis.
+Pro cũctis reis taliter quod in
+fine cũ beatis ELollocent be
+nigniter ante thronũ trinitatis",22,af0a444c-bd6d-4bca-a05f-62b56ab429d3
+f22-10r.xml,10r,"Eus in adiutoriũ meũ
+intende Domine E la
+patrr. SS icut erat. hymnus
+ngelorum ordines deum
+quem laudarẽ.  on
+cessatis iugiter atqz adorare. S co
+sanctus canere nostros gubernã
+ctus hic inferuis nolite
+cessare. u̾. Subuenite sc̃i dei. Mr̾o
+nfirmitatem nr̃am
+nedictum sit nomen. Adterciã
+us in adiutoriũ meũ
+intende. Domine ad ad.
+G loria pr̃i et filio. icut
+erat in principis et mnũc Hynꝰ",23,5f0c156c-133c-4563-bdf4-9507ea27e1eb
+f23-10v.xml,10v,"wangeliste mystice dñi
+facta cognoscentes:
+Terbis ewangelicis eadem
+striberites. anctiq discipu
+li xp̃m consequentes. Ab he
+rode mortui sunt et innocentes
+U. Subuenite santti de. Oratio
+Enfumitatem nr̃am
+nedictum sit nomen. Ad nona
+Eus in adiutorium me
+Ium intẽde. Domine ad.
+Q loria pr̃i. Sicut er. yꝰ
+Er paliam martyrii
+deo dedicati ¶arty
+res egregii cruore mũdati",24,6ca1822d-bf43-40f9-bb82-f5fcd4fd94d3
+f24-11r.xml,11r,"confessionib deo cõiugati. C on
+fessores monachi heremite grati u̾
+Subuenite sancti dei. N̾O
+mitatem nr̃am. E enedistum
+sit nomen domini. Ad uesperas
+Eus in aduitoriũ meũ
+intende. Domine ad ad
+loria p̾ri. E icut erat. yꝰ
+anctissime uirgines atq
+coniugate. T idue ⁊
+martyres deo dedicatt. Oe mnes
+sancti et sancteqz pro nobis ora
+te.Deum u̾ris precibz pro
+nobis placate. u̾ Subuenite sc̃
+dei. Dro.
+nfirmitatẽ nr̃am",25,429ae469-d2df-4564-9c75-c896f1ea7fb5
+f25-11v.xml,11v,"Benedictum sit nomen. ad cõ
+Onuerte nos pletoriũ
+Et auerte iram tuam a nobis.
+deus salutaris noster:
+Eus in adiutoriũ meum.
+Eloria pri. E icut.
+Tper uos sit grãcia ꝑ
+leantur uitia mũdentur pescata.
+sua nobis data
+N identur pericula omnia sĩt
+grata. Nobis detur gracia
+in sede beata u. Subuenite sc̃i dei
+or̃o. A nfurmitatem nram
+as horas sic Recõmem.
+recolo cum deuotione.",26,e4403f6a-6cd8-4eb8-af0d-abd2a3135520
+f26-12r.xml,12r,"obis sancti sancteqz pia ratio
+o me ut assidua intercessi
+onc E ogatis atqz aliqua re
+nussione. Die mercurii hore de
+sancto spũ E enedictum sit
+ien Et nomẽ. Ad matutias
+Omine labi
+a mea aꝑies:
+Et os meum
+annũtiabit
+laudem tuã.
+Dais in
+adiutorium
+meum intende:
+Gloria patri
+icut erat.
+Hymnus",27,9c45c2b3-3439-4fd5-854e-c9891a9e6f00
+f27-12v.xml,12v,"Obis sancti spũs gracia
+sit data. De qua uir
+go uirginũ fuit obumbrata.
+Qum per sanctũ angelum
+fuit salutata. T erbum caro
+factum est uirgo fecundata. u̾ꝰ
+Ueni sancte spiritus reple tuorum
+corda fidelium et tui amoris in eis
+ignem accende. Qui ꝑ diuersitatem
+liguarũ multarũ gentes in unitate
+fidei congregasti. Domine exau
+di oronem meam. Et clamor meus
+ad te ueniat.Oremus: Oratio.
+mnipotens sempitne
+deus da nobis illam",28,ea039cf3-4f3b-4f6f-a59d-68e345746413
+f28-13r.xml,13r,"sancti spũs graciam quam disci
+pulis tus in die sancto penthe
+costes transmisisti. ꝑ dnĩm. ⁊ cefa
+Benedictum sit no. Ad pͥma̾
+Eus in adiutoriũ meũ
+intende. Domine ad ad
+loria pr̃i. S icut erat yꝰ
+E uirgine filius xpũs
+fuit natus. Eruci
+fixus mortuus atq tumulatꝰ
+Resurgens discipulis fuit de
+monstratus. Et ip̃is cernen
+tibus celũ sublimatus. u̾ Ueni
+sancte spũs. Oro.Omnipo
+tens sempiterne deus da nobis.",29,86dfee5f-3124-4f2c-b339-245221879079
+f29-13v.xml,13v,"Benedictum sit no. Ad tertiam.
+Eus in adiutoriũ meũ
+intende. Domine ad ad.
+loria pr̃i Sicut erat. yꝰ
+num sanctũ sp̃m deus
+relegauit. Sn die pen
+thecostes ipsos confortauit
+EEt de linguis igneis ipsos
+inflãmauit. E elinquere or-
+phanos illos denegauit. Uersꝰ
+Ueni sancte spũs. Orõ. mni
+potens semp̃rne deus. E enedic
+tum sit nome. Ad sextã
+Eus in aduitoriũ meũ
+int. Q la pr̃i. itut er yꝰ",30,7f1a665e-5e55-4dc3-bbbc-cb513fce9a54
+f30-14r.xml,14r,"Eptiformem graciam
+tunc acceptauerunt
+Quare y deomata cuncta con
+uenerunt.  duersa climata
+mundi recesserunt. Et fidem
+catholicam tunc predicauerũt.
+U̾ Ueni sancce spũs. Oratio
+mmipotens sempit̾ne deus
+enedictum sit nomen do
+Eus in Ad nonam
+Ladintorium meũ intẽde.
+O ioria pri E icut erat. yꝰ
+anctus paraclitus fuit
+appellatus. Donũ
+dei caritas fons uiuificatus",31,cc7ab8f6-2965-4765-beb3-302e591f9447
+f31-14v.xml,14v,"E piritalis unctio ignis inflam
+matus. eptiformis gracie ca
+risma uocatus. u̾ꝰ Ueni sancte
+spiritus reple tuorum corda Oro
+O mnipotens sempiterne deꝰ
+da nobis. E enedictum sit no
+men. EEt nomen. Ad uesperas
+Eus in adintoriũ meum
+intende . Domine ad ad
+loria pri. Sicut erat . yꝰ
+Extre dei digitus uirtus
+spiritalis. Sos de
+fendat exuat ab omibus ma
+lis. Drotegat et foueat nu
+triat sub alis. Et nobis nõ",32,9b959fc9-ecf2-498e-b114-e7cafbc76fa8
+f32-15r.xml,15r,"noceat demon infernalis. U̾sus
+Ueni santte spiritus reple tuoꝵ. Mro
+nmipotens sempitne deus
+da nobis.: B enedictum sit no
+men domini. Ad completorium
+Onuerte nos deus salu
+taris noster. Et auerte
+iram tuam a nobis. Deus
+in aduitoriũ meum intende . Do
+mine. ¶lona pri. S icut
+piritus para Hymnꝰ
+clitus nos uelit iuuare.
+Cressus nostros regere et illu
+minare. Et cum deus uenerit
+omnes udicare D os uelit",33,42d13808-f879-4716-a781-6d4f36f22907
+f33-15v.xml,15v,"ad dexteram suam appellare. u̾sus.
+Ueni sancte spiritus reple tuorum cor
+da fidelium et tui amoris in eis ignem
+accende. Et cetera. Oratio Om
+nipoteris sempiterne deus da nob̾
+As horas liecõmemoꝵ
+canonicas cum deuotio
+ne. Ribi sancte spiritus pia
+ratione Dixi ut me uisites
+inspiratione. EEt niuamus
+iugiter celi regione. Die Iouis.
+hore de sacramẽto. E ene
+dictum sit nomen dñi nostri. ⁊cͣ
+EEt nomen uirginis marie
+Et cetera. Ad matutinas:",34,64cbe70a-b295-46f3-845f-b7cfe0feeb90
+f34-16r.xml,16r,"Omine la
+bia mia a
+peries. Et os
+meum an
+nuntiabit
+laudem tuã.
+Deus ĩ
+adiuitorium meum intende Do-
+mine ad adiuuãdum me festina.
+loria patri. E icut. hyaꝰ
+Orporis mysteriũ pan
+ge gloriosi. Ee m
+mundi precium uentuis genero
+ructus dampnũ demonis
+fuit uenerosi. uers ꝯ Caro mea",35,4d972759-5ca0-4caf-876a-be6b47952513
+f35-16v.xml,16v,"uere est cibus et sanguis meus uere est po
+tus. Qui mãducat carnem meam et bi
+bit meum sanguinem in me maret et
+ego in eo dicit dominus. Domine
+exaudi orationẽ meam. Et clamor m̃s
+ad te ueniat. Oremus. Oratio. ᷤ
+Eus qui nobis sub sacra
+mento mirabili passioĩs
+tue menoriam reliquisti. tribue
+quesumus ita nos corporis et
+sanguinis tui sacra mysteria ue
+nerari ut redemptõnis tue fructũ
+in nobis iugiter sentiamus. Qui
+uiuis ⁊ regnas deus. Per omnia
+secula seculorum. Am E R.",36,4036ace8-9de2-4b9e-8616-47df686e434c
+f36-17r.xml,17r,"Denedictum sit nomen dñi.
+Et nomen uirginis. Ad p̾mã.
+Eus in aditoriũ meum
+intende. Domine ad adiui.
+loria p̾ri. Sicut erat. yꝰ
+Enam cum discipuilis
+effectans cenare. EEx
+emplis sermonib ip̃os informare.
+Danem in substantia carnis
+transformare. Tnũ in essen
+tiam sanguinis mutare. uersꝰ
+Caro mea uere est cibus. Oratio
+Deus qui nobis sub sacra
+mento. E en edictũ sit no
+men domuu. Ad terciam",37,c9b0bc32-c0df-43b8-a295-5155908042a9
+f37-17v.xml,17v,"Eus in adintoriũ meum
+Lintende. Domine ad ad.
+loria pr̃i. Ericut erat. yꝰ
+kegit panem dixit qz
+hoc est corpus meum.
+alicem accipiens benedixit
+eum. Et ip̃m accipite dixit
+ecce deum. Qui indigne sump
+serit sentiat se reum .u̾. Caro
+med uere est cibus ⁊ sãgus. Oro
+Deus qui nobis sub sacram
+E enedictũ sit nomẽ. Ad .ui.
+Eus in adiutoriũ meũ
+intende. Domine ad ad
+loua patri. S icut er̃ yꝰ",38,72e42d6a-f067-4f00-a3cb-58e0a9fd1a3d
+f38-18r.xml,18r,"Tquicumq panem hunc
+dente manducabit. Aut
+quicumqz sanguinis calicem pota
+bit. ¶Cortem dei filii his annũ
+tiabit. Et monstrabit firmiter
+donecremeabit. u̾. Caro mea ue
+est cibus Or̃s D eus qui
+nobis sub sacraiñto passionis.
+O enedictũ sit no. Ad nona
+Eus in adiutoriũ meñ
+intende. Domine ad.
+loria pri. E icut erat. y
+Ui indigne sumpserit.
+Afactus erit reus. ¶or
+poris et sanguinis quẽ effudit",39,47defb71-997e-4ceb-9794-8d44276d9cf4
+f39-18v.xml,18v,"deus. Dum latus aperuit
+ipsius iudeus. Cum hely
+clamauerit hoc est deus meus
+Uersus Caro mea uere est cibus et
+sangius meus uere est potus.⁊ cet̾.
+DDeus qui sub satra
+mento mirabili passionis. ⁊ cet̾
+Benedictum sit nomen.
+EEt nomen uirginis. Ad
+Eus in adiu uespas
+torium meum intẽde
+domine ad aduui. me festina.
+G loria pri. S icut er. yꝰ
+Erbum caro factũ est
+panis gloriosus",40,25925c2f-3866-4c04-9a83-2c91ca61c39e
+f40-19r.xml,19r,"Tinum sanguis factum est
+xpristi gratiosus. T raditur
+discipulis cibus preciosus. S ic
+manducat dominũ do seruils timo-
+rosus. u̾sus. Caro mea uere ẽ cibus.
+or̃o. ¶eus qui nobis sub
+lacramẽto. E enedictum sit
+nomen donuni. Ad completoriũ
+Onuerte nos deus salu
+taris noster: Et auerte i
+ram tuam a nobis. Geus in
+adiutorium meum intende.
+Qloria pr̃i. icut erꝰ y
+ustis et fidelibus ita man-
+dncatur. ed ob hoc in",41,6df08d8f-7421-419b-9b39-695cc66b9a05
+f41-19v.xml,19v,"aliquo nũquam laceratur. N o
+tus in particula confracta mora
+tur li ena specie deus occul
+tatur. M Caro mea uere ẽ cibz
+et sanguis meus uere est potus. ⁊tͣ
+am doe eus qui nobis
+sub sacramento mirabili passi
+onis tue⁊cͣ  Recõmemor
+as horas sic recolo pia ra
+tione. ¶ ibi corpus dñi
+ut cõfessione. ¶Contritus et pre
+mia satisfactione. ¶ alsam te
+sumere cũ deuotionẽ
+Senedictũ sit nomẽ dñi. Etc̃.",42,381ab7ba-bb30-42c3-b63c-1fb3e7f1fd1a
+f42-20r.xml,20r,"Die ueneris hore de sancta cruce.
+Omine labia
+mea aperies:
+Et os meuni
+annũtiabit
+laudentuam.
+Deus in
+adiutorium meum intende. Dñe
+ad adiuuandum me festina.
+E loria patri. S icut erat.
+Doramus te xp̃e et benedici
+mus tibi quia per tuam sanctã crucem
+Iredemisti mũdum. Hymnꝰ
+Atris sapientia ueritas di
+lundi. Deus homo captus est hora",43,e28fc2a8-b638-4522-9173-bf268239364a
+f43-20v.xml,20v,"matutina Asuis discipulis cito de
+relictus. Aiudeis traditus uendit
+et afflictus. u̾sus. I doramus
+te xpriste et bened̾. Oratid.
+Omine ihesu xpriste fi
+li dei uini pone passionem crucẽ
+et moitem tuam inter iudicium
+tuum et animam meam nunc
+et in hora mortis mee largiri dig
+neris uiuis gratiam ⁊ misericordi
+am defunctis ueniam et requiem
+ecclesie tue sancte pacem ⁊ concordi
+am et nobis peccatorib uitam ⁊
+leticiam sempiternã. Qui uiuis
+et regnas cum deo patre in uni",44,e629b329-9317-4825-aa62-551962face15
+f44-21r.xml,21r,"tate spiritus sancti deus. Per om
+nia secula seculorum. Amen.
+Eus in adu Ad primã
+toruim meũ intende:
+Domine ad adiuuandũ me festĩa.
+Qͣ loria pri. E icut erat. yꝰ
+Ora prima ductus est
+ihesus ad pylatum. Fal
+sis testimoniis multũ accusatũ.
+In collo percutiunt manibus liga
+tum uultum dei conspuunt lu
+men celi gratum. u̾sus. do
+ramus te xp̃e et benedic̾. Dratio
+D omine ihesu xp̃e fili dei ui
+ui pone mortem. Ad terciam",45,def18a20-1a23-4c6b-88e0-f753c022b9ca
+f45-21v.xml,21v,"Eus in adiutoriũ meũ
+intende: Domine ad ad
+inuandũ me festina. G loria
+patri: ¶Eicut erat. Hymnꝰ
+fiuicifige clamitant hora
+terciarũ. Illusus indui
+tur ueste purpurarũ. Caput ei
+pungitur corona spinaruum. u̾
+doramus te xp̃e. Dratio.
+omine ihesu xp̃e. Ad sextã
+Eus in aduitoriũ meũ
+interide: Domine ad
+adiuuandum me festind
+G loria patri et f.  isit
+erat in principio. Hymnus",46,8b4544dc-d143-46de-985a-3401cf8ff7a3
+f46-22r.xml,22r,"Ora sexta ihesus est cru
+cum latronibz pendens repu
+ce conclauatus. Et sic
+tatus. pre tormentis siciens
+felle saturatus. Agnus crime
+diluit sic deificatus. uer
+doramus te xp̃e. Dr̃o. Do
+doramus te xp̃e.
+mine ihesu xp̃e. Ad nonam.
+Eus in adiutoriũ meũ
+intende. Dñe ad adiu
+uandũ me festina. Gloria
+icut erat Hymnusm
+Ora nona dominus ihe
+exspirauit. Halyclamãs
+aĩam patri cõmendauit. Latus",47,37a31007-6285-486f-83ef-1b58908a1d4a
+f47-22v.xml,22v,"eius lancea miles perforauit.Ter
+ra tunc contremuit et sol se ob
+scurauit. Ysus. Idoramus te
+xp̃e. Oro D omine ihesu
+xp̃e pont. Ad uesperas
+Eus in adiitoriũ meũ
+iuiuandum me festina. E la
+intende. Domine ad ad
+patri. S icut erat. Hymnꝰ
+E cruce deponitur hora
+tuit in mente diuina. Talem mor
+uespertina. fortitudo la
+tem subiit uite medicina. heu co-
+rona glorie iacet hic supina u̾sꝰ
+doramus te xp̃e et ren. Dro",48,b4319012-149e-454e-b4d5-dc86fba7380d
+f48-23r.xml,23r,"omine ihesu xp̃e. Ad cõpletor
+Onuerte nos deus salu
+taris noster. Et auerte
+iram tuam a nobis
+Eus in adiutoriũ meu̾
+intende. Domine ad ad
+uiuandũ me festiria. G loria
+patre. Sicut erat. Hymnꝰ.
+Ora completorii detur
+sepulture.Corpus xp̃i
+nobile spes uite future. Condi
+tur aromate implentur scriptu
+re Iugis sit memorie mors est
+michi cure. u̾sus A doramꝰ
+te xp̃e et benedꝰ tibi: Sratio.",49,39515143-8574-4037-ae8a-32ed0f4dd8c3
+f49-23v.xml,23v,"Domme ihesu xp̃e fili dei nuu
+pone passionem. Et cetera.
+Das horas sanonicas cũ deuo
+tione Tibi xp̃e recolo pia ratione
+Ut sin tibi particeps penas in a
+gone hoc tibi te deprecor ihesu
+xp̃e bone. Oracio.
+Domme ihiesu xp̃e per amari
+tudinem mortis tue quam susti
+musti in cruce propter me et in il
+la hora quando dulcissima ani
+ma tua egressa est de corpore tuo
+miserere anime mee in egressu
+suo. Amense
+om.",50,2433ed23-5839-4c08-955f-26aad4465a2b
 f50-24r.xml,24r,,51,104aef5a-b85e-4fec-b716-32878e92f5fc
 f51-24v.xml,24v,,52,080c6013-ea7b-4f37-9681-3b8ed6e923d7
-f52-25r.xml,25r,Omine la bia mea ape nes: Et ob meum anũ tiabit lau dem tuam. Deus in adiutoriũ meum intende: Dñe ad G loria p̾ri. E icut erat. yꝰ Eus qui primũ hominẽ de limo terre creauit. Et ad similitudinem suam,53,cb145d6e-3da8-432b-9e48-bdbcc23d5278
-f53-25v.xml,25v,propriã formauit Et preelegit nirginem et sic in se obumbrauit. ¶Et humanã propaginem redi meret que peccauit u̾ Post ꝑtum uirgo inuiolata ꝑmansisti. Dei genitrix intercede pro nobis. D omine exaudi orationem meam. Et clamormeus ad te ueniat. Oremus. Oralio mnipotens sempiterne deus qui beate et glorio se uirginis et matris marie cor pus et animam ut dignum fi li tui habitaculum effici me reretur spiritu sancto coope rante mirabiliter preparasti,54,f84ac5bb-88aa-4052-97f7-c59705ba5e04
-f54-26r.xml,26r,da ut cuius cõmemoratione leta- mur eius pia intercessione ab in- stantibz malis adiuuemur et a morte perpetua liberemur. ꝑdõ ñrm ihm ⁊ c̾ E enedictũ sit nomen dñi nri. Ad primam. Eus in adiutoriũ meũ intende: Domine ad ad loria p̃ri Sicut erat. yꝰ Os deus in hoc crimine pati uolens ordinauit Que sicut mors in homine per mulierem intrauit. E ic per merita femine uitam ei res taurauit. e d auid regis le,55,df2e9c9f-f2ef-4aec-85f8-ab0cc540f797
-f55-26v.xml,26v,mine quẽ ioachum generauit u̾sꝰ post ꝑtũ. oro Om̃ꝑt sempiterne. Ben edictũ sit. Ad tertiam Iõ Eus in adiutoriũ meũ O sapr Si icut yͦ E muliere m niimero hec sola sanctificata. Tuit in matris utero sanctaq semper seruata In tuo quoqz tenero templo fuit presentata Castitatem deo uero nouit spõ se dedicata. u̾ post ꝑtum. Dr̃o Om̃ps sempiterne ďs. Eñ idictũ sitno. Ad sextam Eus in adiuitoriũ meũ,56,78dc6b56-3a9a-4cd3-88b5-b54bca009646
-f56-27r.xml,27r,O loria pri. Ell icut erat. ynꝰ E causa mũditie sue nec non sanctitatis. Car nem ñre miserie sumpsit et hu- manitatis Seperet regem gle nil habens auxietatis. M anẽ te pudicitie floreq uirginitatis U̾ Post ꝑtum. OrQ m̃ps sempiterne deus. E enedictũ sit nomen domini Ad nonam Eus in adiutoriũ meũ intende. Domine ad ad loria pr̃i. S icut er. yꝰ piritũ suis uberibus. uirginali latte pauit.,57,57124150-9899-4a4b-931e-d0b97f53ab9b
-f57-27v.xml,27v,Et in pannis pauperibz inuolu tum cõportauit. E ibisqz me lioribus quos habuit hunc ciba uit Donec a puerilibus an nis omninomigrauit. u̾. Post ꝑtum. Gro. O m̃ix semp̃rne deus. Benedictum sit no Eus in adiuto Ad uͣs. rium meũ intende . Dñe loria pri. S icut erat yꝰ Tpost xp̃i passionẽ quem lpresens uidit maria Et eius ascensionẽ usqz regna celes tiã. E empli petit mansio nem. sicut prius uirgo pia.,58,88475af9-3785-4dbb-88e3-f7ed5a19bbcd
-f58-28r.xml,28r,Ne parans orationem donec fuit in te uia u post ꝑtum. Mo. Empc semp̾rne deus. Eñ dictum sit nomen. Ad cõpletoriũ onuerte nos deus salu taris ñr. Et auerte iram tuam a nobis. eus in adiu toriũ meũ int̾. O la pri E itut N obitu cõuenerunt omnes eius discipuli sainqz sepelierunt et post tres dies singuli Corpus in sepulcro querunt nil mueniunt seduli. Illud assumptũ asserũt in celũ omnes creduli. U̾. Post ꝑtum.,59,c3ef760f-f28c-4d6b-bffd-cce2551a0828
-f59-28v.xml,28v,or̃o. O inmpotens sempiterne deus qui beate et gloriose. Recom ue matris in honore has horas xp̃e dicinius GCor- de deuotis in ore mariã quoq peti- mus. Et nos mũdet a fetore peccatorũ que fecimus. D recũ suarũ ferore et in celum tecum si mus. u̾. Post ꝑtum uiego inuis lata permansisti. Dei genitrix intercede pro nobis. Oratio Enimipo tens sempiterne deus qui beate et gloriose nirgius. Et cetera.,60,ddfafb72-8159-4f3d-944f-3c57627967fd
-f60-29r.xml,29r,Cintroibo ad altare de Ad deum qui. letificat iu uentutẽ mea̾ Confite mini domino quoniam bonus mnarie rargini et omnib sanctis dei quia ego infelix pecca tor pectaui nimis contra legem dei mei In uerbis. in factis. cogita tione locutione consensu uisu uerbo et opere mea culpa mea,61,e57601f7-cb18-4e2f-a056-6d6eedbffa81
-f61-29v.xml,29v,culpa mea maxima culpa. Ideo precor gloriosã dei genitricem uir ginem mariam et omnes scõs et sanctas dei et uos pater orare pro me petratore.o Isereatur nostri om̃ps deus et dimissis om̃ib petcatis nostris perducat nos et uos ihesus thxp̃c aduitam eternã. on nobis domine non no bis. Sed nomini tuo da glouam Ab occultis meis mu̾da me domine. Et ab alienis pce seruo tuo.E eus tu conuersus u uificabis nos. Et plebs tua,62,bafe34fa-cc5a-4479-b9d3-db499fb5fc38
-f62-30r.xml,30r,rium nr̃m in noĩe dñi. Qui fecit celum et terrã Sit nome dñi benedictum: Ex hoc nũc et usq parens enixa gem qui celũ terraq regit in secula seculoꝵ p̃s. Senciant omnes tuũ uiua,63,1ea6088f-e9a7-46de-87d7-38fe999a6b0a
-f63-30v.xml,30v,cõmemoratõnem. ¶ loria p̾ri Situt erat. yrieleyson. I yrieleys. T ynelcyson d pẽ leyson A peleyson  peleysõ Le yrieleyson Eyrieleyson Kyueleyson. loria in excelsis deo. Et in terra pax ho minib bone uolũtatis. I au damus te E enedicimus te. Adoranus te. ¶ lorifica mus te. ¶racias agimus ti bi propter magnã gloriam tuã omme deus rex celestis de,64,449a96b6-daae-484e-9d0c-351dc63bfb63
-f64-31r.xml,31r,pater om̃ipotens. Domine fili unigenite ihesu xp̃e  D omine deus agnus dei filius pris. Qui tollis peccata mũdi misere nobis Qui tollis peccata mũdi suscipe depreratõnem nr̃am. Q ui se des ad dexterã patris miserere no bis.Cuoniã tu solus sc̃s Tu solus dominus. Eu solus altissinus ihesũ xpriste. Cum sancto spuitu in glori a dei ꝑatuis. Oremus. Collc̃a oncede nos famulos Etuos q̃sumus domine deus perpetua mentis et corporis,65,382c91ca-793d-4e23-a8fd-52192bb5fdde
-f65-31v.xml,31v,salute gaudere et gloriosa beate marit semper u̾guus intercessio ne a presenti liberari tristicia et eterna perfrui leticia. Per eundẽ xp̃m dominũ rũm Amen. Epla Lectio libri sapientie.ołoł e binitio et ante secula icreata sum et usqz ad fu turum seculũ non desinam et in habitatione sancta coram ipso ministraui. Et sie in syon firma ta sum et in ciuitate sanctificata similiter requieui. et in iherusa lem potestas mea. Et radicaui in populs honorificato et in par,66,60c529eb-08fb-4739-88e8-5acae458566f
-f66-32r.xml,32r,tes dei mei hereditas illius. Et in plenitudine scõrum detentio mea enedicta et Graduale uenerabilis es uirgo maria que sine tactu pudoris in uenta es mater saluatoris. u̾sꝰ Uirgo dei genitrix quem totus nõ capit orbis in tua se clausit uisce ra factus homo: lleluya. u̾. Uirga iesse floruit uirgo deum et hominem genuit pacem deus reddidit in se reconsilians yma summis alleluya :LoL Sequentia.,67,4522ec9e-4694-47d3-acd3-a2a985a1e0b0
-f67-32v.xml,32v,ue uirgo gloriosa mater plena grãtia. Tu es uere nata rosa regali prosapia pristus in te descendendo mũ do dedit gandia. Tos adiuues miserendo de mortis angustia.O demens. Opia. O dultis maria aimen. Sequentia sc̃ĩ ewangelii S̾ꝰ. N illo tempore. math̾m. Gla t̾ dñe. Loquente ihesu ad turbas. Extol lens uocem quedam mulier de turba dixit ad ihesũ. Beatus uenter qui te portauit. et ubera que suxisti. At ille dixit. Quĩim mo. Beati qui audiunt uerbũ,68,1942d339-1fea-4b89-b02c-7f5211c84909
-f68-33r.xml,33r,dei et custodiunt illud. Des gr̃as Credo in unũ deum atrem omnipotẽtem facto rem celi et terre uisibiliũ omniũ et inuisibiliũ. Et in unũ dominũ ihesum xp̃m filium dei unigeni tum et ex patre natum ante oĩa secula deum de deo lumen de lu mine deum uerũ de deouero. Eeni tum non factũ consubstãtialem patri per quem om̃ia facta sunt. Qui propter nos homines et prop ter nr̃am salutem descendit de celis. Et incarnatus est de spũ sancto natus ex maria uirgine ⁊ homo,69,1338a8da-b841-484b-97fa-54a6596bf76c
-f69-33v.xml,33v,factus est. Crucifixus etiam pro nobis sub pontio pylato passus et sepultus est. Et resurrexit ter cia die secundũ scripturas. Et ascendit in celum sedet ad dexte ram pr̃is. Et iterum uenturus est cum gloria iudicare uiuos et mortuos cuius regni nõ erit finis. Et in spiritum sanctũ do minũ et uiuificãtem. qui ex pa tre filioq procedit. Qui cum patre et filio simul adoratur ⁊ conglorificat. qui locutus est per prophetas. Et unã scãm catholicam et apostolicã etclesiã,70,2e96435f-d447-4b27-bc16-f7de87371a5c
-f70-34r.xml,34r,confiteor unũ baptisma in remis- sionem peccatorũ. Et expecto resur rectõnem mortuorũ. Et uitam uenturi seculi.amen. Offertor Ecordare uirgo mater in conspectu deiut lo quaris pro nobis bonũ et ut auertat indignationem suam ab hac familia tu propicia ma ter eximia pelle uitia fer remedia reis in uia dans in patria uite gaudia pro quibus dultia tu preconia.laudes cum gracia sus cipe pia uirgo maria nobis S anctus. E anctus,71,4ef483c6-9ae7-4c7a-923b-f8238fbc9853
-f71-34v.xml,34v,S anctus dominus deus saba othi pleni sunt celi et terra gloria tu a osanna in excelsis. Edenedi ctus qui uenit in nomine dñi osanna in excelsis. oLo ll gnus dei qui tollis per cata mundi miserere no bis. Agnus dei qui tollis pcta mundi miserere nobis g nus dei qui tollis peccata mũdi dona nobis pacem. Cõmunio Eata uiscera marie iur Iginis que portauerunt eterni patris filium. Oremus. Col pr le pol ssa poz,72,a45a55c0-d58f-4a16-8fa7-e4d8ea68a4ba
-f72-35r.xml,35r,lOncede nos famulos tu Los quesumus domine deꝰ noster perpetua mentis et corporis salute gaudere et gloriosa b̃te ma rie semꝑ uirginis intercessione a presenti liberari tristicia et eterna pertrui leticia Per xp̃m dominũ nostrum. amen. Oratio laceat tibi sc̃a trinitas obsequiũ seruitutis mee et presta ut hoc sacrificiũ quod u culis tue maiestatis indignus obtuli tibi sit acceptabile michi que et omnibus pro quibus il lud obtuli sit te miserante propi,73,6e139957-f9dc-445a-8ccb-ea1dbde1cfcd
-f73-35v.xml,35v,ciabile uitam eternam. Amen. Initiũ sancti ewangelii Secũdum Iohãnem. Gloria tibi domine N principio eratuerbũ et uerbum erat apud deũ et deus erat uerbum hoc erat in printipio apud deũ om nia per ipsum facta sunt et sine ip̃o factum est nichil. Quod factum est in ip̃o uita erat et uita erat lux homi nũ et lux in tenebris lucet. et tene bre eam non cõprehenderũt. Fuit homo missus a deo tui nomen erat iohãnes. Hicuenit in testimoniũ ut testimoniũ perhiberet de lumi ne ut omnes crederent per illum,74,e71c719d-29b2-4e53-84ed-a6f115ac9abc
-f74-36r.xml,36r,Non erat ille lux sedut testimoniũ perhiberet de lumine. Erat lux uera que illuminat omnem ho minem uenientem in hunc mũ dum. In miuido erat et mũdus per ipsum factus est et mundus cum non cognouit In propria ue nit et sui eum non receperunt Quotquot autem receperũt eum dedit eis potestatem filios dei fi eri. Hiis qui credunt in nomine eius. Qui non ex sanguinibus neq ex uolũtate carnis neq ex uolũtate uiri. Sed ex deo nati st̃. Et uerbum caro factum est et,75,25c1811b-8972-4227-8966-252e37ebe6b4
-f75-36v.xml,36v,habitauit in nobis. Etuidimus gloriam eius gloriam quasi unui geniti a patre. Plenum gracie et ueritatis. Deo gracias Per enuangelica dicta deleantur nostra delicta. Amen. magi ne ini sorgoans amongco nau nus uigIII nOn UISUINAII nuuiimiden ma dongron IIU OuIImnnag snuo numon in imison iun ancs. m oudino non me. auo uquii antito uaulor euu AMUII UO UOẽ runniulou nlh nntisa gisi mutr⁊,76,666be692-9536-4f1d-a88f-4ba4cfa79d8b
-f76-37r.xml,37r,yrieleyson.  peleyson. N yrieleysõ. E ca maria. Ora pro nobis. Scã maria extellentissima regi na intercede pronobis. Se c̃a mã ria uirgo beatissima intercede pro nobis. Sca maria clementissi ma domina. ora prome   ca maria benignissima consolatio ad te confugientiũ intercede pro me Scã maria pietate plena et omni dulcedine. ora pro me. Ecã maria pulchritudo angelorũ inter cede pro me. E ca maria flos patriarcharũ intercede pro me.,77,814e6fa6-a7f2-48bb-aeb3-0166399bcb40
-f77-37v.xml,37v,ancta maria desiderium pro phetarum intercede prome. S cã maria thesaurus apostolorũ. inter cede pro me.  ca maria laus m artyrũ intercede pro me S cã maria consolatio tribulantium intercede pro me. S cã maria xp̃i genitux gloriosa intercede pro me. Scã maria ĩmaculata uirgo. intercede pro me. E ca maria decus uirginũ castitatis exemplũ int̾cede pro mẽ. S ca maria suꝑ om̃s feminas bñdicta infrede prõme. S cã maria extẽde manũ tuã ad me et libera cor,78,8b2ff22f-377e-4d5f-9b0f-e406e395b4e6
-f78-38r.xml,38r,meum de malarũ temptatõne cogita tionũ ut faciam uolũtatem tuã sal- ua me peccatorem te rogo o domina E cã maria ꝑ misericordiã filii tui quem dilexit te saluatoris nr̃i qui in utero tuo incuruari uoluit miserere michi famulo tuo miserri mo et ora pro peccatis meis. E ca maria nirgo ꝑ dilectionẽ filii tui quẽ dilexit te ut exaltaret te super choros angelorũ exaudi me. Scã maria adiuua me et intercede pro me. ut cus todiat me deus ab omni malo p̃te rito et futuro. E cã maria de co ratio urginũ miscrere mͥ famulo,79,17420728-9318-4c32-be00-eb2054a3e131
-f79-38v.xml,38v,tuo S cã maria mitissima beatis sima benignissima omni pietate ple na miserere met E sa maria por ta celi conscia setretorũ dei miserere mei. S ca maria te laudo te adoro te glorifico te magnifico laudo te a- doro altitudinem tuã. laudo ⁊ adoro misericordiam ⁊ humilitatẽ tu am laudo et adorospeciem tuã laudo et adoro dignitatem et gloriã tuã quia sola fuisti digna inter om̃s mulieres portare generatorem celi ⁊ terre et omniũ que in eis sunt laudo et adoro benedictũ uentrem tuum quia portauit ihesum xp̃m. laudo,80,87879125-a331-481c-b935-098603a22f35
-f80-39r.xml,39r,et adoro beata ubera tua que lacta uerũt saluatorem mũdĩ S cã maria audi me. S sa maria exaudi me. Eca maria adiu ua me. Tirgõ sancta mater xp̃i succurre et intercede filio tuo pro me et pro omni populo xp̃ĩa- no et specialiter pro cunctis cõsan guineis ꝓpinquis et amicis atq benefactorib meis. Et proillis qͥ in me fiduciam habuerũt uel ha- bent uel pro quibz orare promisi uel debitor sum orandi uel aliquo modo constructus super exorare uel suas elemosinas michi im,81,ee60a7c5-5342-4b3c-8b24-8cb5083243db
-f81-39v.xml,39v,penderũt ut spacium uere penitẽtie et emẽdationem uite et in bonis operibus ꝑseuerare nobis conce dere dignetur et cũctis fidelibus defunctis requiem eternã dona redignetur amen. E yreley son d p̃el̾ E yrieleyson. Daternr. Et ne nos. magni ficat. Et cetͣa. Gia pr̃i. D omine saluũ me fac. Et exaudime in die qua ĩuocauerimus te. Alma uir go u̾ginũ intercede pro me ad tu- um filiũ S c̃ã dei genitrix sit mͥ auxiliatux. Saluũ fac seruũ tuũ dña sperãtem in te. u̾sus.,82,410889fb-9c58-4bb2-a6e0-32acac3e98a5
-f82-40r.xml,40r,Dignare me laudare te uirgo sacrata. Da mͥ uirtutẽ contra hostes tuos. Domine exaudi. Et clamor. Oremus. Or̃o. Ancta maria porta celi paradisi ianua filii tui palatium xp̃i perte dei genitrix por te sunt aperte. ꝑ te pax inter om̃s homines et angelos facta est per te mũdus restauratus est. per te omnia bona facta sunt in celo ⁊ in terra.Tu es gloria iherusalem tu es leticia israel. tu es exultatio tocius mũdi. tu es electa ante mũdi constitutionẽ et manes sine fuie in regno filii tut. Ibi,83,0b97868a-bb1f-4a7b-887c-a1b598405c20
-f83-40v.xml,40v,obediunt tibi angeli et seruiũt ar- changeli patriarche ⁊ ꝓphete obedi unt tibi. apostoli ⁊ martyres cõfesso res et uirgines. et omnes iurtutes celorũ propter hoc precor te beata ĩ glorio sa uirgo dei genitrix maria pro amore unigeniti filii tui qui talem dedit tibi honorem ut dig neris me exaudire in omnibus necessitatibus meis et non dere linquas me sine adiutorio in illa hora quando anima mea exiet de corpore meo adiuua me in die iuditii ut secure ueniam ad portam paradisi antequam,84,7b327cc1-d5a3-40f4-b43e-d0459c9fbdbe
-f84-41r.xml,41r,merear uidere filium tuum qui con cedat michi leticiam sine fine habe re cũ omnibz sanctis anien. Or̃o Eprecor te sancta maria mater dei pietate plenissi ma sũmi regis filia mater glorio sissima. mater orphanorũ. conso latio desolatorũ. uia errantium. salus in te sperantiũ. uirgo ante ꝑtum urego in partu et uirgo post partum . fons misericordie fons salutis et gracie. Fons pie tatis et leticie fons consolafonis et indulgentie ut intercedas pro me peccãtore famulo tuo ante cõ,85,6670b3ac-e77f-4945-80fb-fbf4cb1b0d91
-f85-41v.xml,41v,spectum filii tui ut per suam mise- ricordiam et per sanctam tuam intercessionem concedat michi ante tempus et diem mortis mee puram de peccatis meis con fessionem et uerã penitentiam. ⁊ post mortem cũ sanctis et electis suis nitam eternam et omnib fidelibus uiuis ⁊ defunctis ui tam et requiem sempiternam Amen. Oratio Ancta maria mater do- mini nr̃i ihesu xp̃i in manus tuas et in manus filii tui et in manus oĩm sanctoꝵ,86,3e494726-5d8d-4cfa-b2e7-b679dd535ac6
-f86-42r.xml,42r,tuorum cõmendo hodie et omni tempore animam meam ⁊ani mam patris mei et aĩam matris mee et animas omniũ benefacto- rum meorũ. custodi corpus meũ et uitam meam. et uisum meũ et habitũ meum. ⁊statum meũ. et sermones meos.custodi me do mine a uiciis et a peccatis et a temptationibz dyaboli libera me domine et da michi salutem corporis et anime. et da michi spacium uere penitentie et remis sionem omnium peccatorum meorũ Salua me domine nigi,87,fa78a9bc-b386-4f25-ae28-3c1f0b17dfa4
-f87-42v.xml,42v,lantem custodi me dormientem ut uigilem et ambulem in te do- mine deus meus. Amen. Dr̃o. Gloriosa domina dei genitrix uia ante mun- di constitutionem preelecta. Ego seruus tuus immensam clementiam tuam rogo et exo ro per illam sanctam annun tiationem quam tibi sum- mus archangelus gabriel annuntiauit predicans xpis- tum de te esse natum. ut ue niam michi impetres a do mino de peccatis meis. Et,88,f7f61941-6c40-4dd5-9df1-a33db0ad0772
-f88-43r.xml,43r,Et sicut eo tibi nunciante gaui sa es. Ita me de quacumqz re seu tribulatione clamauero adte exaudire digneris.Amen. Oro bona cõtra tẽptationẽ dyaboli. llumina oculos meos ne Conquã obdornuam ĩ mor te nequando dicat mimicus me us preualui aduersus eum En manus tuas cõmendo spiritum meũ. redemisti me do mine deus ueritatis. Locutus sum in lingua me a. notum fac michi domine finem meun.,89,39d12b36-9474-4d58-b075-e87d02e3531c
-f89-43v.xml,43v,Et numerum dierũ meorum quis est ut sciam quid desit michi isrupisti uincula mea ti bi sacrificabo hostiam laudis ⁊ nomen domini inuocabo. Deriit fuga a me et non est qui requirat aĩam meam E lamaui ad te domine dixi tu es spes mea porcio mea in terra uiuencunt Ras mecum signum in bo no ut uideant qui me oderũt et confundãtur quoniã tu do- mine adiuusti me ⁊ cõsolatus es me. Dremus. Dratio.,90,01cae1ec-284e-4b3b-9754-178c47ce4f33
-f90-44r.xml,44r,innipotens sempiterne deus qui ezechie regi te cum lacrimis deprecanti uite spa- aium prolongasti. concede michi indigno famulo tuo tantum uite spacium ut omnia mala mea ualeam deplorare et ueniã secundũ tuam misericordiam consequi. Per xp̃m dominũ nos trum. Aol mE .R. or̃o Omine ihesu xp̃e fili de uiui dirige gressus meos inspira in gr̃am tuam fida tue constantiam et in ea ꝑseueranti am in articulo mortis pone dñe,91,02add648-f2c5-4d21-972c-9caf7675bcdf
-f91-44v.xml,44v,custodiam ori meo et ostium cir cũstantie labus meis. Amen. Gro angus domini nostri ihesu xp̃i qui pro nobis effusus est proficiat nobis in remissionem peccatorũ. Amen aout necego meolau dom maisicorin mot ũu Ion ĩnumco mec N ipaco qm. A lo do ss o. Rnoi ii uã dĩci ndili aunie edan auleorg ionis nun ut uia miua mãto iu auclm mucoie m im manasoa ꝯns unoii ancom alucra i ma,92,5df46aa2-b8f3-4383-b7d1-64ddb5a19e9e
+f52-25r.xml,25r,"Die sabbati hore de sancta maria
+Denedictum sit nomen dñi
+EEt nouren uirginus. Ad matut
+Omine la
+bia mea ape
+nes: Et ob
+meum anũ
+tiabit lau
+dem tuam.
+Deus in
+adiutoriũ meum intende: Dñe ad
+G loria p̾ri. E icut erat. yꝰ
+Eus qui primũ hominẽ
+de limo terre creauit.
+Et ad similitudinem suam",53,cb145d6e-3da8-432b-9e48-bdbcc23d5278
+f53-25v.xml,25v,"propriã formauit Et preelegit
+nirginem et sic in se obumbrauit.
+¶Et humanã propaginem redi
+meret que peccauit u̾ Post ꝑtum
+uirgo inuiolata ꝑmansisti. Dei genitrix
+intercede pro nobis. D omine exaudi
+orationem meam. Et clamormeus ad
+te ueniat. Oremus. Oralio
+mnipotens sempiterne
+deus qui beate et glorio
+se uirginis et matris marie cor
+pus et animam ut dignum fi
+li tui habitaculum effici me
+reretur spiritu sancto coope
+rante mirabiliter preparasti",54,f84ac5bb-88aa-4052-97f7-c59705ba5e04
+f54-26r.xml,26r,"da ut cuius cõmemoratione leta-
+mur eius pia intercessione ab in-
+stantibz malis adiuuemur et a
+morte perpetua liberemur. ꝑdõ
+ñrm ihm ⁊ c̾ E enedictũ sit
+nomen dñi nri. Ad primam.
+Eus in adiutoriũ meũ
+intende: Domine ad ad
+loria p̃ri Sicut erat. yꝰ
+Os deus in hoc crimine
+pati uolens ordinauit
+Que sicut mors in homine
+per mulierem intrauit. E ic
+per merita femine uitam ei res
+taurauit. e d auid regis le",55,df2e9c9f-f2ef-4aec-85f8-ab0cc540f797
+f55-26v.xml,26v,"mine quẽ ioachum generauit u̾sꝰ
+post ꝑtũ. oro Om̃ꝑt sempiterne.
+Ben edictũ sit. Ad tertiam Iõ
+Eus in adiutoriũ meũ
+O sapr Si icut yͦ
+E muliere m niimero
+hec sola sanctificata.
+Tuit in matris utero sanctaq
+semper seruata In tuo quoqz
+tenero templo fuit presentata
+Castitatem deo uero nouit spõ
+se dedicata. u̾ post ꝑtum. Dr̃o
+Om̃ps sempiterne ďs. Eñ
+idictũ sitno. Ad sextam
+Eus in adiuitoriũ meũ",56,78dc6b56-3a9a-4cd3-88b5-b54bca009646
+f56-27r.xml,27r,"O loria pri. Ell icut erat. ynꝰ
+E causa mũditie sue nec
+non sanctitatis. Car
+nem ñre miserie sumpsit et hu-
+manitatis Seperet regem gle
+nil habens auxietatis. M anẽ
+te pudicitie floreq uirginitatis
+U̾ Post ꝑtum. OrQ m̃ps
+sempiterne deus. E enedictũ
+sit nomen domini Ad nonam
+Eus in adiutoriũ meũ
+intende. Domine ad ad
+loria pr̃i. S icut er. yꝰ
+piritũ suis uberibus.
+uirginali latte pauit.",57,57124150-9899-4a4b-931e-d0b97f53ab9b
+f57-27v.xml,27v,"Et in pannis pauperibz inuolu
+tum cõportauit. E ibisqz me
+lioribus quos habuit hunc ciba
+uit Donec a puerilibus an
+nis omninomigrauit. u̾. Post
+ꝑtum. Gro. O m̃ix semp̃rne
+deus. Benedictum sit no
+Eus in adiuto Ad uͣs.
+rium meũ intende . Dñe
+loria pri. S icut erat yꝰ
+Tpost xp̃i passionẽ quem
+lpresens uidit maria Et
+eius ascensionẽ usqz regna celes
+tiã. E empli petit mansio
+nem. sicut prius uirgo pia.",58,88475af9-3785-4dbb-88e3-f7ed5a19bbcd
+f58-28r.xml,28r,"Ne parans orationem donec
+fuit in te uia u post ꝑtum. Mo.
+Empc semp̾rne deus. Eñ
+dictum sit nomen. Ad cõpletoriũ
+onuerte nos deus salu
+taris ñr. Et auerte iram
+tuam a nobis. eus in adiu
+toriũ meũ int̾. O la pri E itut
+N obitu cõuenerunt
+omnes eius discipuli
+sainqz sepelierunt et post tres dies
+singuli Corpus in sepulcro
+querunt nil mueniunt seduli.
+Illud assumptũ asserũt in celũ
+omnes creduli. U̾. Post ꝑtum.",59,c3ef760f-f28c-4d6b-bffd-cce2551a0828
+f59-28v.xml,28v,"or̃o. O inmpotens sempiterne
+deus qui beate et gloriose. Recom
+ue matris in honore has
+horas xp̃e dicinius GCor-
+de deuotis in ore mariã quoq peti-
+mus. Et nos mũdet a fetore
+peccatorũ que fecimus. D recũ
+suarũ ferore et in celum tecum si
+mus. u̾. Post ꝑtum uiego inuis
+lata permansisti. Dei genitrix intercede
+pro nobis. Oratio Enimipo
+tens sempiterne deus qui beate
+et gloriose nirgius. Et cetera.",60,ddfafb72-8159-4f3d-944f-3c57627967fd
+f60-29r.xml,29r,"Cintroibo
+ad altare de
+Ad deum qui.
+letificat iu
+uentutẽ mea̾
+Confite
+mini domino quoniam bonus
+Auoniam in seculũ mĩa eius.
+Onfiteor deo celi et beate
+mnarie rargini et omnib
+sanctis dei quia ego infelix pecca
+tor pectaui nimis contra legem
+dei mei In uerbis. in factis. cogita
+tione locutione consensu uisu
+uerbo et opere mea culpa mea",61,e57601f7-cb18-4e2f-a056-6d6eedbffa81
+f61-29v.xml,29v,"culpa mea maxima culpa. Ideo
+precor gloriosã dei genitricem uir
+ginem mariam et omnes scõs et
+sanctas dei et uos pater orare pro
+me petratore.o
+Isereatur nostri om̃ps
+deus et dimissis om̃ib
+petcatis nostris perducat nos et
+uos ihesus thxp̃c aduitam eternã.
+on nobis domine non no
+bis. Sed nomini tuo da glouam
+Ab occultis meis mu̾da me
+domine. Et ab alienis pce seruo
+tuo.E eus tu conuersus u
+uificabis nos. Et plebs tua",62,bafe34fa-cc5a-4479-b9d3-db499fb5fc38
+f62-30r.xml,30r,"domine miscd̾iam tuam. Et sa
+iutare tuu̾ da nobis.  duito
+rium nr̃m in noĩe dñi. Qui fecit
+celum et terrã Sit nome dñi
+benedictum: Ex hoc nũc et usq
+Alue sancta
+parens enixa
+est puerpera re
+gem qui celũ
+terraq regit in
+secula seculoꝵ
+p̃s. Senciant omnes tuũ uiua
+men quicumq celebrant tuam",63,1ea6088f-e9a7-46de-87d7-38fe999a6b0a
+f63-30v.xml,30v,"cõmemoratõnem. ¶ loria p̾ri
+Situt erat.
+yrieleyson. I yrieleys.
+T ynelcyson d pẽ
+leyson A peleyson  peleysõ
+Le yrieleyson Eyrieleyson
+Kyueleyson.
+loria in excelsis deo.
+Et in terra pax ho
+minib bone uolũtatis. I au
+damus te E enedicimus te.
+Adoranus te. ¶ lorifica
+mus te. ¶racias agimus ti
+bi propter magnã gloriam tuã
+omme deus rex celestis de",64,449a96b6-daae-484e-9d0c-351dc63bfb63
+f64-31r.xml,31r,"pater om̃ipotens. Domine fili
+unigenite ihesu xp̃e  D omine
+deus agnus dei filius pris. Qui
+tollis peccata mũdi misere nobis
+Qui tollis peccata mũdi suscipe
+depreratõnem nr̃am. Q ui se
+des ad dexterã patris miserere no
+bis.Cuoniã tu solus sc̃s
+Tu solus dominus. Eu
+solus altissinus ihesũ xpriste.
+Cum sancto spuitu in glori
+a dei ꝑatuis. Oremus. Collc̃a
+oncede nos famulos
+Etuos q̃sumus domine
+deus perpetua mentis et corporis
+7",65,382c91ca-793d-4e23-a8fd-52192bb5fdde
+f65-31v.xml,31v,"salute gaudere et gloriosa beate
+marit semper u̾guus intercessio
+ne a presenti liberari tristicia et
+eterna perfrui leticia. Per eundẽ
+xp̃m dominũ rũm Amen. Epla
+Lectio libri sapientie.ołoł e
+binitio et ante secula
+icreata sum et usqz ad fu
+turum seculũ non desinam et in
+habitatione sancta coram ipso
+ministraui. Et sie in syon firma
+ta sum et in ciuitate sanctificata
+similiter requieui. et in iherusa
+lem potestas mea. Et radicaui
+in populs honorificato et in par",66,60c529eb-08fb-4739-88e8-5acae458566f
+f66-32r.xml,32r,"tes dei mei hereditas illius. Et in
+plenitudine scõrum detentio mea
+enedicta et Graduale
+uenerabilis es uirgo
+maria que sine tactu pudoris in
+uenta es mater saluatoris. u̾sꝰ
+Uirgo dei genitrix quem totus nõ
+capit orbis in tua se clausit uisce
+ra factus homo:
+lleluya. u̾. Uirga iesse
+floruit uirgo deum et
+hominem genuit pacem deus
+reddidit in se reconsilians yma
+summis alleluya :LoL
+Sequentia.
+3",67,4522ec9e-4694-47d3-acd3-a2a985a1e0b0
+f67-32v.xml,32v,"ue uirgo gloriosa mater
+plena grãtia. Tu es
+uere nata rosa regali prosapia
+pristus in te descendendo mũ
+do dedit gandia. Tos adiuues
+miserendo de mortis angustia.O
+demens. Opia. O dultis maria
+aimen. Sequentia sc̃ĩ ewangelii S̾ꝰ.
+N illo tempore. math̾m. Gla t̾ dñe.
+Loquente ihesu ad turbas. Extol
+lens uocem quedam mulier de
+turba dixit ad ihesũ. Beatus
+uenter qui te portauit. et ubera
+que suxisti. At ille dixit. Quĩim
+mo. Beati qui audiunt uerbũ",68,1942d339-1fea-4b89-b02c-7f5211c84909
+f68-33r.xml,33r,"dei et custodiunt illud. Des gr̃as
+Credo in unũ deum
+atrem omnipotẽtem facto
+rem celi et terre uisibiliũ omniũ et
+inuisibiliũ. Et in unũ dominũ
+ihesum xp̃m filium dei unigeni
+tum et ex patre natum ante oĩa
+secula deum de deo lumen de lu
+mine deum uerũ de deouero. Eeni
+tum non factũ consubstãtialem
+patri per quem om̃ia facta sunt.
+Qui propter nos homines et prop
+ter nr̃am salutem descendit de celis.
+Et incarnatus est de spũ sancto
+natus ex maria uirgine ⁊ homo",69,1338a8da-b841-484b-97fa-54a6596bf76c
+f69-33v.xml,33v,"factus est. Crucifixus etiam pro
+nobis sub pontio pylato passus
+et sepultus est. Et resurrexit ter
+cia die secundũ scripturas. Et
+ascendit in celum sedet ad dexte
+ram pr̃is. Et iterum uenturus
+est cum gloria iudicare uiuos
+et mortuos cuius regni nõ erit
+finis. Et in spiritum sanctũ do
+minũ et uiuificãtem. qui ex pa
+tre filioq procedit. Qui cum
+patre et filio simul adoratur ⁊
+conglorificat. qui locutus est
+per prophetas. Et unã scãm
+catholicam et apostolicã etclesiã",70,2e96435f-d447-4b27-bc16-f7de87371a5c
+f70-34r.xml,34r,"confiteor unũ baptisma in remis-
+sionem peccatorũ. Et expecto resur
+rectõnem mortuorũ. Et uitam
+uenturi seculi.amen. Offertor
+Ecordare uirgo mater
+in conspectu deiut lo
+quaris pro nobis bonũ et ut
+auertat indignationem suam
+ab hac familia tu propicia ma
+ter eximia pelle uitia fer remedia
+reis in uia dans in patria uite
+gaudia pro quibus dultia tu
+preconia.laudes cum gracia sus
+cipe pia uirgo maria nobis
+S anctus. E anctus
+S",71,4ef483c6-9ae7-4c7a-923b-f8238fbc9853
+f71-34v.xml,34v,"S anctus dominus deus saba
+othi pleni sunt celi et terra gloria tu
+a osanna in excelsis. Edenedi
+ctus qui uenit in nomine dñi
+osanna in excelsis. oLo ll
+gnus dei qui tollis per
+cata mundi miserere no
+bis. Agnus dei qui tollis pcta
+mundi miserere nobis g
+nus dei qui tollis peccata mũdi
+dona nobis pacem. Cõmunio
+Eata uiscera marie iur
+Iginis que portauerunt
+eterni patris filium. Oremus.
+Col pr le pol ssa poz",72,a45a55c0-d58f-4a16-8fa7-e4d8ea68a4ba
+f72-35r.xml,35r,"lOncede nos famulos tu
+Los quesumus domine deꝰ
+noster perpetua mentis et corporis
+salute gaudere et gloriosa b̃te ma
+rie semꝑ uirginis intercessione a
+presenti liberari tristicia et eterna
+pertrui leticia Per xp̃m dominũ
+nostrum. amen. Oratio
+laceat tibi sc̃a trinitas
+obsequiũ seruitutis mee
+et presta ut hoc sacrificiũ quod u
+culis tue maiestatis indignus
+obtuli tibi sit acceptabile michi
+que et omnibus pro quibus il
+lud obtuli sit te miserante propi",73,6e139957-f9dc-445a-8ccb-ea1dbde1cfcd
+f73-35v.xml,35v,"ciabile uitam eternam. Amen.
+Initiũ sancti ewangelii Secũdum
+Iohãnem. Gloria tibi domine
+N principio eratuerbũ et uerbum
+erat apud deũ et deus erat uerbum
+hoc erat in printipio apud deũ om
+nia per ipsum facta sunt et sine ip̃o
+factum est nichil. Quod factum est
+in ip̃o uita erat et uita erat lux homi
+nũ et lux in tenebris lucet. et tene
+bre eam non cõprehenderũt. Fuit
+homo missus a deo tui nomen erat
+iohãnes. Hicuenit in testimoniũ
+ut testimoniũ perhiberet de lumi
+ne ut omnes crederent per illum",74,e71c719d-29b2-4e53-84ed-a6f115ac9abc
+f74-36r.xml,36r,"Non erat ille lux sedut testimoniũ
+perhiberet de lumine. Erat lux
+uera que illuminat omnem ho
+minem uenientem in hunc mũ
+dum. In miuido erat et mũdus
+per ipsum factus est et mundus
+cum non cognouit In propria ue
+nit et sui eum non receperunt
+Quotquot autem receperũt eum
+dedit eis potestatem filios dei fi
+eri. Hiis qui credunt in nomine
+eius. Qui non ex sanguinibus
+neq ex uolũtate carnis neq ex
+uolũtate uiri. Sed ex deo nati st̃.
+Et uerbum caro factum est et",75,25c1811b-8972-4227-8966-252e37ebe6b4
+f75-36v.xml,36v,"habitauit in nobis. Etuidimus
+gloriam eius gloriam quasi unui
+geniti a patre. Plenum gracie et
+ueritatis. Deo gracias
+Per enuangelica dicta deleantur
+nostra delicta. Amen. magi ne
+ini sorgoans amongco nau nus
+uigIII nOn UISUINAII
+nuuiimiden ma dongron
+IIU OuIImnnag snuo
+numon in imison iun ancs. m
+oudino non me. auo
+uquii antito uaulor euu
+AMUII UO UOẽ runniulou
+nlh nntisa gisi mutr⁊",76,666be692-9536-4f1d-a88f-4ba4cfa79d8b
+f76-37r.xml,37r,"yrieleyson.  peleyson.
+N yrieleysõ. E ca
+maria. Ora pro nobis.
+Scã maria extellentissima regi
+na intercede pronobis. Se c̃a mã
+ria uirgo beatissima intercede pro
+nobis. Sca maria clementissi
+ma domina. ora prome   ca
+maria benignissima consolatio
+ad te confugientiũ intercede pro me
+Scã maria pietate plena et
+omni dulcedine. ora pro me. Ecã
+maria pulchritudo angelorũ inter
+cede pro me. E ca maria flos
+patriarcharũ intercede pro me.",77,814e6fa6-a7f2-48bb-aeb3-0166399bcb40
+f77-37v.xml,37v,"ancta maria desiderium pro
+phetarum intercede prome. S cã
+maria thesaurus apostolorũ. inter
+cede pro me.  ca maria laus
+m artyrũ intercede pro me S cã
+maria consolatio tribulantium
+intercede pro me. S cã maria
+xp̃i genitux gloriosa intercede pro
+me. Scã maria ĩmaculata
+uirgo. intercede pro me. E ca
+maria decus uirginũ castitatis
+exemplũ int̾cede pro mẽ. S ca
+maria suꝑ om̃s feminas bñdicta
+infrede prõme. S cã maria extẽde
+manũ tuã ad me et libera cor",78,8b2ff22f-377e-4d5f-9b0f-e406e395b4e6
+f78-38r.xml,38r,"meum de malarũ temptatõne cogita
+tionũ ut faciam uolũtatem tuã sal-
+ua me peccatorem te rogo o domina
+E cã maria ꝑ misericordiã filii
+tui quem dilexit te saluatoris nr̃i
+qui in utero tuo incuruari uoluit
+miserere michi famulo tuo miserri
+mo et ora pro peccatis meis. E ca
+maria nirgo ꝑ dilectionẽ filii tui quẽ
+dilexit te ut exaltaret te super choros
+angelorũ exaudi me. Scã maria
+adiuua me et intercede pro me. ut cus
+todiat me deus ab omni malo p̃te
+rito et futuro. E cã maria de co
+ratio urginũ miscrere mͥ famulo",79,17420728-9318-4c32-be00-eb2054a3e131
+f79-38v.xml,38v,"tuo S cã maria mitissima beatis
+sima benignissima omni pietate ple
+na miserere met E sa maria por
+ta celi conscia setretorũ dei miserere
+mei. S ca maria te laudo te adoro
+te glorifico te magnifico laudo te a-
+doro altitudinem tuã. laudo ⁊ adoro
+misericordiam ⁊ humilitatẽ tu am
+laudo et adorospeciem tuã laudo et
+adoro dignitatem et gloriã tuã quia
+sola fuisti digna inter om̃s mulieres
+portare generatorem celi ⁊ terre et
+omniũ que in eis sunt laudo et
+adoro benedictũ uentrem tuum
+quia portauit ihesum xp̃m. laudo",80,87879125-a331-481c-b935-098603a22f35
+f80-39r.xml,39r,"et adoro beata ubera tua que lacta
+uerũt saluatorem mũdĩ S cã
+maria audi me. S sa maria
+exaudi me. Eca maria adiu
+ua me. Tirgõ sancta mater
+xp̃i succurre et intercede filio tuo
+pro me et pro omni populo xp̃ĩa-
+no et specialiter pro cunctis cõsan
+guineis ꝓpinquis et amicis atq
+benefactorib meis. Et proillis qͥ
+in me fiduciam habuerũt uel ha-
+bent uel pro quibz orare promisi
+uel debitor sum orandi uel aliquo
+modo constructus super exorare
+uel suas elemosinas michi im",81,ee60a7c5-5342-4b3c-8b24-8cb5083243db
+f81-39v.xml,39v,"penderũt ut spacium uere penitẽtie
+et emẽdationem uite et in bonis
+operibus ꝑseuerare nobis conce
+dere dignetur et cũctis fidelibus
+defunctis requiem eternã dona
+redignetur amen. E yreley
+son d p̃el̾ E yrieleyson.
+Daternr. Et ne nos. magni
+ficat. Et cetͣa. Gia pr̃i. D omine
+saluũ me fac. Et exaudime in die
+qua ĩuocauerimus te. Alma uir
+go u̾ginũ intercede pro me ad tu-
+um filiũ S c̃ã dei genitrix sit
+mͥ auxiliatux. Saluũ fac seruũ
+tuũ dña sperãtem in te. u̾sus.",82,410889fb-9c58-4bb2-a6e0-32acac3e98a5
+f82-40r.xml,40r,"Dignare me laudare te uirgo sacrata. Da
+mͥ uirtutẽ contra hostes tuos. Domine
+exaudi. Et clamor. Oremus. Or̃o.
+Ancta maria porta celi
+paradisi ianua filii tui
+palatium xp̃i perte dei genitrix por
+te sunt aperte. ꝑ te pax inter om̃s
+homines et angelos facta est per
+te mũdus restauratus est. per te
+omnia bona facta sunt in celo ⁊
+in terra.Tu es gloria iherusalem
+tu es leticia israel. tu es exultatio
+tocius mũdi. tu es electa ante
+mũdi constitutionẽ et manes
+sine fuie in regno filii tut. Ibi
+40",83,0b97868a-bb1f-4a7b-887c-a1b598405c20
+f83-40v.xml,40v,"obediunt tibi angeli et seruiũt ar-
+changeli patriarche ⁊ ꝓphete obedi
+unt tibi. apostoli ⁊ martyres cõfesso
+res et uirgines. et omnes iurtutes
+celorũ propter hoc precor te beata ĩ
+glorio sa uirgo dei genitrix maria
+pro amore unigeniti filii tui qui
+talem dedit tibi honorem ut dig
+neris me exaudire in omnibus
+necessitatibus meis et non dere
+linquas me sine adiutorio in
+illa hora quando anima mea
+exiet de corpore meo adiuua me
+in die iuditii ut secure ueniam
+ad portam paradisi antequam",84,7b327cc1-d5a3-40f4-b43e-d0459c9fbdbe
+f84-41r.xml,41r,"merear uidere filium tuum qui con
+cedat michi leticiam sine fine habe
+re cũ omnibz sanctis anien. Or̃o
+Eprecor te sancta maria
+mater dei pietate plenissi
+ma sũmi regis filia mater glorio
+sissima. mater orphanorũ. conso
+latio desolatorũ. uia errantium.
+salus in te sperantiũ. uirgo ante
+ꝑtum urego in partu et uirgo
+post partum . fons misericordie
+fons salutis et gracie. Fons pie
+tatis et leticie fons consolafonis
+et indulgentie ut intercedas pro
+me peccãtore famulo tuo ante cõ
+41",85,6670b3ac-e77f-4945-80fb-fbf4cb1b0d91
+f85-41v.xml,41v,"spectum filii tui ut per suam mise-
+ricordiam et per sanctam tuam
+intercessionem concedat michi
+ante tempus et diem mortis
+mee puram de peccatis meis con
+fessionem et uerã penitentiam. ⁊
+post mortem cũ sanctis et electis
+suis nitam eternam et omnib
+fidelibus uiuis ⁊ defunctis ui
+tam et requiem sempiternam
+Amen. Oratio
+Ancta maria mater do-
+mini nr̃i ihesu xp̃i in
+manus tuas et in manus filii
+tui et in manus oĩm sanctoꝵ",86,3e494726-5d8d-4cfa-b2e7-b679dd535ac6
+f86-42r.xml,42r,"tuorum cõmendo hodie et omni
+tempore animam meam ⁊ani
+mam patris mei et aĩam matris
+mee et animas omniũ benefacto-
+rum meorũ. custodi corpus meũ
+et uitam meam. et uisum meũ
+et habitũ meum. ⁊statum meũ.
+et sermones meos.custodi me do
+mine a uiciis et a peccatis et a
+temptationibz dyaboli libera
+me domine et da michi salutem
+corporis et anime. et da michi
+spacium uere penitentie et remis
+sionem omnium peccatorum
+meorũ Salua me domine nigi
+72",87,fa78a9bc-b386-4f25-ae28-3c1f0b17dfa4
+f87-42v.xml,42v,"lantem custodi me dormientem
+ut uigilem et ambulem in te do-
+mine deus meus. Amen. Dr̃o.
+Gloriosa domina dei
+genitrix uia ante mun-
+di constitutionem preelecta.
+Ego seruus tuus immensam
+clementiam tuam rogo et exo
+ro per illam sanctam annun
+tiationem quam tibi sum-
+mus archangelus gabriel
+annuntiauit predicans xpis-
+tum de te esse natum. ut ue
+niam michi impetres a do
+mino de peccatis meis. Et",88,f7f61941-6c40-4dd5-9df1-a33db0ad0772
+f88-43r.xml,43r,"Et sicut eo tibi nunciante gaui
+sa es. Ita me de quacumqz re seu
+tribulatione clamauero adte
+exaudire digneris.Amen. Oro
+bona cõtra tẽptationẽ dyaboli.
+llumina oculos meos ne
+Conquã obdornuam ĩ mor
+te nequando dicat mimicus me
+us preualui aduersus eum
+En manus tuas cõmendo
+spiritum meũ. redemisti me do
+mine deus ueritatis.
+Locutus sum in lingua me
+a. notum fac michi domine
+finem meun.
+43",89,39d12b36-9474-4d58-b075-e87d02e3531c
+f89-43v.xml,43v,"Et numerum dierũ meorum
+quis est ut sciam quid desit michi
+isrupisti uincula mea ti
+bi sacrificabo hostiam laudis ⁊
+nomen domini inuocabo.
+Deriit fuga a me et non est
+qui requirat aĩam meam
+E lamaui ad te domine dixi
+tu es spes mea porcio mea in
+terra uiuencunt
+Ras mecum signum in bo
+no ut uideant qui me oderũt
+et confundãtur quoniã tu do-
+mine adiuusti me ⁊ cõsolatus
+es me. Dremus. Dratio.",90,01cae1ec-284e-4b3b-9754-178c47ce4f33
+f90-44r.xml,44r,"innipotens sempiterne
+deus qui ezechie regi te
+cum lacrimis deprecanti uite spa-
+aium prolongasti. concede michi
+indigno famulo tuo tantum
+uite spacium ut omnia mala
+mea ualeam deplorare et ueniã
+secundũ tuam misericordiam
+consequi. Per xp̃m dominũ nos
+trum. Aol mE .R. or̃o
+Omine ihesu xp̃e fili de
+uiui dirige gressus meos
+inspira in gr̃am tuam fida tue
+constantiam et in ea ꝑseueranti
+am in articulo mortis pone dñe
+14",91,02add648-f2c5-4d21-972c-9caf7675bcdf
+f91-44v.xml,44v,"custodiam ori meo et ostium cir
+cũstantie labus meis. Amen. Gro
+angus domini nostri
+ihesu xp̃i qui pro nobis
+effusus est proficiat nobis in
+remissionem peccatorũ. Amen
+aout necego meolau dom
+maisicorin mot ũu
+Ion ĩnumco mec N ipaco
+qm. A lo do ss o. Rnoi
+ii uã dĩci ndili aunie
+edan auleorg ionis nun
+ut uia miua mãto iu auclm
+mucoie m im manasoa
+ꝯns unoii ancom alucra i ma",92,5df46aa2-b8f3-4383-b7d1-64ddb5a19e9e
 f92-45r.xml,45r,,93,aaf4c815-b369-4efc-ae57-beae99fefb45
 f93-45v.xml,45v,,94,4e66c695-caa0-4b2b-9584-116148db737b
-f94-46r.xml,46r,De sancta wilgeforte anth̾a. ¶ue gemma uirtuosa wilgefortis uer- nans rosa mũde tute patens glosa sis pro nobis spetiosa interuentrix gratiosa. u̾ Ora pro nobis beata uirgo wilgefortis Ut digni effitiam̃ ꝓmissione xp̃i. Oremꝰ amiliam tuam Colla. quesumus domine bea te woilgefortis uirginis et martyris tue regis filie meritis ⁊ precibus propicis respice et sicut ad pre ces ipsius quã concupunt bar b̾a celitus accrescere fecisti. ita de sideria cordis ñri superne gracie digneris augmẽtare ꝑ xp̃m d̾ .n.,95,04972f59-5705-40cf-9e9d-cdeea7d1a87b
+f94-46r.xml,46r,"De sancta wilgeforte anth̾a.
+¶ue gemma uirtuosa wilgefortis uer-
+nans rosa mũde tute patens glosa sis pro
+nobis spetiosa interuentrix gratiosa. u̾
+Ora pro nobis beata uirgo wilgefortis
+Ut digni effitiam̃ ꝓmissione xp̃i. Oremꝰ
+amiliam tuam Colla.
+quesumus domine bea
+te woilgefortis uirginis et martyris
+tue regis filie meritis ⁊ precibus
+propicis respice et sicut ad pre
+ces ipsius quã concupunt bar
+b̾a celitus accrescere fecisti. ita de
+sideria cordis ñri superne gracie
+digneris augmẽtare ꝑ xp̃m d̾ .n.
+36",95,04972f59-5705-40cf-9e9d-cdeea7d1a87b
 f95-46v.xml,46v,,96,477dcc99-5333-46b4-b91d-580c158fa2a6
-f96-47r.xml,47r,,97,28d97c2a-e210-4a78-86c0-235be30362a5
+f96-47r.xml,47r,97,97,28d97c2a-e210-4a78-86c0-235be30362a5
 f97-47v.xml,47v,,98,4c1ed0ba-a5c5-4faa-bce7-ad2727aeb6c3
-f98-48r.xml,48r,De sancto sebastiano antyphona beate sebastiane magna est fides tua intercede ꝑrõ nobis ad drẽm aĩm ihesum xp̃m u̾t a morbo siue a peste e pydimie liberemur. u̾. Ora pro nob̾ beatissime sebastiane. Ut mereamur a peste epydimie illesi effugere ⁊ xp̃i promissiones obtinere. Domine exaudi or̃onem meam. Et clamor m̃s ad te ueniat. Oremus. Colsca innipotens sempiterne deus qui meritis beati sebastiani martyris tui glorio sissimi quandam generalem pestem hominib mortiferam,99,c6071ee8-2e3d-4234-b9a2-3ca640d673a3
-f99-48v.xml,48v,reuocasti. presta supplicib tuis ut quicũq hanc orationem super se portauerit uel in domibz aut in mansionibz aut aliam de eo in tuo nomine habuerint pro simili morbo et peste reuocanda sub eius confidentia ad te confu- gerint ipsius meritis ⁊ precib ab ipsius peste ⁊ morbo epydimie et omni tribulatione et pericu lo liberemur. Per xp̃m d̾. nr̃m,100,f62f9fc6-5c86-48fb-a2ca-b1415313965e
-f100-49r.xml,49r,liacias tibi ago domine deus omnipotens qui me indignũ peccatorem in huius noctis tenebris a dyaboli temp tatione custodisti atq ad princi pium huius diei me peruenire fecisti tua me hodie salua uirtu te ut in hac die ad nullũ declinẽ peccatũ sed semper ad tuam faci endam uolũtatem mea procedãt eloquia dirigãtur cogitationes et opera ita ut in huius diei cur su gratũ sacrifitiũ tibi ualeam offerre ordina statũ meũ domine,101,9693957e-f425-4145-bbe1-4a9d982d47d8
-f101-49v.xml,49v,pater piissime et quod a me requi- ris tribue ut sciam et da exequi ut oportet et expedit anime mee et ne despitias me propter innu merabilia peccata mea sed concede michi misericors deus que tibi placita sunt ardenter concupisce prudenter inuestigare ueraciter agnoscere et perfecte adimplere ad laudem et gloriam nominis tui et conserua me hodie et oĩbz diebus uite mee et omni sancti tate et tua uolũtate et fac me par ticipem omnium meritorum utriusqz ecclesie tue sancte per,102,e66beab7-7f83-4f2c-a90a-d5b5057b4e62
-f102-50r.xml,50r,merita sanctissime passionis tue. et omniũ sanctorũ sanctarũq tu arum que tibi pro peccatis meis humiliter represento supplicando quatinus me ꝑ eadem merita ab omni malo defendere et ad uitam eternam perducere digneris.Per xp̃m dominũ nũm. Amen.,103,c996e2ef-1c41-4656-b620-7641efdc88f2
+f98-48r.xml,48r,"De sancto sebastiano antyphona
+beate sebastiane magna est fides
+tua intercede ꝑrõ nobis ad drẽm aĩm
+ihesum xp̃m u̾t a morbo siue a peste e
+pydimie liberemur. u̾. Ora pro nob̾
+beatissime sebastiane. Ut mereamur
+a peste epydimie illesi effugere ⁊ xp̃i
+promissiones obtinere. Domine
+exaudi or̃onem meam. Et clamor
+m̃s ad te ueniat. Oremus. Colsca
+innipotens sempiterne
+deus qui meritis beati
+sebastiani martyris tui glorio
+sissimi quandam generalem
+pestem hominib mortiferam
+58",99,c6071ee8-2e3d-4234-b9a2-3ca640d673a3
+f99-48v.xml,48v,"reuocasti. presta supplicib tuis ut
+quicũq hanc orationem super
+se portauerit uel in domibz aut
+in mansionibz aut aliam de eo
+in tuo nomine habuerint pro
+simili morbo et peste reuocanda
+sub eius confidentia ad te confu-
+gerint ipsius meritis ⁊ precib
+ab ipsius peste ⁊ morbo epydimie
+et omni tribulatione et pericu
+lo liberemur. Per xp̃m d̾. nr̃m
+Amen.",100,f62f9fc6-5c86-48fb-a2ca-b1415313965e
+f100-49r.xml,49r,"Dequitur oratio ualde bona
+liacias tibi ago domine
+deus omnipotens qui
+me indignũ peccatorem in huius
+noctis tenebris a dyaboli temp
+tatione custodisti atq ad princi
+pium huius diei me peruenire
+fecisti tua me hodie salua uirtu
+te ut in hac die ad nullũ declinẽ
+peccatũ sed semper ad tuam faci
+endam uolũtatem mea procedãt
+eloquia dirigãtur cogitationes
+et opera ita ut in huius diei cur
+su gratũ sacrifitiũ tibi ualeam
+offerre ordina statũ meũ domine
+29",101,9693957e-f425-4145-bbe1-4a9d982d47d8
+f101-49v.xml,49v,"pater piissime et quod a me requi-
+ris tribue ut sciam et da exequi
+ut oportet et expedit anime mee
+et ne despitias me propter innu
+merabilia peccata mea sed concede
+michi misericors deus que tibi
+placita sunt ardenter concupisce
+prudenter inuestigare ueraciter
+agnoscere et perfecte adimplere
+ad laudem et gloriam nominis
+tui et conserua me hodie et oĩbz
+diebus uite mee et omni sancti
+tate et tua uolũtate et fac me par
+ticipem omnium meritorum
+utriusqz ecclesie tue sancte per",102,e66beab7-7f83-4f2c-a90a-d5b5057b4e62
+f102-50r.xml,50r,"merita sanctissime passionis tue.
+et omniũ sanctorũ sanctarũq tu
+arum que tibi pro peccatis meis
+humiliter represento supplicando
+quatinus me ꝑ eadem merita ab
+omni malo defendere et ad uitam
+eternam perducere digneris.Per
+xp̃m dominũ nũm. Amen.
+30",103,c996e2ef-1c41-4656-b620-7641efdc88f2
 f103-50v.xml,50v,,104,9fddc5bd-f851-40ef-954a-a456fde2b951
-f104-51r.xml,51r,De scõ Iacobo. dr̃o. Oremus sto domine plebi tue sanctificator et custos ut apostoli tui iacobi munita presidiis et conuersatione tibi placeat et secura deseruiat. Per xp̃m dominũ nĩm. Amen,105,7baf497e-6007-4943-b6e5-f8a07be71aef
-f105-51v.xml,51v,,106,45e8485f-9ae2-472e-a236-b82d358b319c
-f106-52r.xml,52r,,107,35f4d095-310b-435d-951a-3349ab342356
+f104-51r.xml,51r,"De scõ Iacobo. dr̃o. Oremus
+sto domine plebi tue
+sanctificator et custos
+ut apostoli tui iacobi munita
+presidiis et conuersatione tibi
+placeat et secura deseruiat. Per
+xp̃m dominũ nĩm. Amen
+51",105,7baf497e-6007-4943-b6e5-f8a07be71aef
+f105-51v.xml,51v,"AIIIINIE. NEEI UIIHI EILAO
+Ua IOIU IIos o",106,45e8485f-9ae2-472e-a236-b82d358b319c
+f106-52r.xml,52r,52,107,35f4d095-310b-435d-951a-3349ab342356
 f107-52v.xml,52v,,108,ec2094ae-a1ec-4746-942c-7d3a1772d1b9
-f108-53r.xml,53r,Mauri abbatis Collecta Hrtercessio nos quesumus domine beati mauri abba tis cõmendet ut quod ñris meritis non ualemus eius patrocinio assequamur. Per xp̃m dominũ nostrum. A mE. .R.,109,78e99a8a-2701-47e2-badb-487a9cbb3eab
-f109-53v.xml,53v,,110,9bd22ed1-b55e-4a9f-9f52-94043adc0066
-f110-54r.xml,54r,De omnibus sanctis Antlia. ancti dei omnes intercedite pro nostra omniũq salute. U̾ꝰ Letami ni in domino et exultate iusti. Et gloriamini omnes recti corde. Coll̃ E tetur ecclesia tua deus omnium sanctorum tu orum confisa suffraguis atq eorum precibus gloriosis. et deuota permaneat et secura consistat. Per dominũ nr̃m,111,3470d466-8d37-44c1-9521-007a7cb3cd88
-f111-54v.xml,54v,,112,57c4e726-a47e-4f48-8fec-e8750bffab05
+f108-53r.xml,53r,"Mauri abbatis Collecta
+Hrtercessio nos quesumus
+domine beati mauri abba
+tis cõmendet ut quod ñris meritis
+non ualemus eius patrocinio
+assequamur. Per xp̃m dominũ
+nostrum. A mE. .R.
+55",109,78e99a8a-2701-47e2-badb-487a9cbb3eab
+f109-53v.xml,53v,"N III UES IUI
+notaq sui ananis",110,9bd22ed1-b55e-4a9f-9f52-94043adc0066
+f110-54r.xml,54r,"De omnibus sanctis Antlia.
+ancti dei omnes intercedite pro
+nostra omniũq salute. U̾ꝰ Letami
+ni in domino et exultate iusti. Et
+gloriamini omnes recti corde. Coll̃
+E tetur ecclesia tua deus
+omnium sanctorum tu
+orum confisa suffraguis atq
+eorum precibus gloriosis. et
+deuota permaneat et secura
+consistat. Per dominũ nr̃m
+54",111,3470d466-8d37-44c1-9521-007a7cb3cd88
+f111-54v.xml,54v,"TIIIIS SIII IUUUIIIIO
+uii nigiosdius iumu E
+i  e mlea eus innen
+i .u. Miu mlii nons m
+N.aslouolo auorrius i
+euioi nllonanenu mairs
+ncm iuimos r. Ithuca
+ib. uo mn ammo mno
+uisnuin uihharumn
+il iniuorural iminumo
+pas ꝯuontam aauor iune",112,57c4e726-a47e-4f48-8fec-e8750bffab05
 f112-55r.xml,55r,,113,50d82f4d-a663-45c8-8869-f5cf34fffaef
 f113-55v.xml,55v,,114,c36a32ca-fa20-4583-9e66-40103d29dc15
 f114-56r.xml,56r,,115,6ecb4112-a653-45e3-b56c-1acfbe39c58f
 f115-56v.xml,56v,,116,d1176fed-3e0c-4ef1-bdfa-b96f9f723946
-f116-57r.xml,57r,salus mũdi hos itia sacra uerbum caro fons pietatis. I ue ih̃u xp̃e laus angelorũ gloria sanctorũ- uisio pacis deitas integra. uerus homo flos et sponsus nirginita tis. A ue ih̾u xp̃e splendor pa tris princeps pacis. ianua celi panis uiuus uirginis partus uas deitatis. Iue ihesu xp̃e lumen celi prẽcuĩ mundi gau,117,81495f65-d542-4e9d-abc0-7e0a3a9c6224
-f117-57v.xml,57v,dium nr̃m angelorũ panis cordis iubilus rex et sponsus uirginis matus. Aue ihesu xp̃e uia dul sis ueritas nera precium nostrũ caritas summa. fons amoris pax dulcedo requies uera uita perhennis E hesu bone sie dispone horam mei transitus ut ad chorum electorũ pergat mens spiritus Amen ols,118,5436378c-825c-4ad6-9887-31124d112d2a
-f118-58r.xml,58r,,119,fb6d45c0-bc0e-433f-8d56-2e7e8223ca38
+f116-57r.xml,57r,"Oro bona de dño ñro ihesu xpristo
+Ue ih̾u xp̃e uerbũ
+patris. filius uir
+guns agnus dei
+salus mũdi hos
+itia sacra uerbum
+caro fons pietatis. I ue ih̃u xp̃e
+laus angelorũ gloria sanctorũ-
+uisio pacis deitas integra. uerus
+homo flos et sponsus nirginita
+tis. A ue ih̾u xp̃e splendor pa
+tris princeps pacis. ianua celi
+panis uiuus uirginis partus
+uas deitatis. Iue ihesu xp̃e
+lumen celi prẽcuĩ mundi gau",117,81495f65-d542-4e9d-abc0-7e0a3a9c6224
+f117-57v.xml,57v,"dium nr̃m angelorũ panis cordis
+iubilus rex et sponsus uirginis
+matus. Aue ihesu xp̃e uia dul
+sis ueritas nera precium nostrũ
+caritas summa. fons amoris
+pax dulcedo requies uera uita
+perhennis E hesu bone sie
+dispone horam mei transitus
+ut ad chorum electorũ pergat
+mens spiritus Amen ols",118,5436378c-825c-4ad6-9887-31124d112d2a
+f118-58r.xml,58r,58,119,fb6d45c0-bc0e-433f-8d56-2e7e8223ca38
 f119-58v.xml,58v,,120,de19c666-f367-4e5f-b889-2a168c1ba8e8
-f120-59r.xml,59r,De sc̃o petro Oratis. Eus cuius dextera beatũ petrum apostolũ tuum ambulantem in fluctibus maris ne mergeretur erexit et coaposto lum eius paulũ de profundo pe lagi liberauit. excuidi nos pro pitius et concede ut amborum meritis eternitatis gloriã con sequamur. ꝑ xp̃m dominum nostrum. A fol c lol  l,121,eea6970a-cc6e-42f6-aed9-7d59af206e1d
-f121-59v.xml,59v,,122,bf7bd33f-6a63-44f0-a747-6d962dccf461
+f120-59r.xml,59r,"De sc̃o petro Oratis.
+Eus cuius dextera beatũ
+petrum apostolũ tuum
+ambulantem in fluctibus maris
+ne mergeretur erexit et coaposto
+lum eius paulũ de profundo pe
+lagi liberauit. excuidi nos pro
+pitius et concede ut amborum
+meritis eternitatis gloriã con
+sequamur. ꝑ xp̃m dominum
+nostrum. A fol c lol  l
+59",121,eea6970a-cc6e-42f6-aed9-7d59af206e1d
+f121-59v.xml,59v,"nius uloiais nusmq
+aui aun iu itialudinsi
+MUIIUIIIISEIIII II
+IIISUILIII IIISLLILIS
+iCIIIIITI AUTI
+II UIMSAISIIIISIIITIIII
+IIIUIIMSIIIITAI",122,bf7bd33f-6a63-44f0-a747-6d962dccf461
 f122-60r.xml,60r,,123,35b6d3a5-5f73-44bb-8a05-a50c0f753762
 f123-60v.xml,60v,,124,afcb6f71-3b95-4096-b159-62cf2e8622ed
-f124-61r.xml,61r,Tabat ma ter dolorosa Iuxta crucẽ lacrimosa dum pen debat filuis. Cuius ani mai gementemi Contristantem et dolentem,125,b97a82d1-3c3c-4560-8841-2e401141d842
-f125-61v.xml,61v,Que merebat et dolebat Et tremebat cũ uidebat Nati penas incliti Aue maria gr̃a .p.D.t uis est homo qͥ non fleret xp̃i matrem si uideret In tanto supplitio Quis non posset contristari Piam matrem cõtemplari dolentem cum filio Aue maria gr̃a .p . d .l. ro peccatis sue gentis Et flagellis subditum hesũ iudit in tormẽtis uidit suu̾̃ dulcem natum,126,29874d72-abbb-425e-85f2-b54116c6fd15
-f126-62r.xml,62r,Morientem desolatum Cum emisit spiritum Aue maria gr̃a .p .D. t. ya mater fons amoris Fat ut tecum lugeam me sentire uim doloris. Facut ardeat cor meũ In amando xp̃m deum Ut sibi complaceam Aue maria gr̃a .ꝑ . D.t. c̃a mater istud agas Crucifixi fige plagas Cordi mes ualide Tui nati uulnerati Iam dignãtis pro me pati,127,c34bb00f-d457-4142-afb6-1351ad264213
-f127-62v.xml,62v,Penas pro me diuide Aue maria gr̃a .ꝑ .d.t. ac me tecũnere flere Erncifixo condolere Donet ego iuxero Iuxta crucem tecũ stare Te libenter sotiare In planctu desidero Are maria gr̃a ꝑ.D.t. irgo nirginũ precdara Fac me tecum plangere arichi iam nõ sis amara Facut portem xp̃i mortem Passionis eius sortem Et plagas recolere,128,51ec9b6b-f0c9-46b2-8d3e-38bc553181e5
-f128-63r.xml,63r,Are maria gr̃ã plena .d .t. ac me plagis nulnerari Ob amorem filii Cruce hac mebriari Inflãmata et accensa per te uirgo sim defensa In die iudicu . amen Aue maria gr̃a ꝑ .D .t. ac me me tecũ custodiri morte xp̃i premuniri Confoueri grasla Quando corpus morietur fac ut anime donetur Paradisi gloria Amen Are maria gr̃a ꝑ .dt.,129,cc9eb02d-2b41-45aa-a824-9888bc41e082
-f129-63v.xml,63v,In p̾sentien des lichamẽ ons heerẽ Ueuerum corpus natum Ex maria uirgine Uere passũ immolatũ In cruce pro homine Cuius latus ꝑforatum Uere fluxit sanguine Esto nobis prẽgustatũ mortis in examine Odulcis o pis O ihesu fili marie m iserere nostri Amen.,130,f6dfe22f-b8b3-4460-9cf2-085720748fee
-f130-64r.xml,64r,nima xpristi sanc tifica me. Corpus xpristi salua me Sanguis xp̃i iebria me Aqua lateris xp̃i laua me Passio xp̃i conforta me Bonc ihesu exaudi ml Ne ꝑmittas me a te seꝑar ab hoste maligno defende me In hora mortis uoca me et pone me iuxta te ut cũ angelis tuis laudẽ te In secula seculorum Amen,131,c848ce7a-af68-42cb-acde-c9b8a2fd4e47
-f131-64v.xml,64v,et ineternum benedicta spe cialis et incõ parabilis uir go maria gra tissumũ dei templum spiritus sc̃i sacrarium ianua regni celorum per quam post deun totus uiuit orbis terrarũ. Inclina aures tue pi etatis indignis supplicationib meis et esto peuatori pia et in om nibus auxiliatux. Oiohannes beatissime xp̃i familiaris cimise,132,bd81ead6-5af5-4436-ac93-1f002c517d7c
-f132-65r.xml,65r,qui ab eodem domino nr̃o ihesu xp̃o nirgo es electus ac inter ceteros magis dilectus atqz mysterus cele stibus ultra omnes imbutus. Io hannes apostolus et euuangelista factus es preclarissimus. Te inuo co eciam cũ matre eiusdem domini nostri ihesu xp̃i. ut michi opem cũ ca ferre digneris. O due gemme ce lestes. Mana ⁊ iohãnes. O duo lu minaria diuinitus ante deum lu- centia uestris radiis scelerũ meorũ effugate nebula. Uos estis illi duo in quibus deus pater per filium suum dominũ nostrũ iħ̃m xpi,133,8242f063-1ed4-4c93-971d-55c0ead424c5
-f133-65v.xml,65v,spetialiter edificauit sibi templũ et in quibus ip̃e de patuis unige nitus obsinterissime uirginitatis meritum dilectionis sue confir mauit in cruce pendens uni ues trum ita dicens: Mulier. ecce fili tuns Deinde eccẽ matertua. In cuius ergo gratissimi amoris dulcedine qua ita tunc ore dom nico uelud mater et filius inuicẽ coniuncti estis. uobis duob ego peccator hodie et in omni tẽpore corpus meum et aĩam meam cõ- mendo ut omnib horis ato mo mentis intus et exterius firmi,134,e9a5bf22-77d3-48a2-bddf-389091b68f97
-f134-66r.xml,66r,custodes et pu apud dominũ mi chi peccatori intercessores existere dignemini. Credo enim firmiter et indubitãter fatcor quia uelle uestrum uelle dei est. et nolle ur̃m nolle dei est. unde quidquid ab il lo petitis sine mora obtinetis. Per hanc ergo tam potentissimã uirtutem uestre dignitatis poscite queso poscite corporis et anime sa lutem. Agite queso agite ut uris sanctissimis orationib inuisce re et inhabitare dignetur spũs almus omniũ grãtiarũ largi tor optimus qui me a cunctis,135,1ec1023e-0667-43bc-9186-c1b681624c0a
-f135-66v.xml,66v,uitiorũ sordib expurget uirtuti bus satris exornet in dilectione dei et proximi perfecte stare et per seuerare faciat. Et post huius ui te cursum ad gaudia ducat electo rum suorũ benignissimus paracli litus gratiarũ largitor optimus. Qui cum patre et spuitu sancto uiuit et regnat. Per omnia secu la seculorum. A m E si Bona or̃o de sancta maria,136,b5c1c69b-d76c-46c2-8f97-dcb8a4054bea
-f136-67r.xml,67r,"bsetro te domi na sancta ma ria mater dei pi etate plenissi ma. summi re gis filia. Mater gloriosissima. mater orphanorum. consolatio desolatorũ.uia errantiũ. Salus in te sperantium. Uirgo an te partum uirgo in partu et uirgo post partum . fons misericordie. fons salutis, fons gracie. fons pietatis et leticie fons consolati onis et indulgentie. Per illam sanctam inestimabilem leticiã",137,7a79b98e-9c88-499f-aeaf-708cf0ef868d
-f137-67v.xml,67v,qua exultauit spũs tuus in illa hora quando tibi per gabrielem archangelũ annuntiatus est et conceptus filius dei et per illud diuinũ mysterium quod tunc operatus est spũs sanctus. Et ꝑ illam sanctam mestimabilem pietatem graciam misericordiã amorem et humilitatem per quas filius tuus descendit accipere hu manam carnem in enarrabilissi mo utero tuo. Et in quibus te res pexit quando te cõmendauit sc̃õ iohanni apostolo et euuãgeliste. Et quando te exaltauit super cho,138,458430af-29f1-4abf-8c4a-617903791fd8
-f138-68r.xml,68r,ros angelorũ. Et per illam sanctan mestimabilem humilitatẽ in quã tu respondisti archangelo gabrieli. Ecce ancilla domini. fiat michi secun dum uerbũ tuũ. Etper illa sanctissi ma quindecim gaudia que habuisti de filio tuo domino n̾ro ihesu xp̃o. Et per illam sanctam maximã com passionem et acerbissimũ cordis do lorem quos habuisti quando ui disti filium tuũ dominũ nostium ihesũ xp̃m ante crucem nudatũ ⁊ in ip̃a leuatum pendentem crucifix um sicientem apponi clamãtem audisti et morientem iudiste. Et,139,b73f3b6a-8151-4dcf-8c3b-9f039a7a28bc
-f139-68v.xml,68v,per quinqz uulnera filii tui. Et per contractionem uulnerũ suorum prenimio dolore iuilnerũ. Et per dolorem quem habusti quando uidisti eum nulnerari. Et ꝑ fon tes sanguinis sui. Et per omnem passionem eus. Et per omnẽ dolo- rem cordis tui. Et per fontes lacri marũ tuarum. ut cum sanctis ⁊ electis dei tecum esse merear ueni et festina in auxilium et consili um meũ in omnib orationib et requestis meis. Etiam in om nibus illis in quibus ego sum facturus locuturus aut cogita,140,0bc8e56f-c7e6-4aa9-8c31-f69aafaf6891
-f140-69r.xml,69r,turus omnibz diebz et noctib horis atq momẽtis uite mee. Et michi fa- mulo tuo impetres a dilecto filio tuo cõplementũ omnis misericordie ⁊ consolationis et reple me omni cõ silio. omni auxilio. et adintorio. omni benedictione ⁊ scĩficatione. omni saluatione. omni pace om ni prosperitate gaudio ⁊ alacritate. Etiam habũdantiam omniũ bono rum spiritualiũ et corporaliũ ⁊ gra ciam spũs sancti qui bene omnia disponat. aĩam meam custodiat Cursũ meum dirigat. Sensum regat. mores cõponat. Actus probet.,141,e3ee36db-0506-4c16-a637-bce2ecdcbb42
-f141-69v.xml,69v,Uota et desideria proficiat cogitatio nes sanctas instituat. Preterita mala indulgeat. presentia emen det. futura moderetur. uitam hones tam et honorabilem michi tribu at et uictoriam contra omnes ad uersitates huius mũdi. Et uerã pacem spiritualem et corporalem michi concedat bonã spem. Cari tatem ueram et fidem rectã. Casti tatem. humilitatem. pacientiam et simplicitatẽ. Quinq sensus cor poris mei regat et protegat.Septẽ opera misericordie complere me facias. Et duo decim articulos fider,142,14edd6d7-fb7f-4e5d-8a23-7b4590bf9cf4
-f142-70r.xml,70r,Decem precepta legis firmiter tenere et credere me faciat Et a septem pecca tis criminalibz me liberet et defen dat usq in finem. Et in nouissinus diebus meis ostende michi faciem tuam. Et annũties michi diem et horam obitus mei. Et hanc ora tionem supplicem suscipias et ex audias. Et uitam eternam michi tribuas. Audi et exaudi dulcissima maria mater dei ⁊ misericordis Amen.,143,44d7ac29-dcb8-45c6-8357-f5bf38756991
-f143-70v.xml,70v,Aude nirgo mater xp̃ist que per aurem concepi sti gabrieli nuntio. aude que Ae maria a deo plena. peperisti sine aude quia tui nati. quẽ uidebas mortem pati ful get resurrectio. Ae maria. aude xpristo ascendente et in celo te uidente mo tu fertur proprio Are maria aude que post ipsum scandis et est honor tibi grandis in teli palatio. Are maĩã,144,3b8da336-4c63-4736-8224-646f782a6f6d
-f144-71r.xml,71r,bi fructus uentris tui ꝑ te detur nobis frui in perhenni gaudio. uersus. Post partum uirgo inuiolata ꝑmansisti. Dei genitux intertede pro nobis. Memus. Collca Eus qui beatissimam uirginem mariã in conceptu ⁊ partu uirginitate seruata du plici gaudio letificasti. Quinq eius gaudia filio tuo resurgẽte et ad celos ascendente multipli- casti. presta q̃ sumus ut ad il lud ineffabile gaudiũ quo as sumpta tecũ gaudet in celis,145,04995b39-2710-45a2-aa19-3756644226a0
-f145-71v.xml,71v,eius meritis et intercessione ua leamus peruenire. Per eũdem xp̃m dominũ nr̃m. Amen. Oratis ad uirginem mariam los florum flos ortorũ uregina polorũ. Spes ue ne lux leticie medicina dolorũ Aula dei. Claius paradysi. Et meta laborũ Clara dies. Et sla ra quies.Gloria merorũ. Uirga recens. Et uirgo decens. Et forma bonorũ. Parce reis. Et opem fer eis tu parce piorũ. Pasce tuos succurre tuis. miserere tuorum De sancta katherina,146,cc898f46-9ac4-4558-8d6c-c37fcfd29b4a
-f146-72r.xml,72r,Aude uirgo katherina cui luxit lux diuina ter quaternis noctibus G aude quod tu a doctrina phylosophos a ruina traxit et erroribus. ¶aude quia conuertisti spon sam regis et uidisti rotas fras tas celitus G aude quia meruisti con fortari uote xp̃i post preces di uinitus Gaude serto coronata et in celo uenerata olei stillamine. sto nobis aduocata apd̃,147,d65d5377-6f7d-4491-87b3-5d143e999d71
-f147-72v.xml,72v,deur urgco grasea mri nostro certa mine Amen. Antyphona Nelita sancta katherina lsolempnis suscipiat ala criter pia mater ecclesia. Aue iur go deo digna. Aue dulcis ⁊ benigna optine nobis gaudia que possides cum gloria. Uersꝰ Ora pro nobis ueata iurgo Ratherina. Ut digni efficia mur promissione xp̃i. Oremus. Colla Eus qui dedisti legem tis synai et in eodem loco per an moysi in summitate mõ gelos tuos corpus beate katheri ne uirginis et martiris tue mira,148,2556eaa9-95ab-4639-9cbc-229e4e5c162f
-f148-73r.xml,73r,biliter collocasti. presta quesumus ut eius meritis et intercessione ad montem qui xpristus est ualeamꝰ peruenire. Perdominũ nr̃m ihesũ xp̃m filium tuum. Qui tecũ uiuit et regnat in unitate spũs sancti ds Per om̃ia secula seculorĩt. Amen. Eus qui per Callecta beatissimam uirgiiem tuam katherinam doctores et reginam populiq multitudinẽ ab erroribus reuocasti. cuiq in sua passione destructis machinis uoce tua de celo confortasti. concede propicius. ut deuicti huius mũ,149,050f853f-1715-4de2-9eb7-3bf62bdf20ff
-f149-73v.xml,73v,di tribulationibus ad eterna gaudia ubi cum sanctis tuis congaudet omnibus perueni re ualeamus. Per eundem xp̃m dominum nostrum. Amen De sancta margareta oratio nosa per secula uernans sempiterna tibi sine nebula lucet lux superna sũmo bono frueris uictux coronata margareta superis nos iunge beata. Uersꝰ Ora pro nobis beata uirgo margareta. Ut digni effitiam̾ promissione xp̃i. Oremus. Dr̃o.,150,8df910c3-5be9-41c6-b404-1c51df3249d0
-f150-74r.xml,74r,Eus qui beatam mar garetam uirginem ho dierna die ad celos martyrii pal ma uenire fecisti: concede nobis quesumus. ut eius exempla se quentes ad te peruenire merea mur. Per dominũ nostrũ ihesũ xp̃m filium tuũ. Qui tecũ iuuit et regnat in unitate spũs sancti deus Per omnia secula seculoiũ iol Ayr qo s,151,3eeae8a5-1d67-4eb8-8f85-d9b52a9357f6
-f151-74v.xml,74v,Em creator spiritus mentes tuorum uisita imple superna gracia que tu cre creasti pectora. Qui paracli tus diceris donum dei altissimi fons uiuus ignis caritas ⁊spi ritalis unctis. ¶En septifor mis munere dextre dei tu digi tus tu rite promisso patris ser mone ditans guttura. c cende lumen sensibus infunde amorem cordibus infirma ñri corporis uirtute firmans perpe tini. ostem repellas longi us pacemq dones protinus duc,152,1fd4b2aa-cae7-41fb-9c12-11d3bf9394bd
-f152-75r.xml,75r,tore sic te preuio uitemus omne noctium. Ber te sciamus da patrem noscamus atq filium te utriusq spiritum credamus omni tempore. Eit laus patri cum filio sancto simul paradito nobis q mittat filius carisma sancti spi ritus. Amen. Ulce nomen domini ihesu xp̃i. Et beatissime matris sue gloriose iurginus ma rie sit benedictum in secula. amen. Dratio de sancta maria,153,bb8ccc2d-c015-4782-a9f7-d839961298ff
-f153-75v.xml,75v,Ue regina celorum aue domina angelorũ. Salue rãdix sancta ex qua mũdo lux est orta Salue gloriosa super omnes spetiosa uale ualde decora et pro nobis xp̃m semper exora. Uersus Post partum uirgo inuig lata ꝑman sisti Dei genitrix intercede pro nobis dremus. Collecta.l lEate et gloriose semper u̾ guus marie quesumus domine intercessio gloriosa nos protegat et ad uitam eternam perducat. per xp̃m dominium nostrum.. A m E R.,154,93108397-7178-4ac0-b0c5-8039b5113be2
-f154-76r.xml,76r,Ue maris stella dei mater lalma atqz semper uirgo felix celi porta. S umens illud aue gabrielis ore funda nos in pa ce mutans nomen eue. S ol ue uincla reis profer lumen secis mala nostra pelle bona cuncta posce. Q onstra te esse matrẽ sumat per te precem qui pronobis natus tulit esse tuis. irgo singularis inter omnes mitis nos culpis solutos mites fas et castos. Titam presta purã iter para tutum ut uidentes ihe sum semper colletemur. E it,155,9f19da7a-8719-413e-957a-f76975e0e708
-f155-76v.xml,76v,laus deo patri summo xpristo de cus spiritui sancto honor trinus et unus. A mi,156,0d436084-6bdc-4ede-a12a-0d4f884e38c3
-f156-77r.xml,77r,,157,673c4b3d-f3d5-43e6-a421-f1f86d9a810b
+f124-61r.xml,61r,"Oratio bona de sancta maric
+Tabat ma
+ter dolorosa
+Iuxta crucẽ
+lacrimosa
+dum pen
+debat filuis.
+Cuius ani
+mai gementemi
+Contristantem et dolentem
+partransuut gladias
+Aue maria grãcia .ꝑ .D.t
+quam tristis et afflicta
+fuit illa benedicta
+Mater unigeniti
+61",125,b97a82d1-3c3c-4560-8841-2e401141d842
+f125-61v.xml,61v,"Que merebat et dolebat
+Et tremebat cũ uidebat
+Nati penas incliti
+Aue maria gr̃a .p.D.t
+uis est homo qͥ non fleret
+xp̃i matrem si uideret
+In tanto supplitio
+Quis non posset contristari
+Piam matrem cõtemplari
+dolentem cum filio
+Aue maria gr̃a .p . d .l.
+ro peccatis sue gentis
+Et flagellis subditum
+hesũ iudit in tormẽtis
+uidit suu̾̃ dulcem natum",126,29874d72-abbb-425e-85f2-b54116c6fd15
+f126-62r.xml,62r,"Morientem desolatum
+Cum emisit spiritum
+Aue maria gr̃a .p .D. t.
+ya mater fons amoris
+Fat ut tecum lugeam
+me sentire uim doloris.
+Facut ardeat cor meũ
+In amando xp̃m deum
+Ut sibi complaceam
+Aue maria gr̃a .ꝑ . D.t.
+c̃a mater istud agas
+Crucifixi fige plagas
+Cordi mes ualide
+Tui nati uulnerati
+Iam dignãtis pro me pati
+62",127,c34bb00f-d457-4142-afb6-1351ad264213
+f127-62v.xml,62v,"Penas pro me diuide
+Aue maria gr̃a .ꝑ .d.t.
+ac me tecũnere flere
+Erncifixo condolere
+Donet ego iuxero
+Iuxta crucem tecũ stare
+Te libenter sotiare
+In planctu desidero
+Are maria gr̃a ꝑ.D.t.
+irgo nirginũ precdara
+Fac me tecum plangere
+arichi iam nõ sis amara
+Facut portem xp̃i mortem
+Passionis eius sortem
+Et plagas recolere",128,51ec9b6b-f0c9-46b2-8d3e-38bc553181e5
+f128-63r.xml,63r,"Are maria gr̃ã plena .d .t.
+ac me plagis nulnerari
+Ob amorem filii
+Cruce hac mebriari
+Inflãmata et accensa
+per te uirgo sim defensa
+In die iudicu . amen
+Aue maria gr̃a ꝑ .D .t.
+ac me me tecũ custodiri
+morte xp̃i premuniri
+Confoueri grasla
+Quando corpus morietur
+fac ut anime donetur
+Paradisi gloria Amen
+Are maria gr̃a ꝑ .dt.
+63",129,cc9eb02d-2b41-45aa-a824-9888bc41e082
+f129-63v.xml,63v,"In p̾sentien des lichamẽ ons heerẽ
+Ueuerum
+corpus natum
+Ex maria uirgine
+Uere passũ immolatũ
+In cruce pro homine
+Cuius latus ꝑforatum
+Uere fluxit sanguine
+Esto nobis prẽgustatũ
+mortis in examine
+Odulcis o pis
+O ihesu fili marie
+m iserere nostri
+Amen.",130,f6dfe22f-b8b3-4460-9cf2-085720748fee
+f130-64r.xml,64r,"nima xpristi sanc
+tifica me. Corpus
+xpristi salua me
+Sanguis xp̃i iebria me
+Aqua lateris xp̃i laua me
+Passio xp̃i conforta me
+Bonc ihesu exaudi ml
+Ne ꝑmittas me a te seꝑar
+ab hoste maligno defende me
+In hora mortis uoca me
+et pone me iuxta te
+ut cũ angelis tuis laudẽ te
+In secula seculorum
+Amen
+64",131,c848ce7a-af68-42cb-acde-c9b8a2fd4e47
+f131-64v.xml,64v,"Matio ualde bona. De sc̃a maria
+Intemerata
+et ineternum
+benedicta spe
+cialis et incõ
+parabilis uir
+go maria gra
+tissumũ dei templum spiritus sc̃i
+sacrarium ianua regni celorum
+per quam post deun totus uiuit
+orbis terrarũ. Inclina aures tue pi
+etatis indignis supplicationib
+michi
+pecicu
+meis et esto peuatori pia et in om
+nibus auxiliatux. Oiohannes
+beatissime xp̃i familiaris cimise
+UnIo ̵",132,bd81ead6-5af5-4436-ac93-1f002c517d7c
+f132-65r.xml,65r,"qui ab eodem domino nr̃o ihesu
+xp̃o nirgo es electus ac inter ceteros
+magis dilectus atqz mysterus cele
+stibus ultra omnes imbutus. Io
+hannes apostolus et euuangelista
+factus es preclarissimus. Te inuo
+co eciam cũ matre eiusdem domini
+nostri ihesu xp̃i. ut michi opem cũ
+ca ferre digneris. O due gemme ce
+lestes. Mana ⁊ iohãnes. O duo lu
+minaria diuinitus ante deum lu-
+centia uestris radiis scelerũ meorũ
+effugate nebula. Uos estis illi duo
+in quibus deus pater per filium
+suum dominũ nostrũ iħ̃m xpi
+65",133,8242f063-1ed4-4c93-971d-55c0ead424c5
+f133-65v.xml,65v,"spetialiter edificauit sibi templũ
+et in quibus ip̃e de patuis unige
+nitus obsinterissime uirginitatis
+meritum dilectionis sue confir
+mauit in cruce pendens uni ues
+trum ita dicens: Mulier. ecce fili
+tuns Deinde eccẽ matertua. In
+cuius ergo gratissimi amoris
+dulcedine qua ita tunc ore dom
+nico uelud mater et filius inuicẽ
+coniuncti estis. uobis duob ego
+peccator hodie et in omni tẽpore
+corpus meum et aĩam meam cõ-
+mendo ut omnib horis ato mo
+mentis intus et exterius firmi",134,e9a5bf22-77d3-48a2-bddf-389091b68f97
+f134-66r.xml,66r,"custodes et pu apud dominũ mi
+chi peccatori intercessores existere
+dignemini. Credo enim firmiter
+et indubitãter fatcor quia uelle
+uestrum uelle dei est. et nolle ur̃m
+nolle dei est. unde quidquid ab il
+lo petitis sine mora obtinetis.
+Per hanc ergo tam potentissimã
+uirtutem uestre dignitatis poscite
+queso poscite corporis et anime sa
+lutem. Agite queso agite ut uris
+sanctissimis orationib inuisce
+re et inhabitare dignetur spũs
+almus omniũ grãtiarũ largi
+tor optimus qui me a cunctis
+66",135,1ec1023e-0667-43bc-9186-c1b681624c0a
+f135-66v.xml,66v,"uitiorũ sordib expurget uirtuti
+bus satris exornet in dilectione
+dei et proximi perfecte stare et per
+seuerare faciat. Et post huius ui
+te cursum ad gaudia ducat electo
+rum suorũ benignissimus paracli
+litus gratiarũ largitor optimus.
+Qui cum patre et spuitu sancto
+uiuit et regnat. Per omnia secu
+la seculorum. A m E si
+Bona or̃o de sancta maria",136,b5c1c69b-d76c-46c2-8f97-dcb8a4054bea
+f136-67r.xml,67r,"bsetro te domi
+na sancta ma
+ria mater dei pi
+etate plenissi
+ma. summi re
+gis filia. Mater
+gloriosissima. mater orphanorum.
+consolatio desolatorũ.uia errantiũ.
+Salus in te sperantium. Uirgo an
+te partum uirgo in partu et uirgo
+post partum . fons misericordie.
+fons salutis, fons gracie. fons
+pietatis et leticie fons consolati
+onis et indulgentie. Per illam
+sanctam inestimabilem leticiã",137,7a79b98e-9c88-499f-aeaf-708cf0ef868d
+f137-67v.xml,67v,"qua exultauit spũs tuus in illa
+hora quando tibi per gabrielem
+archangelũ annuntiatus est et
+conceptus filius dei et per illud
+diuinũ mysterium quod tunc
+operatus est spũs sanctus. Et ꝑ
+illam sanctam mestimabilem
+pietatem graciam misericordiã
+amorem et humilitatem per quas
+filius tuus descendit accipere hu
+manam carnem in enarrabilissi
+mo utero tuo. Et in quibus te res
+pexit quando te cõmendauit sc̃õ
+iohanni apostolo et euuãgeliste.
+Et quando te exaltauit super cho",138,458430af-29f1-4abf-8c4a-617903791fd8
+f138-68r.xml,68r,"ros angelorũ. Et per illam sanctan
+mestimabilem humilitatẽ in quã
+tu respondisti archangelo gabrieli.
+Ecce ancilla domini. fiat michi secun
+dum uerbũ tuũ. Etper illa sanctissi
+ma quindecim gaudia que habuisti
+de filio tuo domino n̾ro ihesu xp̃o. Et
+per illam sanctam maximã com
+passionem et acerbissimũ cordis do
+lorem quos habuisti quando ui
+disti filium tuũ dominũ nostium
+ihesũ xp̃m ante crucem nudatũ ⁊
+in ip̃a leuatum pendentem crucifix
+um sicientem apponi clamãtem
+audisti et morientem iudiste. Et
+58",139,b73f3b6a-8151-4dcf-8c3b-9f039a7a28bc
+f139-68v.xml,68v,"per quinqz uulnera filii tui. Et per
+contractionem uulnerũ suorum
+prenimio dolore iuilnerũ. Et per
+dolorem quem habusti quando
+uidisti eum nulnerari. Et ꝑ fon
+tes sanguinis sui. Et per omnem
+passionem eus. Et per omnẽ dolo-
+rem cordis tui. Et per fontes lacri
+marũ tuarum. ut cum sanctis ⁊
+electis dei tecum esse merear ueni
+et festina in auxilium et consili
+um meũ in omnib orationib
+et requestis meis. Etiam in om
+nibus illis in quibus ego sum
+facturus locuturus aut cogita",140,0bc8e56f-c7e6-4aa9-8c31-f69aafaf6891
+f140-69r.xml,69r,"turus omnibz diebz et noctib horis
+atq momẽtis uite mee. Et michi fa-
+mulo tuo impetres a dilecto filio tuo
+cõplementũ omnis misericordie ⁊
+consolationis et reple me omni cõ
+silio. omni auxilio. et adintorio.
+omni benedictione ⁊ scĩficatione.
+omni saluatione. omni pace om
+ni prosperitate gaudio ⁊ alacritate.
+Etiam habũdantiam omniũ bono
+rum spiritualiũ et corporaliũ ⁊ gra
+ciam spũs sancti qui bene omnia
+disponat. aĩam meam custodiat
+Cursũ meum dirigat. Sensum
+regat. mores cõponat. Actus probet.
+57",141,e3ee36db-0506-4c16-a637-bce2ecdcbb42
+f141-69v.xml,69v,"Uota et desideria proficiat cogitatio
+nes sanctas instituat. Preterita
+mala indulgeat. presentia emen
+det. futura moderetur. uitam hones
+tam et honorabilem michi tribu
+at et uictoriam contra omnes ad
+uersitates huius mũdi. Et uerã
+pacem spiritualem et corporalem
+michi concedat bonã spem. Cari
+tatem ueram et fidem rectã. Casti
+tatem. humilitatem. pacientiam
+et simplicitatẽ. Quinq sensus cor
+poris mei regat et protegat.Septẽ
+opera misericordie complere me
+facias. Et duo decim articulos fider",142,14edd6d7-fb7f-4e5d-8a23-7b4590bf9cf4
+f142-70r.xml,70r,"Decem precepta legis firmiter tenere
+et credere me faciat Et a septem pecca
+tis criminalibz me liberet et defen
+dat usq in finem. Et in nouissinus
+diebus meis ostende michi faciem
+tuam. Et annũties michi diem
+et horam obitus mei. Et hanc ora
+tionem supplicem suscipias et ex
+audias. Et uitam eternam michi
+tribuas. Audi et exaudi dulcissima
+maria mater dei ⁊ misericordis
+Amen.
+70",143,44d7ac29-dcb8-45c6-8357-f5bf38756991
+f143-70v.xml,70v,"Aude nirgo mater xp̃ist
+que per aurem concepi
+sti gabrieli nuntio.
+aude que Ae maria
+a deo plena. peperisti sine
+pena cũ pudoris lilio Are maria.
+aude quia tui nati. quẽ
+uidebas mortem pati ful
+get resurrectio. Ae maria.
+aude xpristo ascendente
+et in celo te uidente mo
+tu fertur proprio Are maria
+aude que post ipsum
+scandis et est honor tibi
+grandis in teli palatio. Are maĩã",144,3b8da336-4c63-4736-8224-646f782a6f6d
+f144-71r.xml,71r,"bi fructus uentris tui ꝑ
+te detur nobis frui in
+perhenni gaudio. uersus.
+Post partum uirgo inuiolata
+ꝑmansisti. Dei genitux intertede pro
+nobis. Memus. Collca
+Eus qui beatissimam
+uirginem mariã in conceptu ⁊
+partu uirginitate seruata du
+plici gaudio letificasti. Quinq
+eius gaudia filio tuo resurgẽte
+et ad celos ascendente multipli-
+casti. presta q̃ sumus ut ad il
+lud ineffabile gaudiũ quo as
+sumpta tecũ gaudet in celis
+71",145,04995b39-2710-45a2-aa19-3756644226a0
+f145-71v.xml,71v,"eius meritis et intercessione ua
+leamus peruenire. Per eũdem
+xp̃m dominũ nr̃m. Amen.
+Oratis ad uirginem mariam
+los florum flos ortorũ
+uregina polorũ. Spes ue
+ne lux leticie medicina dolorũ
+Aula dei. Claius paradysi. Et
+meta laborũ Clara dies. Et sla
+ra quies.Gloria merorũ. Uirga
+recens. Et uirgo decens. Et forma
+bonorũ. Parce reis. Et opem fer
+eis tu parce piorũ. Pasce tuos
+succurre tuis. miserere tuorum
+De sancta katherina",146,cc898f46-9ac4-4558-8d6c-c37fcfd29b4a
+f146-72r.xml,72r,"Aude uirgo katherina
+cui luxit lux diuina ter
+quaternis noctibus
+G aude quod tu a doctrina
+phylosophos a ruina traxit et
+erroribus.
+¶aude quia conuertisti spon
+sam regis et uidisti rotas fras
+tas celitus
+G aude quia meruisti con
+fortari uote xp̃i post preces di
+uinitus
+Gaude serto coronata et in
+celo uenerata olei stillamine.
+E
+sto nobis aduocata apd̃
+72",147,d65d5377-6f7d-4491-87b3-5d143e999d71
+f147-72v.xml,72v,"deur urgco grasea mri nostro certa
+mine Amen. Antyphona
+Nelita sancta katherina
+lsolempnis suscipiat ala
+criter pia mater ecclesia. Aue iur
+go deo digna. Aue dulcis ⁊ benigna
+optine nobis gaudia que possides
+cum gloria. Uersꝰ Ora pro nobis
+ueata iurgo Ratherina. Ut digni efficia
+mur promissione xp̃i. Oremus. Colla
+Eus qui dedisti legem
+tis synai et in eodem loco per an
+moysi in summitate mõ
+gelos tuos corpus beate katheri
+ne uirginis et martiris tue mira",148,2556eaa9-95ab-4639-9cbc-229e4e5c162f
+f148-73r.xml,73r,"biliter collocasti. presta quesumus
+ut eius meritis et intercessione ad
+montem qui xpristus est ualeamꝰ
+peruenire. Perdominũ nr̃m ihesũ
+xp̃m filium tuum. Qui tecũ uiuit
+et regnat in unitate spũs sancti ds
+Per om̃ia secula seculorĩt. Amen.
+Eus qui per Callecta
+beatissimam uirgiiem
+tuam katherinam doctores et
+reginam populiq multitudinẽ
+ab erroribus reuocasti. cuiq in
+sua passione destructis machinis
+uoce tua de celo confortasti. concede
+propicius. ut deuicti huius mũ
+73",149,050f853f-1715-4de2-9eb7-3bf62bdf20ff
+f149-73v.xml,73v,"di tribulationibus ad eterna
+gaudia ubi cum sanctis tuis
+congaudet omnibus perueni
+re ualeamus. Per eundem xp̃m
+dominum nostrum. Amen
+De sancta margareta oratio
+nosa per secula uernans
+sempiterna tibi sine
+nebula lucet lux superna sũmo
+bono frueris uictux coronata
+margareta superis nos iunge
+beata. Uersꝰ Ora pro nobis beata
+uirgo margareta. Ut digni effitiam̾
+promissione xp̃i. Oremus. Dr̃o.",150,8df910c3-5be9-41c6-b404-1c51df3249d0
+f150-74r.xml,74r,"Eus qui beatam mar
+garetam uirginem ho
+dierna die ad celos martyrii pal
+ma uenire fecisti: concede nobis
+quesumus. ut eius exempla se
+quentes ad te peruenire merea
+mur. Per dominũ nostrũ ihesũ
+xp̃m filium tuũ. Qui tecũ iuuit
+et regnat in unitate spũs sancti
+deus Per omnia secula seculoiũ
+iol Ayr qo s
+74
+Hymnus de sancto spiritu",151,3eeae8a5-1d67-4eb8-8f85-d9b52a9357f6
+f151-74v.xml,74v,"Em creator spiritus
+mentes tuorum uisita
+imple superna gracia que tu cre
+creasti pectora. Qui paracli
+tus diceris donum dei altissimi
+fons uiuus ignis caritas ⁊spi
+ritalis unctis. ¶En septifor
+mis munere dextre dei tu digi
+tus tu rite promisso patris ser
+mone ditans guttura. c
+cende lumen sensibus infunde
+amorem cordibus infirma ñri
+corporis uirtute firmans perpe
+tini. ostem repellas longi
+us pacemq dones protinus duc",152,1fd4b2aa-cae7-41fb-9c12-11d3bf9394bd
+f152-75r.xml,75r,"tore sic te preuio uitemus omne
+noctium. Ber te sciamus da
+patrem noscamus atq filium te
+utriusq spiritum credamus omni
+tempore. Eit laus patri cum
+filio sancto simul paradito nobis
+q mittat filius carisma sancti spi
+ritus. Amen.
+Ulce nomen domini
+ihesu xp̃i. Et beatissime
+matris sue gloriose iurginus ma
+rie sit benedictum in secula.
+amen.
+Dratio de sancta maria
+75",153,bb8ccc2d-c015-4782-a9f7-d839961298ff
+f153-75v.xml,75v,"Ue regina celorum aue
+domina angelorũ. Salue
+rãdix sancta ex qua mũdo lux est
+orta Salue gloriosa super omnes
+spetiosa uale ualde decora et pro
+nobis xp̃m semper exora. Uersus
+Post partum uirgo inuig lata ꝑman
+sisti Dei genitrix intercede pro nobis
+dremus. Collecta.l
+lEate et gloriose semper u̾
+guus marie quesumus domine
+intercessio gloriosa nos protegat
+et ad uitam eternam perducat.
+per xp̃m dominium nostrum..
+A m E R.",154,93108397-7178-4ac0-b0c5-8039b5113be2
+f154-76r.xml,76r,"Ue maris stella dei mater
+lalma atqz semper uirgo
+felix celi porta. S umens illud
+aue gabrielis ore funda nos in pa
+ce mutans nomen eue. S ol
+ue uincla reis profer lumen secis
+mala nostra pelle bona cuncta
+posce. Q onstra te esse matrẽ
+sumat per te precem qui pronobis
+natus tulit esse tuis. irgo
+singularis inter omnes mitis
+nos culpis solutos mites fas et
+castos. Titam presta purã
+iter para tutum ut uidentes ihe
+sum semper colletemur. E it
+76",155,9f19da7a-8719-413e-957a-f76975e0e708
+f155-76v.xml,76v,"laus deo patri summo xpristo de
+cus spiritui sancto honor trinus
+et unus. A mi",156,0d436084-6bdc-4ede-a12a-0d4f884e38c3
+f156-77r.xml,77r,"tace aneure intrustt taoruanio tatu uaara
+79",157,673c4b3d-f3d5-43e6-a421-f1f86d9a810b
 f157-77v.xml,77v,,158,c2b5aaaf-25a5-452a-8e5f-bd8bbfb5ad7d
-f158-78r.xml,78r,Symonis et iude Collc̃a Eus qui nos per beatos apostolos tuos symonẽ et iudam ad cognitionem tui no minis uenire tribiusti da nobis eorum gloriã sempiterntan ⁊ pro ficiendo celebrare et celebrando pro ficere. Per xp̃m drĩm ñm amẽ,159,69c57ab9-39a9-4664-8c75-5c3bf3c8abef
+f158-78r.xml,78r,"Symonis et iude Collc̃a
+Eus qui nos per beatos
+apostolos tuos symonẽ
+et iudam ad cognitionem tui no
+minis uenire tribiusti da nobis
+eorum gloriã sempiterntan ⁊ pro
+ficiendo celebrare et celebrando pro
+ficere. Per xp̃m drĩm ñm amẽ
+78",159,69c57ab9-39a9-4664-8c75-5c3bf3c8abef
 f159-78v.xml,78v,,160,f8afc19a-c250-43b7-8836-124fd6e883e8
-f160-79r.xml,79r,,161,4f54b95c-298b-4415-bbb0-5b267c2fb286
+f160-79r.xml,79r,37,161,4f54b95c-298b-4415-bbb0-5b267c2fb286
 f161-79v.xml,79v,,162,82a5c63e-45a5-462a-90be-20b897533bdb
-f162-80r.xml,80r,Uictoris mͣris Collca. Dremus nesta qsumus omnipo tens deus ut qñi beati uistoris martyris tui natalitia colimus intercessione eius in tui nominis amore roboremur Pxp̃m dominũ nrm. Amen.,163,8330fbdf-4c23-4d9b-a08e-486a38751187
-f163-80v.xml,80v,QUINC IOUIIM SICOM opuno u woc ins in aua acubaii u eim euoo sui dun uiontacam sualo uindecdescons sunidn m iciul. nem inds ngi,164,6b7e38b9-ef62-4288-9eb8-2e212fed1de1
-f164-81r.xml,81r,,165,3a1d9ba6-6a04-45cb-ade3-fcbb5af99880
+f162-80r.xml,80r,"Uictoris mͣris Collca. Dremus
+nesta qsumus omnipo
+tens deus ut qñi beati
+uistoris martyris tui natalitia
+colimus intercessione eius in
+tui nominis amore roboremur
+Pxp̃m dominũ nrm. Amen.
+80",163,8330fbdf-4c23-4d9b-a08e-486a38751187
+f163-80v.xml,80v,"QUINC IOUIIM SICOM
+opuno u
+woc ins in aua
+acubaii u eim euoo
+sui dun uiontacam sualo
+uindecdescons sunidn m
+iciul. nem inds ngi",164,6b7e38b9-ef62-4288-9eb8-2e212fed1de1
+f164-81r.xml,81r,81,165,3a1d9ba6-6a04-45cb-ade3-fcbb5af99880
 f165-81v.xml,81v,,166,4a82ade7-cd60-475b-84b1-32f3b7e302f7
-f166-82r.xml,82r,xp̃ofori mͣris Collecta. Oremus. mnipotens sempiterne deus fortitudo certanti ium et martyrum palma solẽp nitate hodierne diei propicuis intuere et ecclesiam tuam con tinua fac celebritate letari et intercessione beati xp̃ofori om nium intercedentiũ uota perfi cias ꝑ xp̃m dñm nr̃m. Amen,167,25b4954c-c35f-480c-8e5c-49c265c546ce
+f166-82r.xml,82r,"xp̃ofori mͣris Collecta. Oremus.
+mnipotens sempiterne
+deus fortitudo certanti
+ium et martyrum palma solẽp
+nitate hodierne diei propicuis
+intuere et ecclesiam tuam con
+tinua fac celebritate letari et
+intercessione beati xp̃ofori om
+nium intercedentiũ uota perfi
+cias ꝑ xp̃m dñm nr̃m. Amen
+22",167,25b4954c-c35f-480c-8e5c-49c265c546ce
 f167-82v.xml,82v,,168,a7af9b0c-56ee-4ce8-8192-bb80d6592104
-f168-83r.xml,83r,,169,526445c0-72d5-48c0-bc76-e81ce1e73170
+f168-83r.xml,83r,88,169,526445c0-72d5-48c0-bc76-e81ce1e73170
 f169-83v.xml,83v,,170,f386c207-9417-4ddf-a43d-71630fc7f0d8
-f170-84r.xml,84r,De sancto eligio Collc̃a. Mremꝰ Eus qui populo tuo eterne salutis beatũ eligium ministrum cõcessisti. tribue quesumus ut quem doctorem uite habuimus in terris intercessione semper ha bere mereamur in celis. ꝑ xpi stum dominũ ñrm. Amen.,171,8c406e25-6bbd-4a18-bf9e-157a4471656e
+f170-84r.xml,84r,"De sancto eligio Collc̃a. Mremꝰ
+Eus qui populo tuo
+eterne salutis beatũ
+eligium ministrum cõcessisti.
+tribue quesumus ut quem
+doctorem uite habuimus in
+terris intercessione semper ha
+bere mereamur in celis. ꝑ xpi
+stum dominũ ñrm. Amen.
+44",171,8c406e25-6bbd-4a18-bf9e-157a4471656e
 f171-84v.xml,84v,,172,d39230f1-e8a2-4236-9a62-da34a3162058
-f172-85r.xml,85r,,173,9dbb8bdb-da2f-4542-9fee-440d2180f4cb
+f172-85r.xml,85r,45,173,9dbb8bdb-da2f-4542-9fee-440d2180f4cb
 f173-85v.xml,85v,,174,824ff5f3-6022-4012-83f1-560e9ba4fb24
-f174-86r.xml,86r,G eorgii mͣris. Collecta Oremus. Eus qui nos beciti ge orgu martyris tui meri tis et intercessione letificas. con cede propicius. ut cuius benefi cia posstimus dono tue gracie consequamur. Per xp̃m dnmi nostrum. A d m R,175,3c4fdee1-d461-44c2-a276-3a763398e2ec
-f175-86v.xml,86v,,176,3a06602d-1200-439e-98b2-3d2c040d6e10
-f176-87r.xml,87r,,177,6561c49b-924c-4d0c-bbcc-24586e1cf98c
+f174-86r.xml,86r,"G eorgii mͣris. Collecta Oremus.
+Eus qui nos beciti ge
+orgu martyris tui meri
+tis et intercessione letificas. con
+cede propicius. ut cuius benefi
+cia posstimus dono tue gracie
+consequamur. Per xp̃m dnmi
+nostrum. A d m R
+26",175,3c4fdee1-d461-44c2-a276-3a763398e2ec
+f175-86v.xml,86v,"QIEEILOQUIIT ME
+ma s au ius
+om ut argin igto
+uoi amlnossecntiuan
+TI LU SIIIUI SUEIOMSS",176,3a06602d-1200-439e-98b2-3d2c040d6e10
+f176-87r.xml,87r,17,177,6561c49b-924c-4d0c-bbcc-24586e1cf98c
 f177-87v.xml,87v,,178,8dce294e-3460-47e7-8ab6-d317906cd904
-f178-88r.xml,88r,Gertrudis uirginis. Coll̾. Oremꝰ Aquesumus omnipo tens deus ut qui bea te gertrudis uirginis tue nata licia colimus. et annua solemp nitate letemur et tante fidei pro ficiamus exemplo. Per xp̃m do minũ nr̃m. amen.,179,abffcc2c-ada9-4ba1-969f-77113e3bb2c1
-f179-88v.xml,88v,nIIICAIIII LEIIIIIII SDITOS mii m anirguit anm,180,033d64c0-eef1-4d68-8630-9d719495536b
-f180-89r.xml,89r,,181,e84c404f-1f41-42eb-8a38-0af8f8df77e3
+f178-88r.xml,88r,"Gertrudis uirginis. Coll̾. Oremꝰ
+Aquesumus omnipo
+tens deus ut qui bea
+te gertrudis uirginis tue nata
+licia colimus. et annua solemp
+nitate letemur et tante fidei pro
+ficiamus exemplo. Per xp̃m do
+minũ nr̃m. amen.
+22",179,abffcc2c-ada9-4ba1-969f-77113e3bb2c1
+f179-88v.xml,88v,"nIIICAIIII LEIIIIIII SDITOS
+mii m anirguit anm",180,033d64c0-eef1-4d68-8630-9d719495536b
+f180-89r.xml,89r,29,181,e84c404f-1f41-42eb-8a38-0af8f8df77e3
 f181-89v.xml,89v,,182,32a4efb5-d80c-413c-8250-aad6c45e320a
-f182-90r.xml,90r,De sanctõ p̃aulo. Antiphona Ogloriosumn iumen omniũ ecclesi arum soli splendidius o uere aposto licum sydus altissimũ sancte paule qui eterni solis splendorem. tenebris gencium infudisti qui in terra posi. tus celorum secreta petisti et qui nõ licet homini loqui prouidisti illuc supplices tuos post huius carnis terminũ perducere dignare quos fecisti ueritatis lumeñ. u̾ꝰ In om nem terram exuut sonus eorũ. Et in fines orbis terre uerba eoru. Coll Eus qui multitudinem gencium beati pauli a,183,c15e1283-63f5-4997-93bc-01924408bd03
-f183-90v.xml,90v,postoli tui predicatione docu isti.da nobis q̃sumus. ut cu ius conuersionem colimus eius apud te patrotinia sen ciamus. Per dominũ nr̃m. euusnoliimu,184,27a8976a-cfd8-4f08-9cc4-5f2525afeb53
-f184-91r.xml,91r,,185,853d701b-22f3-4b25-99d9-56b0eaaf7eda
+f182-90r.xml,90r,"De sanctõ p̃aulo. Antiphona
+Ogloriosumn iumen omniũ ecclesi
+arum soli splendidius o uere aposto
+licum sydus altissimũ sancte paule
+qui eterni solis splendorem. tenebris
+gencium infudisti qui in terra posi.
+tus celorum secreta petisti et qui nõ
+licet homini loqui prouidisti illuc
+supplices tuos post huius carnis
+terminũ perducere dignare quos
+fecisti ueritatis lumeñ. u̾ꝰ In om
+nem terram exuut sonus eorũ. Et
+in fines orbis terre uerba eoru. Coll
+Eus qui multitudinem
+gencium beati pauli a",183,c15e1283-63f5-4997-93bc-01924408bd03
+f183-90v.xml,90v,"postoli tui predicatione docu
+isti.da nobis q̃sumus. ut cu
+ius conuersionem colimus
+eius apud te patrotinia sen
+ciamus. Per dominũ nr̃m.
+euusnoliimu",184,27a8976a-cfd8-4f08-9cc4-5f2525afeb53
+f184-91r.xml,91r,71,185,853d701b-22f3-4b25-99d9-56b0eaaf7eda
 f185-91v.xml,91v,,186,315a25ff-966e-4548-bd22-a1866e094289
-f186-92r.xml,92r,,187,bae8c4a4-7866-4c91-b84c-5b312a2ee5be
+f186-92r.xml,92r,92,187,bae8c4a4-7866-4c91-b84c-5b312a2ee5be
 f187-92v.xml,92v,,188,f5490f23-0a44-421e-b153-d8cbf08a137f
-f188-93r.xml,93r,De sco machario Eallc̃a. Anth̾a O sanctissime archipresul macha ri qui pro xp̃o pauper et exul apud pec catores peregrinationis portum ele gisti deuotos hospites et cunctos so- lamen desiderantes fac tecũ gaudere de gr̃a dei. uꝰ Ora pro nolus bt̃e pater machari Ut digni effitiam̃ promissione xp̃i . Oremus. Coll̾ Desto quesumus dñe populo tuo intercessio ne beati archipresulis tui ma charii ut sicut ille pro populo a plaga mortalitatis ⁊ pestilẽ cie redimendo uitam suã deo,189,d20759c8-d07a-4235-85b9-b7e786f70229
-f189-93v.xml,93v,optulit mortemq per plagam sustinuit presta q̃sumus ut mor talitatis et epydimie ĩminẽtis nos defendat et ut penitentie fructos dignos pro peccatis no stris agere ualeamus apud do- minũ impetrare dignetur. ꝑ xp̃m dominũ ñem. Amen.,190,9a894d5b-ab0d-4b98-b2f3-2268e79da860
-f190-94r.xml,94r,,191,5fb368f8-fa32-4dcb-b5a2-e46aa4550653
+f188-93r.xml,93r,"De sco machario Eallc̃a. Anth̾a
+O sanctissime archipresul macha
+ri qui pro xp̃o pauper et exul apud pec
+catores peregrinationis portum ele
+gisti deuotos hospites et cunctos so-
+lamen desiderantes fac tecũ gaudere
+de gr̃a dei. uꝰ Ora pro nolus bt̃e
+pater machari Ut digni effitiam̃
+promissione xp̃i . Oremus. Coll̾
+Desto quesumus dñe
+populo tuo intercessio
+ne beati archipresulis tui ma
+charii ut sicut ille pro populo
+a plaga mortalitatis ⁊ pestilẽ
+cie redimendo uitam suã deo
+23",189,d20759c8-d07a-4235-85b9-b7e786f70229
+f189-93v.xml,93v,"optulit mortemq per plagam
+sustinuit presta q̃sumus ut mor
+talitatis et epydimie ĩminẽtis
+nos defendat et ut penitentie
+fructos dignos pro peccatis no
+stris agere ualeamus apud do-
+minũ impetrare dignetur. ꝑ
+xp̃m dominũ ñem. Amen.",190,9a894d5b-ab0d-4b98-b2f3-2268e79da860
+f190-94r.xml,94r,"uiamot noutartum
+98
+ua",191,5fb368f8-fa32-4dcb-b5a2-e46aa4550653
 f191-94v.xml,94v,,192,d4f97c16-a4f9-4688-b524-67be67c77949
-f192-95r.xml,95r,De sancta b arbara. Colla. Oremꝰ mnipotens sempiterne deus qui infirma mũdi eligis ut fortia queq confũdas concede propituis ut qui becatẽ barbare nirginis tue cõmemo rationem facimus eius apud te semper patrocinia sentiam: ꝑxp̃m dñm nr̃m. Amen,193,9a9cf855-4a02-42c9-81d1-dc9289ebc938
-f193-95v.xml,95v,ucx sillomaisn utaiquen atcacq niin unisn una ududi epaun mcca at NISIL IISIU ALIMIUOSUSIN acamioi us auihi riatin IIqISUII AINE UO iusniis satinonsi nqucan biiii. nemi uuis mige,194,ccb3a57b-13b4-4628-857c-79dd47087f9c
-f194-96r.xml,96r,,195,c1e023d3-bfcf-4204-9372-be27ef5cac1d
+f192-95r.xml,95r,"De sancta b arbara. Colla. Oremꝰ
+mnipotens sempiterne
+deus qui infirma mũdi
+eligis ut fortia queq confũdas
+concede propituis ut qui becatẽ
+barbare nirginis tue cõmemo
+rationem facimus eius apud
+te semper patrocinia sentiam:
+ꝑxp̃m dñm nr̃m. Amen
+98",193,9a9cf855-4a02-42c9-81d1-dc9289ebc938
+f193-95v.xml,95v,"ucx sillomaisn
+utaiquen atcacq
+niin unisn una
+ududi epaun mcca at
+NISIL IISIU ALIMIUOSUSIN
+acamioi us auihi riatin
+IIqISUII AINE UO
+iusniis satinonsi nqucan
+biiii. nemi uuis mige",194,ccb3a57b-13b4-4628-857c-79dd47087f9c
+f194-96r.xml,96r,36,195,c1e023d3-bfcf-4204-9372-be27ef5cac1d
 f195-96v.xml,96v,,196,b2d907c5-efcc-4af1-b25d-0b15481c746d
-f196-97r.xml,97r,,197,fe929656-9434-4cf4-93a2-08320da73cc5
+f196-97r.xml,97r,"97
+.2",197,fe929656-9434-4cf4-93a2-08320da73cc5
 f197-97v.xml,97v,,198,f3a8d1e3-9af6-4480-8094-d33c21761a7e
-f198-98r.xml,98r,,199,3f830d30-121f-414e-a814-0a60fc51f892
+f198-98r.xml,98r,78,199,3f830d30-121f-414e-a814-0a60fc51f892
 f199-98v.xml,98v,,200,21f22547-a124-4a05-bd4f-eaaba902e040
-f200-99r.xml,99r,,201,409fe522-5baa-4aba-aeb2-22bfdccf21a4
+f200-99r.xml,99r,99,201,409fe522-5baa-4aba-aeb2-22bfdccf21a4
 f201-99v.xml,99v,,202,7b13a1da-becc-4e98-9fc3-7dae3fb1907c
-f202-100r.xml,100r,,203,41ede261-5287-494a-b1b1-919e3fbb6d01
+f202-100r.xml,100r,100,203,41ede261-5287-494a-b1b1-919e3fbb6d01
 f203-100v.xml,100v,,204,4f25e61c-037d-4d3b-a5e9-c0ab1fc284f7
-f204-contreplat-inf.xml,,,205,0dcfec2d-1995-4c7a-bd26-16590fb8fadf
-f205-plat-inferieur.xml,,,206,de566bb9-2cff-4e00-b809-b32f352ab2eb
-f206-dos.xml,,,207,329649fd-086d-4017-bd19-3749831a1a32
-f207-tranche-superieure.xml,,,208,12fbc731-669b-4809-97e3-6033d42bc087
-f208-gouttiere.xml,,,209,c37986e5-242b-4167-9d46-dd160a658887
-f209-tranche-inferieure.xml,,,210,5cd4f3ac-d17a-41ad-b3af-d3aadeb722b6
+f204-contreplat-inf.xml,contreplat-inf,,205,0dcfec2d-1995-4c7a-bd26-16590fb8fadf
+f205-plat-inferieur.xml,plat-inferieur,,206,de566bb9-2cff-4e00-b809-b32f352ab2eb
+f206-dos.xml,dos,,207,329649fd-086d-4017-bd19-3749831a1a32
+f207-tranche-superieure.xml,tranche-superieure,,208,12fbc731-669b-4809-97e3-6033d42bc087
+f208-gouttiere.xml,gouttiere,,209,c37986e5-242b-4167-9d46-dd160a658887
+f209-tranche-inferieure.xml,tranche-inferieure,,210,5cd4f3ac-d17a-41ad-b3af-d3aadeb722b6

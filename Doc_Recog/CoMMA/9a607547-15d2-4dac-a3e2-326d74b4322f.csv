@@ -1,15 +1,283 @@
-page_id,folio,text,page_ordering,arkindex_page_id
-f0-plat-superieur.xml,,,1,a013ae93-2578-4781-8b21-0b16104b8be4
-f1-plat-inferieur.xml,,,2,a6712e76-d4f4-4133-989e-fb3266ff7ffe
-f2-contreplat-superieur-f-000.xml,,,3,6bb56399-af13-40de-8710-4891e607f6e6
-f3-f-000v-001-avec-reglet.xml,,f faliam ⁊ lebastiam ¶rlanetis u̾i,4,ce7e1407-3913-446f-8949-36eb90403c7c
-f4-f-000v-001.xml,,¶Alanetis u̾t,5,c5313252-a97c-400a-9cea-ac40233d56f4
-f5-f-001v-002.xml,,S. ualenti mr̃s m i de,6,60e13e4a-309a-462d-b317-cb96eba83664
-f6-f-002v-003.xml,,Annunciacio bẽ m ugĩs,7,11472055-993e-4834-851f-51b4879a002e
-f7-f-003v-004.xml,,,8,cf7c3ee3-63ad-458f-abe1-1834645963d9
-f8-f-004v-005.xml,,,9,7eae14fc-8e81-4c66-ab12-0c5d14ac68ac
-f9-f-005v-006.xml,,U e xuiii. oni ii Ix xuii ui,10,c082926b-750d-4d4a-b365-02b091868de8
-f10-f-006v-007.xml,,dn d ui E u g iix i um e u̾ b n e X un,11,93a616df-f34c-45be-a326-9167626259f2
-f11-f-007v-008.xml,,uigilia S. andree December S. eligi ep̃i S. mtholay epĩ D asa boust Comcepcio bẽ m,12,409745c2-091a-4e05-8b96-dd8d557ce335
-f12-f-008v-009.xml,,Natiuitas domnnu Sc̃ stephaĩ ꝓthoris Sã iohanu̾s apsi ⁊ eũ Sc̃oꝵ mncẽciũ Scĩ thome mr̃s S. urlii S. liluestri,13,056a72aa-87fd-4fce-9ef1-4e44a6d3ad0a
-f13-f-009v-contreplat-inferieur.xml,,,14,4d024b84-77d8-4256-8463-ca0f377e629e
+page_id,CoMMA_folio_name,text,page_ordering,arkindex_page_id
+f0-plat-superieur.xml,plat-superieur,,1,a013ae93-2578-4781-8b21-0b16104b8be4
+f1-plat-inferieur.xml,plat-inferieur,,2,a6712e76-d4f4-4133-989e-fb3266ff7ffe
+f2-contreplat-superieur-f-000.xml,contreplat-superieur-f-000,391,3,6bb56399-af13-40de-8710-4891e607f6e6
+f3-f-000v-001-avec-reglet.xml,f-000v-001-avec-reglet,"xi
+uiii
+xui
+iͭ
+b
+Circuncilio domi
+Dit sci stepham
+Oct̃ sã iohanns
+Epyphame dm̃
+Maximum M̃
+c Hyllarii ep̃i
+e Anthetm ꝯf
+b euienciam uͥg
+Iammanus
+¶
+a Mauri abb̾
+f faliam ⁊ lebastiam
+¶rlanetis u̾i
+A S uintẽdi mĩt
+De dici dependent noz destiis
+etin oyselle. Anme dde ue",4,ce7e1407-3913-446f-8949-36eb90403c7c
+f4-f-000v-001.xml,f-000v-001,"xi
+xix
+uiii
+xui
+xiii
+nͭ
+Iaminanus
+Circuncilio dom
+Dit scĩ stepham
+Oct lã iohanns
+Epyphane dm̃
+Maxim. M̃
+c Hyllarii ep̃i
+q
+a Mauri abb̾
+c Antheli ꝯf
+benienciam nͥgi
+e ffaluam ⁊ lebastiam
+¶Alanetis u̾t
+E uintẽdi mr̃s
+De dieede endent nor des lit qalig
+etin opselle. Anme dde uale",5,c5313252-a97c-400a-9cea-ac40233d56f4
+f5-f-001v-002.xml,f-001v-002,"Conuersio scĩ pauli
+S. uiliam ep̃i
+Fe bruanus
+Ergide ugcie
+Piniticio Beate ugĩs
+S. blasn ep̃i ⁊ mrs
+S. a gait uͥgĩs
+S. eulalie ugĩs
+s is sss
+S. ualenti mr̃s m
+i de
+xiiii
+a
+Ib
+5
+d
+uin s
+Martius
+n D Albm ip̃i
+necurs
+xI
+uIII
+uIII b
+a
+Cathedra sai petri
+S. mathti apli
+S. thonic de a tq̾no",6,60e13e4a-309a-462d-b317-cb96eba83664
+f6-f-002v-003.xml,f-002v-003,"em
+win e
+uii F
+us
+iiiib
+xii d
+a
+iiii
+xuii b
+ui
+xiiii C
+Aprilie
+1
+iii f
+B
+xuii
+S. benedicti abb̃is
+Annunciacio bẽ m ugĩs
+S. ambrosii ep̃i
+S. geoign mr̃s
+S. marui euuã cceliate",7,11472055-993e-4834-851f-51b4879a002e
+f7-f-003v-004.xml,f-003v-004,"xix
+wi
+u
+ciiii.
+in g
+Mayus
+Apłoꝵ iacob ⁊ phi
+Innẽcio sce crucis
+S. iohains añ portãt latin
+Eñs laco .s. nycholay
+seu iuinen
+ui
+xIII
+u
+uii b
+iii
+xui
+Sbomifaci pp̃
+xiii a
+ĩ
+x u
+ii ¶
+S. bamabe aplĩ
+en g
+S. renoberti ep̃i
+S. yuoins ⁊ fellor
+S. urbam pp̃
+Iumus
+xix",8,cf7c3ee3-63ad-458f-abe1-1834645963d9
+f8-f-004v-005.xml,f-004v-005,"u e
+xuiii
+ui
+xiiii b
+xI
+n e
+xix se
+umi
+xui
+p̾ amet cro ⁊s iulilli
+Sctõꝵ qͣuasn ⁊ ꝓthasii
+Natuutas scĩ iohĩs
+S. elign
+elplõꝵ petri ⁊ pali
+Iullius
+Inuãcõ reliqͥaꝵ bẽ mͤ
+Tñslacõ .i. matim
+xiii f
+n
+n
+win d̾
+xu
+mi
+mi a
+xii
+id
+wn
+ui b
+ui
+in
+xI
+xiix
+Tñssacõ sc̃ibndã
+Tñslacõ scĩ lum
+S. clari
+S. marccarite u̾gĩs
+Bẽ mͤ magdalene
+S. rauẽm iͤ r siphi
+Si acobi ⁊ xp̃ofori
+S. anne u̾g̃
+S. germain",9,7eae14fc-8e81-4c66-ab12-0c5d14ac68ac
+f9-f-005v-006.xml,f-005v-006,"uii
+xid
+U e
+xuiii.
+oni
+ii
+Ix
+xuii
+ui
+Alug̾nstus
+S. petri ad unicula
+S. stepham ĩ uẽcio
+Eñstiaura tõ doͥ
+S. laurenci mrͣs
+Uigilia
+Allumptio bẽ mͥ uͥgẽ
+Digilia
+S. limphoriam
+in
+xi
+xix b
+xi
+uii
+tiin
+S. bartholoint
+omalt uchiu
+Decolacõ .s. iohis
+S. september
+Seegidar ag
+Enslaco s. renob̾ti
+ta
+Na tuuas bẽ mͤ
+⁊xultacõ stẽ crucis
+anrai ae laie",10,c082926b-750d-4d4a-b365-02b091868de8
+f10-f-006v-007.xml,f-006v-007,"dn d
+ui E
+u g
+iix i
+um e
+wi
+u̾ b
+mi d̾
+n e
+X
+un
+ielumitl
+S. mathie ⁊ laudi
+uulot i ialon
+al
+S. coline ⁊ damnuai
+S. nichailus
+Oitober
+u al aauitas
+S. dyomhi .ꝯs. Esius
+mi
+g
+1x
+xn e
+b
+d
+ui
+ui
+o
+mi b
+xi
+xixx
+S. cͥspun ⁊ cͥspiain
+esploꝵ symonns i iude
+Nouember
+festa om̃i stõꝵ
+S. nucͬaellis
+S. lace enuãg̾",11,93a616df-f34c-45be-a326-9167626259f2
+f11-f-007v-008.xml,f-007v-008,"xiii.
+n t
+Commemoraco deffũctor
+S. leonarde abb̃s
+S. martn
+S. demiẽti pp̃
+S. katherma
+uin b
+coi
+b
+xuiii
+un d
+xu i
+mi so
+a
+xix
+xmig
+nͭ
+un
+xui
+mi
+uigilia
+S. andree
+December
+S. eligi ep̃i
+S. mtholay epĩ
+D asa boust
+Comcepcio bẽ m
+S. lucie u̾gĩs
+S. gaciaui cp̃i",12,409745c2-091a-4e05-8b96-dd8d557ce335
+f12-f-008v-009.xml,f-008v-009,"xiiii d
+i e
+xi
+xix a
+.b
+uinc
+xiii
+Thome appostoli
+Natiuitas domnnu
+Sc̃ stephaĩ ꝓthoris
+Sã iohanu̾s apsi ⁊ eũ
+Sc̃oꝵ mncẽciũ
+Scĩ thome mr̃s
+S. urlii
+S. liluestri",13,056a72aa-87fd-4fce-9ef1-4e44a6d3ad0a
+f13-f-009v-contreplat-inferieur.xml,f-009v-contreplat-inferieur,,14,4d024b84-77d8-4256-8463-ca0f377e629e
